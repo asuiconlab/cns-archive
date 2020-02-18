@@ -20,7 +20,9 @@
   	<h1>Previous CNS Meetings.</h1>
   	
   	<ul id="menulijst">
-  	  <li><a href="./cns2005/index.shtml"><b>CNS*2005.</b></a>
+      <li><a href="./cns2006/index.shtml"><b>CNS*2006.</b></a>
+    	<br />Neuro-IT workshop on Interoperability of Simulators, Edinburgh, United Kingdom, July 19-20 2006</li>
+      <li><a href="./cns2005/index.shtml"><b>CNS*2005.</b></a>
     	<br />The Computational Neuroscience meeting, Madison, Wisconsin (USA), July 17-21 2005</li>
       <li><a href="./cns2004/index.shtml"><b>CNS*2004.</b></a>
     	<br />The Computational Neuroscience meeting, Baltimore, MD, USA, July 18-20 2004</li>
