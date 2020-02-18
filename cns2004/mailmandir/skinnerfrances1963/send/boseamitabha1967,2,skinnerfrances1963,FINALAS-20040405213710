@@ -1,0 +1,59 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Amitabha Bose" <bose@njit.edu>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:37:10
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Amitabha Bose,
+
+We're happy to inform you that your paper 'Two-oscillator model of ventilatory rhythmogenesis in the frog' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Most of my comments are with respect to context, not results.  The model is straightforward (proposed conceptually in the discussion of the Wilson 2002 paper), and it is a nice proof of concept of a hypothesized mechanisms of buccal/long rhythm switching.
+
+Comments
+
+1) Introduction.  The authors refer to "recent work" for two distinct sites with independent rhythmogenic capability.  They mention mammals and chick embryos.  However, no references are provided.  My own knowledge of this literature makes me hesitant to accept such an unqualified description of such recent work.  Even if references are added, such work should be described a bit more accurately.
+
+2) The Wilson 2002 paper was measuring indirectly population activity.  The authors should make themselves clear that their Morris-Lecar models are essentially representing populations, and not single cells.
+
+3) While the whole point of this paper is to propose an autonomous mechanism for burst switching, via a facilitating synapse, is there any experimental argument for such facilitation?
+
+4) The final paragraph of the conclusion is all within the context of this model (as opposed to other hypotheses for episodes).  I would append the first sentence of this paragraph with a statement like "according to our proposed mechanism based on a facilitating synapse."
+
+Reviewer 2 :
+Correction 
+Fig 1. legend last line should read "The B to L inhibitory.."
+
+Introduction  Para 1  add reference to "Recent work in mammals .."
+
+Para 3, line 8. Add "in the frog" before (see Figure 1).
+

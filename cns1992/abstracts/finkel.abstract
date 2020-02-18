@@ -1,0 +1,19 @@
+Computer Simulations of Object Discrimination by Visual Cortex
+
+
+Leif H. Finkel and Paul Sajda
+Department of Bioengineering and
+Institute of Neurological Sciences
+University of Pennsylvania
+220 South 33rd Street
+Philadelphia, PA 19104-6392
+
+
+
+
+
+ABSTRACT
+
+
+We present computer simulations of how the visual cortex may discriminate objects based on depth-from-occlusion. We propose neural mechanisms for how the visual system binds edges into contours, and binds contours and surfaces into objects. The model is simulated by a system of physiologically-based neural networks which feature feedback connections from higher to lower cortical areas, a distributed representation of depth, and phase-locked cortical neuronal firing. The system demonstrates psychophysical properties consistent with human perception of real and illusory visual scenes. The model addresses both the binding problem and the problem of object segmentation.
+

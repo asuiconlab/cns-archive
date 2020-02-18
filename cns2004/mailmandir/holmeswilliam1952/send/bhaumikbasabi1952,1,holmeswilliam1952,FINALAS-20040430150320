@@ -1,0 +1,53 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"Basabi Bhaumik" <bhaumik@ee.iitd.ac.in>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:3:20
+-----------------------DATA----------------------
+
+Dear Basabi Bhaumik,
+
+We're happy to inform you that your paper 'Study of spatial frequency selectivity and its spatial organization in the visual cortex through a feedforward model' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Decisions on presentation format (oral vs. poster) will be made in
+early May and you will receive another e-mail then about your
+assignment.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper considers spatial frequency tuning of individual cells in simple feedforward model, and the organization of spatial frequency preference across the cortical surface.  While the paper has some problems (the presentation of the results is not that clear, and the language could use some polish) the topic is interesting, and the results are significant 
+
+1.	The abstract promises that, the shape and size of the subregions in the receptive field is found to be an important parameter in determining the frequency selectivity of the cell.  The receptive fields of figure 2 differ in the strength and clarity of the subregions, but no statement is made about the size or shape of the subregions, which, by eye, look pretty similar to each other.  I also found the argument that the diffusion of synapses within a subregion can shift the preferred spatial frequency (even double) unconvincing.  Im more convinced by the unsubstantiated statement made in the abstract, but Im left curious about how the diversity of subregion sizes are achieved in such a simple model.  Which parameters are crucial for determining the spatial scale of the substructure of the receptive fields?  I assume it has to do with the arbor function, A_R, and the diffusion constants, D_L and D_C, none of which are provided.
+2.	The spatial frequency map, and the superposition of the orientation map, shown in figure 3 is an elegant result.  Is there someway to quantify the two points made about the map  the degree to which the spatial frequency domains are locally continuous, and the degree to which the orientation pinwheels align with the spatial frequency extrema?
+3.	There are 2500 cortical cells in the model.  Why arent we shown some population results for the two major trends that are discussed  orientation tuning width vs. spatial frequency bandwidth (fig 1.c) and orientation tuning sharpening with spatial frequency?  Do most of the cells fit category I or II in fig 2.a?
+4.	The paper could use clearer comparisons to the experimental references.  Does De Valois et al [6] show that orientation tuning half width is well correlated with spatial frequency bandwidth?  Is it true experimentally that orientation tuning sharpening only occurs for cells that prefer lower spatial frequencies?
+5.	The language is rough in spots, with a number of extra words, typos and misused words.  I have a list that I could provide to the authors if theyd like, but they will not fit into the space provided.
+
+Reviewer 2 :
+This paper examines the development of spatial frequency maps in visual cortex in a model including presynaptic competition for a resource.  The results of the model are in general agreement with the data.  However, this is a relatively mature field, and a range of models have been shown to be in qualitative agreement with a variety of data.  Therefore, to make more than an incremental contribution, one need to either demonstrate specific differences with current models, or even better, use analysis or simulation to demonstrate precisely how the parameters/mechanisms included in the model, give rise to model behavior.  In this paper, it was not clear which factors led to the formation of continuous maps of spatial frequency or why precisely why extrema of spatial frequency co-localized with pinwheels centers.
+
+A further specific comment is that the authors spend too much time on the relationship between spatial frequency and orientation tuning.  All feedforward model having roughly constant receptive field size are expected to display this behavior.
+

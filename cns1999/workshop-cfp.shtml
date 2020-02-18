@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1999 - Call for proposals</title>
+<meta name="description" content="CNS Meeting Home Page 1999 - Call for proposals." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1999, 
+cns, computational, neuroscience, workshop, talks, posters, Call for proposals" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1999</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-22, 1999, Pittsburgh, Pennsylvania</h3>
+  	
+  	<h4>CNS*1999 Call for proposals</h4>
+  	
+  	<p><b>CNS*99 Workshop Announcement</b><br />
+  	July 21 and 22, 1999</p>
+  	
+  	<p>Workshops on current topics in computational neuroscience will be held on July 21 and 22, 1999 
+  	(the last 2 days of the CNS*99 conference, July 18-22, 1999) in Pittsburg, PA. Proposals for 
+  	these workshops are solicited.</p>
+  	
+  	<p>There will be three types of workshop sessions:</p>
+  	
+  	<ul>
+  	  <li>Formal Discussion Workshop sessions,</li>
+  	  <li>Informal Discussion Workshop sessions and</li>
+  	  <li>Informal Tutorial/Mini-symposium sessions.</li>
+  	</ul>
+  	
+  	<p>The workshops are designed to provide an informal atmosphere for conference attendees to learn 
+  	about a topic in depth or to discuss important issues in computational neuroscience. Interactive 
+  	open discussions among participants are encouraged while keeping the presentations to a minimum. 
+  	A general overview of the topics as well as alternative view points are encouraged in the 
+  	discussions to foster cooperativity among researchers. The difference between formal and informal 
+  	discussion workshops is that formal discussion workshops are held in a conference room, while 
+  	informal discussion workshops are held in a non-traditional setting, such as in a park or by the 
+  	pool.</p>
+  	
+  	<p>Responsibilities of workshop moderators include:</p>
+  	
+  	<ol>
+  	  <li>writing a topic description for the proposed workshop;</li>
+  	  <li>moderating the discussions during the workshop, and/or organizing presentations;</li>
+  	  <li>writing a brief summary report of the high points of the discussions, and sending it to the 
+  	  workshop coordinator for inclusion on the CNS*99 web site after the conference.</li>
+  	</ol>
+  	
+  	<h4>Workshop Proposal Submission Instructions</h4>
+  	
+  	<p>Submit:</p>
+  	
+  	<ol>
+  	  <li>the name(s) of the workshop moderator(s);</li>
+  	  <li>the title of the workshop;</li>
+  	  <li>a short description of the topic in the form of either a short abstract or a short list of 
+  	  questions to be discussed;</li>
+  	  <li>a short list of tentative presenters (for informal tutorial/mini-symposium workshop 
+  	  sessions only);</li>
+  	  <li>state whether it is a one-day or two-day workshop;</li>
+  	  <li>specify whether it is an informal discussion workshop, a formal discussion workshop or an 
+  	  informal tutorial/mini-symposium.</li>
+  	</ol>
+  	
+  	<p>Organizers are encouraged to submit proposals to the workshop coordinator, Avrama Blackwell, 
+  	prior to the CNS*99 conference to allow them to be posted on the CNS*99 web site. E-Mail your 
+  	workshop submissions to Avrama Blackwell or check the CNS*99 web site for more information.</p> 
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1999" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

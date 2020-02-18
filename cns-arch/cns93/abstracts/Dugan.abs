@@ -1,0 +1,30 @@
+
+
+Interaction of chemoaffinity, growth-constraining factors 
+and activity-dependent mechanisms in a model based on 
+observations from the autonomic nervous system.
+
+Vidar Dugan, Lennart Flem and Knut Liestol*
+
+Department of informatics, University of Oslo, P.O.Box 1080 Blindern, 
+N-0316 Oslo, Norway.
+
+Abstract
+
+We study establishment of topographic projections using a model 
+based on observations from autonomic ganglia. Experiments point to 
+crucial roles for non-rigid marker systems and growth-regulating 
+constraints. We focus on effects of adding activity-dependent 
+mechanisms to the basic model, using mismatch-situations to 
+illustrate effects. In absence of lateral connections between 
+postsynaptic cells, effects are moderate. For certain parameter 
+values, more dramatic effects arise, but to obtain the robustness 
+required for biological systems, some lateral connections are 
+required. In multilayer systems, chemoaffinity may order 
+connections satisfactory even with unprecise affinity specification in 
+intermediate layers.
+
+
+*Correspondence should be addressed to KL (e-mail: knut@ifi.uio.no).
+
+

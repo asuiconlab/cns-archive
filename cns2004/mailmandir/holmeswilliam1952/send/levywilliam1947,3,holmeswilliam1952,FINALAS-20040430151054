@@ -1,0 +1,80 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"William Levy" <wbl@virginia.edu>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:10:54
+-----------------------DATA----------------------
+Dear William Levy,
+
+We're happy to inform you that your paper 'Conduction Velocity Costs Energy' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+A very clearly written paper.  Two suggestions 
+1)  Please include an equation to show how metabolic cost is calculated
+2)  Please give examples showing what the changes in Nernst battery values actually do to Ek and ENa.  It would seem that only values of b very close to 1 would have any chance of creating battery strengths that would be possible to observe in the squid.  This should be explicitly stated.
+
+Reviewer 2 :
+The authors use a modified version of Hodgkin and Huxley's model of
+the squid giant axon to study the relationship between channel
+conductances, reversal potentials, conduction speed and energy
+expenditure. Their work is novel and interesting for a general
+neuroscience audience, but in my opinion both the study and its
+presentation could be improved in the following ways.
+
+1) The authors do not give an explicit description how they model (a)
+the gating capacitance and (b) the ATP consumption of the Na/K ATPase,
+only a paper that has been submitted to J Neurophysiol is cited. As these
+parts of the model are essential to understand their study they should
+be included explicitly in the paper. In order for the paper not to
+become too long one could easily shorten the introduction.
+
+2) The authors calculate the change of energy consumption during
+action potential propagation. It should be interesting to compare this
+with the baseline value of energy expenditure to maintain the Na/K
+gradients and the energetic cost of synaptic transmission. Their
+simulation results should be compared with relevant experimental data
+e.g. from Attwell (see e.g. J Cereb Blood Flow Metab 21, 1133-1145,
+2001).
+
+3) The authors argue that increasing the velocity beyond 21.3 m/s
+results in prohibitive energetic costs (last sentence of the
+introduction). This claim is too strong, there is nothing special
+about the given value of conduction speed as far as energy expenditure
+is concerned. However, 21.3 m/s is the value where increasing the
+channel conductances ceases to result in a significant increase in
+speed (their Fig. 2) which seems to indicate that speed is a more
+relevant selective parameter.
+
+4) References should be given for model parameters like resting
+conductivity and gating capacitance.
+
+5) The study would be improved by including a simulation where only
+the Na conductance, but not the K conductance, is varied.
+
+6) In the introduction, 'Hodgkin's proposal' should be replaced by
+'Hodgkin and Adrian's proposal'.
+

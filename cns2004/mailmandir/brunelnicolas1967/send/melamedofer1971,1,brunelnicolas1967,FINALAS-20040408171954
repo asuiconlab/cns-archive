@@ -1,0 +1,46 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"ofer melamed" <ofer.melamed@epfl.ch>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Thu 8/4/2004 17:19:54
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear ofer melamed,
+
+We're happy to inform you that your paper 'Subthreshold cross-correlations between cortical neurons 
+A reference model with static synapses' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This is nice work on a very interesting topic.
+Comments 
+1. The paper does not give a reference to Fig. 1. The legend is not clear either  does this figure refer to experimental data or to simulations ?
+2. It is hard to see how the different parameters in the model affect the final result. Presumably the authors are sure that the negative conclusion is NOT a consequence of wrong choices of the parameter values. However, that does not become clear from the paper to the reader.
+
+Reviewer 2 :
+
+

@@ -1,0 +1,18 @@
+Unsupervised Hebbian Learning and the Shape of the Neuron Activation
+Function
+
+Adam Prugel-Bennett and Jonathan L. Shapiro
+Department of Computer Science,
+Oxford Road,
+Manchester
+
+January 7, 1992
+
+
+A model describing unsupervised Hebbian learning in a single neuron is presented. The dynamical equations
+are solved directly in a few simple cases, methods of statistical mechanics are used to compute the probability
+distribution for the stationary solutions for random patterns, and simulations are presented. The processing
+function which the neuron learns is strongly dependent on the shape of the activation function. When the
+activation function is linear, the neuron learns to compute a statistical property of the collection of input
+patterns. When it is sufficiently nonlinear, the neuron forms a grandmother cell representation of one of the
+patterns.

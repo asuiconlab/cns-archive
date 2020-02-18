@@ -1,0 +1,32 @@
+ Matching neural models to experiment
+
+ by William R. Foster, J.F.R. Paton, James S. Schwaber, Lyle H. Ungar
+
+Address for first and last authors, to whom correspondence should
+be addressed:
+
+Department of Chemical Engineering, 311A Towne Bldg., University of
+Pennsylvania, Philadelphia, Pa 19104, U.S.A.
+
+
+Address for J.F.R. Paton and James S. Schwaber:
+Neural Computation
+Group, DuPont Experimental Station E352, DuPont Company, Wilmington,
+DE 19880-0352, U.S.A.
+
+
+Methods of quantitatively fitting single compartment neuron models to
+experimentally observed neuron behavior in current clamp are
+investigated.  Standard minimization techniques relying on gradient
+information are not useful for matching Hodgkin and Huxley style
+models to current clamp data.  It is, however, possible to fit current
+clamp data with minimal experimental information by making use of
+channel kinetics descriptions taken from the literature.  The fitting
+procedure uses random search and an appropriately defined metric.
+This approach eases the task of creating neuron models for use in
+network simulations.  Random search may also be used to operate on
+simplified channel kinetics in order to create accurate matches with
+experimental data.  The resulting fits to experiment are not unique and
+therefore the utility of the models must be judged in terms of their
+ability to represent important aspects of observed neuronal behavior
+over wide ranges of inputs.

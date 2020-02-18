@@ -1,0 +1,82 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Alexander Grushin" <agrushin@cs.umd.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:40
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Alexander Grushin,
+
+We're happy to inform you that your paper 'Evolving Processing Speed Asymmetries and Hemispheric Interactions in a Neural Network Model' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors evolve a neural network model in order to test the conditions for emergent of hemispheric asymmetric processing speeds. Their main results are that quickness of response does not stand as such condition, while minimization of energy consumption is. Further, the asymmetry leads to strong functional lateralization. The model is very simplistic but provides a good starting point for further complexifications. Overall, the paper is intriguing and very well written.
+
+Reviewer 2 :
+Nice paper. The idea to use evolutionary algorithms as analysis tool
+is a smart application of EAs. The observed phenomena are interesting
+per se and may also provide new insights into the structure of living
+brains.
+
+Some comments for clarity  
+
+You should explain that the networks are fully connected and how the
+connections between the regions are organized (sparse or full).  On
+page 2, the choice of the activation dynamics should be given a brief
+motivation.
+
+Is the training performed as supervised training of given input and
+target output patterns? This seems to be the case, reading between the
+lines, but it should be stated explicitly. How, then is the
+backpropagation performed? Understanding that the output of the
+network is found as an "attractor" of the dynamics, do you
+backpropagate in time? A brief explanation would be helpful. 
+
+What is the rationale to encode the random number generator seed in
+the chromosome? While it certainly makes sense to note this variable
+for the individual runs, for reproducibility, but the role of S in the
+chromosome should be explained.
+
+Page 4  use a different formulation for 'behavioral definition'. It
+was actually more confusing than helpful in understanding what 'speed'
+is.
+
+Page 5  Explain the rationale for the variable rho (e.g. by
+illustrating extreme cases). Similar for alpha - it seems that the
+formula says something about the asymmetry of the frequencies; it is
+not clear, however, how alpha is making a statement about the accuracy
+of the lower-frequency regions, as accuracy does not seem to appear in
+the definition of alpha?
+
+What do you mean by "asymmetry in the direction of lateralization"?
+
+
+
+

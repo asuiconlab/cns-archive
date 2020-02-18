@@ -1,0 +1,23 @@
+ DYNAMICS OF HEBBIAN LEARNING IN FEEDBACK NETWORKS AND
+ DEVELOPMENT OF INTERCONNECTION WITHIN VISUAL CORTEX
+
+Dawei Dong
+Lawrence Berkeley Laboratory, University of California
+MS 70A-3307, 1 Cyclotron Road, Berkeley, California 94720
+e-mail: dawei@nsdssb.lbl.gov or dawei@hope.caltech.edu
+
+Two kinds of dynamic processes take place in neural networks.
+One involves the change with time of the activity of each neuron.
+The other involves the change in strength of the connections
+(synapses) between neurons.  When a neural network is learning or
+developing, both processes simultaneously take place, and their
+dynamics interact.  This interaction is particularly important in
+feedback networks.  Theoretical framework is developed to help
+understand the combined activity and synapse dynamics for a class
+of such adaptive networks.  The methods and viewpoint are illustrated
+by using them to describe the development of orientation selective
+cells in cat primary visual cortex. Within this model, orientation
+selectivity originates from feedback pathways within an area of cortex,
+rather than feedforward pathways between areas.
+
+

@@ -1,0 +1,34 @@
+
+
+
+
+CNS92 Abstract
+
+
+
+
+
+Dissipative Structures and Self-Organizing Criticality in
+Neural Networks with Spatially Localized Connections.
+
+R.W. Kentridge,
+Department of Psychology,
+University of Durham,
+Durham DH1 3LE,
+U.K.
+
+Internet: robert.kentridge@durham.ac.uk
+
+Neural networks with asymmetric random connections may converge to simple
+attractors or they may behave chaotically. If, however, the probability of neu-
+ral interconnection in a network is related to the distance between neurons, as
+it is in the brain, then a third class of behavior (which could be used in coding
+representation), dissipative structure formation, becomes possible. Simulations of
+such networks showed that dissipative structures could form, however, this required
+biologically implausible fine-tuning of the networks' parameters. Further studies
+showed that conditions in which dissipative structure formation was likely could be
+produced by uniform low intensity stimulation of these networks through a process
+of self-organizing criticality. This mechanism eliminates the requirement for bio-
+logically implausible fine-tuning of networks thereby increasing the probability that
+dissipative structures may play a functional role in processing information in the
+brain.

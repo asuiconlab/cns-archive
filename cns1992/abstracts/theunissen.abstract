@@ -1,0 +1,18 @@
+Representation of sensory information in the cricket cercal sensory
+system: an information theoretic analysis.
+ F.E. Theunissen, S. N. Gozani and J.P. Miller. Dept. of Mol. and Cell
+Biology. University of California, Berkeley. CA 94720.
+
+Abstract.
+        The activity patterns of primary sensory interneurons in the
+cricket cercal sensory system encode information about the direction and
+velocity of air current stimuli in the animal's immediate environment.
+The statistical principles of information theory were used to calculate the
+maximum directional accuracy attainable from the response ensemble of
+8 interneurons in this system. These calculations of encoding accuracy
+took into account the temporal patterns of the spike train patterns, and a
+canonical discriminant analysis was used to reduce the number of
+dimensions of the response to a few significant ones. The response of the
+system in the canonical coordinates could be fitted by sine functions of
+360 and 180 degree periods.
+

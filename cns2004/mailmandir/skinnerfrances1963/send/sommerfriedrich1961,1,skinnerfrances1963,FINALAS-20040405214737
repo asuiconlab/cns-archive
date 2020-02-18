@@ -1,0 +1,64 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Friedrich Sommer" <fsommer@rni.org>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:47:37
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Friedrich Sommer,
+
+We're happy to inform you that your paper 'Synfire chains with conductance-based neurons 
+    internal timing and coordination with timed input' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+The authors study the temporal dynamics of sequence
+retrieval in pools of synfire chains using conductance
+based model neurons. The work is interesting but a
+page limit of six pages makes it hard to present a
+complete description of the work. 
+
+
+Methods  introduce the Pinsky-Rinzel model by name and
+define the abbreviation PR that is used later in the paper.
+
+Figures  please add labels to the figure axes. I did
+not understand what is plotted in the second and third
+panels of figure 1. Figure 3  what are the units for
+the background current that is varied?
+
+I would add a small figure illustrating the geometry
+of the network.
+
+Typos  Figure 3 caption -- "displyed"
+        P.4  "moderatly", "activty"
+

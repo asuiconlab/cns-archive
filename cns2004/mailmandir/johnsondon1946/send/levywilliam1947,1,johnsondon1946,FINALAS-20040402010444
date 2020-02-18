@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"William Levy" <wbl@virginia.edu>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:44
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear William Levy,
+
+We're happy to inform you that your paper 'Computing Conditional Probabilities in a Minimal CA3 Pyramidal Neuron' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+-p2, equation 1  Do the author set cii=0? Why not use wij=0 as a way of indicating no synapses between I and j, rather than using cij? The feedback term could be factored in the 1st term. Why are all feedbacks equal (KFB constant, rather than KFBij)? Why would neuron j equally care about all neurons Is state of reception of external forcing?
+-p3,equation 2  explain the notations when introducing the equation, or postpone the introduction to the end of section 3.
+-p9  How would you include inhibition to avoid explosion?
+-p9  Make clear the advantages of using this model over the traditional McCulloch-Pitts neurons. Does this model give insights on the neurobiology (or neural coding strategies in the presence of noise)?
+- Why would one use this model, rather than the existing ones?
+
+
+Reviewer 2 :
+
+

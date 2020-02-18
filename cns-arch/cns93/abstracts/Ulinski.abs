@@ -1,0 +1,21 @@
+A Novel Method of Estimating the Kinetic Parameters of Active Conductances
+from Current Clamp Data
+
+Philip S. Ulinski and Jill M. Nicolaus
+Dept. Organismal Biology and Anatomy
+University of Chicago
+1025 E. 57th St.
+Chicago, IL  60637
+ email: jmni@quads.uchicago.edu
+
+Biologically realistic models of individual neurons must incorporate a
+multitude of specific parameters characterizing their passive and active
+properties.  Electrotonic parameters are readily estimated from current clamp
+data, but kinetic parameters and densities of active conductances are
+traditionally obtained from voltage clamp experiments whose complexity makes
+it nearly impossible to obtain sufficient data to construct detailed models
+of particular neurons.  This paper introduces a novel method of estimating
+kinetic parameters from current clamp data, producing an estimate of
+conductance as a function of voltage and time that can be fit by  standard
+Hodgkin-Huxley or alternative kinetic models.
+Supported by PHS grant EY 68352 and by an NSF graduate fellowship.

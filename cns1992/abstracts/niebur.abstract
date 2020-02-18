@@ -1,0 +1,19 @@
+The architecture of visual cortical
+orientation columns
+
+
+Ernst Niebur
+Computation and Neural Systems Program
+California Institute of Technology
+Pasadena CA 91125, USA
+
+Florentin Worgotter
+Institut fur Physiologie, Ruhr-Universitat Bochum
+D-4630 Bochum, Germany
+
+January 6, 1992
+
+
+
+The dimension reduction from the multi-dimensional feature space to the two-dimensional cortical plane is realized by complex maps which so far have evaded intuitive understanding. We show that the most salient features of these maps can be understood from a few basic design principles: local correlation, isotropy and homogeneity. We define these principles in a mathematically exact sense and we show that they are sufficient to generate realistic column structures. We suggest that the reason why most of the previously proposed models of orientation columns are capable of generating realistically looking orientation column structures is simply that any model which is consistent with the aforementioned principles is capable of doing so.
+

@@ -1,0 +1,77 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Michael Rudolph" <Michael.Rudolph@iaf.cnrs-gif.fr>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 18:15:30
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Michael Rudolph,
+
+We're happy to inform you that your paper 'Multi-channel shot noise and characterization of cortical network activity.' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+1) Section 2. introducing the methods used in the paper is not
+sufficient.  The authors refer to their own papers for the model
+equation of the two-state kinetics, for the "distributed generator
+algorithm", and for the multicompartment model. However, at least
+the former two should be given in the section "Methods"; it is not
+acceptable that the reader is expected to read four more papers before
+he/she can get an idea about what is (just technically) done in this
+paper.  Furthermore, after reading some of those papers  does c really
+stand for a "temporal" correlation (p. 2,2. parag.)? Is it rather a
+spatial one?
+
+2) The notation and the statistics investigated is not clear at all.  As
+far as I have understood, the authors study the statistics of \sum g
+r_n(t) (the total conductance, TCS) where g is a fixed parameter.  In
+Fig. 1, however, a prob density for "g" is presented which is
+confusing; I assume that the authors mean again the TCS.
+
+3) I am most concerned about the analytical result for the mean and
+variance of the TCS given in eq. (1). The formula for the variance
+does not approach Campbell's theorem for c \to 0 (vanishing
+correlation); in this case a 1/N dependence in the bracket
+survives. Why? 
+Furthermore, calculations with pooled correlated Poissonian spike
+trains [a special case of eq.(1)] have been done, for instance in Feng
+et al.  Physical Review E 61, 4207 (2000) [certainly not the first
+paper on this issue], yielding [cf. eq.(3.2) of that paper] 
+\sigma^2 ~ \lambda N (1+(N-1)*c) 
+which is obviously pretty different from the result in eq.(1) of the ms.
+and also from what can be seen in the simulation results in Fig.2.
+Please, explain the difference and define properly the parameter c.
+
+
+
+
+Reviewer 2 :
+This paper considers the effect of correlated synaptic input on the membrane potential.
+The results are not particularly surprising, but were worth a study.
+
+I have one major comment. Namely, to repeat the definition of the correlated input, as expressed in c, instead of referring the reader to [10]. This would make the numerical and analytical results easier to follow. 
+

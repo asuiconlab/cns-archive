@@ -1,0 +1,26 @@
+Gated--Enhancer Model for Motion Facilitation in Retinal Directional 
+Selectivity
+
+
+Norberto M. Grzywacz, Smith--Kettlewell Eye Research Institute,
+2232 Webster Street, San Francisco, CA 94115
+Franklin R. Amthor, Department of Psychology and Neurobiology
+Research Center, University of Alabama at Birmingham, Birmingham, AL 35294
+
+Lyle J. Borg--Graham, Center for Biological Information
+Processing, Massachusetts Institute of Technology, Cambridge, MA 02139
+
+ Directionally selective
+ganglion cells respond to preferred--direction motions more strongly
+than predicted by the sum of the responses to stationary stimuli
+covering the same area as the motion.  The spatial, temporal, and
+contrast properties of this motion facilitation were recently
+investigated in rabbit by apparent--motion protocols.  These
+properties are inconsistent with facilitation models based either on
+threshold or membrane--conductance modulation.  However, these
+properties are consistent with models in which an enhancer agent
+induced by motion facilitates responses evoked later along the motion
+trajectory.  The data indicate that the enhancer would itself not
+produce excitation until gated by the later excitation.  Simulations
+using Surf--Hippo, a new retinal simulator, support a dendritic
+implementation of this ``gated--enhancer" model.

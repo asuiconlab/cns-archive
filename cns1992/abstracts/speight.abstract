@@ -1,0 +1,15 @@
+Using Parallel Supercomputers for Computational
+Neurobiology 
+Michael D. Speight and James Bower
+
+aDivision of Biology 216-76
+California Institute of Technology
+Pasadena, CA91125
+
+
+
+
+   Abstract
+
+We present our experiences in providing the GENESIS neural simulation system on two different parallel supercomputers one of which is currently the world's fastest computer (Intel Touchstone Delta). Two distinct methods of utilising the power of these novel architecture machines are presented. One method (Task Farming) scales by order 'N' with the number of nodes used, and is particularly useful for examining large parameter spaces. The other method (Distributed Modelling with Internode Communication) allows construction of neural models of a size and computational complexity not hitherto able to be achieved using conventional supercomputing platforms.
+

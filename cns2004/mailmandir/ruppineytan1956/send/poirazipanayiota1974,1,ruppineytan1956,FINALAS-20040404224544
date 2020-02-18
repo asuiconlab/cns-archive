@@ -1,0 +1,57 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Panayiota Poirazi" <poirazi@imbb.forth.gr>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:44
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Panayiota Poirazi,
+
+We're happy to inform you that your paper 'Modelling reduced excitability in aged CA1 neurons as a calcium-dependent process' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The study is based on a model to study aging induced alterations in calcium-dependent membrane mechanisms.
+
+The authors should add in the model validation sections, a more detailed comparison to the biological experiments, not leaving the reader just a visualized comparison (give a well defined comparison of the time constants, changes in amplitude, membrane potential).
+
+Based on the conclusions of the compartmental model, it is very important to understand the biological implications. 
+What biological predictions can be made? 
+What kind of biological mechanisms exists to support the L-type calcium and SK potassium channels coupling?
+What biological evidence can imply the change in the L-type channel conductance or decay rate of the calcium pool, which is what occurs in the model in order to trace the experimental observations?
+
+The quality of figures 2 and 3 must be improved.     
+
+Reviewer 2 :
+The paper poses an interesting question about aging. It is not
+clear, however, why the authors chose to use a multi-compartmental
+model. Such a  complicated model does not enable any 
+understanding of the dynamics. I think the mechanism can
+be made simple in the framework of a more reduced model.
+

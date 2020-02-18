@@ -1,0 +1,55 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Tetsuto Minami" <minami@po.nict.go.jp>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:47
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Tetsuto Minami,
+
+We're happy to inform you that your paper 'Roles of the prefrontal neurons in delayed matching-to-category task  A modeling study' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper explores the role of the PFC in categorization, and the neuronal mechanisms involved in category information. The study simulates the delayed matching-to-category task as appears in Freedman et al (2000). It shows that the category-selective activities in the PFC can be explained by using bottom-up processes from ITC to PFC. This model mimics the psychophysical performance, as well as reproduced the temporal patterns of the category-selective neurons in the PFC.
+
+It seems to be an interesting work, but the authors need to be more clear 
+(a) that a category selectivity in the PFC can be explained only by a bottom-up process from ITC to PFC. 
+(b) that the apparent selectivity of ITC neurons reflects a top-down signal from PFC (a  better demonstration is needed). 
+
+Reviewer 2 :
+The authors present a model of underlying neuronal architecture for a cognitive task.
+The model seems reasonable.
+
+I have a few comments 
+1.The sentence at the end of page 2 is too strong. A model cannot show that the process is the one you suggested. You can only suggest it as a reasonable possibility.
+2.along the same lines - the end of first paragraph in section 2 page 3. The 'empirical finding' that models usually fit the truth sounds like bad science. 
+
+Conclusion  for a model to be proved correct it is best to suggest new experiments, based on the model, and verify their conclusions. I suggest you incorporate such suggestions in the final version.
+

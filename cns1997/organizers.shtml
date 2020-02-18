@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1997 - Organizing Committee</title>
+<meta name="description" content="CNS Meeting Home Page 1997 - Organizing Committee." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1997, 
+cns, computational, neuroscience, workshop, talks, posters, Organizing Committee" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1997</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 6 - 10, 1997, Big Sky, Montana</h3>
+  	
+  	<h4>CNS*1997 Organizing Committee</h4>
+  	
+  	<ul>
+  	  <li><em>Co-chair, Logistics</em> - John Miller, UC Berkeley.</li>
+  	  <li><em>Co-chair, Finance, Program</em> - Jim Bower, Caltech.</li>
+  	  <li><em>Governmantal Liaison</em> : Dennis Glanzman, NIMH/NIH.</li>
+  	  <li><em>Workshop Organizer</em> - Christiane Linster, Harvard.</li>
+  	  <li><em>Conference administrator</em> - Judy Macias, Caltech.</li>
+  	  <li><em>Web designer</em> - <a href="http://www.vis.caltech.edu/~pz"> John Pezaris</a>, 
+  	  Caltech.</li>
+  	</ul>
+  	
+  	<h4>Program Committee</h4>
+  	
+  	<ul>
+  	  <li>Charlie Anderson, Washington University.</li>
+  	  <li>Axel Borst, Max-Planck Inst., Tuebingen, Germany.</li>
+  	  <li>Leif Finkel, University of Pennsylvania.</li>
+  	  <li>Anders Lansner, Royal Institute of Technology, Sweden.</li>
+  	  <li>Linda Larson-Prior, Pennsylvania State University Medical College.</li>
+  	  <li>Maureen Rush, California State University, Bakersfield.</li>
+  	  <li>Karen Sigvardt, University of California, Davis.</li>
+  	  <li>David Touretzky, Carnegie Mellon University.</li>
+  	</ul>
+  	
+  	<h4>Regional Organizers</h4>
+  	
+  	<ul>
+  	  <li><em>Europe</em> - 
+  	  <a href="http://www.tnb.ua.ac.be/u/erikds/index1.shtml">Erik DeSchutter</a>, Belgium.</li>
+  	  <li><em>Middle East</em> - Idan Segev, Jerusalem.</li>
+  	  <li><em>Down under</em>Mike Paulin, New Zealand.</li>
+  	  <li><em>South America</em>Renato Sabbatini, Brazil.</li>
+  	  <li><em>Asia</em>Zhaoping Li, Hong Kong.</li>
+  	  <li><em>India</em>Upinder Bhalla, Bangalore.</li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1997" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

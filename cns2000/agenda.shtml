@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2000 - Programme</title>
+<meta name="description" content="CNS Meeting Home Page 2000 - Programme." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2000, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops, Programme" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2000</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July, 16-20, 2000, Brugge, Belgium</h3>
+  	
+  	<h4>CNS*2000 Programme</h4>
+  	
+  	<p><a href="#sunday">Sunday, July 16, 2000</a></p>
+  	<p><a href="#monday">Monday, July 17, 2000</a></p>
+  	<p><a href="#tuesday">Tuesday, July 18, 2000</a></p>
+  	<p><a href="#wednesday">Wednesday, July 19, 2000</a></p>
+  	<p><a href="#thursday">Thursday, July 20, 2000</a></p>
+  	
+  	<h4><a name="sunday"></a>SUNDAY, JULY 16, 2000</h4>
+  	
+  	<p class="marginboven">9:00 Welcoming Remarks and General Information</p>
+  	<p>9:15 : Featured Contributed Talk: David Willshaw (University of Edinburgh)</p>
+  	<p>10:05 : Rolf Kötter (C. http://www.neuroinf.org/CNS/cns2000/agenda.shtml O. Vogt Brain Research) Claus C. Hilgetag, and Klaas E. Stephan<br />
+  	<em>The Connectional Organization of Primate Prefrontal Cortex</em></p>
+  	<p>10:25 : Rafal Bogacz (University of Bristol) Malcolm W. Brown, and Christophe Giraud-Carrier<br />
+  	<em>Model of Co-Operation Between Recency, Familiarity  Novelty Neurons in the Perihinal 
+  	Cortex</em></p>
+  	<p>10:45 : Jan Reutimann (University of Bern) Stefano Fusi, Walter Senn, Volodya Yakovlev, and 
+  	Ehud Zohary<br />
+  	<em>A Model of Expectation Effects in Inferior Temporal Cortex</em></p>
+  	<p>11:05 : Break</p>
+  	<p>11:20 : Jenny Read (Oxford University)<br />
+  	<em>A Bayesian Model of the Correspondence Problem</em></p>
+  	<p>11:40 : Slawomir J. Nasuto (George Mason University) Jeffrey L. Krichmar, and Giorgio A. 
+  	Ascoli<br />
+  	<em>A Computational Study of the Relationship Between Neuronal  Morphology and Electrophysiology 
+  	in an Alzheimer's Disease Model</em></p>
+  	<p>12:00 : Alexa Riehle (Center for Research in Cognitive Neuroscience)Franck Grammont, Markus 
+  	Diesmann, and Sonja Gruen<br />
+  	<em>Dynamical Changes of the Temporal Precision of Synchronized Spiking Activity in Motor Cortical 
+  	Neurons as Revealed by Using the Multiple-Shift Method</em></p>
+  	<p>12:20 : Lunch Break and Poster Preview Session A</p>
+  	<p>2:20 : Featured Contributed Talk: Upinder Bhalla (National Centre for Biological Sciences)<br />
+  	<em>Temporal Pattern Decoding by Synaptic Signaling Pathways</em></p>
+  	<p>3:10 : Hans E. Plesser (Max Planck Institut) Theo Geisel<br />
+  	<em>Signal Processing by Means of Noise</em></p>
+  	<p>3:30 : Rick Jenison (University of Wisconsin, Madison)<br />
+  	<em>Decoding First-Spike Latency: The Maximum Likelihood Referent</em></p>
+  	<p>3:50 : Break</p>
+  	<p>4:10 : Karim G. Oweiss (University of Michigan) David J. Anderson<br />
+  	<em>Noise Reduction in Multichannel Neural Recording Using a New  Array Wavelet Denoising 
+  	Algorithm</em></p>
+  	<p>4:30 : Featured Contributed Talk: Thierry Bal (Institut Alfred Fessard) Damien Debay, and 
+  	Alain Destexhe<br />
+  	<em>Corticothalamic Feedback Controls the Frequency and Synchrony of Thalamic Oscillations</em></p>
+  	<p>5:20 : End of Day Announcements</p>
+  	
+  	<p class="marginboven"><b>8:00 : Poster Session A</b></p>
+  	
+  	<h4><a name="monday"></a>MONDAY, JULY 17, 2000</h4>
+  	
+  	<p class="marginboven">9:00 : General Information</p>
+  	<p>9:15 : Featured Contributed Talk: Michael J. Berry II (Princeton University) Markus Meister<br />
+  	<em>Firing Events: Fundamental Symbols in the Neural Code of Retinal Ganglion Cells?</em></p>
+  	<p>10:05 : Lyle Borg-Graham (Institut Federatif  de Neurobiologie)<br />
+  	<em>The Computation of Directional Selectivity in the Retina Occurs Prior to the Ganglion 
+  	Cell</em></p>
+  	<p>10:25 : Lars Schwabe (Technische Universität Berlin) Peter Adorjan, and Klaus Obermayer<br />
+  	<em>Spike-Frequency Adaptation as a Mechanism for Dynamic Coding in V1</em></p>
+  	<p>10:45 : Thomas Lauritzen (University of California at San Francisco) Anton Krukowski, and Ken 
+  	Miller<br />
+  	<em>A Model of Cross-Orientation Inhibition in Cat V1</em></p>
+  	<p>11:05 : Break</p>
+  	<p>11:20 : Rufin VanRullen (Centre de Recherche Cerveau and Cognition) Arnaud Delorme, and Simon 
+  	Thorpe<br />
+  	<em>Feed-Forward Contour Integration in Primary Visual Cortex Based on Asynchronous Spike 
+  	Propagation</em></p>
+  	<p>11:40 : Steven Bressler (Florida Atlantic University) Mingzhou Ding, Hualou Liang, and Maciej 
+  	Kaminski<br />
+  	<em>Separation of Feedforward and Feedback Casual Influences in the Primate Visual Cortex</em></p>
+  	<p>12:00 : Bart Krekelberg (Ruhr University)Monica Paolini, Frank Bremmer, Markus Lappe, and 
+  	Klaus-Peter Hoffmann<br />
+  	<em>Deconstructing the Receptive Field: Information Coding in Macaque Area MST</em></p>
+  	<p>12:20 : Christian Machens (Humboldt Universität zu Berlin)Petra Prinz, Martin Stemmler, 
+  	Bernhard Ronacher, and Andreas Herz<br />
+  	<em>Discrimination of Behaviorally Relevant Signals by Auditory Receptor Neurons</em></p>
+  	<p>12:40 : Lunch Break and Poster Preview Session B</p>
+  	<p>2:00 Featured Contributed Talk: Bruce Graham (University of Edinburgh) Arjen van Ooyen<br />
+  	<em>Compartmental Models of Growing Neurites</em></p>
+  	<p>2:50 : Ronen Segev (Tel Aviv University) Eshel Ben-Jacob<br />
+  	<em>Chemical Waves and Internal Energy during Cooperative Self-Wiring of Neural Nets</em></p>
+  	<p>3:10 : Mark van Rossum (Brandeis University) Gina Turrigiano<br />
+  	<em>The Distribution of Synaptic Weights</em></p>
+  	<p>3:30 : Marcel Heldoorn (Leiden University Medical Center) Johan L. Van Leeuwen, and Jan 
+  	Vanderschoot<br />
+  	<em>Modelling the Control and Biomechanics of Sphincter Muscles</em></p>
+  	<p>3:50 : Break</p>
+  	<p>4:10 : Featured Contributed Talk: Charlotte Boettiger (University of California  at San 
+  	Francisco) Allison Doupe<br />
+  	<em>Developmentally Restricted Synaptic Plasticity in a Songbird Nucleus Critical for Song 
+  	Learning</em></p>
+  	<p>5:00 : End of Day Announcements</p>
+  	
+  	<p class="marginboven"><b>8:00 : Poster Session B</b></p>
+  	
+  	<h4><a name="tuesday"></a>TUESDAY, JULY 18, 2000</h4>
+  	
+  	<p class="marginboven">9:00 : General Information</p>
+  	<p>9:15 : Featured Contributed Talk: Simon Giszter(MCPHU Sch Med)William Kargo, and Gregory 
+  	Lange<br />
+  	<em>Modeling of Dynamic Controls in the Frog Wiping Reflex: Force-Field Level Controls</em></p>
+  	<p>10:05 : Sarvani Grandhe (University of Kentucky) Ranu Jung<br />
+  	<em>Presence of Brain-Spinal Cord Interactions Alters Lamprey Locomotor Response to Periodic 
+  	Perturbation</em></p>
+  	<p>10:25 : Valeria Del Prete (International School of Advanced Studies) Orna Steinberg, 
+  	Alessandro Treves, and Eilon Vaadia<br />
+  	<em>How Much Do They Tell Us to Move?</em></p>
+  	<p>10:45 : Break</p>
+  	<p>11:05 : Featured Contributed Talk: C. J. Wilson (University of Texas at San Antonio) J. C. 
+  	Callaway<br />
+  	<em>Evidence for the Coupled Oscillator Model of the Dopaminergic Neuron of the Substantia 
+  	Nigra</em></p>
+  	<p>11:55 : Andrew Gillies (University of Edinburgh) Jeremy Atherton, David Willshaw, and Gordon 
+  	Arbuthnott<br />
+  	<em>The Role of Subthalamic Nucleus Intranuclear Axon Collateralsin Basal Ganglia Processing: 
+  	Evidence From Computational Models and in Vitro Experiment</em></p>
+  	<p>12:15 : Lunch Break and Poster Preview Session C</p>
+  	<p>2:00 : Featured Contributed Talk: Lokendra Shastri (International Computer Science 
+  	Institute)<br />
+  	<em>A Computational Model of Rapid Memory Formation in the Hippocampal System</em></p>
+  	<p>2:50 : Tamas Kiss (Hungarian Academy of Sciences)Gergo Orban, Mate Lengyel, and Peter Érdi<br />
+  	<em>Intrahippocampal Gamma and Theta Rhythm Generation in a Network Model of Inhibitory 
+  	Interneurons</em></p>
+  	<p>3:10 : Caroline Geisler (Brandeis University) Xiao-Jing Wang<br />
+  	<em>A Network Model for Theta Oscillations in the Septohippocampal System</em></p>
+  	<p>3:30 : Szabolcs Kali (University College London)Peter Dayan<br />
+  	<em>A Familiarity-Based Learning Procedure for the Establishmentof Place Fields in Area CA3 of the 
+  	Rat Hippocampus</em></p>
+  	<p>3:50 : Break</p>
+  	<p>4:10 : Riccardo Barbieri (Harvard Medical School) Loren M. Frank, Michael C. Quirk, Matthew A. 
+  	Wilson, and Emery N.Brown<br />
+  	<em>Diagnostic Methods for Statistical Models of Place Cell Spiking Activity</em></p>
+  	<p>4:30 : Manuel A. Sanchez-Montanes (Universidad Autónoma de Madrid) Paul F. M. J. V. Verschure, 
+  	and Peter Koenig<br />
+  	<em>Learning in a Neural Network Model in Real Time Using Real World Stimuli</em></p>
+  	<p>4:50 : Featured Contributed Talk: Alfonso Renart (Universidad Autónoma deMadrid) Ruben Moreno, 
+  	Nestor Parga, and Edmund T. Rolls<br />
+  	<em>The Neural Mechanisms of Working Memory Modelled byInteracting Associative Memory 
+  	Networks</em></p>
+  	<p>5:40 End of Day Announcements</p>
+  	
+  	<p class="marginboven"><b>8:00 : Poster Session C</b></p>
+  	
+  	<h4><a name="wednesday"></a>WEDNESDAY, July 19, 2000</h4>
+  	
+  	<p class="marginboven">9:30 : General Information</p>
+  	<p>9:45 : Featured Contributed Talk: Patrick Roberts (Neurological SciencesInstitute) Curtis 
+  	Bell<br />
+  	<em>Mutual Inhibition Increases Adaptation Rate in anElectrosensory System</em></p>
+  	<p>10:35 : Klaus M. Stiefel (Max Planck Institute) Valerie Wespatat, Wolf Singer, and Frank 
+  	Tennigkeit<br />
+  	<em>Interaction of Membrane Potential Oscillations withInhibitory Synaptic Inputs in Cortical 
+  	Cells</em></p>
+  	<p>10:55 : Adam Kepecs (Brandeis University) John Lisman<br />
+  	<em>Games Pyramidal Cells Play: The Somato-Dendritic Ping-Pong</em></p>
+  	<p>11:15 : Invited Presentation: Larry Abbot (Brandeis University)</p>
+  	<p>12:30 : Lunch Break</p>
+  	<p>2:00 : Federal Funding Opportunities</p>
+  	<p>2:40 : Workshops I - Organization</p>
+  	<p>9:30 : Rock and Roll Jam Session</p>
+  	
+  	<h4><a name="thursday"></a>THURSDAY, July 20, 2000</h4>
+  	
+  	<p class="marginboven">9:30 : General Information</p>
+  	<p>9:45 : Featured Contributed Talk: Tim C. Pearce (University of Leicester) Paul F. M. J. 
+  	Verschure, Joel White, and John S. Kauer<br />
+  	<em>Stimulus Encoding in the Early Stages of Olfactory Processing: A Modeling Study Using an 
+  	Artificial Olfactory System</em></p>
+  	<p>10:35 : Satoru Inoue (Univ. of Electro-Communications)Yoshiki Kashimori, and Takeshi 
+  	Kambara<br />
+  	<em>An Essential Role of Downward Sweep Rate of FM Pulse in Echolocation of Bat</em></p>
+  	<p>10:55 : Featured Contributed Talk: David Terman (The Ohio State University) Jonathan Rubin, 
+  	and Alice Yew<br />
+  	<em>Synchronous Parkinsonian Rhythms in a Model for the Indirect Pathway of the Basal Ganglia</em></p>
+  	<p>11:45 : Business Meeting</p>
+  	<p>1:00 : Lunch Break</p>
+  	<p>2:30 : Workshops II - Organization</p>
+  	<p>6:30 : Banquet</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2000" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

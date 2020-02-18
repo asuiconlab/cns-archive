@@ -1,0 +1,38 @@
+Modulation of Frequency and Burst Duration in Oscillating Neurons
+and Two Cell Networks
+
+Frances K. Skinner, skinner@binah.cc.brandeis.edu*
+Gina G. Turrigiano, turrigiano@binah.cc.brandeis.edu
+Eve Marder, marder@binah.cc.brandeis.edu
+
+Biology Department and
+Center for Complex Systems
+Brandeis University
+Waltham, MA 02254-9110
+U.S.A.
+
+"Please address all correspondence to Frances Skinner at the above 
+address.
+
+ABSTRACTl
+
+We study the relationship of injected current to oscillator period in 
+single neurons and two cell model networks formed by reciprocal 
+inhibitory synapses. Using a MorrisLecar like model, we identify two 
+qualitative types of oscillatory behaviour for single model neurons. 
+The "classical" oscillator behaviour is defined as type A. Here the 
+burst duration is relatively constant and the frequency increases 
+with depolarization. For oscillator type B, the frequency first 
+increases and then decreases in frequency when depolarized, due to 
+the variable burst duration. Our simulations show that relatively 
+modest changes in the maximal inward and outward conductances 
+can move the oscillator from one type to another. Cultured 
+stomatogastric ganglion neurons exhibit both A and B type 
+behaviours and can switch between the two types with 
+pharmacological manipulation. Our simulations indicate that the 
+stability of a two cell network with injected current can be extended 
+with inhibitory coupling. In addition, two cell networks formed from 
+type A or type B oscillators behave differently from each other at 
+lower synaptic strengths.
+
+

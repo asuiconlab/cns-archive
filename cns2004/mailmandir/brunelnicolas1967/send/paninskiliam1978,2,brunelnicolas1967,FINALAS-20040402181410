@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Liam Paninski" <liam@cns.nyu.edu>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 18:14:10
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Liam Paninski,
+
+We're happy to inform you that your paper 'Comparing integrate-and-fire-like models estimated using
+intracellular and extracellular data' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper presents a novel and interesting method for estimating the parameters of a single neuron integrate-and-fire type model using recordings from a real neuron. My main problem is that it is difficult to judge whether the obtained model really captures the behavior of these cells (...) to a high degree of temporal precision', in absence of a quantitative criterion and of a comparison with other methods. I believe the authors should include such a comparison (e.g.with the method of Jolivet et al) in the paper.
+
+Reviewer 2 :
+The paper discusses a new method for fitting a spike response model to experimental data. The method is interesting and it is potentially much faster than what is currently available. However it is difficult to judge the performance of the proposed method. The authors simply show a randonly chosen segment of a 100s long white noise experiment (Fig. 2) without quantifying the quality of the fit. They should compute a normalized measure of the capacity of the model to predict the timing of single spikes (see e.g. the coincidence factor of Jolivet et al 2003, which the authors cite). Moreover the same quantity should be computed for several statistics of the input current (the authors should vary ystematically both the average and the variance of the noisy current), and the authors should specify the number of parameters they used to characterize the model.
+Achieving a good match for a single noisy current is usually fast and easy and it does not require more sophisticated techniques than what is already available. Moreover, it is unclear how the authors can fit the data without considering adaptation.
+This is not possible for pyramidal cells in layer 5 of rat somatosensory cortex (see Rauch et al., J. Neurophys, 2003 for the mean frequencies and 
+Jolivet et al. 2003 for the exact spike timing). The authors mention that the cell does not show spike-rate adaptation (did they analyze a single 
+cell?), but they do not specify the cell type, the layer, the area and the rat's age (they could be specified in a line), and what kind of 
+adaptation they are considering (several different adaptation processes occur on different time scales).
+

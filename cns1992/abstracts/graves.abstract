@@ -1,0 +1,12 @@
+
+Network Model of the Respiratory Rhythm
+
+
+By E.B. GRAVES, D.W. RICHTER* AND J.S.SCHWABERl
+
+
+Neural Computation Group, DuPont Experimental Station E352, Dupont Company, Wilmington, DE 19880-0352, U.S.A. and *Physiology Institute, Georg-August-University of Goettingen, Humboldtallee 23, Goettingen, FRG
+
+
+We propose a model for the generation of the respiratory rhythm. The model is composed of four distinct neuron types recorded in vivo in the cat, defined by their phase relationship to the respiratory cycle as seen in the phrenic neurogram. It is proposed that the respiratory rhythm emerges from the connectivity and membrane dynamics of these neurons. Computational models are created of the four cell types using Hodgkin-Huxley form kinetics to describe active membrane properties that are then tuned to reproduce the recorded patterns of neuronal behavior. The neurons are reciprocally connected with inhibitory synapses. Simulation results accurately reproduce the three-phased respiratory cycle, and demonstrate the way in which this activity may arise from intrinsic membrane, as well as network, properties.
+

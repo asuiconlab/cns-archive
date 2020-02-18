@@ -1,0 +1,2165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2000 - Approved Papers</title>
+<meta name="description" content="CNS Meeting Home Page 2000 - Approved Papers." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2000, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops, Approved Papers" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2000</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July, 16-20, 2000, Brugge, Belgium</h3>
+  	
+  	<h4>CNS*2000 Approved Papers</h4>
+  	
+  	<table class="mytable" cellspacing="0" cellpadding="0" summary="list of approved papers">
+  	  <tr>
+  	  	<th scope="col">Paper ID</th>
+  	  	<th scope="col">Last name</th>
+  	  	<th scope="col">First name</th>
+  	  	<th scope="col">Title</th>
+      </tr>
+      <tr>
+      	<td>486</td>
+      	<td>Althoefer</td>
+      	<td>Kaspar</td>
+      	<td>A Two-Stage Model Network of Memory Trace Formation</td>
+      </tr>
+      <tr>
+      	<td class="alt">185</td>
+      	<td class="alt">Alvarez</td>
+      	<td class="alt">Fabián</td>
+      	<td class="alt">Coding in recurrent excitatory networks</td>
+      </tr>
+      <tr>
+        <td>298</td>
+        <td>Anastasio</td>
+        <td>Thomas</td>
+        <td>MODELING MULTISENSORY ENHANCEMENT IN THE SUPERIOR COLLICULUS USING BAYES' RULE</td>
+      </tr>
+      <tr>
+        <td class="alt">127</td>
+        <td class="alt">Anderson</td>
+        <td class="alt">Charles</td>
+        <td class="alt">Simulating Large Scale Neuronal Circuits</td>
+      </tr>
+      <tr>
+        <td>152</td>
+        <td>Aoyagi</td>
+        <td>Toshio</td>
+        <td>A Bursting Mechanism of Chattering Neurons Based on Calcium-Dependent Cationic Currents 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">220</td>
+        <td class="alt">Arleo</td>
+        <td class="alt">Angelo</td>
+        <td class="alt">Spatial Orientation in Autonomous Navigating Agents: Modeling Biological Head-direction 
+            Cells</td>
+      </tr>
+      <tr>
+        <td>491</td>
+        <td>Assadi</td>
+        <td>Amir</td>
+        <td>A Learning Theoretic Approach to Perceptual Geometry of Curves and Surfaces in Natural 
+            Scenes</td>
+      </tr>
+      <tr>
+        <td class="alt">489</td>
+        <td class="alt">Assadi</td>
+        <td class="alt">Amir</td>
+        <td class="alt">Recurrent Probabilistic Dynamics: Applications to Face Recognition</td>
+      </tr>
+      <tr>
+        <td>72</td>
+        <td>Avital-Kitroser</td>
+        <td>Maya</td>
+        <td>Synaptic depression is used to switch between distinct oscillatory states in circuits 
+            with recurrent inhibition</td>
+      </tr>
+      <tr>
+        <td class="alt">164</td>
+        <td class="alt">Axmacher</td>
+        <td class="alt">Nikolai</td>
+        <td class="alt">Presynaptic Control of Efficacy of GABAergic Synapses in the Hippocampus</td>
+      </tr>
+      <tr>
+        <td>86</td>
+        <td>B. Mazza</td>
+        <td>Marcelo</td>
+        <td>Alterations of cortical representation areas in the surround of cortical lesion in 
+            a Computer Simulation of the Somatosensory system.</td>
+      </tr>
+      <tr>
+        <td class="alt">426</td>
+        <td class="alt">Baca</td>
+        <td class="alt">Serapio M.</td>
+        <td class="alt">Lateral inhibitory connections contribute to the local bend response in the medicinal 
+            leech (Hirudo medicinalis).</td>
+      </tr>
+      <tr>
+        <td>44</td>
+        <td>Bal</td>
+        <td>Thierry</td>
+        <td>CORTICOTHALAMIC FEEDBACK CONTROLS THE FREQUENCY AND SYNCHRONY OF THALAMIC OSCILLATIONS 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">143</td>
+        <td class="alt">Balasubramanian</td>
+        <td class="alt">Vijay</td>
+        <td class="alt">Metabolically Efficient Codes in The Retina</td>
+      </tr>
+      <tr>
+        <td>347</td>
+        <td>Ballard</td>
+        <td>Dana</td>
+        <td>A synchronous firing model of LGN</td>
+      </tr>
+      <tr>
+        <td class="alt">272</td>
+        <td class="alt">Barbieri</td>
+        <td class="alt">Riccardo</td>
+        <td class="alt">DIAGNOSTIC METHODS FOR STATISTICAL MODELS OF PLACE CELL SPIKING ACTIVITY</td>
+      </tr>
+      <tr>
+        <td>194</td>
+        <td>Bartsch</td>
+        <td>Hauke</td>
+        <td>Modeling contextual effects in macaque V1 by recurrent networks with multiple 
+          	inhibitors</td>
+      </tr>
+      <tr>
+        <td class="alt">477</td>
+        <td class="alt">Beatty</td>
+        <td class="alt">Jackson</td>
+        <td class="alt">The Neuronal Empiricism Hypothesis: Sensory Cortex as an Unsupervised Learning 
+            Machine</td>
+      </tr>
+      <tr>
+        <td>341</td>
+        <td>Beker</td>
+        <td>Tuvik</td>
+        <td>Emerging Command Neuron Circuitry in Evolved Autonomous Agents</td>
+      </tr>
+      <tr>
+        <td class="alt">205</td>
+        <td class="alt">Benda</td>
+        <td class="alt">Jan</td>
+        <td class="alt">Spike-Frequency Adaptation: Phenomenological Model and Experimental Tests</td>
+      </tr>
+      <tr>
+        <td>53</td>
+        <td>Bernroider</td>
+        <td>Gustav</td>
+        <td>Reconstructing the temporal ensemble code behind receptive field maps of the visual 
+            cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">370</td>
+        <td class="alt">Berquist</td>
+        <td class="alt">Rachel</td>
+        <td class="alt">The Virtual Dogfish: An environment for modelling neural computations in cerebellar-like 
+            circuitry of the elasmobranch electrosensory system.</td>
+      </tr>
+      <tr>
+        <td>383</td>
+        <td>Berry II</td>
+        <td>Michael J.</td>
+        <td>Firing Events: Fundamental Symbols in the Neural Code of Retinal Ganglion Cells? 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">307</td>
+        <td class="alt">Bethge</td>
+        <td class="alt">Matthias</td>
+        <td class="alt">Synchronous Inhibition as a Mechanism for Unbiased Selective Gain Control</td>
+      </tr>
+      <tr>
+        <td>37</td>
+        <td>Bhalla</td>
+        <td>Upinder</td>
+        <td>Temporal pattern decoding by synaptic signaling pathways</td>
+      </tr>
+      <tr>
+        <td class="alt">30</td>
+        <td class="alt">Bickle</td>
+        <td class="alt">John</td>
+        <td class="alt">MODELING CORTICOTHALAMIC EXCITATORY AND INTRATHALAMIC INHIBITORY SYNAPSES ON SIMULATED 
+          	THALAMIC RELAY (LGN) DENDRITES</td>
+      </tr>
+      <tr>
+        <td>57</td>
+        <td>Blackwell</td>
+        <td>Kim</td>
+        <td>Does calcium mediate the interaction between paired stimuli during classical 
+          	conditioning?</td>
+      </tr>
+      <tr>
+        <td class="alt">233</td>
+        <td class="alt">Blanchard</td>
+        <td class="alt">Mark</td>
+        <td class="alt">How accurate need sensory coding be for behavior? Experiments using a mobile robot.</td>
+      </tr>
+      <tr>
+        <td>216</td>
+        <td>Bleeck</td>
+        <td>Stefan</td>
+        <td>Spiking feed-forward neuronal networks with delays can simulate across-channel masking 
+            release</td>
+      </tr>
+      <tr>
+        <td class="alt">377</td>
+        <td class="alt">Boettiger</td>
+        <td class="alt">Charlotte</td>
+        <td class="alt">Developmentally Restricted Synaptic Plasticity in a Songbird Nucleus Critical for 
+            Song Learning.</td>
+      </tr>
+      <tr>
+        <td>106</td>
+        <td>Bogacz</td>
+        <td>Rafal</td>
+        <td>Model of co-operation between recency, familiarity and novelty neurons in the perirhinal 
+            cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">318</td>
+        <td class="alt">Bohland</td>
+        <td class="alt">Jason W.</td>
+        <td class="alt">Efficient Associative Memory Using Small-World Architecture</td>
+      </tr>
+      <tr>
+        <td>150</td>
+        <td>Booth</td>
+        <td>Victoria</td>
+        <td>Neural Mechanisms for Generating Temporal and Rate Codes</td>
+      </tr>
+      <tr>
+        <td class="alt">475</td>
+        <td class="alt">Borg-Graham</td>
+        <td class="alt">Lyle</td>
+        <td class="alt">The Computation of Directional Selectivity in the Retina Occurs Prior to the Ganglion 
+            Cell</td>
+      </tr>
+      <tr>
+        <td>476</td>
+        <td>Borg-Graham</td>
+        <td>Lyle</td>
+        <td>Adaptive Time Step and Ideal Voltage Clamp Methods for Compartmental Models</td>
+      </tr>
+      <tr>
+        <td class="alt">94</td>
+        <td class="alt">Borisyuk</td>
+        <td class="alt">Roman</td>
+        <td class="alt">A computational model of the septal pacemaker</td>
+      </tr>
+      <tr>
+        <td>340</td>
+        <td>Borisyuk</td>
+        <td>Alla</td>
+        <td>Computational model for the dynamic aspects of sound processing in the auditory 
+            midbrain</td>
+      </tr>
+      <tr>
+        <td class="alt">147</td>
+        <td class="alt">borst</td>
+        <td class="alt">alexander</td>
+        <td class="alt">Effects of mean firing rate on the information capacity in a fly visual interneuron</td>
+      </tr>
+      <tr>
+        <td>115</td>
+        <td>Bose</td>
+        <td>Amitabha</td>
+        <td>Control of network output by synaptic depression</td>
+      </tr>
+      <tr>
+        <td class="alt">148</td>
+        <td class="alt">Bota</td>
+        <td class="alt">Mihail</td>
+        <td class="alt">The NeuroHomologies Database</td>
+      </tr>
+      <tr>
+        <td>405</td>
+        <td>Bressler</td>
+        <td>Steven</td>
+        <td>Separation of Feedforward and Feedback Causal Influences in the Primate Visual Cortex 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">56</td>
+        <td class="alt">Brown</td>
+        <td class="alt">David</td>
+        <td class="alt">Significance of random neuronal drive</td>
+      </tr>
+      <tr>
+        <td>506</td>
+        <td>Bruins Slot</td>
+        <td>Liesbeth</td>
+        <td>A mechanism of signal transduction operating with a neurotransmitter receptor.</td>
+      </tr>
+      <tr>
+        <td class="alt">191</td>
+        <td class="alt">Brunel</td>
+        <td class="alt">Nicolas</td>
+        <td class="alt">Network gamma oscillations with intermittent firing of pyramidal cells in a recurrent 
+            excitatory-inhibitory circuit model</td>
+      </tr>
+      <tr>
+        <td>208</td>
+        <td>Buchs</td>
+        <td>Nissim</td>
+        <td>Learning direction selectivity in V1 cells by asymmetric spike-based synaptic 
+          	modifications</td>
+      </tr>
+      <tr>
+        <td class="alt">450</td>
+        <td class="alt">Burns</td>
+        <td class="alt">Gully A. P. C.</td>
+        <td class="alt">Towards a federated neuroscientific knowledge management system using brain atlases</td>
+      </tr>
+      <tr>
+        <td>460</td>
+        <td>Burton</td>
+        <td>Brent</td>
+        <td>Three-dimensional reconstruction of neuronal forests</td>
+      </tr>
+      <tr>
+        <td class="alt">471</td>
+        <td class="alt">Caplan</td>
+        <td class="alt">Jeremy</td>
+        <td class="alt">Detection and analysis of task-dependent theta oscillations in humans</td>
+      </tr>
+      <tr>
+        <td>303</td>
+        <td>Chacron</td>
+        <td>Maurice J.</td>
+        <td>Modeling P-type Electroreceptors</td>
+      </tr>
+      <tr>
+        <td class="alt">270</td>
+        <td class="alt">Chance</td>
+        <td class="alt">Frances</td>
+        <td class="alt">The Dynamics of Neuronal Firing Rates</td>
+      </tr>
+      <tr>
+        <td>309</td>
+        <td>Chance</td>
+        <td>Frances</td>
+        <td>Input-Specific Adaptation in Complex Cells Through Synaptic Depression</td>
+      </tr>
+      <tr>
+        <td class="alt">355</td>
+        <td class="alt">Chechik</td>
+        <td class="alt">Gal</td>
+        <td class="alt">Spike Time Dependent Plasticity Maximizes Mutual Information in a Spiking Neural 
+          	Network</td>
+      </tr>
+      <tr>
+        <td>243</td>
+        <td>Chepurnova</td>
+        <td>Nina E.</td>
+        <td>Hypothalamo-hypophysial neuropeptides interactions in the genesis of febrile 
+          	convulsions</td>
+      </tr>
+      <tr>
+        <td class="alt">338</td>
+        <td class="alt">Christodoulou</td>
+        <td class="alt">Chris</td>
+        <td class="alt">Coefficient of Variation (CV) vs Mean Interspike Interval (ISI) curves: what do they 
+            tell us about the brain?</td>
+      </tr>
+      <tr>
+        <td>311</td>
+        <td>Compte</td>
+        <td>Albert</td>
+        <td>Mean field reduction and bifurcation analysis of a spatial working memory network 
+          	model</td>
+      </tr>
+      <tr>
+        <td class="alt">458</td>
+        <td class="alt">Coop</td>
+        <td class="alt">Allan</td>
+        <td class="alt">Deciphering the Neural Code: Neuronal Discharge Variability is Preferentially 
+            Controlled by the Temporal Distribution of Afferent Impulses</td>
+      </tr>
+      <tr>
+        <td>80</td>
+        <td>Corchs</td>
+        <td>Silvia</td>
+        <td>Selective Attention in Visual Search: a Neural Network of Phase Oscillators.</td>
+      </tr>
+      <tr>
+        <td class="alt">480</td>
+        <td class="alt">Cornelisse</td>
+        <td class="alt">Lennart N.</td>
+        <td class="alt">Minimal model for spontaneous Ca2+ oscillations coupled to electrical bursting in 
+            a neuroendocrine cell</td>
+      </tr>
+      <tr>
+        <td>424</td>
+        <td>Cowen</td>
+        <td>Stephen</td>
+        <td>Spike Train Segmentation and Recognition: Identifying The Neural Correlates of 
+            Decisions</td>
+      </tr>
+      <tr>
+        <td class="alt">110</td>
+        <td class="alt">Crawford</td>
+        <td class="alt">J. Douglas</td>
+        <td class="alt">Modelling and testing the principle of computation-on-demand in the 3-D saccade 
+            generator.</td>
+      </tr>
+      <tr>
+        <td>36</td>
+        <td>Crook</td>
+        <td>Sharon</td>
+        <td>Stimulus-dependent synaptic inputs in a sensory interneuron model</td>
+      </tr>
+      <tr>
+        <td class="alt">372</td>
+        <td class="alt">Cymbalyuk</td>
+        <td class="alt">Gennady</td>
+        <td class="alt">A model of slow plateau-like oscillations based upon the fast Na+ current in a window 
+            mode.</td>
+      </tr>
+      <tr>
+        <td>285</td>
+        <td>Davison</td>
+        <td>Andrew</td>
+        <td>Spike synchronization in a biophysically-detailed model of the olfactory bulb</td>
+      </tr>
+      <tr>
+        <td class="alt">389</td>
+        <td class="alt">Daw</td>
+        <td class="alt">Nathaniel</td>
+        <td class="alt">Operant behavior suggests attentional gating of dopamine system inputs</td>
+      </tr>
+      <tr>
+        <td>509</td>
+        <td>De Buysscher</td>
+        <td>Tristan</td>
+        <td>Entropy of Olfactory Bulb Mitral Cell Spike Trains</td>
+      </tr>
+      <tr>
+        <td class="alt">169</td>
+        <td class="alt">de Kamps</td>
+        <td class="alt">Marc</td>
+        <td class="alt">Using a recurrent network to bind form and position information into a unified 
+          	percept.</td>
+      </tr>
+      <tr>
+        <td>447</td>
+        <td>de Lafuente Flores</td>
+        <td>Victor Hugo</td>
+        <td>A computer program to study Herman Illusion and some new variants.</td>
+      </tr>
+      <tr>
+        <td class="alt">88</td>
+        <td class="alt">de Pinho</td>
+        <td class="alt">Marilene</td>
+        <td class="alt">A Computational Model of Tonotopic Reorganization in the Auditory Cortex in Response 
+            to Cochlear Lesions.</td>
+      </tr>
+      <tr>
+        <td>222</td>
+        <td>Del Giudice</td>
+        <td>Paolo</td>
+        <td>Short-term synaptic depression: implications for learning</td>
+      </tr>
+      <tr>
+        <td class="alt">228</td>
+        <td class="alt">Del Giudice</td>
+        <td class="alt">Paolo</td>
+        <td class="alt">Formation of working memory in networks of spiking neurons and spike-driven synapses</td>
+      </tr>
+      <tr>
+        <td>230</td>
+        <td>Del Negro</td>
+        <td>Christopher</td>
+        <td>Periodic, quasiperiodic, and chaotic states in rhythm-generating networks: studies with 
+          	the mammalian respiratory oscillator</td>
+      </tr>
+      <tr>
+        <td class="alt">157</td>
+        <td class="alt">Del Prete</td>
+        <td class="alt">Valeria</td>
+        <td class="alt">How much do they tell us to move?</td>
+      </tr>
+      <tr>
+        <td>246</td>
+        <td>Delorme</td>
+        <td>Arnaud</td>
+        <td>Networks of Integrate-and-Fire Neurons using Rank Order Coding I: Receptive Field 
+          	Emergence</td>
+      </tr>
+      <tr>
+        <td class="alt">234</td>
+        <td class="alt">DeMaris</td>
+        <td class="alt">David</td>
+        <td class="alt">Distributions of Sampled Attractor Basin Transients: a population code for object 
+            representation</td>
+      </tr>
+      <tr>
+        <td>81</td>
+        <td>Denham</td>
+        <td>Michael</td>
+        <td>Computational modelling of septo-hippocampal theta-rhythm production</td>
+      </tr>
+      <tr>
+        <td class="alt">91</td>
+        <td class="alt">Denham</td>
+        <td class="alt">Susan</td>
+        <td class="alt">An Investigation into the Role of Cortical Synaptic Depression in Auditory Processing</td>
+      </tr>
+      <tr>
+        <td>43</td>
+        <td>Destexhe</td>
+        <td>Alain</td>
+        <td>IN VIVO AND COMPUTATIONAL STUDY OF CORTICALLY-GENERATED SPIKE-AND-WAVE OSCILLATIONS</td>
+      </tr>
+      <tr>
+        <td class="alt">60</td>
+        <td class="alt">Destexhe</td>
+        <td class="alt">Alain</td>
+        <td class="alt">SIMPLIFIED MODELS OF NEOCORTICAL PYRAMIDAL CELLS PRESERVING SOMATODENDRITIC VOLTAGE 
+            ATTENUATION</td>
+      </tr>
+      <tr>
+        <td>182</td>
+        <td>Diesmann</td>
+        <td>Markus</td>
+        <td>STATE SPACE ANALYSIS OF SYNCHRONOUS SPIKING IN CORTICAL NEURAL NETWORKS</td>
+      </tr>
+      <tr>
+        <td class="alt">348</td>
+        <td class="alt">Dimitrov</td>
+        <td class="alt">Alexander G.</td>
+        <td class="alt">Non-uniform quantizaion of neural spike sequences through an information distortion 
+          	measure</td>
+      </tr>
+      <tr>
+        <td>432</td>
+        <td>Djurfeldt</td>
+        <td>Mikael</td>
+        <td>Cortex-basal ganglia interaction during learning of sequential and hierarchical 
+            tasks</td>
+      </tr>
+      <tr>
+        <td class="alt">301</td>
+        <td class="alt">Doboli</td>
+        <td class="alt">Simona</td>
+        <td class="alt">An Attractor Model for Hippocampal Place Cell Hysteresis</td>
+      </tr>
+      <tr>
+        <td>131</td>
+        <td>Drew</td>
+        <td>Patrick</td>
+        <td>Spike-timing dependant potentiation and depression in a recurrent cortical network 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">173</td>
+        <td class="alt">Eggert</td>
+        <td class="alt">Julian</td>
+        <td class="alt">Fast Dynamic Organization without Short-Term Synaptic Plasticity: A New View Of 
+            Hebb's Dynamical Assemblies</td>
+      </tr>
+      <tr>
+        <td>492</td>
+        <td>Eghbalnia</td>
+        <td>Hamid</td>
+        <td>An Application of Support Vector Machines to Computational Modeling Perception of 
+            Symmetry through Visual Attention</td>
+      </tr>
+      <tr>
+        <td class="alt">129</td>
+        <td class="alt">Eglen</td>
+        <td class="alt">Stephen</td>
+        <td class="alt">An evaluation of competitive and cell death mechanisms in forming on- and off-centre 
+            retinal ganglion cell mosaics</td>
+      </tr>
+      <tr>
+        <td>195</td>
+        <td>Einevoll</td>
+        <td>Gaute T.</td>
+        <td>Probing mechanistic models for the retinogeniculate circuit in cat using drifting 
+          	gratings</td>
+      </tr>
+      <tr>
+        <td class="alt">319</td>
+        <td class="alt">Eliasmith</td>
+        <td class="alt">Chris</td>
+        <td class="alt">Beyond Bumps: Spiking Networks that Store Smooth n-Dimensional Functions</td>
+      </tr>
+      <tr>
+        <td>507</td>
+        <td>Ellis</td>
+        <td>Steven</td>
+        <td>Topology of Ambiguity</td>
+      </tr>
+      <tr>
+        <td class="alt">217</td>
+        <td class="alt">Ernst</td>
+        <td class="alt">Udo</td>
+        <td class="alt">Spontaneous emergence of orientation preference and direction selectivity through lateral 
+            intracortical interactions</td>
+      </tr>
+      <tr>
+        <td>275</td>
+        <td>Fanselow</td>
+        <td>Erika</td>
+        <td>Use of a Model of the Thalamocortical Loop to Deduce Sources of Behavior-Related 
+            Changes in Tactile Response Characteristics</td>
+      </tr>
+      <tr>
+        <td class="alt">126</td>
+        <td class="alt">Feerick</td>
+        <td class="alt">Stuart</td>
+        <td class="alt">Increasing inhibition can boost a neuron's firing rate</td>
+      </tr>
+      <tr>
+        <td>68</td>
+        <td>Fellous</td>
+        <td>Jean-Marc</td>
+        <td>Computational model of carbachol-induced delta, theta and gamma-like oscillations 
+            in hippocampus</td>
+      </tr>
+      <tr>
+        <td class="alt">73</td>
+        <td class="alt">feng</td>
+        <td class="alt">jianfeng</td>
+        <td class="alt">Impact of Geometrical Structures On the Output of Neuronal Models--From Spikes To 
+          	Bursts</td>
+      </tr>
+      <tr>
+        <td>141</td>
+        <td>Ferree</td>
+        <td>Thomas</td>
+        <td>High-resolution EEG systems for studying human brain dynamics</td>
+      </tr>
+      <tr>
+        <td class="alt">438</td>
+        <td class="alt">Field</td>
+        <td class="alt">Brent</td>
+        <td class="alt">The Calculation of Neuronal Signal-to-Noise Ratios using Sine-Wave Estimation of the 
+            System Kernel</td>
+      </tr>
+      <tr>
+        <td>503</td>
+        <td>Foldiak</td>
+        <td>Peter</td>
+        <td>Stimulus optimization in primary visual cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">292</td>
+        <td class="alt">Francis</td>
+        <td class="alt">Joseph</td>
+        <td class="alt">Synchronization Between Neuronal Ensembles Via Their Electric Fields</td>
+      </tr>
+      <tr>
+        <td>196</td>
+        <td>Franck</td>
+        <td>Paul</td>
+        <td>Synchronization in and between patches in a model of the cerebellar granular layer</td>
+      </tr>
+      <tr>
+        <td class="alt">419</td>
+        <td class="alt">Franks</td>
+        <td class="alt">Kevin</td>
+        <td class="alt">An MCell Model of Calcium Dynamics and Calmodulin Activation in Dendritic Spines.</td>
+      </tr>
+      <tr>
+        <td>273</td>
+        <td>Fransen</td>
+        <td>Erik</td>
+        <td>Entorhinal neuronal activity during delayed matching tasks may depend upon calcium 
+          	activated non-specific cation current I(CANM).</td>
+      </tr>
+      <tr>
+        <td class="alt">200</td>
+        <td class="alt">Friesen</td>
+        <td class="alt">W. Otto</td>
+        <td class="alt">Role of Feedback Loops in the Scorpion Circadian System</td>
+      </tr>
+      <tr>
+        <td>495</td>
+        <td>Fukuda</td>
+        <td>Ryuta</td>
+        <td>Development of connectivity of human cerebral cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">332</td>
+        <td class="alt">Fusi</td>
+        <td class="alt">Stefano</td>
+        <td class="alt">Long term memory: encoding and storing strategies of the brain</td>
+      </tr>
+      <tr>
+        <td>118</td>
+        <td>Gardner</td>
+        <td>Daniel</td>
+        <td>A Common Data Model for Recording and Simulation Datasets and Descriptive Metadata</td>
+      </tr>
+      <tr>
+        <td class="alt">136</td>
+        <td class="alt">Gardner</td>
+        <td class="alt">Esther</td>
+        <td class="alt">COMPARATIVE ROLES OF PRIMARY SOMATOSENSORY (SI) AND POSTERIOR PARIETAL CORTEX (PPC) 
+            IN GOAL-DIRECTED ACTIONS OF THE HAND.</td>
+      </tr>
+      <tr>
+        <td>508</td>
+        <td>Garliauskas</td>
+        <td>Algis</td>
+        <td>The Visual Cortex Modeling by the Hexagonal Topology</td>
+      </tr>
+      <tr>
+        <td class="alt">379</td>
+        <td class="alt">Gauck</td>
+        <td class="alt">Volker</td>
+        <td class="alt">The spike rate of deep cerebellar nucleus neurons is strongly influenced by the 
+          	synchronization of inhibitory inputs</td>
+      </tr>
+      <tr>
+        <td>499</td>
+        <td>Geisler</td>
+        <td>Caroline</td>
+        <td>A Network Model for Theta Oscillations in the Septohippocampal System</td>
+      </tr>
+      <tr>
+        <td class="alt">177</td>
+        <td class="alt">Gewaltig</td>
+        <td class="alt">Marc-Oliver</td>
+        <td class="alt">CORTICAL SYNFIRE ACTIVITY: CONFIGURATION SPACE AND SURVIVAL PROBABILITY</td>
+      </tr>
+      <tr>
+        <td>34</td>
+        <td>Gibson</td>
+        <td>William G.</td>
+        <td>A Monte Carlo analysis of calcium dynamics and exocytosis in nerve terminals</td>
+      </tr>
+      <tr>
+        <td class="alt">116</td>
+        <td class="alt">Gillies</td>
+        <td class="alt">Andrew</td>
+        <td class="alt">THE ROLE OF SUBTHALAMIC NUCLEUS INTRANUCLEAR AXON COLLATERALS IN BASAL GANGLIA PROCESSING: 
+            EVIDENCE FROM COMPUTATIONAL MODELS AND IN VITRO EXPERIMENT</td>
+      </tr>
+      <tr>
+        <td>342</td>
+        <td>Giszter</td>
+        <td>Simon</td>
+        <td>Modeling of dynamic controls in the frog wiping reflex : force-field level controls.</td>
+      </tr>
+      <tr>
+        <td class="alt">160</td>
+        <td class="alt">Giugliano</td>
+        <td class="alt">Michele</td>
+        <td class="alt">Electrophysiological activity to cell metabolism signal transduction: possible feedback 
+            regulatory biochemical pathways</td>
+      </tr>
+      <tr>
+        <td>417</td>
+        <td>Glantz</td>
+        <td>Raymon</td>
+        <td>Information Processing in a Neural System</td>
+      </tr>
+      <tr>
+        <td class="alt">256</td>
+        <td class="alt">Goddard</td>
+        <td class="alt">Nigel</td>
+        <td class="alt">NEOSIM: Portable large-scale plug-and-play neuronal modelling</td>
+      </tr>
+      <tr>
+        <td>255</td>
+        <td>Goldman</td>
+        <td>Mark</td>
+        <td>Information Transmission Across a Dynamic Synapse</td>
+      </tr>
+      <tr>
+        <td class="alt">84</td>
+        <td class="alt">Gradwohl</td>
+        <td class="alt">Gideon</td>
+        <td class="alt">DENDRITIC VOLTAGE DEPENDENT CONDUCTANCES ENCREASE THE EXCITATORY SYNAPTIC RESPONSE AND 
+            ITS POSTSYNAPTIC INHIBITION IN A RECONSTRUCTED alpha-MOTONEURON: A COMPUTER MODEL</td>
+      </tr>
+      <tr>
+        <td>39</td>
+        <td>Graham</td>
+        <td>Bruce</td>
+        <td>Compartmental models of growing neurites</td>
+      </tr>
+      <tr>
+        <td class="alt">79</td>
+        <td class="alt">Graham</td>
+        <td class="alt">Bruce</td>
+        <td class="alt">A Computational Model of Synaptic Transmission at the Calyx of Held</td>
+      </tr>
+      <tr>
+        <td>231</td>
+        <td>Grandhe</td>
+        <td>Sarvani</td>
+        <td>Presence of brain-spinal cord interactions alters lamprey locomotor response to 
+          	periodic perturbation</td>
+      </tr>
+      <tr>
+        <td class="alt">420</td>
+        <td class="alt">Grandis</td>
+        <td class="alt">Kurt M.</td>
+        <td class="alt">Wavelet analyses of temporal patterns of taste responses in the nucleus of the solitary 
+            tract of the rat</td>
+      </tr>
+      <tr>
+        <td>224</td>
+        <td>Grasso</td>
+        <td>Frank</td>
+        <td>Dynamic Filter Properties of Lobster-Nose Chemo-Receptors: Peak Performance Evaluation 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">497</td>
+        <td class="alt">Green</td>
+        <td class="alt">Gary</td>
+        <td class="alt">Minimal Realisations of Neuronal Models</td>
+      </tr>
+      <tr>
+        <td>435</td>
+        <td>Grigull</td>
+        <td>Jorg</td>
+        <td>Frequency Switches in Inhibitory Networks with Synaptic Depression</td>
+      </tr>
+      <tr>
+        <td class="alt">89</td>
+        <td class="alt">Gruner</td>
+        <td class="alt">Charlotte</td>
+        <td class="alt">Comparison of optimal and suboptimal spike-sorting algorithms to theoretical limits</td>
+      </tr>
+      <tr>
+        <td>250</td>
+        <td>Guetig</td>
+        <td>Robert</td>
+        <td>Significance of Coincident Spikes: Count-Based versus Rate-Based Statistics</td>
+      </tr>
+      <tr>
+        <td class="alt">183</td>
+        <td class="alt">Gutkin</td>
+        <td class="alt">Boris</td>
+        <td class="alt">Asynchrony is necessary for the maintenance of sustained neural activity</td>
+      </tr>
+      <tr>
+        <td>474</td>
+        <td>Gutkin</td>
+        <td>Boris S</td>
+        <td>Input frequency tuning and spike-time precision in cortical neurons is predicted by 
+            type I membrane excitability.</td>
+      </tr>
+      <tr>
+        <td class="alt">146</td>
+        <td class="alt">Haag</td>
+        <td class="alt">Juergen</td>
+        <td class="alt">Optical imaging of connectivity between fly tangential cells</td>
+      </tr>
+      <tr>
+        <td>351</td>
+        <td>Haskell</td>
+        <td>Evan</td>
+        <td>A population density approach that facilitates large-scale modeling of neural networks: 
+            extension to arbitrary synaptic kinetics</td>
+      </tr>
+      <tr>
+        <td class="alt">401</td>
+        <td class="alt">Hasselmo</td>
+        <td class="alt">Michael</td>
+        <td class="alt">Theta rhythm oscillations and sequence encoding in the hippocampus.</td>
+      </tr>
+      <tr>
+        <td>128</td>
+        <td>Heimel</td>
+        <td>Jan-Alexander 
+            Heimel</td>
+        <td>Stable Orientation Tuning in the Visual Cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">76</td>
+        <td class="alt">Heldoorn</td>
+        <td class="alt">Marcel</td>
+        <td class="alt">Modelling the Control and Biomechanics of Sphincter Muscles</td>
+      </tr>
+      <tr>
+        <td>140</td>
+        <td>Hennig</td>
+        <td>Matthias</td>
+        <td>A biophysically realistic Simulation of the vertebrate Retina</td>
+      </tr>
+      <tr>
+        <td class="alt">468</td>
+        <td class="alt">Hertz</td>
+        <td class="alt">John</td>
+        <td class="alt">Stability of Asynchronous Firing States in Networks with Synaptic Adaptation</td>
+      </tr>
+      <tr>
+        <td>343</td>
+        <td>Hilgetag</td>
+        <td>Claus C</td>
+        <td>Uniformity and specificity of long-range corticocortical connections in the visual 
+            cortex of the cat</td>
+      </tr>
+      <tr>
+        <td class="alt">398</td>
+        <td class="alt">Hilgetag</td>
+        <td class="alt">Claus C</td>
+        <td class="alt">Neural mechanisms of spatial attention in the cat</td>
+      </tr>
+      <tr>
+        <td>397</td>
+        <td>Hitt</td>
+        <td>James</td>
+        <td>Deciphering a Neural Code for Vision</td>
+      </tr>
+      <tr>
+        <td class="alt">23</td>
+        <td class="alt">Hoshino</td>
+        <td class="alt">Osamu</td>
+        <td class="alt">Echo sound detection in the inferior colliculus for human echolocation</td>
+      </tr>
+      <tr>
+        <td>371</td>
+        <td>Houweling</td>
+        <td>Arthur</td>
+        <td>Models of frequency preferences of cortical pyramidal cells and interneurons</td>
+      </tr>
+      <tr>
+        <td class="alt">31</td>
+        <td class="alt">Huber</td>
+        <td class="alt">Martin Tobias</td>
+        <td class="alt">Some Computational Aspects of the Kindling Model for Neuropsychiatric Disorders</td>
+      </tr>
+      <tr>
+        <td>189</td>
+        <td>Hyvarinen</td>
+        <td>Aapo</td>
+        <td>Topographic independent component analysis as a model of V1 organization and receptive 
+          	fields</td>
+      </tr>
+      <tr>
+        <td class="alt">453</td>
+        <td class="alt">Ikeno</td>
+        <td class="alt">Hidetoshi</td>
+        <td class="alt">Reconstruction of honeybee behavior within the observation hive</td>
+      </tr>
+      <tr>
+        <td>168</td>
+        <td>Inoue</td>
+        <td>Satoru</td>
+        <td>Neural processes of self-organization of control system for foraging trips of 
+          	honeybees</td>
+      </tr>
+      <tr>
+        <td class="alt">199</td>
+        <td class="alt">Inoue</td>
+        <td class="alt">Satoru</td>
+        <td class="alt">An essential role of downward sweep rate of FM pulse in echolocation of bat</td>
+      </tr>
+      <tr>
+        <td>47</td>
+        <td>Izhikevich</td>
+        <td>Eugene</td>
+        <td>Classification of Neural Bursting</td>
+      </tr>
+      <tr>
+        <td class="alt">391</td>
+        <td class="alt">Jazayeri</td>
+        <td class="alt">Mehrdad</td>
+        <td class="alt">Control of Network Frequency by the Number of Synaptic Inputs</td>
+      </tr>
+      <tr>
+        <td>203</td>
+        <td>Jenison</td>
+        <td>Rick</td>
+        <td>Decoding First-spike Latency : The Maximum Likelihood Referent</td>
+      </tr>
+      <tr>
+        <td class="alt">329</td>
+        <td class="alt">Jerger</td>
+        <td class="alt">Kristin</td>
+        <td class="alt">Linear and Nonlinear Dynamics in Human Seizures</td>
+      </tr>
+      <tr>
+        <td>290</td>
+        <td>Jirsa</td>
+        <td>Viktor</td>
+        <td>Global Reorganization of spatiotemporal neural activity controlled by local changes in 
+          	synaptic weights of long-range fibers</td>
+      </tr>
+      <tr>
+        <td class="alt">452</td>
+        <td class="alt">Johnston</td>
+        <td class="alt">Patrick</td>
+        <td class="alt">Neu-MODEL: a Multi-level Object-oriented Dynamic Emulation Lab</td>
+      </tr>
+      <tr>
+        <td>259</td>
+        <td>Kali</td>
+        <td>Szabolcs</td>
+        <td>A familiarity-based learning procedure for the establishment of place fields in area CA3 
+            of the rat hippocampus</td>
+      </tr>
+      <tr>
+        <td class="alt">308</td>
+        <td class="alt">Kamitani</td>
+        <td class="alt">Yukiyasu</td>
+        <td class="alt">A Model of Magnetic Stimulation of Neocortical Neurons</td>
+      </tr>
+      <tr>
+        <td>197</td>
+        <td>Kaschube</td>
+        <td>Matthias</td>
+        <td>The Prevalence of Colinear Contours in the Real World</td>
+      </tr>
+      <tr>
+        <td class="alt">100</td>
+        <td class="alt">Kashimori</td>
+        <td class="alt">Yoshiki</td>
+        <td class="alt">A neural model of amygdala playing an essential role in formation of brain maps for 
+            accomplishing spatial tasks</td>
+      </tr>
+      <tr>
+        <td>105</td>
+        <td>Kashimori</td>
+        <td>Yoshiki</td>
+        <td>A role of synchronous firing of sensory-motor interface induced by noise in sign 
+          	selective process of jamming avoidance response</td>
+      </tr>
+      <tr>
+        <td class="alt">179</td>
+        <td class="alt">Kashimori</td>
+        <td class="alt">Yoshiki</td>
+        <td class="alt">A neural network model of optic tectum binding visual and electrosensory information 
+            in electrolocation of weakly electric fish</td>
+      </tr>
+      <tr>
+        <td>385</td>
+        <td>Kepecs</td>
+        <td>Adam</td>
+        <td>Games pyramidal cells play: The somato-dendritic ping-pong</td>
+      </tr>
+      <tr>
+        <td class="alt">386</td>
+        <td class="alt">Kepecs</td>
+        <td class="alt">Adam</td>
+        <td class="alt">Spike routing using differential short-term synaptic plasticity</td>
+      </tr>
+      <tr>
+        <td>188</td>
+        <td>Kikuchi</td>
+        <td>Masayuki</td>
+        <td>Invariant Pattern Recognition with Eye Movement: A Neural Network Model</td>
+      </tr>
+      <tr>
+        <td class="alt">431</td>
+        <td class="alt">Kiss</td>
+        <td class="alt">Tamas</td>
+        <td class="alt">Intrahippocampal gamma and theta rhythm generation in a network model of inhibitory 
+            interneurons</td>
+      </tr>
+      <tr>
+        <td>71</td>
+        <td>Kistler</td>
+        <td>Werner M.</td>
+        <td>Time-Slicing: A Model for Cerebellar Function Based on Synchronization, Reverberation, 
+            and Time Windows</td>
+      </tr>
+      <tr>
+        <td class="alt">98</td>
+        <td class="alt">Kitano</td>
+        <td class="alt">Katsunori</td>
+        <td class="alt">SYNCHRONOUS AND ASYNCHRONOUS ACTIVITIES IN A NETWORK MODEL OF STRIATAL SPINY PROJECTION 
+            NEURONS</td>
+      </tr>
+      <tr>
+        <td>367</td>
+        <td>Koh</td>
+        <td>Wonryull</td>
+        <td>Organization and Visualization of the Brain Tissue Volume Data</td>
+      </tr>
+      <tr>
+        <td class="alt">125</td>
+        <td class="alt">Kosmidis</td>
+        <td class="alt">Efstratios</td>
+        <td class="alt">A model of respiration rhythmogenesis bridging network and pacemaker theories.</td>
+      </tr>
+      <tr>
+        <td>227</td>
+        <td>Kozlov</td>
+        <td>Alexander</td>
+        <td>Turning behavior in lamprey in response to descending unilateral commands: experiments 
+            and modeling</td>
+      </tr>
+      <tr>
+        <td class="alt">387</td>
+        <td class="alt">Kozma</td>
+        <td class="alt">Robert</td>
+        <td class="alt">Emergence of un-correlated common-mode oscillations in the sensory cortex - modeling 
+            and experiments</td>
+      </tr>
+      <tr>
+        <td>120</td>
+        <td>Krekelberg</td>
+        <td>Bart</td>
+        <td>Deconstructing the Receptive Field: Information Coding in macaque area MST</td>
+      </tr>
+      <tr>
+        <td class="alt">357</td>
+        <td class="alt">Krukowski</td>
+        <td class="alt">Anton</td>
+        <td class="alt">A Model of Visual Cortical Temporal Frequency Tuning</td>
+      </tr>
+      <tr>
+        <td>206</td>
+        <td>Kunec</td>
+        <td>Steve</td>
+        <td>Dynamics of mutually coupled self-inhibitory neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">176</td>
+        <td class="alt">Kötter</td>
+        <td class="alt">Rolf</td>
+        <td class="alt">The connectional organization of primate prefrontal cortex</td>
+      </tr>
+      <tr>
+        <td>223</td>
+        <td>Lago-Fernández</td>
+        <td>Luis Fernando</td>
+        <td>A Biologically Inspired Visual System for an Autonomous Robot</td>
+      </tr>
+      <tr>
+        <td class="alt">55</td>
+        <td class="alt">Laing</td>
+        <td class="alt">Carlo</td>
+        <td class="alt">The role of spike frequency adaptation in bumps</td>
+      </tr>
+      <tr>
+        <td>117</td>
+        <td>Lansky</td>
+        <td>Petr</td>
+        <td>The overdispersion in activity of place cells</td>
+      </tr>
+      <tr>
+        <td class="alt">333</td>
+        <td class="alt">Lauritzen</td>
+        <td class="alt">Thomas</td>
+        <td class="alt">A model of cross-orientation inhibition in cat V1.</td>
+      </tr>
+      <tr>
+        <td>187</td>
+        <td>Lee</td>
+        <td>Sung-Jong</td>
+        <td>The Functional Roles of Chemical Coupling and Gap Junction between Horizontal Cells 
+            in the Catfish Retina.</td>
+      </tr>
+      <tr>
+        <td class="alt">236</td>
+        <td class="alt">Leibold</td>
+        <td class="alt">Christian</td>
+        <td class="alt">An Interaural Time Difference Map Resulting from Axonal Selection through Non-Specific 
+            Learning</td>
+      </tr>
+      <tr>
+        <td>41</td>
+        <td>Lengyel</td>
+        <td>Máté</td>
+        <td>A detuned oscillator model of place cell phase precession in the rat hippocampus.</td>
+      </tr>
+      <tr>
+        <td class="alt">130</td>
+        <td class="alt">Lewis</td>
+        <td class="alt">Timothy J.</td>
+        <td class="alt">Synchronous Oscillations in Recurrent Networks with Gap Junctional Coupling</td>
+      </tr>
+      <tr>
+        <td>500</td>
+        <td>Lewis</td>
+        <td>M. Anthony</td>
+        <td>Control of a Robot Leg with an Adaptive aVLSI CPG Chip</td>
+      </tr>
+      <tr>
+        <td class="alt">382</td>
+        <td class="alt">Liang</td>
+        <td class="alt">Hualou</td>
+        <td class="alt">The Detection of Cognitive State Transitions by Stability Changes in Event-Related 
+            Cortical Field Potentials</td>
+      </tr>
+      <tr>
+        <td>384</td>
+        <td>Liang</td>
+        <td>Hualou</td>
+        <td>Temporal Dynamics of Information Flow in the Cerebral Cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">505</td>
+        <td class="alt">Litvak</td>
+        <td class="alt">Vladimir</td>
+        <td class="alt">On the Transmission of Rate Code in Long Feed-Forward Networks with Excitatory-Inhibitory 
+            Balance.</td>
+      </tr>
+      <tr>
+        <td>483</td>
+        <td>Lorincz</td>
+        <td>Andras</td>
+        <td>Independent component analysis of temporally convolved natural image sequences yields 
+          	spatio-temporal filters similar to cells in primary visual cortex</td>
+      </tr>
+      <tr>
+        <td class="alt">337</td>
+        <td class="alt">Lu</td>
+        <td class="alt">Huo</td>
+        <td class="alt">NORADRENERGIC MODULATION OF INTERNEURON AND PURKINJE CELL INTERACTION IN RAT CEREBELLUM: 
+            USING PAIRED CELL RECORDING</td>
+      </tr>
+      <tr>
+        <td>83</td>
+        <td>Lörincz</td>
+        <td>András</td>
+        <td>Is the hippocampus engaged in forming and encoding independent components of temporal 
+            sequences?</td>
+      </tr>
+      <tr>
+        <td class="alt">210</td>
+        <td class="alt">M. Kuva</td>
+        <td class="alt">Silvia</td>
+        <td class="alt">A simple non-linear element with Excitable, Bursting, Regular Spiking, Fast Spiking and 
+            Cardiac generic dynamics</td>
+      </tr>
+      <tr>
+        <td>202</td>
+        <td>Machens</td>
+        <td>Christian</td>
+        <td>Discrimination of behaviorally relevant signals by auditory receptor neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">425</td>
+        <td class="alt">MacKay</td>
+        <td class="alt">David J. C.</td>
+        <td class="alt">Model fitting as an Aid to Bridge Balancing in Neuronal Recording</td>
+      </tr>
+      <tr>
+        <td>469</td>
+        <td>Marsalek</td>
+        <td>Petr</td>
+        <td>Cochlear nuclei - remarks to sound localization at low frequencies</td>
+      </tr>
+      <tr>
+        <td class="alt">361</td>
+        <td class="alt">Mayer</td>
+        <td class="alt">Norbert</td>
+        <td class="alt">Signatures of Natural Image Statistics in Cortical Simple Cell Receptive Fields 
+          </td>
+      </tr>
+      <tr>
+        <td>487</td>
+        <td>Mehta</td>
+        <td>Mayank</td>
+        <td>The Role of LTP in the Generation of Spiking Patterns</td>
+      </tr>
+      <tr>
+        <td class="alt">501</td>
+        <td class="alt">Mélanie</td>
+        <td class="alt">Aeschlimann</td>
+        <td class="alt">Biophysical model of axonal pathfinding</td>
+      </tr>
+      <tr>
+        <td>457</td>
+        <td>Mihaliuk</td>
+        <td>Eugene</td>
+        <td>Resonant Patterns: Learning, separation, and recognition of pattern sequences by 
+          	synchronization in dynamical systems.</td>
+      </tr>
+      <tr>
+        <td class="alt">409</td>
+        <td class="alt">Mikaelian</td>
+        <td class="alt">Samuel</td>
+        <td class="alt">Modeling Temporal Response Characteristics of V1 Neurons with a Dynamic Normalization 
+            Model</td>
+      </tr>
+      <tr>
+        <td>412</td>
+        <td>Miller</td>
+        <td>Clyde</td>
+        <td>Measurement and Simulation of Stimulus and Response in the Dorsal Light Reflex of 
+            the Crayfish</td>
+      </tr>
+      <tr>
+        <td class="alt">485</td>
+        <td class="alt">Mocanu</td>
+        <td class="alt">Octavian-Dumitru</td>
+        <td class="alt">THE EFFECT OF TRIAXIAL ELECTRODE STIMULATION ON ACTIVE NEURONAL PROCESSES</td>
+      </tr>
+      <tr>
+        <td>327</td>
+        <td>Munro</td>
+        <td>Paul</td>
+        <td>Time-dependent LTD as a stability factor</td>
+      </tr>
+      <tr>
+        <td class="alt">66</td>
+        <td class="alt">Nagashino</td>
+        <td class="alt">Hirofumi</td>
+        <td class="alt">A neural network model for quadruped gait generation and transitions</td>
+      </tr>
+      <tr>
+        <td>339</td>
+        <td>Nasuto</td>
+        <td>Slawomir J.</td>
+        <td>A computational study of the relationship between neuronal morphology and electrophysiology 
+            in an Alzheimer's Disease model</td>
+      </tr>
+      <tr>
+        <td class="alt">376</td>
+        <td class="alt">Neiman</td>
+        <td class="alt">Alexander</td>
+        <td class="alt">Comparing four measures of electroreceptor sensitivity in paddlefish</td>
+      </tr>
+      <tr>
+        <td>403</td>
+        <td>Neiman</td>
+        <td>Alexander</td>
+        <td>Mutual synchronization of electroreceptor in paddlefish due to external periodic and 
+          	stochastic stimuli</td>
+      </tr>
+      <tr>
+        <td class="alt">61</td>
+        <td class="alt">Nenadic</td>
+        <td class="alt">Zoran</td>
+        <td class="alt">Propagating waves in visual cortex: A large-scale model of turtle visual cortex</td>
+      </tr>
+      <tr>
+        <td>153</td>
+        <td>Nenadic</td>
+        <td>Zoran</td>
+        <td>Control of Arm Movement Using Population of Neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">324</td>
+        <td class="alt">Netoff</td>
+        <td class="alt">Theoden</td>
+        <td class="alt">Detecting nonlinear interactions between cells in the hippocampus</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td>Okamoto</td>
+        <td>Hiroshi</td>
+        <td>Internal representation of temporal duration by stochastic dynamics of recurrent networks 
+            of bistable neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">174</td>
+        <td class="alt">Okamoto</td>
+        <td class="alt">Hiroshi</td>
+        <td class="alt">Internal representation of temporal duration by stochastic dynamics of recurrent networks 
+            of bistable neurons</td>
+      </tr>
+      <tr>
+        <td>463</td>
+        <td>Olshausen</td>
+        <td>Bruno</td>
+        <td>Sparse coding of time-varying natural images</td>
+      </tr>
+      <tr>
+        <td class="alt">45</td>
+        <td class="alt">OLYPHER</td>
+        <td class="alt">Andrey</td>
+        <td class="alt">Stability Analysis of Synchronous Periodical Firing in Spatially Structured Network Models 
+            of Inhibitory Neurons</td>
+      </tr>
+      <tr>
+        <td>151</td>
+        <td>Osan</td>
+        <td>Remus</td>
+        <td>Two dimensional synaptically generated traveling waves in a theta-neuron neural 
+          	network</td>
+      </tr>
+      <tr>
+        <td class="alt">490</td>
+        <td class="alt">Otterpohl</td>
+        <td class="alt">Jens</td>
+        <td class="alt">A Stochastic Model for the Estimation of Perceptual Switching Events in Pigeons</td>
+      </tr>
+      <tr>
+        <td>354</td>
+        <td>Oweiss</td>
+        <td>Karim G.</td>
+        <td>Noise Reduction in Multichannel Neural Recording using a New Array Wavelet Denoising 
+            Algorithm</td>
+      </tr>
+      <tr>
+        <td class="alt">244</td>
+        <td class="alt">Oyama</td>
+        <td class="alt">Eimei</td>
+        <td class="alt">Modular Neural Network Architecture for Inverse Kinematics Model Learning</td>
+      </tr>
+      <tr>
+        <td>462</td>
+        <td>Oyama</td>
+        <td>Eimei</td>
+        <td>Coordinate Transformation Learning of Hand Position Feedback Controller with Time 
+          	Delay</td>
+      </tr>
+      <tr>
+        <td class="alt">378</td>
+        <td class="alt">Paninski</td>
+        <td class="alt">Liam</td>
+        <td class="alt">Stochastic optimal control and the human oculomotor system</td>
+      </tr>
+      <tr>
+        <td>123</td>
+        <td>Pankratov</td>
+        <td>Yuri</td>
+        <td>Non-linear behavior of the excitatory synaptic currents in the hippocampus caused by the 
+            passive dendritic properties.</td>
+      </tr>
+      <tr>
+        <td class="alt">445</td>
+        <td class="alt">Pantic</td>
+        <td class="alt">Lovorka</td>
+        <td class="alt">On the role of dynamical synapses in coincidence detection</td>
+      </tr>
+      <tr>
+        <td>51</td>
+        <td>Panzeri</td>
+        <td>Stefano</td>
+        <td>Hierarchical organisation and neuronal response latencies in the primate visual 
+            system</td>
+      </tr>
+      <tr>
+        <td class="alt">241</td>
+        <td class="alt">Paquier</td>
+        <td class="alt">Williams</td>
+        <td class="alt">Motion processing using one spike per neuron</td>
+      </tr>
+      <tr>
+        <td>58</td>
+        <td>Pathmanathan</td>
+        <td>J. S.</td>
+        <td>A computational model for the AVCN marginal shell with medial olivocochlear feedback: 
+            generation of a wide dynamic range</td>
+      </tr>
+      <tr>
+        <td class="alt">35</td>
+        <td class="alt">Paulin</td>
+        <td class="alt">Michael</td>
+        <td class="alt">State-Space Receptive Fields of Semicircular Canal Afferent Neurons: A basis for 
+            analyzing neural computation</td>
+      </tr>
+      <tr>
+        <td>238</td>
+        <td>Pearce</td>
+        <td>Tim C</td>
+        <td>Stimulus Encoding in the Early Stages of Olfactory Processing: A Modeling Study using 
+            an Artificial Olfactory System</td>
+      </tr>
+      <tr>
+        <td class="alt">439</td>
+        <td class="alt">Penev</td>
+        <td class="alt">Penio</td>
+        <td class="alt">Characterization of and Compensation for the Nonstationarity of Spike Shapes during 
+            Physiological Recordings</td>
+      </tr>
+      <tr>
+        <td>251</td>
+        <td>Perrinet</td>
+        <td>Laurent</td>
+        <td>Networks of Integrate-and-Fire Neuron using Rank Order Coding II : How to implement 
+          	Hebbian Learning</td>
+      </tr>
+      <tr>
+        <td class="alt">107</td>
+        <td class="alt">Plesser</td>
+        <td class="alt">Hans E.</td>
+        <td class="alt">Signal Processing by Means of Noise</td>
+      </tr>
+      <tr>
+        <td>133</td>
+        <td>Polyn</td>
+        <td>Sean</td>
+        <td>Dynamic control of inhibition improves performance of a hippocampal model</td>
+      </tr>
+      <tr>
+        <td class="alt">114</td>
+        <td class="alt">Quenet</td>
+        <td class="alt">Brigitte</td>
+        <td class="alt">TEMPORAL CODING IN AN OLFACTORY OSCILLATORY MODEL</td>
+      </tr>
+      <tr>
+        <td>113</td>
+        <td>Read</td>
+        <td>Jenny</td>
+        <td>A Bayesian model of the correspondence problem</td>
+      </tr>
+      <tr>
+        <td class="alt">52</td>
+        <td class="alt">Remme</td>
+        <td class="alt">Michiel</td>
+        <td class="alt">INFLUENCE OF DENDRITIC MORPHOLOGY ON FIRING PATTERNS IN MODEL NEURONS</td>
+      </tr>
+      <tr>
+        <td>253</td>
+        <td>Renart</td>
+        <td>Alfonso</td>
+        <td>The Neural Mechanisms of Working Memory Modelled by Interacting Associative Memory Networks 
+          </td>
+      </tr>
+      <tr>
+        <td class="alt">305</td>
+        <td class="alt">Reutimann</td>
+        <td class="alt">Jan</td>
+        <td class="alt">A Model of Expectation Effects in Inferior Temporal Cortex</td>
+      </tr>
+      <tr>
+        <td>310</td>
+        <td>Richmond</td>
+        <td>Barry</td>
+        <td>Accurate modeling of spike trains at all precision using a few simply measured 
+          	parameters</td>
+      </tr>
+      <tr>
+        <td class="alt">247</td>
+        <td class="alt">Riehle</td>
+        <td class="alt">Alexa</td>
+        <td class="alt">Dynamical changes of the temporal precision of synchronized spiking activity in motor 
+            cortical neurons as revealed by using the Multiple-Shift Method</td>
+      </tr>
+      <tr>
+        <td>434</td>
+        <td>Rinberg</td>
+        <td>Dima</td>
+        <td>Multineuron response to wind stimuli in the American cockroach</td>
+      </tr>
+      <tr>
+        <td class="alt">442</td>
+        <td class="alt">Rinberg</td>
+        <td class="alt">Dima</td>
+        <td class="alt">Wind spectra and the escape response of the cockroach.</td>
+      </tr>
+      <tr>
+        <td>166</td>
+        <td>Ritz</td>
+        <td>Raphael</td>
+        <td>Time-Frequency- and Mutual-Information Analysis of Odor Processing in the Mushroom 
+            Bodies of the Honeybee</td>
+      </tr>
+      <tr>
+        <td class="alt">145</td>
+        <td class="alt">Roberts</td>
+        <td class="alt">Patrick</td>
+        <td class="alt">Mutual Inhibition Increases Adaptation Rate in an Electrosensory System</td>
+      </tr>
+      <tr>
+        <td>172</td>
+        <td>Rodemann</td>
+        <td>Tobias</td>
+        <td>Two separate processing streams in a cortical-type architecture</td>
+      </tr>
+      <tr>
+        <td class="alt">336</td>
+        <td class="alt">Rodriguez</td>
+        <td class="alt">Paul</td>
+        <td class="alt">Computational Tradeoffs in a Parallel Implementation of a CA3 Model</td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td>Roger</td>
+        <td>RODRIGUEZ</td>
+        <td>Coding properties of a multicompartmental neuronal model</td>
+      </tr>
+      <tr>
+        <td class="alt">428</td>
+        <td class="alt">Romero</td>
+        <td class="alt">Richard</td>
+        <td class="alt">Estimation of temporal kernels for cells in V1</td>
+      </tr>
+      <tr>
+        <td>180</td>
+        <td>Roper</td>
+        <td>Peter</td>
+        <td>Modelling the milk-ejection burst</td>
+      </tr>
+      <tr>
+        <td class="alt">32</td>
+        <td class="alt">Rospars</td>
+        <td class="alt">Jean-Pierre</td>
+        <td class="alt">Characterizing and modeling concentration-response curves of olfactory receptor cells</td>
+      </tr>
+      <tr>
+        <td>132</td>
+        <td>Rubin</td>
+        <td>Jonathan</td>
+        <td>Localized Bump Activity Sustained by Inhibition in a Two-Layer Thalamic Network</td>
+      </tr>
+      <tr>
+        <td class="alt">59</td>
+        <td class="alt">Rudolph</td>
+        <td class="alt">Michael</td>
+        <td class="alt">SYNAPTIC BACKGROUND ACTIVITY MINIMIZES THE LOCATION-DEPENDENCE OF SYNAPTIC INPUTS IN MODEL 
+            NEOCORTICAL PYRAMIDAL NEURONS</td>
+      </tr>
+      <tr>
+        <td>142</td>
+        <td>Salinas</td>
+        <td>Emilio</td>
+        <td>Effects of correlated input spike trains on output firing rate and variability</td>
+      </tr>
+      <tr>
+        <td class="alt">102</td>
+        <td class="alt">Samengo</td>
+        <td class="alt">Ines</td>
+        <td class="alt">The representational capacity of N idependent units</td>
+      </tr>
+      <tr>
+        <td>225</td>
+        <td>Sanchez-Montanes</td>
+        <td>Manuel A.</td>
+        <td>Fisher Information and Optimal Odor Sensors</td>
+      </tr>
+      <tr>
+        <td class="alt">239</td>
+        <td class="alt">Sanchez-Montanes</td>
+        <td class="alt">Manuel A.</td>
+        <td class="alt">A Biologically Plausible Model for the Development of Selective Microcircuits in 
+            Striate Cortex</td>
+      </tr>
+      <tr>
+        <td>252</td>
+        <td>Sanchez-Montanes</td>
+        <td>Manuel A.</td>
+        <td>Learning in a neural network model in real time using real world stimuli</td>
+      </tr>
+      <tr>
+        <td class="alt">302</td>
+        <td class="alt">Sandberg</td>
+        <td class="alt">Anders</td>
+        <td class="alt">Selective Enhancement of Recall through Plasticity Modulation in an Autoassociative 
+          	Memory</td>
+      </tr>
+      <tr>
+        <td>504</td>
+        <td>Santamaria</td>
+        <td>Fidel</td>
+        <td>Why are there no beams in the cerebellar cortex? Models and experiments</td>
+      </tr>
+      <tr>
+        <td class="alt">95</td>
+        <td class="alt">Scheler</td>
+        <td class="alt">Gabriele</td>
+        <td class="alt">Dopamine modulationof prefrontal delay activity - signal stability and sharpness of 
+          	tuning curves</td>
+      </tr>
+      <tr>
+        <td>215</td>
+        <td>Schierwagen</td>
+        <td>Andreas</td>
+        <td>Dendritic morphology and signal delays: A model study.</td>
+      </tr>
+      <tr>
+        <td class="alt">25</td>
+        <td class="alt">Schiff</td>
+        <td class="alt">Steven</td>
+        <td class="alt">Adaptive Electric Field Control of Epileptic Seizures</td>
+      </tr>
+      <tr>
+        <td>90</td>
+        <td>Schultz</td>
+        <td>Simon</td>
+        <td>Spike train entropy and coding efficiency of mammalian cortical neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">326</td>
+        <td class="alt">Schwabe</td>
+        <td class="alt">Lars</td>
+        <td class="alt">Spike-frequency Adaptation as a Mechanism for Dynamic Coding in V1</td>
+      </tr>
+      <tr>
+        <td>70</td>
+        <td>Segev</td>
+        <td>Ronen</td>
+        <td>Chemical Waves and Internal Energy During Cooperative Self-Wiring of Neural Nets</td>
+      </tr>
+      <tr>
+        <td class="alt">363</td>
+        <td class="alt">Seriès</td>
+        <td class="alt">Peggy</td>
+        <td class="alt">Spatial and temporal contextual modulations in a detailed model of V1</td>
+      </tr>
+      <tr>
+        <td>369</td>
+        <td>Shastri</td>
+        <td>Lokendra</td>
+        <td>A computational model of episodic memory formation in the hippocampal system</td>
+      </tr>
+      <tr>
+        <td class="alt">488</td>
+        <td class="alt">Shastri</td>
+        <td class="alt">Lokendra</td>
+        <td class="alt">A computational model of rapid memory formation in the hippocampal system</td>
+      </tr>
+      <tr>
+        <td>144</td>
+        <td>Shimono</td>
+        <td>Ken</td>
+        <td>Continuous two-dimensional current source density analyses of electrophysiological 
+          	activity in hippocampal slices</td>
+      </tr>
+      <tr>
+        <td class="alt">155</td>
+        <td class="alt">Shin</td>
+        <td class="alt">J.</td>
+        <td class="alt">Reading auditory discrimination behavior of freely moving rats from hippocampal EEG</td>
+      </tr>
+      <tr>
+        <td>156</td>
+        <td>Shin</td>
+        <td>J.</td>
+        <td>Hippocampal theta rhythm and running speed in rat: A reconsideration using unaveraged 
+            single trials</td>
+      </tr>
+      <tr>
+        <td class="alt">209</td>
+        <td class="alt">Shin</td>
+        <td class="alt">Jonghan</td>
+        <td class="alt">Hippocampal LTP induction is related to dynamic range of postsynaptic calcium 
+          	concentration</td>
+      </tr>
+      <tr>
+        <td>245</td>
+        <td>Shin</td>
+        <td>Jonghan</td>
+        <td>Biologically plausible adaptive decoding at local dendrite of postsynaptic neuron</td>
+      </tr>
+      <tr>
+        <td class="alt">82</td>
+        <td class="alt">Shouval</td>
+        <td class="alt">Harel</td>
+        <td class="alt">A biophysical framework for Bidirectional Synaptic plasticity and Meta-Plasticity</td>
+      </tr>
+      <tr>
+        <td>429</td>
+        <td>Sohal</td>
+        <td>Vikaas</td>
+        <td>Synaptic mechanisms prevent hypersynchrony during oscillations in rat thalamic slices</td>
+      </tr>
+      <tr>
+        <td class="alt">297</td>
+        <td class="alt">Sommer</td>
+        <td class="alt">Friedrich T.</td>
+        <td class="alt">Associative memory in a pair of cortical cell groups with reciprocal projections</td>
+      </tr>
+      <tr>
+        <td>229</td>
+        <td>Somogyvári</td>
+        <td>Zoltán</td>
+        <td>Power dynamic analysis of epileptic activity in rat neocortex</td>
+      </tr>
+      <tr>
+        <td class="alt">219</td>
+        <td class="alt">Spiridon</td>
+        <td class="alt">Mona</td>
+        <td class="alt">The effect of lateral interactions on the accuracy of the population vector estimate 
+            in networks of integrate-and-fire type neurons</td>
+      </tr>
+      <tr>
+        <td>235</td>
+        <td>Stanley</td>
+        <td>Garrett</td>
+        <td>Recursive Stimulus Reconstruction Algorithms for Real-time Implementation in Neural 
+          	Ensembles</td>
+      </tr>
+      <tr>
+        <td class="alt">178</td>
+        <td class="alt">Stephan</td>
+        <td class="alt">Klaas Enno</td>
+        <td class="alt">Analysis of amygdalo-thalamo-prefrontal connectivity reveals structure-function 
+          	relationships in associative learning</td>
+      </tr>
+      <tr>
+        <td>170</td>
+        <td>Sterratt</td>
+        <td>David</td>
+        <td>Modelling the Locust olfactory system with Spike Response Neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">232</td>
+        <td class="alt">Steuber</td>
+        <td class="alt">Volker</td>
+        <td class="alt">Long-Term Depression and Recognition of Parallel Fibre Patterns in a Multi-Compartmental 
+            Model of a Cerebellar Purkinje Cell</td>
+      </tr>
+      <tr>
+        <td>268</td>
+        <td>Stiefel</td>
+        <td>Klaus M</td>
+        <td>Interaction of membrane potential oscillations with inhibitory synaptic inputs in 
+            cortical cells.</td>
+      </tr>
+      <tr>
+        <td class="alt">211</td>
+        <td class="alt">Storck</td>
+        <td class="alt">Jan</td>
+        <td class="alt">Temporal Clustering with Networks of Spiking Neurons and Dynamical Synapses</td>
+      </tr>
+      <tr>
+        <td>112</td>
+        <td>Suder</td>
+        <td>Katrin</td>
+        <td>Modeling Motion 
+            Induction to Analyze Connectivity in the Early Visual System</td>
+      </tr>
+      <tr>
+        <td class="alt">213</td>
+        <td class="alt">Suffczynski</td>
+        <td class="alt">Piotr</td>
+        <td class="alt">A Lumped Model of Thalamic Oscillations</td>
+      </tr>
+      <tr>
+        <td>207</td>
+        <td>Sultan</td>
+        <td>Fahad</td>
+        <td>Sequential stimulation of rat cerebellar granular layer in-vivo: Further evidence of a 
+          	'tidal wave' timing mechanism in the cerebellum</td>
+      </tr>
+      <tr>
+        <td class="alt">138</td>
+        <td class="alt">Szilagyi</td>
+        <td class="alt">Tibor</td>
+        <td class="alt">REALISTIC COMPUTER MODELING OF IPSCs ELICITED BY DIFFERENT TYPES OF HIPPOCAMPAL 
+          	INHIBITORY INTERNEURONS</td>
+      </tr>
+      <tr>
+        <td>433</td>
+        <td>Tam</td>
+        <td>David</td>
+        <td>A Multi-Unit Spike Train Analysis for Quantifying Phase-Relationships of Near-Synchrony 
+            Firings</td>
+      </tr>
+      <tr>
+        <td class="alt">436</td>
+        <td class="alt">Tam</td>
+        <td class="alt">David</td>
+        <td class="alt">A Spike Train Analysis for Correlating Burst Firings in Neurons</td>
+      </tr>
+      <tr>
+        <td>50</td>
+        <td>Tanaka</td>
+        <td>Shoji</td>
+        <td>Signal flow in a prefrontal cortical circuit model for working memory loading</td>
+      </tr>
+      <tr>
+        <td class="alt">193</td>
+        <td class="alt">Tatsuno</td>
+        <td class="alt">Masami</td>
+        <td class="alt">Rule-dynamical Approach to Hippocampal Network</td>
+      </tr>
+      <tr>
+        <td>461</td>
+        <td>Taylor</td>
+        <td>Adam L.</td>
+        <td>Oscillations in reciprocally inhibitory passive cells with synaptic depression</td>
+      </tr>
+      <tr>
+        <td class="alt">315</td>
+        <td class="alt">Tegner</td>
+        <td class="alt">Jesper</td>
+        <td class="alt">A compartmental network model of spatial working memory and its dopaminergic 
+          	modulation</td>
+      </tr>
+      <tr>
+        <td>437</td>
+        <td>tegner</td>
+        <td>Jesper</td>
+        <td>NMDA dependent synchronization in excitatory networks</td>
+      </tr>
+      <tr>
+        <td class="alt">149</td>
+        <td class="alt">Terman</td>
+        <td class="alt">David</td>
+        <td class="alt">Synchronous Parkinsonian Rhythms in a Model for the Indirect Pathway of the Basal 
+            Ganglia</td>
+      </tr>
+      <tr>
+        <td>313</td>
+        <td>TETKO</td>
+        <td>Igor V.</td>
+        <td>A Pattern Grouping Algorithm for Analysis of Spatiotemporal Patterns in Neuronal Spike 
+            Trains</td>
+      </tr>
+      <tr>
+        <td class="alt">154</td>
+        <td class="alt">Thomas</td>
+        <td class="alt">Elizabeth</td>
+        <td class="alt">Desynchronization mediated by an isolated prolongation of GABAA mediated inhibition 
+            in a model thalamic network</td>
+      </tr>
+      <tr>
+        <td>69</td>
+        <td>Tiesinga</td>
+        <td>Paul</td>
+        <td>Optimal information transfer in synchronized neocortical neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">121</td>
+        <td class="alt">Tobin</td>
+        <td class="alt">Anne-Elise</td>
+        <td class="alt">Simulation of space-clamp errors using a compartmental model of a cerebellar stellate 
+            cell</td>
+      </tr>
+      <tr>
+        <td>108</td>
+        <td>Tomoki</td>
+        <td>Fukai</td>
+        <td>Neuronal analog-digital information transformations at the gamma frequency</td>
+      </tr>
+      <tr>
+        <td class="alt">448</td>
+        <td class="alt">Tragtenber</td>
+        <td class="alt">Marcelo</td>
+        <td class="alt">A very stochastic resonant neuron model</td>
+      </tr>
+      <tr>
+        <td>67</td>
+        <td>Trommershaeuser</td>
+        <td>Julia</td>
+        <td>Biophysical model of a single synaptic connection: transmission properties are 
+          	determined by the cooperation of pre- and postsynaptic mechanisms</td>
+      </tr>
+      <tr>
+        <td class="alt">276</td>
+        <td class="alt">Truccolo</td>
+        <td class="alt">Wilson</td>
+        <td class="alt">On the Variability of the Cortical Evoked Responses and its Implications for Correlation 
+            and Spectral Coherence Analysis of Local Field Potentials</td>
+      </tr>
+      <tr>
+        <td>407</td>
+        <td>Truccolo</td>
+        <td>Wilson</td>
+        <td>Dynamic Temporal Decorrelation: An Information-Theoretic and Biophysical Model of the 
+            Functional Role of Lateral Geniculate Nucleus</td>
+      </tr>
+      <tr>
+        <td class="alt">162</td>
+        <td class="alt">van Ooyen</td>
+        <td class="alt">Arjen</td>
+        <td class="alt">Competition for tubulin in growing neurites during development</td>
+      </tr>
+      <tr>
+        <td>104</td>
+        <td>van Pelt</td>
+        <td>Jaap</td>
+        <td>Model-based inferences on the growth of dendritic branching patterns</td>
+      </tr>
+      <tr>
+        <td class="alt">192</td>
+        <td class="alt">van Rossum</td>
+        <td class="alt">Mark</td>
+        <td class="alt">The distribution of synaptic weights</td>
+      </tr>
+      <tr>
+        <td>443</td>
+        <td>van Vreeswijk</td>
+        <td>Carl</td>
+        <td>Information transmission with renewal neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">226</td>
+        <td class="alt">VanRullen</td>
+        <td class="alt">Rufin</td>
+        <td class="alt">Feed-forward contour integration in primary visual cortex based on asynchronous 
+            spike propagation.</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td>Vermeulen</td>
+        <td>Arthur</td>
+        <td>From the extracellularly recorded potential to the membrane potential. Application to a 
+          	model of insect olfactory sensillum</td>
+      </tr>
+      <tr>
+        <td class="alt">122</td>
+        <td class="alt">Verschure</td>
+        <td class="alt">Paul</td>
+        <td class="alt">A real-time model of the cerebellar circuitry underlying classical conditioning: A 
+          	combined simulation and robotics study</td>
+      </tr>
+      <tr>
+        <td>159</td>
+        <td>Vibert</td>
+        <td>Jean-François</td>
+        <td>XNBC V9: A user friendly simulation and analysis tool for neurobiologists</td>
+      </tr>
+      <tr>
+        <td class="alt">459</td>
+        <td class="alt">Villa</td>
+        <td class="alt">Alessandro E.P.</td>
+        <td class="alt">Computer assisted neurophysiological analysis of cell assemblies activity</td>
+      </tr>
+      <tr>
+        <td>454</td>
+        <td>Vollmer</td>
+        <td>Urs</td>
+        <td>Coexistence of short and long term memory in a model network of realistic neurons</td>
+      </tr>
+      <tr>
+        <td class="alt">186</td>
+        <td class="alt">Volny-Luraghi</td>
+        <td class="alt">Antonia</td>
+        <td class="alt">EFFECT OF STIMULUS FREQUENCY ON TACTILE-EVOKED RESPONSES OF RAT CEREBELLAR GOLGI 
+          	CELLS.</td>
+      </tr>
+      <tr>
+        <td>93</td>
+        <td>Voloshin</td>
+        <td>Mikhail</td>
+        <td>Cost-benefit analysis in foraging by integrating hunger, sensation, and experience: 
+            Computational simulation of neural decision-making mechanisms in a 
+            predatory snail</td>
+      </tr>
+      <tr>
+        <td class="alt">96</td>
+        <td class="alt">Wada</td>
+        <td class="alt">Yasuhiro</td>
+        <td class="alt">An examination of a relation between hand height position and motion duration on 
+            the human sagittal plane movement based on the minimization principle</td>
+      </tr>
+      <tr>
+        <td>97</td>
+        <td>Wada</td>
+        <td>Yasuhiro</td>
+        <td>A computational trajectory formation model for the human sagittal plane movement at 
+            various motion durations</td>
+      </tr>
+      <tr>
+        <td class="alt">314</td>
+        <td class="alt">Wahlgren</td>
+        <td class="alt">Niclas</td>
+        <td class="alt">Biological evaluation of a Hebbian-Bayesian learning rule</td>
+      </tr>
+      <tr>
+        <td>201</td>
+        <td>Weber</td>
+        <td>Birgitta</td>
+        <td>Handling large files of multisite microelectrode recordings for the European VSAMUEL 
+            consortium.</td>
+      </tr>
+      <tr>
+        <td class="alt">77</td>
+        <td class="alt">Wennekers</td>
+        <td class="alt">Thomas</td>
+        <td class="alt">Generalized Types of Synchronization in Networks of Spiking Neurons</td>
+      </tr>
+      <tr>
+        <td>78</td>
+        <td>Wennekers</td>
+        <td>Thomas</td>
+        <td>Nonlinear analysis of orientation tuning: stationary properties of simple cells in V1</td>
+      </tr>
+      <tr>
+        <td class="alt">455</td>
+        <td class="alt">Werner</td>
+        <td class="alt">Herrad</td>
+        <td class="alt">Categorization of the dynamics in two-dimensional neural fields</td>
+      </tr>
+      <tr>
+        <td>415</td>
+        <td>Wicklein</td>
+        <td>Martina</td>
+        <td>Perception of change in depth in the hummingbird hawkmoth Manduca sexta (Sphingidae, 
+            Lepidoptera)</td>
+      </tr>
+      <tr>
+        <td class="alt">240</td>
+        <td class="alt">Wilke</td>
+        <td class="alt">Stefan D.</td>
+        <td class="alt">Neural Spike Statistics Modify the Impact of Background Noise</td>
+      </tr>
+      <tr>
+        <td>33</td>
+        <td>Wilson</td>
+        <td>C.J.</td>
+        <td>Evidence for the Coupled Oscillator Model of the Dopaminergic Neuron of the Substantia 
+            Nigra</td>
+      </tr>
+      <tr>
+        <td class="alt">430</td>
+        <td class="alt">Wiskott</td>
+        <td class="alt">Laurenz</td>
+        <td class="alt">Unsupervised Learning of Invariances in a Simple Model of the Visual System</td>
+      </tr>
+      <tr>
+        <td>300</td>
+        <td>Wojtenek</td>
+        <td>Winfried</td>
+        <td>How the paddlefish nervous system deals with natural prey.*</td>
+      </tr>
+      <tr>
+        <td class="alt">134</td>
+        <td class="alt">Wu</td>
+        <td class="alt">Xiangbao</td>
+        <td class="alt">Simulating Symbolic Distance Effects in the Transitive Inference Problem</td>
+      </tr>
+      <tr>
+        <td>161</td>
+        <td>Yamaguchi</td>
+        <td>Isao</td>
+        <td>A model for neuronal gamma and theta oscillations by two networks of hippocampal 
+          	interneurons</td>
+      </tr>
+      <tr>
+        <td class="alt">404</td>
+        <td class="alt">Yang</td>
+        <td class="alt">Keun-Hang</td>
+        <td class="alt">The Role of Protein Kinase C in the Biochemical Pathways in Classical Conditioning</td>
+      </tr>
+      <tr>
+        <td>427</td>
+        <td>zalanyi</td>
+        <td>laszlo</td>
+        <td>The effect of synaptic depression and synaptic facilitation on stochastic resonance</td>
+      </tr>
+      <tr>
+        <td class="alt">212</td>
+        <td class="alt">Zeng</td>
+        <td class="alt">Xiaodong</td>
+        <td class="alt">Attention Mechanism and Its Role in Invariant Pattern Recognition</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>Zygierewicz</td>
+        <td>Jaroslaw</td>
+        <td>A model of sleep spindles generation.</td>
+      </tr>
+      </table>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2000" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

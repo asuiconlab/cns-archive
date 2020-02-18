@@ -1,0 +1,56 @@
+ACTUATOR:	mail
+FROM:	"Hidetoshi Ikeno" <ikeno@shse.u-hyogo.ac.jp>
+TO:	"Peter Kalocsai" <kalocsai@ucla.edu>
+REPLY:	"Hidetoshi Ikeno" <ikeno@shse.u-hyogo.ac.jp>
+SENDER:	webmaster@neuroinf.org
+TIME:	Wed 31/3/2004 14:1:39
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Peter Kalocsai,
+
+We're happy to inform you that your paper 'Human sensitivity to face statistics computed on V1 similarity' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Hidetoshi Ikeno
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Hidetoshi Ikeno and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Major Comments 
+To evaluate sensitivity of humans to statistical factors, it would have been better to compare reconstructions to the original images, instead of full reconstructions.  That would give a better idea of the sufficiency of the statistics.  As the experiment was actually performed, you are merely confirming that those wavelets with more variation are better for discrimination.  Despite this weakness, the experiment is still a fascinating one.
+But I would like to see an explanation of why you didn't compare with original images.
+
+Minor comments.
+On Page 3 you state that reconstructed images were adjusted for mean square error.  It is not clear to me how or why you do this.  
+
+Fig 2 and 3  It would be most helpful if both strong hybrids were on the same side.
+
+
+Reviewer 2 :
+Following points in this paper seem to be less informative for readers. It is suggested to add some additional explanations.
+
+1. Some examples for 'stronger' and 'weaker' Gabor wavelets derived from ANOVA should be helpful to understand the idea of the experimental design described in the next section.
+
+2. Additional descriptions about the idea of 'hybrid reconstruction' are required. Any comments are not found why results both for half and hybrid reconstruction are similar and what this means. 
+
+Editor's comment:
+You had better to add some explanations for experimental design and analysis.

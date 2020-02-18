@@ -1,0 +1,36 @@
+
+Synaptic deletion and compensation in Alzheimer disease:
+A neural model
+
+D. Horn & E. Ruppin
+Raymond and Beverly Sackler Faculty of Exact Sciences,
+Tel Aviv University, Tel Aviv 69978, Israel
+
+M. Usher
+CNS program, Div. of Biology 216-76,
+Caltech, Pasadena, CA91125
+
+M. Herrmann
+Dept. of Computer Science,
+Leipzig University, 0-7010 Leipzig, F.R.G.
+
+Please send information to D. Horn. e-mail: horn@taunivm.bitnet
+
+
+
+Abstract
+
+Recent experimental evidence testifies to the possible role
+of synaptic deletion and compensation in the pathogenesis
+of Alzheimer's disease (AD). As a clinical hallmark of AD
+is memory degradation, these processes are examined in the
+framework of a neural network model of associative mem-
+ory. Using a network with fixed memory load we vary two
+parameters, the deletion of synapses and the total synap-
+tic strength, and observe the characteristic turnover from a
+memory-retrieval phase to total memory loss. Several synap-
+tic compensation strategies, that patients may employ de-
+pending on their synaptic regenerative potential, are specified
+and examined. Reviewing the neuroanatomical and clinical
+data, we show that our model can account for the variation
+in the severity and progression rate of AD.

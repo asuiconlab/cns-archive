@@ -1,0 +1,61 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Haruka Nishimura" <haruka@viplab.is.tsukuba.ac.jp>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 3/5/2004 23:36:21
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Haruka Nishimura,
+
+We're happy to inform you that your paper 'The computational model for border-ownership determination consisting of surrounding suppression and facilitation in early vision' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+Although the result is interesting, I found the paper hard to follow.
+
+On p.2, it states that under low-contrast conditions, "suppression is evoked by surrounding stimuli with any orientations [except presumably the cell's preferred orientation] and facilitation is evoked by those with the preferred orientation of the cell and that this is reversed for high-contrast.
+On p.3, the authors state that they model the high-contrast condition, and therefore include inhibitory connections among model neurons with the same preferred orientations, and excitatory connections among those preferring cross-orientations. Does this mean that the polarity of connections (exc/inh) is reversed in the model when the contrast changes from high to low? This seems ad hoc & highly implausible physiologically. 
+
+The paper opens with a discussion of the CRF and modulation by a surround. I am unclear what the Gabor filters are intended to represent. If they are the surround, where is the CRF? 
+
+I was not able to follow the description of the model. Eg on p. 4, does C_90_270 mean C_90 + C_270? In the discussion of the 3rd stage, the index "deg" was opaque to me. For any given neuron, I do not understand when deg = 0 and when 180. 
+
+More importantly, even if I could follow the description of the model to the extent of being able to reproduce it (which is the ideal), the authors have not given me a sense of how the model actually works. Eg, I do not understand how the 4th-stage neurons can be contrast-independent. The authors need to explain how this property emerges from the wiring they describe. At the moment, I can see how the 4th-stage neurons might be independent of contrast, but not how they can be independent of contrast itself. 
+
+Similarly, while the agreement of the model with data appears extraordinarily good, I have little idea of how this was achieved. The authors say it was by varying the surrounding connections, the spatial arrangement of excitatory and inhibitory regions, and the strength of connections. However, they give me no sense of how varying these parameters changes the model's response, or why. If the space constraints allow, it would be extremely helpful to include this. Without such insight, I feel I have learnt little from the paper. 
+
+Minor 
+Gabor filters are said to be even-symmetric; in the figures, they are drawn as odd.
+Use of superscripts is confusing  R^2 implies "R-squared". Suggest using subscripts or placing the superscripts in parentheses  R^(2).
+

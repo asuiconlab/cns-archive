@@ -1,0 +1,54 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Carter Wendelken" <cwendelken@ucdavis.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:48
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Carter Wendelken,
+
+We're happy to inform you that your paper 'Connectionist Mechanisms for Cognitive Control' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+SHRUTI, a model of inference and decision-making developed by the authors is proposed as a useful vehicle for exploring the problem of cognitive control. This paper suggests a set of primitive control mechanisms (monitoring, filtering, selection, maintenance, organization, and manipulation), to demonstrate the use of those mechanisms in a complex control process.
+
+Although the authors claim to demonstrate that cognitive control can be achieved via relatively simple and neurobiologically plausible connectionist mechanisms I find it quite difficult to address such a claim referring to the models significance without some more rigorous tests to demonstrate the model performance and its relevance. 
+
+Reviewer 2 :
+The paper descibes how several components required for cognitive control can be implemented as small connectionist models to be used as building blocks for a larger model.
+ 
+While the authors make a convincing argument for the need of cognitive "controls" for complex tasks, and clearly describe some components of a control system, the reader is left to wonder "can it actually work?". How would these components be combined to a single functioning system? What types of tasks can be achived with the described
+components and which cannot? It would have been most beneficial if the authors could implement and analyse a task that cannot be addressed without a control component, but is well performed by SHRUTI-agent that has it. This will allow a quantitative discussion about the
+effectiveness of the components they suggest.
+ 
+Minor 
+Some figure numbers are missing (sec 2.1)
+
+

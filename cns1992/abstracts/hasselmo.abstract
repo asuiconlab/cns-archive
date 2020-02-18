@@ -1,0 +1,37 @@
+CHOLINERGIC MODULATION OF ASSOCIATIVE MEMORY FUNCTION
+IN A REALISTIC COMPUTATIONAL MODEL OF PIRIFORM CORTEX
+
+
+Michael E. Hasselmo, Michael Vanier
+Ross Bergman and James M. Bower
+
+
+
+
+M.E.H., R.B.
+Dept. of Psychology, Harvard Universtiy
+33 Kirkland St., Cambridge, MA  02138
+hasselmo@katla.harvard.edu
+(617) 495-3875
+
+M.V., J.M.B.
+Div. of Biology 216-76, Caltech
+Pasadena, CA  91125.
+ABSTRACT
+
+A detailed model of piriform cortex developed with the
+GENESIS simulation package shows associative memory properties
+such as completion.  This model allows analysis of the role of
+acetylcholine in cortical associative memory function.
+Experiments demonstrate that acetylcholine causes selective
+suppression of synaptic transmission at excitatory intrinsic
+fiber synapses in piriform cortex (Hasselmo and Bower, 1992).
+When applied during learning in the model, this selective
+cholinergic suppression prevents interference between
+overlapping input patterns, allowing separate and distinct
+learning of input stimuli.  This selective suppression may
+act in concert with the cholinergic increase in excitability
+to modulate piriform cortex associative memory function.
+
+
+

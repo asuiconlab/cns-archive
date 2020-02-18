@@ -1,0 +1,23 @@
+Modeling the oflactory neurons of the insect antennal lobe
+
+Evyatar Av-Ron
+Groupe de Bioinfomatique URA 686, Ecole Normale Superieure,
+46 rue D'Ulnm. 75230 Paris Cedex 05, France
+
+
+ABSTRACT
+
+An excitable membrane model is presented which can exhibit the 
+behavior observed for neurons of the insect antennal lobe (i.e. low 
+firing frequency (<lOHz) background activity and high firing 
+frequency (>lOOHz) bursting activity). This model is used to simulate 
+small networks of 'local' and 'projection' interneurons, of the male 
+moth,at the first stage of processing female sex pheromones. 
+Sensory cells send afferent fibers to local interneurons (LNs) which 
+synapse onto projection interneurons (PNs) that connect to higher 
+brain areas. LNs exhibit medium firing frequencies for long durations 
+or for short bursts. PNs exhibit high firing frequency bursting or 
+inhibitory responses to stimulation. The bursting capability of PNs 
+and the inhibition transmitted by some LNs allow PNs to exhibit a 
+range of responses to different stimuli, e.g. mixture dectectaing, 
+frequency coding and strenght encoding.   

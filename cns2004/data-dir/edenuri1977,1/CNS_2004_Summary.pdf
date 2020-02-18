@@ -1,0 +1,392 @@
+%PDF-1.2 
+%‚„œ”
+ 
+10 0 obj
+<<
+/Length 11 0 R
+>>
+stream
+BT90 709.5  TD0 0 0 rg /F0 12  Tf-0.2035  Tc 3.7869  Tw (Adaptive Decoding of Hand Movement Trajectories from Simulated Spike Train) Tj0  Tc -0.75  Tw ( ) Tj0 -13.5  TD -0.2091  Tc 0.2091  Tw (Observations from a Dynamic Ensemble of Motor Cortical Neurons) Tj337.5 0  TD 0  Tc 0  Tw ( ) Tj-337.5 -14.25  TD ( ) Tj0 -12  TD /F1 9.75  Tf-0.1761  Tc -0.0114  Tw (Uri T. Eden, Emery N. Brown) Tj114 0  TD 0  Tc -0.1875  Tw ( ) Tj-114 -12  TD 0 0 1 rg 0.1733  Tc 0  Tw (ueden@fas.harvard.edu) TjET90 656.25 96 0.75 re fBT186 657.75  TD0 0 0 rg /F1 12  Tf0  Tc ( ) Tj-96 -12.75  TD ( ) Tj0 -12  TD /F1 9.75  Tf0.2785  Tc (Abstract:) Tj37.5 0  TD 0  Tc -0.1875  Tw ( ) Tj-1.5 -12  TD 0.1525  Tc 0.41  Tw (One of the) Tj43.5 0  TD 0.113  Tc 0.4495  Tw ( many challenges in long) Tj102 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.0694  Tc 0.1717  Tw (term decoding from chronically implanted electrodes involves ) Tj-184.5 -11.25  TD 0.1193  Tc 1.0325  Tw (tracking changes in the firing properties of the neural ensemble while simultaneously reconstructing the ) Tj0 -11.25  TD 0.1225  Tc 1.19  Tw (desired signal [1].  We offer an approach to dealing with this pr) Tj269.25 0  TD 0.2142  Tc 0.7233  Tw (oblem based on adaptive point process ) Tj-269.25 -12  TD 0.0576  Tc 2.0049  Tw (filtering.  In particular, we construct a lock) Tj183 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.1343  Tc 1.0282  Tw (step adaptive filter built upon stochastic models for: a\) the ) Tj-186 -11.25  TD 0.0886  Tc 2.7775  Tw (receptive field parameters of individual neurons within the ensemble, b\) the biological signal to be) Tj0  Tc -0.1875  Tw ( ) Tj0 -11.25  TD 0.2932  Tc 0  Tw (reconstr) Tj33 0  TD 0.156  Tc 0.0732  Tw (ucted, and c\) the instantaneous likelihood of firing in each neuron given the current state of a\) and ) Tj-33 -12  TD 0.1054  Tc 1.2071  Tw (b\).  We assess the ability of this filter to maintain a good representation of movement information in a ) Tj0 -11.25  TD 0.0916  Tc -0.2791  Tw (simulated ensemble of primary motor neurons tuned) Tj207 0  TD 0.0898  Tc -0.2773  Tw ( to hand kinematics.  ) Tj84 0  TD 0  Tc -0.1875  Tw ( ) Tj-291 -11.25  TD ( ) Tj0 -12  TD -0.1098  Tc 0  Tw (Summary:) Tj39 0  TD 0  Tc -0.1875  Tw ( ) Tj-39 -11.25  TD ( ) Tj36 0  TD 0.1044  Tc 0  Tw (Long) Tj21 0  TD -0.2467  Tc (-) Tj3 0  TD 0.08  Tc 3.5507  Tw (term signals obtained from chronically implanted electrodes are dynamic in that the) Tj0  Tc -0.1875  Tw ( ) Tj-60 -11.25  TD 0.1521  Tc 0.9104  Tw (responses to repeated stimuli or motor commands can change in time.  These changes could be due for ) Tj0 -12  TD 0.0853  Tc 1.2272  Tw (example to adaptation or plastici) Tj134.25 0  TD 0.1556  Tc 0.4069  Tw (ty at the level of individual neurons, changes in the firing of unobserved ) Tj-134.25 -11.25  TD 0.175  Tc -0.2046  Tw (neural inputs, or changes in the population of neurons that are observable to the recording device.  In order ) Tj0 -11.25  TD 0.062  Tc 0.9778  Tw (to address this problem, we simulated a dynamic ensemble of primary mot) Tj306 0  TD 0.206  Tc 0.3565  Tw (or \(MI\) neurons responding as ) Tj-306 -12  TD 0.1275  Tc -0.315  Tw (they would to control hand movement during a two) Tj204.75 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.0778  Tc -0.2653  Tw (dimensional reaching task.  ) Tj110.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-318 -11.25  TD ( ) Tj36 0  TD 0.144  Tc 0.7519  Tw (These simulated ensembles contained a population of velocity modulated, cosine) Tj333.75 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.3098  Tc 0.2527  Tw (tuned neurons ) Tj-372.75 -11.25  TD 0.1088  Tc 0.4537  Tw (that controlled the hand trajectory, similar to Moran ) Tj214.5 0  TD 0.0612  Tc 0.4331  Tw (and Schwartz\222 MI model [2].   Each neuron had static ) Tj-214.5 -12  TD 0.0654  Tc 1.3655  Tw (tuning parameters over its lifespan, but was only observable for a limited period of time.  After a fixed ) Tj0 -11.25  TD 0.132  Tc 1.4305  Tw (interval, that neuron became lost to the recording device and was removed from the population, an) Tj418.5 0  TD 0.273  Tc 0.2895  Tw (d a ) Tj-418.5 -11.25  TD 0.1382  Tc 0.9243  Tw (previously unobserved neuron with unknown firing properties became observable.  We ran a number of ) Tj0 -12  TD 0.151  Tc -0.0468  Tw (simulations, modulating both the total number of neurons observable at one time and the rate of dropout of ) Tj0 -11.25  TD 0.1038  Tc 0.4587  Tw (individual neurons.  This simulation scenario ) Tj186 0  TD 0.1705  Tc -0.133  Tw (presents a challenge to an algorithm trying to reconstruct the ) Tj-186 -11.25  TD 0.1109  Tc 0.5398  Tw (hand velocity signal from only the spike train observations in that it must maintain a sufficiently accurate ) Tj0 -12  TD 0.0817  Tc 2.0962  Tw (estimate of the hand kinematic variables in order to estimate the firing properties ) Tj353.25 0  TD 0.1735  Tc 1.389  Tw (of newly observed ) Tj-353.25 -11.25  TD 0.1019  Tc -0.2894  Tw (neurons, and incorporate those estimated firing properties to improve the kinematic variable estimates.  ) Tj411.75 0  TD 0  Tc -0.1875  Tw ( ) Tj-375.75 -11.25  TD 0.1612  Tc 0.9513  Tw (We have previously constructed an adaptive estimation framework that can be applied to both  ) Tj-36 -12  TD 0.1633  Tc -0.2008  Tw (encoding problems, such as tracking cha) Tj163.5 0  TD 0.1462  Tc -0.2587  Tw (nges in ensemble firing properties, and decoding problems, such as ) Tj-163.5 -11.25  TD 0.1651  Tc 1.3817  Tw (reconstructing an intended motor output form an ensemble of motor neurons.  We also presented two ) Tj0 -11.25  TD 0.1836  Tc 0.3789  Tw (approaches to address problems of adaptive decoding, where it is necessary to track changes) Tj382.5 0  TD 0.0078  Tc 0.3672  Tw ( in the firing ) Tj-382.5 -12  TD 0.118  Tc 0.1767  Tw (properties of the ensemble while simultaneously reconstructing a driving signal.  One involves augmenting ) Tj0 -11.25  TD 0.2042  Tc 1.4612  Tw (the state space of our stochastic state point process filter [3] to include both encoding and decoding ) TjT* 0.2038  Tc 1.1087  Tw (variables.  The second approach,) Tj138 0  TD 0.0649  Tc 1.2476  Tw ( which is more easily applicable to high) Tj166.5 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.1379  Tc 0.6746  Tw (dimensional systems, involves ) Tj-307.5 -12  TD 0.0727  Tc 0.4898  Tw (running two filters in lock) Tj105 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.1348  Tc 0.3808  Tw (step, using the estimates derived at each time step from one filter as part of the ) Tj-108 -11.25  TD 0.2038  Tc -0.3913  Tw (input into the second, and vice versa.  ) Tj154.5 0  TD 0  Tc -0.1875  Tw ( ) Tj-154.5 -11.25  TD ( ) Tj36 0  TD 0.1706  Tc 1.1419  Tw (In order to apply our stochastic) Tj133.5 0  TD 0.146  Tc 0.5415  Tw ( state point process filter to this problem, we first constructed a ) Tj-169.5 -12  TD 0.1401  Tc -0.3276  Tw (stochastic intensity model for the firing of each neuron:) Tj221.25 0  TD 0  Tc -0.1875  Tw ( ) TjETq 207.75 189.75 200.25 7.5 re W n BT223.5 191.25  TD/F1 6  Tf47.25  Tc 0  Tw (,) Tj30  Tc (1) Tj53.25  Tc (23) TjETQ BT212.25 193.5  TD/F1 10.5  Tf19.0035  Tc 0  Tw (\() Tj10.0035  Tc (\)) Tj-0.304  Tc (exp) Tj8.5035  Tc (\(\() Tj19.7535  Tc (\)) Tj7.5035  Tc (\(\)\() Tj19.7535  Tc (\)) Tj7.5035  Tc (\(\)\() Tj0.2535  Tc (\)\)) Tj-3 4.5  TD /F2 6  Tf20.082  Tc (ii) Tj10.5 -6.75  TD 7.836  Tc (k) Tj49.086  Tc (k) Tj31.086  Tc (k) Tj8.586  Tc (kx) Tj30.336  Tc (k) Tj8.586  Tc (kyk) Tj-4.5 2.25  TD /F2 10.5  Tf59.088  Tc (v) Tj30.831  Tc (t) Tj7.4595  Tc (tv) Tj30.081  Tc (t) Tj7.75  Tc (tvt) TjETq 201 191.25 207 12.75 re W n BT202.5 193.5  TD/F3 10.5  Tf15.9855  Tc (l) Tj36.5295  Tc (q) Tj27.2355  Tc (b) Tj50.4855  Tc (bb) TjETQ BT240 193.5  TD/F4 10.5  Tf45.2355  Tc (=) Tj50.4855  Tc (++) Tj168 0  TD /F1 9.75  Tf-0.1875  Tc (.) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-320.25 -18.75  TD -0.0763  Tc -0.1112  Tw (Here, ) TjETBT0.7273 0 0 1 134.25 174  Tm/F4 13.5  Tf-0.3704  Tc 0  Tw ([) Tj130.9702 0  TD (]) TjETq 128.25 170.25 110.25 7.5 re W n BT144 171.75  TD/F1 6  Tf30.75  Tc (123) TjETQ BT147.75 174.75  TD/F1 9.75  Tf7.2532  Tc (\() Tj20.7533  Tc (\)) Tj7.2532  Tc (\() Tj20.0033  Tc (\)) Tj7.2532  Tc (\(\)) Tj84.75 6  TD /F2 6  Tf-0.336  Tc (T) Tj-111.75 -1.5  TD -0.168  Tc (i) TjETq 113.25 170.25 125.25 6.75 re W n BT120 171.75  TD31.2735  Tc (kkkk) TjETQ q 135 172.5 103.5 11.25 re W n BT150.75 174.75  TD/F2 9.75  Tf31.2895  Tc (ttt) TjETQ q 113.25 172.5 125.25 12 re W n BT114 174.75  TD/F3 9.75  Tf18.9202  Tc (q) Tj28.6472  Tc (bbb) TjETQ BT126.75 174.75  TD/F4 9.75  Tf-0.1028  Tc (=) Tj111.75 0  TD /F1 9.75  Tf0.1163  Tc -0.3038  Tw ( is a vector representing the receptive field parameters for the ) Tj251.25 4.5  TD /F1 6  Tf-0.084  Tc 0  Tw (th) Tj-3.75 -4.5  TD /F2 10.5  Tf0.081  Tc (i) Tj10.5 0  TD /F1 9.75  Tf0  Tc -0.1875  Tw ( ) Tj-406.5 -20.25  TD 0.0874  Tc -0.2749  Tw (neuron at time ) Tj63.75 -3  TD /F2 6  Tf0.336  Tc 0  Tw (k) Tj-3 3  TD /F2 9.75  Tf0.2895  Tc (t) Tj8.25 0  TD /F1 9.75  Tf0.307  Tc -0.1195  Tw ( and ) Tj53.25 0  TD 7.2532  Tc 0  Tw (\() Tj18.5033  Tc (\)) Tj7.2532  Tc (\(\)) Tj50.25 7.5  TD /F2 6  Tf-0.336  Tc (T) Tj-78 -9.75  TD 20.586  Tc (k) Tj7.836  Tc (x) Tj19.086  Tc (k) Tj7.836  Tc (yk) Tj-4.5 2.25  TD /F2 9.75  Tf18.921  Tc (v) Tj7.671  Tc (v) Tj17.5395  Tc (t) Tj7.7303  Tc (vt) TjETq 189 153 80.25 12 re W n BT199.5 155.25  TD/F4 9.75  Tf55.506  Tc (\351\371) TjETQ BT191.25 154.5  TD/F4 9.75  Tf-0.1028  Tc (=) TjETq 189 148.5 80.25 12 re W n BT199.5 150.75  TD55.506  Tc (\353\373) TjETQ BT269.25 154.5  TD/F1 9.75  Tf0.1223  Tc -0.3098  Tw ( is the hand velocity signal at time ) Tj142.5 -3  TD /F2 6  Tf0.336  Tc 0  Tw (k) Tj-3 3  TD /F2 9.75  Tf0.2895  Tc (t) Tj8.25 0  TD /F1 9.75  Tf0.0845  Tc -0.122  Tw (.  Next, we constructed ) Tj-327 -15.75  TD 0.1427  Tc -0.3302  Tw (stochastic models for the evolution of both the receptive field param) Tj272.25 0  TD 0.1976  Tc -0.2779  Tw (eters of each neuron and the velocity ) Tj-272.25 -11.25  TD 0.1139  Tc -0.3014  Tw (and direction of the hand movement signal:) Tj172.5 0  TD 0  Tc -0.1875  Tw ( ) Tj51.75 -16.5  TD /F1 6  Tf0  Tw (1) TjETq 272.25 116.25 65.25 6.75 re W n BT279.75 117.75  TD/F2 6  Tf19.332  Tc (i) Tj6.582  Tc (i) Tj22.332  Tc (ii) TjETQ q 272.25 109.5 65.25 6.75 re W n BT279 111  TD/F2 6  Tf26.586  Tc (k) Tj21.336  Tc (kk) TjETQ BT294.75 114  TD/F2 9.75  Tf0.0428  Tc (A) TjETq 272.25 111.75 65.25 12 re W n BT273 114  TD/F3 9.75  Tf24.1702  Tc (q) Tj18.1455  Tc (qh) TjETQ BT311.25 111  TD/F4 6  Tf-0.294  Tc (-) TjETq 275.25 111.75 62.25 12 re W n BT285.75 114  TD/F4 9.75  Tf28.3972  Tc (=+) TjETQ BT337.5 114  TD/F1 9.75  Tf-0.1875  Tc (,) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-27 -18  TD /F1 6  Tf0  Tw (1) TjETq 274.5 94.5 60.75 6.75 re W n BT280.5 96  TD/F2 6  Tf21.836  Tc (kkk) TjETQ BT276 99  TD/F2 9.75  Tf15.171  Tc (v) Tj0.1069  Tc (Fv) Tj48.75 0  TD /F3 9.75  Tf0.2198  Tc (e) Tj-15 -3  TD /F4 6  Tf-0.294  Tc (-) TjETq 276.75 96.75 58.5 12 re W n BT287.25 99  TD/F4 9.75  Tf25.3972  Tc (=+) TjETQ BT335.25 99  TD/F1 9.75  Tf-0.1875  Tc (,) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) TjETendstream
+endobj
+11 0 obj
+11453
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 8 0 R 
+/F2 12 0 R 
+/F3 14 0 R 
+/F4 16 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 10 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 20 0 R
+>>
+stream
+BT90 709.5  TD0 0 0 rg /F1 9.75  Tf0.0362  Tc -0.2237  Tw (where ) Tj28.5 0  TD 0.0998  Tc 0  Tw (var) Tj9.5033  Tc ([]) TjETq 130.5 711.75 42 6.75 re W n BT140.25 713.25  TD/F2 6  Tf26.082  Tc (ii) TjETQ BT139.5 706.5  TD/F2 6  Tf0.336  Tc (k) Tj27 0  TD /F3 6  Tf-0.126  Tc (q) Tj-33 3  TD /F3 9.75  Tf0.1207  Tc (h) Tj15.75 0  TD /F4 9.75  Tf-0.1028  Tc (=) Tj8.25 0  TD /F0 9.75  Tf0  Tc (W) Tj15 0  TD /F1 9.75  Tf0.307  Tc -0.1195  Tw ( and ) Tj21.75 0  TD 0.0998  Tc 0  Tw (var) Tj8.7533  Tc ([]) TjETq 204.75 705 42 6.75 re W n BT214.5 706.5  TD/F2 6  Tf24.336  Tc (kv) TjETQ BT209.25 709.5  TD/F3 9.75  Tf0.2198  Tc (e) Tj15 0  TD /F4 9.75  Tf-0.1028  Tc (=) Tj8.25 0  TD /F0 9.75  Tf0  Tc (W) Tj14.25 0  TD /F1 9.75  Tf0.2256  Tc -0.4131  Tw ( are the covariances of the stochastic components of) Tj210.75 0  TD 0.0713  Tc -0.2588  Tw ( the parameter ) Tj-367.5 -16.5  TD 0.1165  Tc -0.304  Tw (and velocity state vectors at each time step.  The pair of filters for estimating the expected value, ) Tj395.25 -2.25  TD /F1 6  Tf0.3  Tc 0  Tw (|) Tj-2.25 6.75  TD /F2 6  Tf-0.168  Tc (i) Tj-0.75 -6.75  TD 1.836  Tc (kk) Tj-6 2.25  TD /F3 10.5  Tf-0.2205  Tc (q) Tj15 0  TD /F1 9.75  Tf0.1834  Tc 0.0041  Tw (, and ) Tj-401.25 -17.25  TD 0.0599  Tc -0.2474  Tw (variance,  ) Tj52.5 -2.25  TD /F1 6  Tf0.3  Tc 0  Tw (|) Tj-1.5 6.75  TD /F2 6  Tf-0.168  Tc (i) Tj-1.5 -6.75  TD 1.836  Tc (kk) Tj-8.25 2.25  TD /F2 10.5  Tf0.2535  Tc (W) Tj18 0  TD /F1 9.75  Tf0.0997  Tc -0.2872  Tw ( of the receptive field parameters and the expected value, ) Tj237 -3  TD /F1 6  Tf0.3  Tc 0  Tw (|) Tj-3 0  TD /F2 6  Tf1.836  Tc (kk) Tj-4.5 3  TD /F2 9.75  Tf0.171  Tc (v) Tj14.25 0  TD /F1 9.75  Tf0.0979  Tc -0.2854  Tw (, and variance,  ) Tj72 -2.25  TD /F1 6  Tf0.3  Tc 0  Tw (|) Tj-3 0  TD /F2 6  Tf1.836  Tc (kk) Tj-6 2.25  TD /F2 9.75  Tf0.0428  Tc (V) Tj15 0  TD /F1 9.75  Tf0.1928  Tc -0.3803  Tw ( of the ) Tj-381 -15  TD 0.1579  Tc -0.3454  Tw (hand movement velocity can be written as:) Tj170.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-170.25 -32.25  TD ( ) TjET0.75 w 1 J 1 j 0 0 0 RG 261.75 631.5 m 294 631.5 l S 312.75 631.5 m 345 631.5 l S 378.75 631.5 m 416.25 631.5 l S BT495.75 650.25  TD/F1 5.25  Tf0.375  Tc 0  Tw (1) Tj-267 -16.5  TD (1) Tj156 7.5  TD /F1 6.75  Tf(2) Tj-213 -15.75  TD 8.625  Tc (11) Tj97.5 10.5  TD /F1 9.75  Tf-0.0428  Tc (lo) Tj38.625  Tc (g) Tj-0.0428  Tc (lo) Tj58.875  Tc (g) Tj-0.1535  Tc (log) Tj-125.25 -7.5  TD -0.2467  Tc ([) Tj78.75 0  TD /F1 12  Tf-0.246  Tc (]) Tj77.25 16.5  TD /F2 5.25  Tf0.081  Tc (T) Tj109.5 -20.25  TD (T) Tj12.75 22.5  TD /F2 6.75  Tf-0.003  Tc (T) Tj-132.75 -6  TD 49.1235  Tc (i) Tj69.3735  Tc (ii) Tj-168.75 -7.5  TD 32.6235  Tc (i) Tj9.3735  Tc (i) Tj25.8735  Tc (i) Tj55.1235  Tc (i) Tj196.1235  Tc (i) Tj18.3735  Tc (ii) TjETq 109.5 624 390.75 7.5 re W n BT118.5 625.5  TD2.253  Tc (k) Tj37.503  Tc (k) Tj9.003  Tc (k) Tj269.253  Tc (kk) TjETQ BT281.25 624.75  TD49.1235  Tc (ii) Tj111 -2.25  TD 13.1235  Tc (ii) Tj-111.75 -6.75  TD 48.003  Tc (kk) Tj110.25 -1.5  TD 12.003  Tc (kk) TjETq 109.5 626.25 390.75 11.25 re W n BT110.25 628.5  TD/F2 9.75  Tf30.1282  Tc (W) Tj1.5428  Tc (A) Tj24.1282  Tc (W) Tj15.7927  Tc (A) Tj140.3783  Tc (W) Tj79.7895  Tc (t) Tj31.0181  Tc (Nt) TjETQ BT217.5 625.5  TD/F3 5.25  Tf0.2647  Tc (q) Tj66 10.5  TD /F3 9.75  Tf45.6472  Tc (l) Tj65.8972  Tc (ll) Tj179.25 -7.5  TD -0.1028  Tc (l) Tj-188.25 -9.75  TD 45.9202  Tc (qq) Tj111 -1.5  TD 9.9202  Tc (qq) Tj-142.5 11.25  TD /F3 12  Tf0.162  Tc (l) Tj250.5 21.75  TD /F4 5.25  Tf0.1178  Tc (-) Tj-267 -16.5  TD (-) Tj-58.5 -8.25  TD /F4 6.75  Tf8.2943  Tc (--) Tj94.5 10.5  TD /F4 9.75  Tf46.1835  Tc (\266) Tj61.1835  Tc (\266\266) Tj-131.25 -7.5  TD 66.6472  Tc (=) Tj143.8972  Tc (+) Tj76.533  Tc (D) Tj15.033  Tc (D) Tj11.2151  Tc (-D) Tj138.75 -9.75  TD 46.1835  Tc (\266\266) Tj110.25 -1.5  TD 10.1835  Tc (\266\266) TjETq 126 639 374.25 15 re W n BT139.5 642  TD/F4 12  Tf343.392  Tc (\351\371) TjETQ BT372 639  TD/F4 12  Tf41.142  Tc (\346\366) Tj-117 -2.25  TD 35.892  Tc (\346) Tj5.892  Tc (\366) Tj35.892  Tc (\346\366) TjETq 126 627.75 374.25 15 re W n BT139.5 630.75  TD343.392  Tc (\352\372) TjETQ q 416.25 626.25 84 15 re W n BT429.75 629.25  TD47.892  Tc (\351\371) TjETQ BT234 628.5  TD123.162  Tc (+-) Tj138 -0.75  TD 41.142  Tc (\347\367) Tj-117 -2.25  TD 35.892  Tc (\347) Tj5.892  Tc (\367) Tj35.892  Tc (\347\367) TjETq 416.25 621 84 15 re W n BT429.75 624  TD47.892  Tc (\353\373) TjETQ BT372 621.75  TD41.142  Tc (\347\367) TjETq 126 616.5 374.25 15 re W n BT139.5 619.5  TD343.392  Tc (\352\372) TjETQ BT255 615.75  TD35.892  Tc (\350) Tj5.892  Tc (\370) Tj35.892  Tc (\350\370) Tj117 -2.25  TD 41.142  Tc (\350\370) TjETq 126 607.5 374.25 15 re W n BT139.5 610.5  TD343.392  Tc (\353\373) TjETQ BT196.5 636  TD/F0 5.25  Tf0.2482  Tc (T) Tj-75 -10.5  TD /F0 6.75  Tf51.015  Tc (||) Tj378.75 3  TD /F1 9.75  Tf-0.1875  Tc (,) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) Tj19.5 0  TD ( ) Tj-432 -42  TD ( ) TjET305.25 589.5 m 337.5 589.5 l S BT220.5 583.5  TD/F1 6.75  Tf39.15  Tc 0  Tw (|) Tj-0.375  Tc (1) Tj6.9  Tc (|) Tj21.2625  Tc (1|) Tj92.25 10.5  TD /F1 9.75  Tf-0.1535  Tc (log) Tj12.75 -11.25  TD /F2 5.25  Tf0.0405  Tc (i) Tj-0.75 -9  TD -0.081  Tc (k) Tj8.25 25.5  TD /F2 6.75  Tf0.3735  Tc (i) TjETq 209.25 590.25 192 7.5 re W n BT218.25 591.75  TD25.1235  Tc (i) Tj7.8735  Tc (i) Tj38.6235  Tc (i) Tj64.1235  Tc (i) Tj18.3735  Tc (ii) TjETQ q 209.25 582 192 7.5 re W n BT216.75 583.5  TD2.253  Tc (k) Tj28.503  Tc (k) Tj8.253  Tc (k) Tj25.503  Tc (k) Tj2.253  Tc (k) Tj59.253  Tc (kk) TjETQ q 222.75 584.25 178.5 11.25 re W n BT238.5 586.5  TD/F2 9.75  Tf40.5427  Tc (A) Tj96.9589  Tc (Wt) TjETQ BT351.75 586.5  TD/F2 12  Tf0.246  Tc (N) Tj-24.75 7.5  TD /F3 9.75  Tf-0.1028  Tc (l) Tj48 -7.5  TD (l) Tj-56.25 -9.75  TD 0.1703  Tc (q) Tj-108.75 9.75  TD /F3 12  Tf30.498  Tc (qq) Tj47.25 -3  TD /F4 6.75  Tf8.2943  Tc (--) Tj48.75 10.5  TD /F4 9.75  Tf-0.3165  Tc (\266) Tj-76.5 -7.5  TD 43.3972  Tc (=) Tj83.8972  Tc (+) Tj11.2151  Tc (-D) Tj84.75 -9.75  TD -0.3165  Tc (\266) TjETq 326.25 584.25 75 15 re W n BT339.75 587.25  TD/F4 12  Tf50.142  Tc (\351\371) TjETQ BT344.25 586.5  TD/F4 12  Tf0.156  Tc (D) TjETq 326.25 579 75 15 re W n BT339.75 582  TD50.142  Tc (\353\373) TjETQ BT401.25 586.5  TD/F1 9.75  Tf-0.1875  Tc (,) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) Tj118.5 0  TD ( ) TjET219 546 m 247.5 546 l S 316.5 546 m 345 546 l S 382.5 546 m 419.25 546 l S BT499.5 563.25  TD/F1 5.25  Tf0.375  Tc 0  Tw (1) Tj-300.75 -14.25  TD (1) Tj207 -9.75  TD (2) Tj-17.25 17.25  TD /F1 6.75  Tf(2) Tj-244.5 -16.5  TD -0.375  Tc (1) Tj7.7625  Tc (|1) Tj225.75 -8.25  TD 0.375  Tc (1) Tj-143.25 19.5  TD /F1 9.75  Tf-0.0428  Tc (lo) Tj85.125  Tc (g) Tj-0.0428  Tc (lo) Tj58.125  Tc (g) Tj-0.1535  Tc (log) Tj-105.75 -8.25  TD -0.2467  Tc ([) Tj72 0  TD /F1 12  Tf88.254  Tc (]) Tj17.004  Tc ([]) Tj61.5 17.25  TD /F2 5.25  Tf0.081  Tc (T) Tj-157.5 -20.25  TD 2.169  Tc (kk) Tj328.5 20.25  TD /F2 6.75  Tf-0.003  Tc (T) Tj-9.75 -3.75  TD 0.3735  Tc (i) Tj-50.25 -0.75  TD -0.0022  Tc (C) Tj87.75 -6.75  TD 18.3735  Tc (ii) TjETq 125.25 538.5 378 7.5 re W n BT136.5 540  TD9.003  Tc (k) Tj300.753  Tc (kk) TjETQ BT363.75 531.75  TD0.3735  Tc (i) Tj-128.25 -0.75  TD 94.503  Tc (k) Tj65.253  Tc (kk) TjETq 90 540.75 413.25 11.25 re W n BT90.75 543  TD/F2 9.75  Tf27.7927  Tc (V) Tj0.0428  Tc (F) Tj22.5427  Tc (V) Tj15.0427  Tc (F) Tj113.3783  Tc (W) Tj140.5395  Tc (t) Tj30.2681  Tc (Nt) TjETQ BT231 534  TD/F2 9.75  Tf93.171  Tc (v) Tj63.921  Tc (vv) Tj30 9  TD /F2 12  Tf0  Tc (Diag) Tj-73.5 -3  TD /F3 5.25  Tf0.2647  Tc (n) Tj53.25 11.25  TD /F3 9.75  Tf92.1472  Tc (l) Tj65.1472  Tc (ll) Tj225.75 -8.25  TD -0.1028  Tc (l) Tj-177 0  TD /F3 12  Tf0.162  Tc (l) Tj207 20.25  TD /F4 5.25  Tf0.1178  Tc (-) Tj-300 -14.25  TD (-) Tj-56.25 -9  TD /F4 6.75  Tf8.2943  Tc (--) Tj225.75 -8.25  TD 0.0443  Tc (=) Tj-146.25 19.5  TD /F4 9.75  Tf92.6835  Tc (\266) Tj60.4335  Tc (\266\266) Tj-112.5 -8.25  TD 60.6472  Tc (=) Tj116.8973  Tc (+) Tj136.533  Tc (D) Tj15.033  Tc (D) Tj11.2151  Tc (-D) Tj119.25 -9  TD 92.6835  Tc (\266) Tj63.4335  Tc (\266\266) TjETq 102.75 552 400.5 15 re W n BT116.25 555  TD/F4 12  Tf370.392  Tc (\351\371) TjETQ BT213 552  TD/F4 12  Tf32.142  Tc (\346) Tj56.142  Tc (\366) Tj31.392  Tc (\346) Tj24.642  Tc (\366) Tj41.142  Tc (\346\366) TjETq 420 540.75 83.25 15 re W n BT433.5 543.75  TD47.892  Tc (\351\371) TjETQ q 102.75 540.75 400.5 15 re W n BT116.25 543.75  TD370.392  Tc (\352\372) TjETQ BT204.75 543  TD141.912  Tc (+-) Tj8.25 -2.25  TD 32.142  Tc (\347) Tj56.142  Tc (\367) Tj31.392  Tc (\347) Tj24.642  Tc (\367) Tj41.142  Tc (\347\367) TjETq 420 535.5 83.25 15 re W n BT433.5 538.5  TD47.892  Tc (\353\373) TjETQ q 102.75 528.75 400.5 15 re W n BT116.25 531.75  TD370.392  Tc (\352\372) TjETQ BT213 531  TD32.142  Tc (\350) Tj56.142  Tc (\370) Tj31.392  Tc (\350) Tj24.642  Tc (\370) Tj41.142  Tc (\350\370) TjETq 102.75 524.25 400.5 15 re W n BT116.25 527.25  TD370.392  Tc (\353\373) TjETQ BT361.5 540.75  TD/F4 18  Tf-0.084  Tc (\345) Tj-194.25 8.25  TD /F0 5.25  Tf0.2482  Tc (T) Tj-67.5 -9  TD 0.345  Tc (|) Tj403.5 3  TD /F1 9.75  Tf-0.1875  Tc (,) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-415.5 -37.5  TD ( ) TjET302.25 508.5 m 330.75 508.5 l S BT0.6923 0 0 1 332.25 504.75  Tm/F4 16.5  Tf-0.0778  Tc 0  Tw ([) Tj72.5833 0  TD (]) TjETBT264.75 502.5  TD/F1 5.25  Tf6.375  Tc (11) Tj45 10.5  TD /F1 9.75  Tf-0.1535  Tc (log) Tj-81 -10.5  TD /F2 5.25  Tf2.169  Tc (k) Tj23.169  Tc (k) Tj7.419  Tc (k) Tj20.919  Tc (k) Tj2.169  Tc (kk) Tj123.75 0  TD /F2 6.75  Tf0.003  Tc (k) Tj-33.75 -9.75  TD (k) TjETq 222.75 503.25 165 11.25 re W n BT224.25 505.5  TD/F2 9.75  Tf19.671  Tc (v) Tj0.0428  Tc (F) Tj27.921  Tc (v) Tj85.6661  Tc (Vt) TjETQ BT314.25 495.75  TD/F2 9.75  Tf0.171  Tc (v) Tj30 9.75  TD /F2 12  Tf0.246  Tc (N) Tj-20.25 7.5  TD /F3 9.75  Tf-0.1028  Tc (l) Tj42.75 -7.5  TD (l) Tj-104.25 -3  TD /F4 5.25  Tf6.1177  Tc (--) Tj40.5 10.5  TD /F4 9.75  Tf-0.3165  Tc (\266) Tj-63 -7.5  TD 34.3972  Tc (=) Tj74.8972  Tc (+) Tj7.4651  Tc (-D) Tj69 -9.75  TD -0.3165  Tc (\266) Tj27.75 9.75  TD /F4 12  Tf0.156  Tc (D) Tj-105 -3  TD /F0 5.25  Tf34.095  Tc (|) Tj26.595  Tc (||) Tj156 3  TD /F1 9.75  Tf-0.1875  Tc (.) Tj2.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-300 -24  TD 0.0775  Tc -0.265  Tw (This adaptive estimatio) Tj93 0  TD 0.0625  Tc -0.2  Tw (n procedure is similar to an extended Kalman filter, except that its inputs are spiking ) Tj-93 -11.25  TD 0.2567  Tc -0.4442  Tw (events rather than continuous valued observations.) Tj207 0  TD 0  Tc -0.1875  Tw ( ) Tj-207 -12  TD ( ) Tj36 0  TD 0.1099  Tc 0.8276  Tw (At the beginning of each simulation, there was a 10 minute period of supervised learning, when ) Tj-36 -11.25  TD 0.0422  Tc 2.0203  Tw (the algorithm was pro) Tj93 0  TD 0.0896  Tc 1.4536  Tw (vided with the true simulated hand kinematic signal, and only the receptive field ) Tj-93 -11.25  TD 0.111  Tc 0.3265  Tw (parameters of the ensemble needed to be estimated.  After this initial period, the simulation switched to an ) Tj0 -12  TD 0.1391  Tc 4.0663  Tw (unsupervised scenario, where both the receptive field parameters) Tj0  Tc 0.5625  Tw ( ) Tj296.25 0  TD 0.0981  Tc 3.4644  Tw (and the movement signal were) Tj0  Tc -0.1875  Tw ( ) Tj-296.25 -11.25  TD 0.1002  Tc 0.9034  Tw (simultaneously estimated for up to 24 hours of simulation time.  During this period, neurons would drop ) Tj0 -11.25  TD 0.1193  Tc 1.4579  Tw (out of the ensemble at fixed intervals, and be replaced by other neurons with unknown receptive field ) Tj0 -12  TD 0.1233  Tc 0.4392  Tw (parameter vectors.  W) Tj90 0  TD 0.1152  Tc 0.233  Tw (hen a previously unobserved neuron was detected for the first time, it was initialized ) Tj-90 -11.25  TD 0.0285  Tc 0.8428  Tw (with an uninformative receptive field with a minimal background firing rate.  The initial variance about its ) Tj0 -11.25  TD 0.0857  Tc 0.8935  Tw (receptive field parameters was set to be large, allowing the) Tj242.25 0  TD 0.1539  Tc 0.4086  Tw (m to change rapidly, based on the relationship ) Tj-242.25 -12  TD 0.1251  Tc 0.1457  Tw (between the neuron\222s firing pattern and the estimated movement signal from the rest of the ensemble.  The ) Tj0 -11.25  TD 0.1448  Tc 0.1365  Tw (newly observed neuron did not contribute to the signal estimate until the determinant of the variance o) Tj417 0  TD 0.0724  Tc 0.1151  Tw (f its ) Tj-417 -11.25  TD 0.0822  Tc -0.2697  Tw (parameter estimates dropped below a specified level.) Tj209.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-209.25 -12  TD ( ) Tj36 0  TD 0.1155  Tc 1.0898  Tw (We examined the mean squared error between the true simulated and estimated hand trajectory ) Tj-36 -11.25  TD 0.1227  Tc 0.5582  Tw (and its change in time while modulating a\) the total number of neurons observable at one time and b\) the) Tj432 0  TD 0  Tc -0.1875  Tw ( ) Tj-432 -11.25  TD 0.1222  Tc 0.3331  Tw (rate of dropout of individual neurons.  For an ensemble with a large number of neurons and a slow rate of ) Tj0 -12  TD 0.171  Tc -0.3116  Tw (neuron dropout, the mean squared error remained constant after the switch to unsupervised learning.  When ) Tj0 -11.25  TD 0.1698  Tc 1.0489  Tw (either the total number of neurons in the e) Tj178.5 0  TD 0.1569  Tc 0.4056  Tw (nsemble at one time was decreased or the rate of dropout was ) Tj-178.5 -11.25  TD 0.0901  Tc -0.2776  Tw (increased, the error would increase initially and asymptote to a new level.  ) Tj295.5 0  TD 0  Tc -0.1875  Tw ( ) Tj-259.5 -12  TD 0.067  Tc 1.308  Tw (This adaptive filtering framework provides a useful approach for maintaining information about ) Tj-36 -11.25  TD 0.0885  Tc 0.974  Tw (the firing properties ) Tj85.5 0  TD 0.1706  Tc 0.9544  Tw (of a neural population whose members are constantly changing in an unsupervised ) Tj-85.5 -11.25  TD 0.1134  Tc 2.0491  Tw (scenario.  This application will be important for the construction of neural prosthetic devises, where ) Tj0 -12  TD 0.153  Tc 1.7595  Tw (chronically implanted electrodes are used to extract sensory signals or m) Tj309.75 0  TD 0.0223  Tc 0.9152  Tw (otor commands from dynamic ) Tj-309.75 -11.25  TD 0.0673  Tc -0.2548  Tw (neural ensembles [4) Tj78.75 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD -0.2697  Tc (7].) Tj9.75 0  TD 0  Tc -0.1875  Tw ( ) Tj-91.5 -12.75  TD /F1 12  Tf0  Tw ( ) Tj36 0  TD ( ) Tj-36 -12.75  TD /F1 9.75  Tf0.0596  Tc -0.2471  Tw (\(1\) Donoghue, J. P. \(1995\)  Plasticity of sensorimotor representations. ) Tj277.5 0  TD /F2 9.75  Tf0.1964  Tc -0.3839  Tw (Curr. Opin. Neurobiol.) Tj93 0  TD /F1 9.75  Tf-0.1875  Tc 0  Tw (, ) Tj4.5 0  TD /F0 9.75  Tf0.375  Tc (5) Tj5.25 0  TD /F1 9.75  Tf-0.3281  Tc 0.1406  Tw (, 749) Tj18 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD -0.375  Tc (754) Tj13.5 0  TD 0  Tc -0.1875  Tw ( ) Tj-414.75 -11.25  TD 0.0635  Tc 1.3896  Tw (\(2\) Moran, D. W. & Schwartz, A.B. \(1999\)  Motor cortical representation of speed and direction d) Tj411 0  TD 0.0835  Tc 0.4789  Tw (uring ) Tj-411 -11.25  TD 0.0826  Tc -0.2701  Tw (reaching.  ) Tj41.25 0  TD /F2 9.75  Tf0.2336  Tc -0.4211  Tw (J. Neurophysiol.) Tj66.75 0  TD /F1 9.75  Tf0  Tc -0.1875  Tw ( ) Tj2.25 0  TD /F0 9.75  Tf0.375  Tc 0  Tw (82) Tj10.5 0  TD /F1 9.75  Tf-0.3375  Tc 0.15  Tw (, 2676) Tj22.5 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD -0.375  Tc (2692) Tj18 0  TD 0  Tc -0.1875  Tw ( ) Tj-164.25 -12  TD -0.1073  Tc 1.777  Tw (\(3\) Eden, U. T., Frank, L. M., Barbieri, R., Solo, V. & Brown, E. N. \(2004\)  Dynamic analysis of neural ) Tj0 -11.25  TD 0.1584  Tc -0.3459  Tw (encoding by point process adaptive filtering.  ) Tj183.75 0  TD /F2 9.75  Tf0.2641  Tc -0.4516  Tw (Neural Computation) Tj84.75 0  TD /F1 9.75  Tf0.1386  Tc -0.3261  Tw (, In Press) Tj36.75 0  TD 0  Tc -0.1875  Tw ( ) Tj-305.25 -11.25  TD 0.0513  Tc -0.2388  Tw (\(4\) Serruya, M. D., Hatsopou) Tj114.75 0  TD -0.0365  Tc -0.101  Tw (los, N. G., Paninski, L., Fellows, M. R. & Donoghue, J. P.  \(2002\) Instant ) Tj-114.75 -12  TD 0.0267  Tc -0.2142  Tw (Neural Control of a movement signal. ) Tj150 0  TD /F2 9.75  Tf0.2358  Tc 0  Tw (Nature) Tj28.5 0  TD /F1 9.75  Tf-0.3482  Tc 0.1607  Tw ( 416, 141) Tj33.75 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD -0.375  Tc (142) Tj13.5 0  TD 0  Tc -0.1875  Tw ( ) Tj-228.75 -11.25  TD -0.0355  Tc -0.152  Tw (\(5\) Issacs, R. E., Weber, D. J. & Schwartz, A. B. \(2000\) Work toward real) Tj284.25 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.0263  Tc -0.2138  Tw (time control of a cortical neural ) Tj-287.25 -11.25  TD 0.2557  Tc -0.4432  Tw (prosthesis. ) Tj46.5 0  TD /F2 9.75  Tf-0.0296  Tc 0  Tw (IEEE) Tj21 0  TD 0.161  Tc -0.3485  Tw ( Trans. On Rehab. Eng.) Tj93.75 0  TD /F1 9.75  Tf0  Tc -0.1875  Tw ( ) Tj2.25 0  TD /F0 9.75  Tf0.375  Tc 0  Tw (8) Tj5.25 0  TD /F1 9.75  Tf-0.3281  Tc 0.1406  Tw (, 196) Tj18 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD -0.375  Tc (198) Tj13.5 0  TD 0  Tc -0.1875  Tw ( ) TjETendstream
+endobj
+20 0 obj
+17637
+endobj
+18 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 8 0 R 
+/F2 12 0 R 
+/F3 14 0 R 
+/F4 16 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 19 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 23 0 R
+>>
+stream
+BT90 711  TD0 0 0 rg /F1 9.75  Tf-0.0189  Tc -0.1245  Tw (\(6\) Pesaran, B., Pezaris, J.S., Sahani, M., Mitra, P.P. & Andersen, R.A.  \(2002\) Temporal structure in ) Tj0 -11.25  TD 0.2356  Tc 0  Tw (neuronal) Tj35.25 0  TD 0.0053  Tc -0.1928  Tw ( activity during working memory in macaque parietal cortex. ) Tj238.5 0  TD /F2 9.75  Tf0.2231  Tc -0.4106  Tw (Nat Neurosci) Tj54 0  TD /F1 9.75  Tf-0.3352  Tc 0.1477  Tw (. 5\(8\):805) Tj35.25 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD -0.3125  Tc (11.) Tj11.25 0  TD 0  Tc -0.1875  Tw ( ) Tj-377.25 -12  TD -0.0279  Tc -0.1596  Tw (\(7\) Wessberg, J., Stramb) Tj96.75 0  TD -0.1012  Tc -0.0863  Tw (augh, C.R., Kralik, J.D., Beck, P.D., Laubach, M., Chapin, J.K., Kim, J., Biggs, ) Tj-96.75 -11.25  TD -0.0475  Tc -0.14  Tw (S.J., Srinivasan, M.A. & Nicolelis, M.A. \(2000\) Real) Tj203.25 0  TD -0.2467  Tc 0  Tw (-) Tj3 0  TD 0.1093  Tc -0.2968  Tw (time prediction of hand trajectory by ensembles of ) Tj-206.25 -11.25  TD 0.0784  Tc -0.2659  Tw (cortical neurons in primates. ) Tj114.75 0  TD /F2 9.75  Tf0.2358  Tc 0  Tw (Nature) Tj28.5 0  TD /F1 9.75  Tf-0.1875  Tc (, ) Tj4.5 0  TD /F0 9.75  Tf0.375  Tc (408) Tj15.75 0  TD /F1 9.75  Tf-0.3964  Tc (:361) Tj15.75 0  TD -0.2467  Tc (-) Tj3 0  TD -0.2812  Tc (5.) Tj6.75 0  TD 0  Tc -0.1875  Tw ( ) Tj-189 -12  TD ( ) TjETendstream
+endobj
+23 0 obj
+1356
+endobj
+21 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 8 0 R 
+/F2 12 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 22 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F0
+/BaseFont /TimesNewRoman,Bold
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 555 500 500 1000 833 278 333 333 500 570 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 333 333 570 570 570 
+500 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 
+778 611 778 722 556 667 722 722 1000 722 722 667 333 278 333 581 
+500 333 500 556 444 556 444 333 500 556 278 333 556 278 833 556 
+500 556 556 444 389 333 556 500 722 500 500 444 394 220 394 520 
+778 500 778 333 500 500 1000 500 500 333 1000 556 333 1000 778 778 
+778 778 333 333 500 500 350 500 1000 333 1000 389 333 722 778 778 
+722 250 333 500 500 500 500 220 500 333 747 300 500 570 333 747 
+500 400 549 300 300 333 576 540 250 333 300 330 500 750 750 750 
+500 722 722 722 722 722 722 1000 722 667 667 667 667 389 389 389 
+389 722 722 778 778 778 778 778 570 778 722 722 722 722 722 611 
+556 500 500 500 500 500 500 722 444 444 444 444 444 278 278 278 
+278 500 556 500 500 500 500 500 549 500 556 556 556 556 500 556 
+500 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman,Bold
+/Flags 16418
+/FontBBox [ -250 -250 1200 938 ]
+/MissingWidth 750
+/StemV 140
+/StemH 140
+/ItalicAngle 0
+/CapHeight 938
+/XHeight 656
+/Ascent 938
+/Descent -250
+/Leading 251
+/MaxWidth 1000
+/AvgWidth 438
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /TimesNewRoman
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 
+444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 
+722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 
+500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 
+500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 
+778 500 778 333 500 444 1000 500 500 333 1000 556 333 556 611 611 
+611 778 333 333 444 444 350 500 1000 333 980 389 333 389 427 444 
+444 250 333 333 611 500 722 200 500 333 760 556 500 564 333 760 
+611 400 549 333 278 333 576 453 250 333 444 389 500 611 333 406 
+444 667 722 722 722 722 611 667 667 667 611 611 611 611 333 333 
+722 722 722 722 722 722 722 722 564 667 722 722 722 722 722 611 
+500 333 444 444 444 444 278 444 444 444 444 444 444 444 278 278 
+646 500 500 500 500 500 500 500 549 333 500 500 500 500 500 278 
+333 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 9 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman
+/Flags 34
+/FontBBox [ -250 -231 1292 923 ]
+/MissingWidth 769
+/StemV 70
+/StemH 70
+/ItalicAngle 0
+/CapHeight 923
+/XHeight 646
+/Ascent 923
+/Descent -231
+/Leading 231
+/MaxWidth 1077
+/AvgWidth 385
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /TimesNewRoman,Italic
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 420 500 500 833 778 214 333 333 500 675 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 333 333 675 675 675 
+500 920 611 611 667 722 611 611 722 722 333 444 667 556 833 667 
+722 611 722 611 500 556 722 611 833 611 556 556 389 278 389 422 
+500 333 500 500 444 500 444 278 500 500 278 278 444 278 722 500 
+500 500 500 389 389 278 500 444 667 444 444 389 400 275 400 541 
+778 500 778 333 500 556 889 500 500 333 1000 500 333 944 778 778 
+778 778 333 333 556 556 350 500 889 333 980 389 333 667 778 778 
+556 250 389 500 500 500 500 275 500 333 760 276 500 675 333 760 
+500 400 549 300 300 333 576 523 250 333 300 310 500 750 750 750 
+500 611 611 611 611 611 611 889 667 611 611 611 611 333 333 333 
+333 722 667 722 722 722 722 722 675 722 722 722 722 722 556 611 
+500 500 500 500 500 500 500 667 444 444 444 444 444 278 278 278 
+278 500 500 500 500 500 500 500 549 500 500 500 500 500 444 500 
+444 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman,Italic
+/Flags 98
+/FontBBox [ -250 -250 1200 875 ]
+/MissingWidth 750
+/StemV 68
+/StemH 68
+/ItalicAngle -11
+/CapHeight 875
+/XHeight 612
+/Ascent 875
+/Descent -250
+/Leading 125
+/MaxWidth 1000
+/AvgWidth 375
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F3
+/BaseFont /Symbol,Italic
+/FirstChar 31
+/LastChar 255
+/Widths [ 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 
+278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 
+444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 
+722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 
+500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 
+549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 
+600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 
+603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 
+658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 
+713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 
+603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 
+494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 
+600 ]
+/FontDescriptor 15 0 R
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Symbol,Italic
+/Flags 70
+/FontBBox [ -250 -214 1285 1000 ]
+/MissingWidth 571
+/StemV 104
+/StemH 104
+/ItalicAngle -11
+/CapHeight 1000
+/XHeight 700
+/Ascent 1000
+/Descent -214
+/Leading 214
+/MaxWidth 1071
+/AvgWidth 571
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F4
+/BaseFont /Symbol
+/FirstChar 31
+/LastChar 255
+/Widths [ 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 
+278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 
+444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 
+722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 
+500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 
+549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 
+600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 
+603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 
+658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 
+713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 
+603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 
+494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 
+600 ]
+/FontDescriptor 17 0 R
+>>
+endobj
+17 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Symbol
+/Flags 6
+/FontBBox [ -250 -214 1285 1000 ]
+/MissingWidth 571
+/StemV 104
+/StemH 104
+/ItalicAngle 0
+/CapHeight 1000
+/XHeight 700
+/Ascent 1000
+/Descent -214
+/Leading 214
+/MaxWidth 1071
+/AvgWidth 571
+>>
+endobj
+2 0 obj
+[ /PDF /Text  ]
+endobj
+5 0 obj
+<<
+/Kids [4 0 R 18 0 R 21 0 R ]
+/Count 3
+/Type /Pages
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+1 0 obj
+<<
+/Creator <FEFF0043004E005300200032003000300034002000530075006D006D0061007200790020002D0020004D006900630072006F0073006F0066007400200057006F00720064>
+/CreationDate (D:20040126174650)
+/Title <FEFF007500720069>
+/Producer (Acrobat PDFWriter 4.05 for Windows)
+>>
+endobj
+3 0 obj
+<<
+/Pages 5 0 R
+/Type /Catalog
+/DefaultGray 24 0 R
+/DefaultRGB  25 0 R
+>>
+endobj
+24 0 obj
+[/CalGray
+<<
+/WhitePoint [0.9505 1 1.0891 ]
+/Gamma 0.2468 
+>>
+]
+endobj
+25 0 obj
+[/CalRGB
+<<
+/WhitePoint [0.9505 1 1.0891 ]
+/Gamma [0.2468 0.2468 0.2468 ]
+/Matrix [0.4361 0.2225 0.0139 0.3851 0.7169 0.0971 0.1431 0.0606 0.7141 ]
+>>
+]
+endobj
+xref
+0 26
+0000000000 65535 f
+0000038370 00000 n
+0000038230 00000 n
+0000038653 00000 n
+0000011560 00000 n
+0000038264 00000 n
+0000031249 00000 n
+0000032379 00000 n
+0000032668 00000 n
+0000033788 00000 n
+0000000021 00000 n
+0000011535 00000 n
+0000034067 00000 n
+0000035194 00000 n
+0000035483 00000 n
+0000036578 00000 n
+0000036865 00000 n
+0000037953 00000 n
+0000029466 00000 n
+0000011743 00000 n
+0000029441 00000 n
+0000031091 00000 n
+0000029650 00000 n
+0000031067 00000 n
+0000038750 00000 n
+0000038838 00000 n
+trailer
+<<
+/Size 26
+/Root 3 0 R
+/Info 1 0 R
+/ID [<6f3f1e2775b28676d28b06de2910f032><6f3f1e2775b28676d28b06de2910f032>]
+>>
+startxref
+39016
+%%EOF

@@ -1,0 +1,25 @@
+Acetylcholine and cortical oscillatory dynamics
+
+Hans Liljenstrom and Michael E. Hasselmo
+
+SANSÑStudies of Artificial Neural Systems
+Dept. of Numerical Analysis and Computing Science
+Royal Institute of Technology, S-100 44 Stockholm, Sweden
+
+
+Dept. of Psychology
+Harvard University
+Cambridge, MA 02138, USA
+
+
+Acetylcholine appears to regulate the oscillatory properties of cortical
+structures. Application of cholinergic agonists induces theta rhythm oscilla-
+tory patterns in the piriform (olfactory) cortex (Biedenbach, 1966) and the
+hippocampus (Konopacki et al., 1987). These effects appear due to alter-
+ation of the intrinsic oscillatory characteristics of cortical structures. In a
+simulation of the oscillatory dynamics of piriform cortex (Liljenstrom, 1991),
+we show that the neuromodulatory effects of acetylcholine can induce theta
+rhythm oscillatory characteristics. The cholinergic increase in excitability
+causes increased oscillatory activity while the cholinergic suppression of ex-
+citatory intrinsic synaptic transmission prevents gamma rhythm oscillatory
+dynamics from predominating.

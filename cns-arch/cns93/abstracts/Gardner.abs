@@ -1,0 +1,33 @@
+NEUROBIOLOGICAL SUBSTRATES CONSISTENT WITH BACK-
+PROPAGATION. Daniel Gardner.
+Department of Physiology and Biophysics, Cornell University Medical 
+College, New York, NY 10021.
+
+ABSTRACT:
+
+Back-propagation and similar network learning rules for error 
+minimization require retrograde information transfer across 
+synapses. This reliance on retrosynaptic transmission of an error 
+signal categorizes such nets as non-neuromorphic, in spite of their 
+utility as identification models and ability to evolve neuronal 
+receptive field organization. However, a retrosynaptic transmitter 
+proportional to postsynaptic error could 1) contribute to presynaptic 
+error via a presynaptic receptor uniformly distributed at active 
+zones and therefore proportional to weight, and 2) form the local 
+weight change signal via another presynaptic receptor, Ca++-related 
+and therefore proportional to presynaptic activity. This hypothesis 
+may render back-propagation less neurobiologically suspect.
+
+
+Dr. Daniel Gardner
+Dept. of Physiology and Biophysics C-533
+Cornell University Medical College
+1300 York Ave.
+New York, NY 10021
+
+Voice: (212) 746-6373
+Fax: (212) 746-8355
+
+Dan Gardner@QMCUMC.MAIL.CORNELL.EDU
+ 
+

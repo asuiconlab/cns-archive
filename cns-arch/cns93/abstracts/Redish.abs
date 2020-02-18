@@ -1,0 +1,28 @@
+The Sinusoidal Array: A Theory of Representation in Parietal Cortex
+
+A. David Redish, David S. Touretzky, Hank S. Wan
+
+School of Computer Science
+Carnegie l~Iellon University
+Pittsburgh, PA 15213
+
+
+Abstract
+
+We describe a theoretical model of spatial representation in parietal 
+cortex, including computer simulations, that is compatible with data 
+from single neuron recordings. Our proposed architecture, called a 
+sinusoidal anray, encodes vectors as phasors: given a vector in polar 
+coordinates (r,phi), its length and angle can be encoded by the 
+amplitude and phase of a sine wave f(t) = r cos(phi.t + omega), where 
+omega is an arbitrary (but constant) frequency. Our proposal re-
+codes the temporal dimension spatially, representing a discrete 
+approximation to the sine wave as a distributed activity pattern over 
+N sinusoidal array elements. We demonstrate how sinusoidal arrays 
+might be used for vector transformations such as addition, 
+subtraction, and rotation, and for simple navigational tasks.
+
+Address all correspondence to the first author.  Electronic mail 
+address: dredishcs.cmu.edu Electronic mail address: dst@cs.cmu.edu 
+Electronic mail address: hsw@cs.cmu.edu  
+

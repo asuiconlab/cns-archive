@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1998 - Schedule</title>
+<meta name="description" content="CNS Meeting Home Page 1998 - Schedule." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1998, 
+cns, computational, neuroscience, workshop, talks, posters, Schedule" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1998</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 26 - 30, 1998 Santa Barbara, California</h3>
+  	
+  	<h4>CNS*1998 Schedule</h4>
+  	
+  	<p>The schedule for CNS*98 is as follows (all dates are in 1998).</p>
+  	
+  	<table class="mytable" cellspacing="0" cellpadding="0">
+  	  <tr>
+  	  	<th>Date</th>
+  	  	<th>Events</th>
+  	  </tr>
+  	  <tr>
+  	  	<td>Jan. 29</td>
+  	  	<td>Abstract Deadline</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt">June 24</td>
+  	  	<td class="alt">Hotel Registration Deadline</td>
+  	  </tr>
+  	  <tr>
+  	  	<td>June 26</td>
+  	  	<td>Conference Registration Fees Increase</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt">July 26</td>
+  	  	<td class="alt">09h00-12h20 Morning Session<br />
+  	  	14h20-17h30 Afternoon Session<br />
+  	  	20h00 Poster Session A</td>
+  	  </tr>
+  	  <tr>
+  	  	<td>July 27</td>
+  	  	<td>09h00-12h40 Morning Session<br />
+  	  	14h00-17h30 Afternoon Session<br />
+  	  	20h00 Poster Session B</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt">July 28</td>
+  	  	<td class="alt">09h00-12h20 Morning Session<br />
+  	  	14h00-17h30 Afternoon Session<br />
+  	  	20h00 Poster Session C</td>
+  	  </tr>
+  	  <tr>
+  	  	<td>July 29</td>
+  	  	<td>09h30-12h30 Morning Session<br />
+  	  	14h00-17h00 Workshops Session I<br />
+  	  	21h30 Rock and Roll Jam Session</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt">July 30</td>
+  	  	<td class="alt">09h30-12h25 Morning Session<br />
+  	  	12h25-13h00 Business Meeting<br />
+  	  	14h30-17h00 Workshops Session II<br />
+  	  	21h30 Banquet: Life's A Beach</td>
+  	  </tr>
+  	</table>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1998" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+Switching Between Predictable and Unpredictable States
+in Data from Cat Visual Cortex
+
+
+
+
+K. Pawelzik, H.-U. Bauer, T. Geisel
+Institut fur Theoretische Physik and SFB Nichtlineare Dynamik
+Universitat Frankfurt, Robert-Mayer-Str. 8-10
+W-6000 Frankfurt/Main 11, Fed. Rep. of Germany
+
+
+
+Abstract
+
+Visual inspection of data from cat visual cortex reveals, that the recently discovered 40-Hz-oscillations do not consist of a permanent oscillatory signal during the whole period of stimulation, but instead display interchanging stochastic and regular phases, both of varying duration times. In order to base this observation on firm statistical grounds, we assume that the signal should be predictable during regular epochs, unpredictable during the irregular epochs. Employing the method of time-resolved mutual information, first we calculate the time-resolved predictability within the LFP-signal from a single electrode. Periods of high temporal coherence can clearly be discrminated from periods of stochastic behaviour. The analysis of the spatial coherence with the same method yields, that synchronous activity between two electrodes is largely restricted to episodes of high temporal coherence.
+

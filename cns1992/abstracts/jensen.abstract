@@ -1,0 +1,28 @@
+NMDA-Activated Conductances Provide Short-Term Memory for Dendritic
+Spine Logic Computations
+
+ R.V. Jensen* and G.M. Shepherd
+
+Department of Neurobiology, Yale University School of Medicine
+New Haven, CT 06510
+ and
+*Department of Physics, Wesleyan University
+Middletown, CT 06457
+
+
+Active conductances in dendritic spines may  permit elaborate computational
+processing of multiple synaptic inputs long before these signals reach the
+soma. Numerical models of dendritic trees indicate that the interactions of 
+postsynaptic potentials in active spines can generate simple logic operations 
+such as AND, OR and NAND gates. However, because the spine head
+EPSP's closely follow the underlying, short-duration (1-3 ms), synaptic
+conductances, previous studies concluded that the precise timing of
+synaptic inputs is critical for these logic operations.
+We show that this severe temporal limitation on dendritic computation
+can be overcome by the inclusion of slow (100-300 ms),
+voltage-dependent, NMDA-receptor mediated conductances$^5$ in the spine
+heads.
+Our numerical simulations  show that this simple mechanism provides a short
+term memory ($\sim$ 100 ms) for logical AND gates with time-delayed
+inputs on one or more spines.
+

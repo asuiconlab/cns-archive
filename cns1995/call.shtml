@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1995 - Call for Papers</title>
+<meta name="description" content="CNS Meeting Home Page 1995 - Call for Papers." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1995, 
+cns, computational, neuroscience, workshop, talks, posters, Call for Papers" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1995</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 11 - 15, 1995, Monterey, California</h3>
+  	
+  	<h4>CNS*1995 Call for Papers</h4>
+  	
+  	<p>This is the fourth annual meeting of an interdisciplinary conference intended to address the 
+  	broad range of research approaches and issues involved in the field of computational 
+  	neuroscience. The last three annual meetings, in San Francisco (CNS*92), Washington, DC (CNS*93), 
+  	and Monterey, California (CNS*94) brought experimental and theoretical neurobiologists along 
+  	with engineers, computer scientists, cognitive scientists, physicists, and mathematicians 
+  	together to consider the functioning of biological nervous systems. Peer reviewed papers were 
+  	presented on a range of subjects related to understanding how nervous systems compute.</p>
+  	
+  	<p>As in previous years, the meeting will equally emphasize experimental, model-based, and more 
+  	abstract theoretical approaches to understanding neurobiological computation. The meeting in 1995 
+  	will again take place at the Monterey Doubletree Hotel and include plenary, contributed and 
+  	poster sessions. There will be no parallel sessions and the full text of presented papers will be 
+  	published in a proceedings volume. The last day of the meeting will be devoted to a series of 
+  	informal workshops focused on current issues in computational neuroscience.</p>
+  	
+  	<p>With this announcement we solicit the submission of presented papers. All papers will be 
+  	refereed. Authors should send original research contributions in the form of a 1000-word (or 
+  	less) summary and a separate single page 50-100 word abstract clearly stating their results. 
+  	Summaries are for program committee use only. Abstracts will be published in the conference 
+  	program. At the bottom of each abstract page and on the first summary page, indicate preference 
+  	for oral or poster presentation and specify at least one appropriate category and theme from the 
+  	following list:</p>
+  	
+  	<p>Presentation categories:</p>
+  	
+  	<ol class="letters">
+  	  <li>Theory and Analysis</li>
+  	  <li>Modeling and Simulation</li>
+  	  <li>Experimental</li>
+  	  <li>Tools and Techniques</li>
+  	</ol>
+  	
+  	<p>Themes:</p>
+  	
+  	<ol class="letters">
+  	  <li>Development</li>
+  	  <li>Cell Biology</li>
+  	  <li>Excitable Membranes and Synaptic Mechanisms</li>
+  	  <li>Neurotransmitters, Modulators, Receptors</li>
+  	  <li>Sensory Systems
+  	  <ol>
+  	  	<li>Somatosensory</li>
+  	  	<li>Visual</li>
+  	  	<li>Auditory</li>
+  	  	<li>Olfactory</li>
+  	  	<li>Other systems</li>
+  	  </ol></li>
+  	  <li>Motor Systems and Sensory Motor Integration</li>
+  	  <li>Learning and Memory</li>
+  	  <li>Behavior</li>
+  	  <li>Cognitive</li>
+  	  <li>Disease</li>
+  	</ol>
+  	
+  	<h4>SUBMISSION INSTRUCTIONS:</h4>
+  	
+  	<p>Include addresses of all authors on the front of the summary and the abstract including the 
+  	E-mail address for EACH author. Indicate on the front of the summary to which author 
+  	correspondence should be addressed. Program committee decisions will be sent to the 
+  	correspondence author only. Submissions will not be considered if they lack category information, 
+  	separate abstract sheets, author addresses, or are late.</p>
+  	
+  	<p>Submissions can be made by surface mail ONLY by sending 6 copies of the abstract and summary 
+  	to:</p>
+  	
+  	<p>CNS*95 Submissions<br />
+  	Division of Biology 216-76<br />
+  	Caltech<br />
+  	Pasadena, CA. 91125</p>
+  	
+  	<h4>REGISTRATION AND ADDITIONAL INFORMATION:</h4>
+  	
+  	<p>All submitting authors will be sent registration material automatically. Others may acquire 
+  	registration as well as other information about the conference though any of the methods listed 
+  	below. We strongly suggest that you take advantage of our ON-LINE REGISTRATION PROCESS if you are 
+  	a WWW or telnet user.</p>
+  	
+  	<ul>
+  	  <li>By Using our on-line WWW information and registration server</li>
+  	  <li>By Using our on-line text-based registration server telnet and login as "cns95" (no 
+  	  password)</li>
+  	  <li>By ftp-ing a registration form from our ftp site.</li>
+  	  <li>By Sending Email</li>
+  	  <li>By Sending Surface Mail to<br />
+  	  CNS*95 Registration Information<br />
+  	  Division of Biology 216-76<br />
+  	  Caltech<br />
+  	  Pasadena, CA. 91125</li>
+  	</ul>
+  	
+  	<h4>TRAVEL SUPPORT:</h4>
+  	
+  	<p>In each of the last three years, the meeting has been able to provide travel assistance for 
+  	students presenting papers. In order to be eligaible for travel support YOU MUST CHECK the "info 
+  	on travel grant" section of your registration form!</p>
+  	
+  	<h4>CNS*95 ORGANIZING COMMITTEE:</h4>
+  	
+  	<ul>
+  	  <li><em>Co-meeting chair logistics</em> - John Miller, UC Berkeley</li>
+  	  <li><em>Co-meeting chair program</em> - Jim Bower, Caltech</li>
+  	</ul>
+  	
+  	<h4>Program committee:</h4>
+  	
+  	<ul>
+  	  <li>Gwen Jacobs, University of California, Berkeley</li>
+  	  <li>Catherine Carr, University of Maryland, College Park</li>
+  	  <li>Dennis Glanzman, NIMH/NIH</li>
+  	  <li>Charles Wilson, University of Tennessee, Memphis</li>
+  	  <li>Philip Ulinski, University of Chicago</li>
+  	  <li>Christiane Linster, ESPCI, Paris, France</li>
+  	</ul>
+  	
+  	<h4>Regional Organizers:</h4>
+  	
+  	<ul>
+  	  <li>Europe - Erik DeSchutter (Belgium)</li>
+  	  <li>Middle East - Idan Segev (Jerusalem)</li>
+  	  <li>Down Under - Mike Paulin (New Zealand)</li>
+  	  <li>South America - Renato Sabbatini (Brazil)</li>
+  	  <li>Asia - Zhaoping Li (Hong Kong)</li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1995" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

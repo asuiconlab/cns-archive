@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Neurocomputing style sheet</title>
+<meta name="description" content="Neurocomputing style sheet." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, cns, 
+computational, neuroscience, style, papers" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>Neurocomputing style sheet</h1>
+  	
+  	<h2>Conference proceedings: Neurocomputing style sheet</h2>
+  	
+  	<p>Papers should be submitted in double spacing with wide margins.</p>
+  	
+  	<p>Papers should <b>maximum 6 pages</b> (including illustrations and references) in final typeset 
+  	style. This is less than 10 A4 pages (with max 4 illustrations) in double spacing. <b>No color 
+  	illustrations!<br />
+  	No exceptions allowed!</b></p>
+  	
+  	<p>Each paper and/or letter should be introduced by three to five keywords and a selfcontained 
+  	abstract of no more than 100 words not counting the formulas. Biosketch and photo (passport size) 
+  	of each author should be supplied as well.</p>
+  	
+  	<p>Footnotes should be avoided if possible and be brief. They should be numbered consecutively.</p>
+  	
+  	<p>References should be listed alphabetically, as in the following examples: books [1], articles 
+  	in journals [2], papers in a contributed volume [3,4], unpublished papers [5].</p>
+  	
+  	<ul>
+  	  <li>[1] E. Borger, Computability, Complexity, Logic (North-Holland, Amsterdam, 1989).</li>
+  	  <li>[2] D.E. Knuth, Theory and Practice, Theoret. Comput. Sci. 90 (1991) 1-15.</li>
+  	  <li>[3] A.K. Lenstra and H.W. Lenstra, Jr., Algorithms in number theory, in: J. van Leeuwen, 
+  	  ed., Handbook of Computer Science, Vol. A (Elsevier, Amsterdam, 1990) 673-715.</li>
+  	  <li>[4] M. Li, Lower bounds by Kolmogorov complexity, in: Proc. ICALP '85, Lecture Notes in 
+  	  Computer Science, Vol. 194 (Springer, Berlin, 1985) 383-393.</li>
+  	  <li>[5] A. Rajasekar, Semantics for logic programs, Ph.D. Thesis, Department of Computer 
+  	  Science, University of Maryland, 1989.</li>
+  	</ul>
+  	
+  	<p>Figures can be included on separate pages. Figures should be identified by arabic numerals and 
+  	the captions should be typed, double-spaced, on a separate sheet rather than lettered on the 
+  	figures themselves. Photographs and pictures must be of impeccable quality.</p>
+  	
+  	<p><b>No color illustrations allowed.</b></p>
+  	
+  	<p>View the 'Example paper' <a href="SteuberNC03.pdf">here</a> (pdf)<br />
+  	View the corresponding tex file <a href="CNS03_Steuber.tex">here</a></p>
+  	
+  	<p><a href="http://authors.elsevier.com/JournalDetail.html?PubID=505628&Precis=DESC">More detailed author instructions (Elsevier site)</a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cnsnone" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

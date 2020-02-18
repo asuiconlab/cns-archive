@@ -1,0 +1,71 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Thomas Trappenberg" <thomas.trappenberg@dal.ca>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Wed 7/4/2004 17:35:49
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Thomas Trappenberg,
+
+We're happy to inform you that your paper 'Multi-packet regions in stabilized continuous attractor networks' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Why engage in term creation? The paper is talking about bump attractors -- a well used term in the field; 'packets' imply temporal structure.
+
+1. I am puzzled by the results on the network with step-function. Seems to contradict theorems due to Amari, who proved that the width of the stable bump is dependent on the weights. How does this results relate to Amari result? Please clarify this point.
+
+2. What is meant by 'non-linearities'? Does it mean that the constitutent units become bistable due to such  or is the sigmoid simply modulated? Authors should state up front that they will treat the case of bistable units.
+
+2a. Is the inhibition 'constant' or global -- text implies its a constant , equations show its global but activity dependent. Which is it.
+
+3. Why change the threshold to model cell non-linearities and not the gain of the sigmoid? Seems like the latter is more biologically plausible.
+
+4. Perhaps the authors should state clearly that references to 10, 11, 12 are their own previous results and not make it look like they are quoting independent reports in the literature.
+
+5. If the issue is stability of multiple memories, then what is the 'competitive' quality of the network? If its winner take all then it cannot have multiple packets. Please clarify this point and why is it important.
+
+6. What is going on at the end of simulation in Fig 2B -- why is the bump at the edge increasing in size? What woudl happen if the simulation was continued -- looks like this bump would grow unchecked. Possible outcomes could be 1. it depresses the other bumps 2. activity grows accross the network as a whole. Please clarify.
+
+7. Would it be fair to say that effect of threshold is just inverse of that  of C. So that increasing the threshold is exactly the same as decreasing C. If so then these are not two independent effects.
+
+What does learning have to do with the issue at hand? Seems liek you dont need it at all -- you can just make a bump network and then play with the parameters. In such a short manuscript the authorsshoudl conentrate on only the essential issues -- global inhibiton and local bistability. 
+
+Once again the main concern is -- its not clear why winner-take-all is required for 'usefullness' of the network? Is it because the authors imply a model of choice making? Action selelction? Its not a part of this paper.
+
+Given that the authors answer the above questions, this paper has a potential to be quite good.
+
+Reviewer 2 :
+The authors consider a lateral inhibition type neural 
+network with and added nonlinearity in the gain
+function.  They then go on to show that depending on 
+the amount of inhibition and the parameter associated with this extra kick, they can sustain
+different numbers of bumps.  It is a reasonably interesting model but the authors seem to be unaware of much of the mathematical work in this area starting with the classic paper of Amari in 1977.  Recently there has been work by Ermentrout, Pinto, Laing, Coombes, Troy, Rubin, and Chow to name a few that have examined these Wilson-Cowan type neural networks for the existence and stability of bump attractors which the authors call activity packets.
+I think it would be appropriate to situate this work with respect to this body.
+
+Another point is that the explanation of their change of gain threshold is not clear.  They state that the change in threshold occurs when the firing rate is at half max.  I believe that should be at u=alpha and not zero as they have in their paper.  Maybe they can clarify what they mean.
+

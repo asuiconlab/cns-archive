@@ -1,0 +1,29 @@
+
+A Biophysical simulation of the ALOPEX algorithm N.S.Sekar # 
+& K.P.Unnikrishnan * # 138, Biology Building, The University of Iowa, 
+Iowa city, IA 52242 Email :n-sekar@uiowa.edu; * Computer Science 
+Dept., GM Research labs, Warren, MI 48090 Email 
+:unni@neuro.cs.gmr.com
+
+ABSTRACT
+
+We present a biophysical model of neural circuitry capable of 
+carrying out the ALOPEX algorithm. The ALOPEX algorithm is an 
+optimization algorithm that uses correlation between input activities 
+and feedback signals to modify synaptic strengths. In our present 
+study, correlations between inputs and feedback signals are used to 
+change synaptic conductances through LTP and LTD. Our model is 
+implemented using the simulator NEURON (1).
+
+Our initial simulations of the neural circuitry with NMDA 
+receptorgated channels are presented (2). Our simulations show that 
+the feedback is capable of enhancing the synaptic strength at 
+positively correlated inputs and decreasing the synaptic strength at 
+negatively correlated inputs. Our simulations now establish that one 
+of the main purpose of feedback is to make computations local.
+
+References: 1. Hines, M., Intl. Joumal of Bio-medical computing, 24, 
+55 (1989). 2. Zador A., Koch C. & Brown T.H., Proc. Natl. Acad. Sci. USA 
+87, 6178 (1990).
+
+

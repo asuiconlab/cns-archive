@@ -1,0 +1,25 @@
+The Gating Lattice: A Neural Substrate for Dynamic
+Gating
+
+Eric O. Postma, H. Jaap van den Herik and Patrick T. W. Hudson
+Department of Computer Science
+Faculty of General Sciences (FdAW)
+University of Limburg
+PO Box 616,  6200 MD  Maastricht
+The Netherlands
+
+
+
+The  Gating Lattice is proposed as a basic neural building block
+for dynamic gating of patterns between cortical areas.  Dynamic gating
+involves the selection of contiguous patterns from an input stage,
+which are then routed via one or more intermediate stages towards an
+output stage.  A Gating Lattice consists of many distributed processors
+whose local interactions ensure appropriate selection, and whose global
+behavior can be described in terms of statistical mechanics.  Combined
+with a modification of the shifter-circuit architecture (Anderson and
+Van Essen, 1987) it represents a model for attentional selection in the
+occipitotemporal pathway.
+
+
+

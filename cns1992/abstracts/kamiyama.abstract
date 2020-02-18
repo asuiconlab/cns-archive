@@ -1,0 +1,32 @@
+Correspondence: Prof. Shiro Usui, Department of Information 
+Computer Sciences,Toyohashi University of Technology, Toyohashi 441, JAPAN
+
+A Method for Estimating the Neural Input to a Neuron
+using the Ionic Current Model 
+
+Yoshimi KAMIYAMA, Hiroyuki ISHII and Shiro USUI 
+
+Department of Information and Computer Sciences 
+Toyohashi University of Technology 
+Toyohashi 441, JAPAN
+
+The ionic current properties of a neuron play a key role
+in information processing in neural systems.
+These ionic currents can be described mathematically
+similar to Hodgkin-Huxley equations
+based on voltage clamp experiments.
+Such an ionic current model provides a basis for understanding
+the neuronal function and for calculating the individual ionic
+currents from experimentally recorded voltage responses.
+Here, we propose a method to estimate
+the total input current to the neuron which produces the voltage
+response by using the model. We first applied the method to
+Hodgkin-Huxley model and confirmed that the input current is estimated
+correctly. Secondly, we applied the method to
+retinal horizontal cell response and analyzed
+the estimated total input current for the voltage responses
+with various light stimuli.
+Finally we discussed the role of individual ionic current
+in the horizontal
+cell membrane and the underlying mechanisms of the nonlinear dynamical
+voltage response.

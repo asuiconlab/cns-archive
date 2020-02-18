@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994</title>
+<meta name="description" content="CNS Meeting Home Page 1994." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<ul>
+  	  <li><a href="./workshops94.shtml">Workshops</a></li>
+  	  <li><a href="./workshop_topics94.shtml">Workshop-topics</a></li>
+  	  <li><a href="./attendees94.shtml">Attendees</a></li>
+  	  <li><a href="./rooms_to_share94.shtml">Rooms to share</a></li>
+  	  <li><a href="./abstracts94.shtml">List of Abstracts</a></li>
+  	  <li><a href="./travel_arrangements94.shtml">Travel arrangements</a></li>
+  	  <li><a href="./travel_grants94.shtml">Travel grants</a></li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

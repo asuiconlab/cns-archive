@@ -1,0 +1,25 @@
+The highs and lows of horizontal sound localization: The biophysics of
+Structure-Function correlations in nucleus laminaris.
+
+
+
+
+
+W. Edward Sullivan
+
+
+
+Department of Ecology and Evolutionary Biology
+and
+Program in Neuroscience
+Princeton University
+Princeton, NJ 08544
+
+
+
+
+
+Abstract
+Computer simulations designed to study horizontal sound localization
+suggest that morphological differences between homologous neurons in barn owls and other birds are related to the range of frequencies employed and to the biophysical algorithm used for "coincidence detection". Barn owls measure interaural phase differences from 3 - 9 kHz. The cells performing this function are a-dendritic and receive many synapses from each side. In simulation, coherent phase-locked inputs produce a synaptic modulation at the stimulus frequency that is proportional to interaural phase difference, being absent for out-of-phase binaural inputs. Spike generators selective for rapid voltage modulations can thus be used for coincidence detection. Modifications of the Hodgkin-Huxley model were found that enable such selectivity. In contrast, chickens use lower frequencies and have coincidence detectors with long bipolar dendrites and long, thin axon initial segments. These can provide greater temporal discrimination at the expense of high frequency responsiveness. High and low frequency coincidence detection may therefore be achieved by different anatomical and biophysical means.
+

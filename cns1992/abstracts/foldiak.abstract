@@ -1,0 +1,22 @@
+The 'Ideal Homunculus': statistical inference from neural population responses
+
+author:Peter Foldiak
+MRC Research Centre In Brain and Behaviour,
+Department of Experimental Psychology,
+University of Oxford,
+South Parks Road,
+Oxford OX1 3UD, U.K. 
+e-mail: peter@psy.oxford.ac.uk}
+
+
+
+An 'ideal homunculus' makes inference about the stimulus based on the responses
+of a group of neurons. The tuning curves of individual neurons can be 
+interpreted as a conditional probability distribution (response | stimulus). 
+The Bayes rule can be used to calculate the distribution of possible stimuli 
+given the recorded response, (stimulus | response). Combining responses from 
+more than one neuron 'sharpens' the distribution, and the information content 
+of the individual contributions can be calculated. The homunculus can be 
+looking at groups of neurons at different levels; an example is given where 
+orientation is inferred from responses of V1 neurons.
+

@@ -1,0 +1,56 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"Kazuhisa Fujita" <k_z_f@yahoo.co.jp>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 20/4/2004 16:7:51
+-----------------------DATA----------------------
+
+Dear Kazuhisa Fujita,
+
+We're happy to inform you that your paper 'Dynamic population coding for detecting the distance and size of an object in electrolocation' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org, as only papers presented at the meeting can be published in the proceedings volume. Decisions on oral presentations, if requested, will be made soon.
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The manuscript it quite clear, there are however many grammatical errors. The authors are urged to give their paper to read to a native english speaker. 
+
+Legend of Fig. 1 EGP (eminetial granalis ... MISPELLED
+
+In figure 2  the units are missing on the axes in
+(b) and (c). The graph are not clear. Does each tick correspond to a different cell? Please explain better . In (d) and (e)  What are the units for S and Td? 
+
+
+
+Reviewer 2 :
+The article by Fujita and colleagues describes a model for the detection of object size and distance in the electrosensory system of the electric fish. The model is based on dynamic encoding by populations of neurons where the specific features of the stimulus (distance and size in this case) are represented by the spatiotemporal neuronal response pattern.
+
+1)	The paper requires extensive rewriting and proofreadnig to make it clear to the readers. At the very least, the authors should run a spell-checker (e.g. Word). Ideally, they could give the article to an english native speaker.
+2)	The model is based on the P (amplitude) pathway. Is there evidence to suggest that the T-receptors (phase) pathway is not involved in detecting object distance and size?
+3)	The fonts in Figure 2 are almost impossible to read. In the same figure, I suggest that the authours spell out the symbols they use (e.g. S->area, Td->time interval, etc.).
+4)	Abstract  The information is represented more definitely Unclear, please re-write. 
+5)	It would be helpful to provide an intuition for the results described in Figure 2d and e. Why does the time interval (Td) decrease with object size but the area (S) only shows minor variation with object size?
+6)	The model requires a more accurate description. In particular, how many neurons were modeled at each stage? How many synapses from P-afferents project to a single bp cell? How many bp neurons in ELL project to a single TS neuron?
+
+

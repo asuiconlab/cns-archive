@@ -1,0 +1,26 @@
+Neural Network Simulation in a CSP Language for Multicomputers
+
+F. Bini Verona M. Mastroianni  S. Russo 
+ Dipartimento di Informatica e Sistemistica
+ Universita di Napoli
+ Via Claudio 21, Napoli, I-80125 Italy 
+ E-mail: undis@inacriai.criai.it 
+
+and 
+G. Ventre
+ International Computer Science Institute
+ 1947 Center Street, Suite 600 
+ Berkeley, California, 94704-1105 
+ E-mail: ventre@icsi.berkeley.edu
+
+In this paper we investigate the simulation of neural networks on
+distributed-memory, message-passing multiprocessor systems,
+by means of a CSP-like language and its own programming environment
+designed and implemented at the Universita di
+Napoli. Many interesting features make this language suitable
+for simulation and fast prototyping of neural network models.
+Among them there are generality, modularity and ease of use.
+In addition, its implementation on distributed systems
+allows the development of scalable and portable applications
+and assures a very promising level of efficiency.
+

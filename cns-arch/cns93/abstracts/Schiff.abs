@@ -1,0 +1,46 @@
+Controlled Wavelet Transforms for Electroencephalographic Spike
+Detection
+
+Steven J. Schiff, Akram Aldroubi, and Michael Unser
+
+     Steven J. Schiff
+     Department of Neurosurgery
+     Children's National Medical Center
+     111 Michigan Ave., NW
+     Washington, DC 20010
+     Tel: 202-745-3020
+     E-mail: sjs@gwuvm.gwu.edu
+          (To whom correspondence should be addressed)
+
+     Akram Aldroubi
+     Image Processing and Mathematics Group
+     BEIP/NCRR
+     Bld 13, Rm 3W13
+     National Institutes of Health
+     Bethesda, MD 20892
+     Tel: 301-496-4426
+     E-mail: aldroubi@helix.nih.gov
+
+     Michael Unser
+     Image Processing and Mathematics Group
+     BEIP/NCRR
+     Bld 13, Rm 3W13
+     National Institutes of Health
+     Bethesda, MD 20892
+     Tel: 301-496-4426
+     E-mail: unser@helix.nih.gov
+
+ABSTRACT
+
+     Wavelet transforms are applied to the problem of spike
+detection in neuronal data. The wavelet transform coefficients of
+surrogate data sets with randomized properties serve as filters
+for background noise. Marked improvements in computational speed
+are achieved through approximating the wavelet transform with a
+multiresolution approach, using either an oversampled or a
+critically sampled dyadic transform. We approximate the Mexican
+hat wavelet with : (a) a piecewise constant function, (b) a
+B-spline wavelet of order 1, and (c) a polynomial spline
+interpolant. These algorithms and approximations offer an
+efficient computational approach to the characterization of large
+scale neuronal behavior.

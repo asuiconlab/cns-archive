@@ -1,0 +1,94 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"William Levy" <wbl@virginia.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:40
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear William Levy,
+
+We're happy to inform you that your paper 'Activity Affects Trace Conditioning Performance in a Minimal Hippocampal Model' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+An interesting paper. The authors should also be commended for the clarity of presentation.
+1) Within the simulations, the lengths of the CS/UCS patterns vary with the activity level. For a low values of activity (e.g. 0.05) the CS/UCS length
+is only 15 neurons!! Considering the fact that the network is sparse (10% probability of connection), the demonstrated effect and the failure to
+recall/predict in low activity setting may stem simply from the short length of the CS patterns, failing to induce sufficient network activation for
+training.
+2) It would be interesting to further examine the sources of the demonstrate effect induced by the activity level parameterization. In particular,
+varying the activity settings only in the training phase may provide important insights to the dynamics of the learning process. 
+3) A direct analysis of the correlation between predication and recall could contribute to the validity of the results.
+4) With regard to figure 2, it would be interesting to explore the recall and prediction quality for higher levels of activity.
+5) An interesting approach to improve the biological validity of the model would be to use spiking neurons model rather than McCulloch-Pitts neurons. Such neurons may markedly improve time-related behaviors.
+
+Reviewer 2 :
+The paper extends a previous hippocampal model for trace conditioning,
+and studies the behavior of this model as a function of a single
+parameter  the overall activity. In difference from other
+hetero-associative memory tasks, here the task is a delayed recall,
+where the network is only tested for pattern retrieval after 22
+network steps. The authors show that low activity level is
+insufficient for robust recall.
+
+Charting the relevant parameters regime is indeed important in
+modeling. My main concern is about the tight relation of the activity
+parameter to other network parameters. In the model described in this
+paper, the authors describe the "excitation" Y_i to a neuron (a
+continuous number), but do not explain how exactly it is transformed
+into thge binary "activity" value Z_i. This is standardly done using a
+threshold parameter (also in other papers of the authors), which must
+be set in a way that depends on the activity in the network. Without
+an explanation how this parameter is set, it is not clear if the
+effects described here merely reflect an inconsistency in the way
+parameters are chosen  An arbitrary threshold would fit some activity
+values (say 12.5%) but not others (say 5%). Similarly, the effective
+activity in the network is to a first approximation a simple function
+of the connectivity level. To be able to draw conclusions from such
+simulations, one has to compare recall at different activity levels
+but with setting optimal threshold for each activity. I expect the
+authors to clarify this point.
+
+Another concern is the lack of any formal analysis. The main advantage
+in using models with binary neurons is that one can study their
+behavior analytically. Some tools (e.g. signal-to-noise analysis
+Amit,89) provide easy ways to analyse the effects of parameters on
+performance, which presumably can be applied in the current case in a
+rather straight forward manner. While I do not pose it as a
+requirement for the revised paper, it would improve the paper
+considerably. It also worths mentioning the work of Aertsen et al
+about the stability of synfire volleys as a function of the activity
+level and volley coherence. It would be interesting to understand if
+the same principles that determine the parameter regime in that other
+model also hold here.
+
+Other comments  What happens when the activity goes higher?  Are the
+simulations typical? were they repeated for several random
+initializations?
+

@@ -1,0 +1,19 @@
+	Modeling Synchronization of Oscillations in Visual and Olfactory
+        Cortex by Coupled Discrete-Time Limit-Cycle and Chaotic
+        Neural Network Oscillators
+	Xin Wang\Edward K. Blum
+	Department of Mathematics, University of Southern California
+        Los Angeles, California 90089-1113
+
+
+The recent neurophysiological experiments revealed that the spatial
+synchronization of neural activity across a population of oscillatory
+neurons exist in the sensory systems.
+A discrete-time model of coupled limit-cycle and chaotic
+neural network oscillators is constructed to investigate the coupling
+structures of the oscillators that are capable of generating the
+synchronization in neural activity similar to that observed in the experiments.Simulations on the responses of one- and two-dimensional coupled limit-cycle
+oscillators to two short bar stimuli of varying gap distance and on the phase
+transitions of coexisting chaotic attractors of coupled chaotic oscillators
+to different coded inputs are performed.
+

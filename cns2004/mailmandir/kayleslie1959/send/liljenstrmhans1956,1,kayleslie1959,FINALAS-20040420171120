@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"Hans Liljenstrom" <hans.liljenstrom@bi.slu.se>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 20/4/2004 17:11:20
+-----------------------DATA----------------------
+Dear Hans Liljenstrom,
+
+We're happy to inform you that your paper 'Analysis of Phase Shifts in Clinical EEG Evoked by ECT ' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org, as only papers presented at the meeting can be published in the proceedings volume. Decisions on oral presentations, if requested, will be made soon.
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+It is recommended that the authors exchange the word "stages" in place of "phases" in describing the four states in which they have divided their data preictal, tonic, clonic and postictal. "Phase" refers to time relations among oscillations at fixed frequencies.
+
+Reviewer 2 :
+The differences across bands and phases of relative power and coherence values are small. Without testing statistical signficance, it is not possible to determine how likely it is for these differences to be real.
+
+p. 1  change "Lyapunov exponent" to "largest Lyapunov exponent"
+p. 2  change "with the changes oscillatory patterns" to "with the changing oscillatory patterns"
+p. 2  "Long-range sensory coding is performed at beta frequencies, whereas local synchronization occurs at gamma frequencies." Provide a reference for this statement.
+p. 3  change "of the amount of signals" to "of the amplitude of signals
+p. 3  "The original EEG signal had very long-rang dependencies ..." Explain how this conclusion was reached.
+p. 3  change "very long-rang" to "very long-range"
+p. 4  "The relative power strength of each frequency band in each phase is shown in table 1,". Explain how "relative power strength" was computed.
+

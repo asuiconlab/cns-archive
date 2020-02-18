@@ -1,0 +1,22 @@
+ABSTRACT
+
+         The Neurone Describing function : A Single Compartment Study
+
+by P.G.Hearne, J.Wray, E.Agar, D.J.Sanders and G.G.R.Green
+   Department of Physiological Sciences,
+   The Medical School,
+   Newcastle upon Tyne, NE2 4HH. UK
+
+Abstract
+
+     In artificial neural networks, units usually perform a sigmoid function
+of the  weighted sum of their inputs. By Taylor series expansion, it can be
+shown that these networks compute a constrained Volterra series of their
+inputs. As a descriptor of real neurone behaviour this approach fails because
+neurones have dynamic properties and  do not have a separate linear stage.
+Using compartmental modelling, describing functions of neurones can be
+approximated. This approach demonstrates a frequency dependent non-linearity
+not represented by a fixed Volterra Kernel. The simulation of real neurones
+leads to the proposal of alternative describing functions for artificial nets.
+
+

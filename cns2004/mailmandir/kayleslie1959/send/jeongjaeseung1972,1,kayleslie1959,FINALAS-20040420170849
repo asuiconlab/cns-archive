@@ -1,0 +1,67 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"Jaeseung Jeong" <jsjeong@complex.korea.ac.kr>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 20/4/2004 17:8:49
+-----------------------DATA----------------------
+Dear Jaeseung Jeong,
+
+We're happy to inform you that your paper 'A possible synchronization mechanism 
+of the suprachiasmatic nucleus based on the phase-response curve' may be accepted for publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org, as only papers presented at the meeting can be published in the proceedings volume. Decisions on oral presentations, if requested, will be made soon.
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Pages are not numbered, so I will refer to paragraphs each counted from the begining of the section to which it belongs.
+
+General comment 
+
+PRC have been used before in order to explain the synchronization properties of neurons. In this work a PRC is assumed as "describing" the interaction between neurons. In other works (Kopell and collaborators and others) PRCs have been obtained from biophysical models of HH type. This should be mentioned in the introduction and / or conclusions. 
+
+
+Introduction 
+
+paragraph 2  the time scale(s) of GABA should be mentioned (there are different types of GABA). Also, the full name of GABA should be mentioned the first time the authors refer to it (second line instead of fifth line). In line 8 it is not mentioned what is it understood by a fast time scale. 
+
+Methods 
+
+paragraph 1  the concept of circadian phase should be explained for people who are not familiar with it (a citation should be provided). The explanation could be provided even earlier in the paper.
+
+Phase response curves have been used before in different concepts. In this manuscript a PRC is 
+
+paragraph 2  the choice of 0.34 in Fig. 1 should be justified. Line 9 remined ---> remins. Line 12 "in rat" ---> "in the rat".
+
+paragraph 3  the function R should be precisely defined or described. It could be said the V shaped function in Fig. 1 is one possible example of a broather class. The dependence of R on A_i should be made more clear first time it is mentioned. Last line "the Eq. (1)" ---> "Eq. (1)". 
+
+paragraph 3  the idea of the delay of a circadian phase is not clear, probably because the circadian phase was not precisely defined or described before.
+
+Results 
+
+the concept of entrainment should be briefly explained. It is an important idea in the paper. A citation should be provided. 
+
+The concept of "minimum coupling range" is not clear for the reviewer. 
+
+Reviewer 2 :
+The authors present a reasonable model for the coupling of oscillators in the SCN.  However, two very similar models have been proposed (Achermann and Kunz, Journal of Biological Rhythms, 1999 and Antle et al. Journal of Biological Rhythms, 2003).  Much of what they present overlaps with these two publications.  Their model could advance the field beyond the two previously published models, if they highlight the differences (e.g. how they achieve entrainment), and/or develop a more detailed model of GABA interactions. (Specific Comment  in the methods section replace ~ in 0~pi/2 and 3pi/2~2pi with an arrow or dash).
+

@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1992 - Tutorials</title>
+<meta name="description" content="CNS Meeting Home Page 1992 - Tutorials." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1992, 
+cns, computational, neuroscience, workshop, talks, posters, Tutorials" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1992</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1992, San Francisco, California</h3>
+  	
+  	<h4>CNS*1992 Tutorials July 26th</h4>
+  	
+  	<p>The first day of the CNS*92 meeting (July 26th), will be devoted to tutorials. The tenative 
+  	tutorial subjects and schedual follows:</p>
+  	
+  	<p class="marginboven"><b>9:30 - 11:30 : Introductory tutorials</b></p>
+  	<ol class="letters">
+  	  <li>&quot;Neurobiology for the non-neurobiologist: A question and answer based 
+  	  presentation.&quot;<br />
+  	  John Miller (U.C. Berkeley) and friends.</li>
+  	  <li>&quot;Modeling the nervous system: what approach to use when&quot;<br />
+  	  Idan Segev (Hebrew University) Bard Ermentrout (Univ. Pittsburgh) and Jim Bower (Caltech).</li>
+  	</ol>
+  	
+  	<p>11:30 - 1:00 : Lunch</p>
+  	
+  	<p class="marginboven"><b>1:00 - 3:30 : Technical tutorials</b></p>
+  	<ol class="letters">
+  	  <li>&quot;New techniques for analysis in neurobiology.&quot;
+  	  <ul>
+  	    <li>&quot;Information theoretic approaches&quot; - Fred Theunissen (U.C.Berkeley)</li>
+  	    <li>&quot;Dyanimcal systems analysis&quot; - John Rinzel (NIH)</li>
+  	    <li>&quot;Model-based analysis procedures&quot; - Robert Treuhaft (JPL)</li>
+  	  </ul></li>
+  	  <li>&quot;technical issues in multi-single neuron recording&quot;
+  	  <ul>
+  	  	<li>&quot;Introduction: why is multi-single neuron data important?&quot; - Jim Bower 
+  	  	(Caltech)</li>
+  	  	<li>&quot;Constructing multi-neuron electrodes from silicon&quot; - Greg Kovacs (Stanford)</li>
+  	  	<li>&quot;Large scale data aquisition: parallel DSPs and data aquisition&quot; - Jay Kubicky 
+  	  	(Caltech)</li>
+  	  	<li>&quot;Spike recognition&quot; - Shai Gozani (U.C. Berkeley)</li>
+  	  	<li>&quot;Data visualization&quot; - Frank Eeckman (Lawrence Livermore Labs)</li>
+  	  </ul></li>
+  	</ol>
+  	
+  	<p class="marginboven"><b>3:30 - 5:00 : Computational Neuroscience Infrastructure</b></p>
+  	<ul>
+  	  <li>&quot;The future of CNS from the point of view of granting agencies&quot;<br />
+  	  - NSF - Bruce Umminger, Peter Arzburger<br />
+  	  - NIMH - Dennis Glanzman<br />
+  	  - ONR - Tom McKenna, Joel Davis<br />
+  	  - Pittsburgh Supercomputing Center - Nigel Goddard</li>
+  	  <li>&quot;Where to publish computational results&quot;<br />
+  	  - Open Discussion</li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1992" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

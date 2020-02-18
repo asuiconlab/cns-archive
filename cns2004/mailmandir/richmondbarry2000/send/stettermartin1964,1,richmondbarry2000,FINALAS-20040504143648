@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Martin Stetter" <stetter@siemens.com>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 4/5/2004 14:36:48
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Martin Stetter,
+
+We're happy to inform you that your paper 'A neuronal model for the shaping of feature selectivity in IT by visual categorization' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+I think the result is interesting but the exposition could be improved.  First of all, I do not know what they mean by a mean field model.  If it were a true mean field model they would only need one equation for each pool.  They must mean something else.
+
+It is not clear what neurons they are measuring for Fig 2.  They say they average over all selective pools which doesn't seem to make sense.  Do they mean over one of the pools? 
+

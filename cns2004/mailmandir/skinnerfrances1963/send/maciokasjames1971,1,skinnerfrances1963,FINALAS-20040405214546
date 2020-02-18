@@ -1,0 +1,62 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"James Maciokas" <jbmaciokas@ucdavis.edu>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:45:46
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear James Maciokas,
+
+We're happy to inform you that your paper 'Accurate Dynamical Models of Interneuronal GABAergic Channel Physiologies' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Major Points 
+
+There should be a consistency in the use of uppercase letters for different parts of Figures both on the figure and throughout the paper. 
+
+In section "2.1 Model", the term spike template should be explained to mean we used an integrate and fire model.
+
+Sections 2.6-2.12, the acronyms cNAC etc should be written out in full.
+  
+Section "3.3 dNAC Behavior",  The sentence "Decreasing the strength of the A-type channel in steps up to 120%..." does not make sense.   Did you mean increase?  Or did you mean decrease by 20%?
+
+Minor Points 
+
+In the abstract it says "..1 second .. from 50 to 350 pA" but in section "2.1 Model" it says "...1.5 second .. from 150-300 pA".  Typo?
+
+Figure 1, x-axis labels should have units eg. mM, mV.
+
+Figure 3 has a, b, c, d, e labels but these are never used in the legend or the text.    Also a better quality figure (i.e. higher resolution) would be preferred.
+
+Section 4 Discussion, "Hudgkin & Hukley" should be "Hodgkin & Huxley".
+
+Reviewer 2 :
+Very nice story, but the paper is too much about enumerating properties, channels, etc.  The authors should rewrite the text to make it easier to read.
+

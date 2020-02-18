@@ -1,0 +1,50 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"David Hsu" <hsu@neurology.wisc.edu>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 20/4/2004 16:9:31
+-----------------------DATA----------------------
+Dear David Hsu,
+
+We're happy to inform you that your paper 'A piece-wise harmonic Langevin model of EEG dynamics   Theory and application to EEG seizure detection' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org, as only papers presented at the meeting can be published in the proceedings volume. Decisions on oral presentations, if requested, will be made soon.
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The paper  A piece-wise harmonic Langevin model of EEG dynamics   by Hsu and Hsu presents an interesting and novel approach to describe the EEG signal.  
+Major.
+The authors model the EEG signal using moving ions as a starting point.  However, the significance of the modeling attempt decreases due to the inherently required simplifications (including a huge decrease in number of particles) applied to the derivation up to equation (5).  The EEG is finally modeled with the dynamics of few virtual particles and therefore equation (5) can be introduced as the basis for a heuristic EEG descriptor, inspired by underlying mechanisms.  
+Because the method is computationally intensive, a comparison between the parameters related to the potential energy surface and commonly applied measures such as amplitude or power in different frequency bands is critical.  For example, how does the parameter in the plot in Fig. 1 relate to rectified amplitude? 
+Minor.
+- Pls. include a Fig. showing the raw EEG data.
+- The current interpretation of complexity measures of EEG is more informal than suggested in this paper (e.g. Lehnertz and Elger  Phys. Rev Lett. 1998; 80 5019-23).
+- The last paragraph in the discussion (p.9) is irrelevant for this study because the method described doesnt predict.
+
+The above issues could be addressed in space that becomes available when deleting the text related to equation (1) up to (5).
+
+Reviewer 2 :
+ Strong emphasis on physics theory. Difficult to approach for neuroscientist.
+Only 11 channels listed on page 6.
+

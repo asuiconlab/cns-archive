@@ -1,0 +1,27 @@
+Synchronization among heterogeneous inhibitory
+RTN neurons globally coupled
+
+David Golomb 1 and John Rinzel 2
+
+Mathematical Research Branch, NIDDK, Bldg. 31, Rm. 4B-54,
+
+National Institutes of Health, Bethesda, MD 20892, U.S.A.
+
+Abstract
+
+We investigate the effects of cell heterogeneity on the mutual 
+synchronization of a network of conductance-based model neurons 
+with slowly decaying inhibitory coupling. A single cell shows post-
+inhibitory rebound, and post-synaptic conductance mimics a GABAA 
+and GABAg mixture. Our homogeneous network shows oscillations 
+similar to the RTN during sleep spindle rhythms. When variability is 
+small neurons still synchronize with modest phase shifts. With large 
+variability, the network is totally asynchronous; individual neurons 
+are either periodic or quiescent. For intermediate variability, there 
+are two regimes of complex behavior. In one, some neurons burst 
+every cycle, while other neurons may burst every few cycles. In the 
+second, there are two groups of neurons bursting alternately.
+
+1E-mail: david@marge.niddk.nih.gov; To whom correspondence 
+should be addressed 2E-mail: rinzel@helix.nih.gov
+

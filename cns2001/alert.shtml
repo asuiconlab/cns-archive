@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2001 - Alert</title>
+<meta name="description" content="CNS Meeting Home Page 2001 - Alert." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2001, 
+cns, computational, neuroscience, workshop, talks, posters" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2001</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>June 30 - July 5, 2001, San Francisco and Pacific Grove, California</h3>
+  	
+  	<h4>ALERT ATTENTION INTERNATIONAL CONFERENCE-GOERS ONLY</h4>
+  	
+  	<p>Please register online, and fax your credit card information (name, credit card number, and 
+  	expiration date) to Judy Macias at 626-795-2088.<br />
+  	We are sorry that we did not know earlier that Paypal cannot accomodate your credit cards in a 
+  	timely manner and we wish to make this as convenient as possible for you.<br />
+  	Thanks for your patience!<br />
+  	ATTENTION ALL CONFERENCE-GOERS:<br />
+  	Please make your reservations at the Asilomar Conference Center as soon as possible.<br />
+  	The conference room rates at Asilomar are applicable through Sunday, July 8, 2001.<br />
+  	You will be able to reserve your rooms at the special rates up until Monday, May 14, 2001.<br />
+  	Please note the following:<br />
+  	1) transportation will be provided from the Ramada Plaza Hotel on Sunday, July 1 to the Asilomar 
+  	Conference Center. If you need transportation from San Francisco to Asilomar Conference Center, 
+  	please contact Judy Macias.<br />
+  	2) If you need transportation from Asilomar to San Francisco on Friday, July 6, 2001, buses will 
+  	be available beginning at 12:30.<br />
+  	Click here for a reservation form in PDF format, or call GalaEvents at (925) 253-9556 to make 
+  	reservations.<br />
+  	The price to go from Asilomar to San Francisco Airport will be $19.50.<br />
+  	If you are leaving prior to July 6, please contact Monterey Salinas Airbus at (831) 883-2871 or 
+  	email your request on their website at 
+  	<a href="http://www.montereyairbus.com">www.montereyairbus.com</a>. 
+  	The cost to go from Monterey to San Francisco Airport will be approximately $40.00 per person.<br />
+  	3) California has approved a temporary utility surcharge of $3.00/night for each overnight guest 
+  	room</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2001" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

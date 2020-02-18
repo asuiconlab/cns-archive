@@ -1,0 +1,61 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Rodrigo Oliveira" <rodrigo@neuron.ffclrp.usp.br>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 3/5/2004 23:36:47
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Rodrigo Oliveira,
+
+We're happy to inform you that your paper 'A Possible Mechanism of Curvature Coding in Early Vision' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This could be an interesting paper but is flawed by a lack of clear motivation and what appear to be several problems with accuracy.
+
+The authors begin with a review of the literature, but don't present a clear motivation for the present work. It would help if they could spell out what inadequacies in current models are resolved by their work.
+
+The RFs shown in Fig. 1 look physiologically very unlikely to me. They are extremely elongated vertically, and  especially in Fig. 1CDKL  seem to have an orientation bandwidth much narrower than the generally accepted value for V1 cells of ~30deg (Campbell & Kulikowski 1966). Also, I can't reproduce the images - substituting the stated parameters into eq. 1 does not give me the pictured RFs (although this would be easier to judge if the axes were labeled). 
+There are also other apparent inaccuracies  surely, given eqs. 1 and 2, theta in Fig. 1 must be 0 rather than 90deg (assuming the x axis is horizontal). In eq. 2, a minus sign has been omitted (y = -(x-x0)etc). 
+
+p. 4 "By changing the ori of the Gabor function, a set of 32 masks was built". It would be helpful to state at this point that the 32 masks differed only in ori, and to explain that the effect of varying SF and BW will be explored later.
+
+"The most active cell is acting as a curvature detector". The most active cell out of which population? All neurons at the same position tuned to different orientations?
+
+Fig 3  It would be clearer to show these results in grayscale, as in Fig. 1, rather than with surface plots. Also, I am not sure what the stimulus is. The text states it is Fig 1Q (a loop with an A and an S), but in Fig 3 it looks as if the stimulus is the loop only in Fig 3AB, the "A" only in Fig 3CD and the "S" only in Fig3EF. Thus, apparently not only the RF parameters but also the stimulus has been changed between these panels. Have I misunderstood?
+
+Also, it's not obvious to me that these cells are encoding curvature as such, rather than just responding to the presence of a stimulus. For example, the cells seem to respond equally to the A (made up of straight lines) and to the S (a curved line). If the cells are responding preferentially to low curvature, which I thought was the authors' view, they should respond more to the A than to the S, but this is not obviously the case (perhaps because of the abrupt changes in orientation in the A). Thus, the choice of stimuli makes it difficult to assess exactly what the cells are encoding. 
+
+
+Reviewer 2 :
+The authors propose that a means to detect curvature is to simply couple neurons with similar orientations. 
+It seems to me that this is more of a line detector than a curvature detector.  One of the problems is that it wouldn't be able to distinguish regimes of high curvature from regions with many intersecting lines.  Thus, although I no doubt believe that this type of network exists I think that it misses the hard problem of detecting curvature.
+

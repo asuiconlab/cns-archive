@@ -1,0 +1,26 @@
+A Neural Model for the Perception of Surface Transparency
+
+William Lincoln and Josef Skrzypek
+Machine Perception Laboratory
+University of California
+Los Angeles, CA 90024
+email: skrzypek@cs.ucla.edu
+
+
+Abstract
+
+A converging body a psychophysical evidence indicates early visual 
+processing mechanisms as the origins for surface transparency 
+perception. Past efforts to examine qualitative aspects of this 
+phenomenon could not easily incorporate the knowledge about 
+anatomical structure or underlying physiological mechanisms. We 
+present here a computational model that detects and integrates local 
+cues of surface transparency using anatomically plausible networks 
+of simple cells found in the early stages of the visual cortex. The 
+effective similarity between transparent surfaces and cast shadows 
+on the sensed image is outlined and the model's applicability for 
+detecting illuminant discontinuities is argued. The versatility of the 
+model is demonstrated through simulation results using images of 
+transparent surfaces and further verified by testing its performance 
+on natural scenes with cast shadows.
+

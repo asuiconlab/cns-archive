@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994 - Workshops Topics</title>
+<meta name="description" content="CNS Meeting Home Page 1994 - Workshops Topics." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops Topics" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<h4>CNS*1994 Workshops Topics</h4>
+  	
+  	<h4>Using HPC in CNS</h4>
+  	
+  	<p>Some areas of research which the researchers involved in CNS are not sufficiently leveraging, 
+  	probably due to lack of familiarity, are parallel computing, optimization and automatic 
+  	differentiation (AD), areas which fall under High Performance Computing (HPC). The purpose of 
+  	this workshop will be for the participants to familiarize each other with modeling efforts -- be 
+  	they from within their own areas of research or others -- which utilize HPC techniques and 
+  	technologies. Discussions could be general, for example, how come over the years at CNS 
+  	conferences, the computational work presented hasn't utilized optimization techniques, despite 
+  	the fact that a lot of what we do is model to data correlation? We could also talk specific, e.g. 
+  	where, how reliable, and how efficient are the HPC software packages which we could utilize today 
+  	to enhace our models? If you have any questions or suggestions about this workshop, send mail 
+  	to Peyvand Khademi at Argonne National Lab.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

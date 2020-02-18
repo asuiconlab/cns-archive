@@ -1,0 +1,27 @@
+STATE-DEPENDENT SEQUENCING AND LEARNING
+
+Jeffrey P. Sutton 1,2 and J. Allan Hobson 1
+
+1 Laboratory of Neurophysiology, Department of Psychiatry, Harvard 
+Medical School, 74 Fenwood Road, Boston, MA 02115
+2 Center for Biological and Computational Learning, Whitaker College, 
+E25-201, Massachusetts Institute of Technology, Cambridge, MA 
+02139; email: sutton@ai.mit.edu
+
+Computational models of biological information sequencing and 
+learning often assume only one mode of operation. We have 
+examined an associative model with state-dependent sequencing and 
+learning capabilities. The states are determined by the relative 
+balances of simulated aminergic and cholinergic neuromodulation. 
+Both modulators are crucial to sleep-wake control and both have 
+been implicated in learning. Our simulation results support a complex 
+view of interacting specific and non-specific synaptic factors. 
+Modulation can not only regulate the strength and temporal 
+properties of the learning rule, but it can also serve as a source for 
+novel sequence formation via unsupervised learning.
+
+Please address correspondence to: Jeffrey P. Sutton, Center for 
+Biological and Computational Learning, E25-201, MIT, Cambridge, MA 
+02139
+ 
+

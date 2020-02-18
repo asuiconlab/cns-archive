@@ -1,0 +1,46 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Baran Curuklu" <baran.curuklu@mdh.se>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:38
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Baran Curuklu,
+
+We're happy to inform you that your paper 'A Model of the Summation Pools within the Layer 4 (Area 17)' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The exact structure of the Bayesian network (i.e. the network interconnections) is not sufficiently detailed. Figure 1A is not clear (e.g. the overall illustration concept and the distinction between thick and thin lines are confusing) and it is used to demonstrate too many of the simulation results. At least some of the results should be illustrated differently and more directly. 
+
+
+Reviewer 2 :
+1. how much do your results depend on paramters such as simulation time step, membrane time constant?
+2. the difference between two simulations (1B and 1C) has to be inspected by the figures. I suggest that a quantitative analysis is performed to distinguish these two extermes, together, maybe with intermediate situation.
+

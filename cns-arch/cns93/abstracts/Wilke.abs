@@ -1,0 +1,18 @@
+Author/Corresponding Author/Presenter:
+
+Peter Wilke
+Universitaet Erlangen-Nuernberg
+Lehrstuhl fuer Programmiersprachen
+Martensstr. 3  D-8520 Erlangen  Germany
+E-mail wilke@informatik.uni-erlangen.de
+
+Abstract: NeuroGraph is a simulator for design, construction and 
+execution of neural networks in a distributed computing 
+environment. The simulator either runs on single computers or as a 
+distributed application on UNIX/X-based networks consisting of 
+personal computers, workstations or multi-processors. The 
+parallelization component offers the possibility to divide neural nets 
+into concurrently executable modules, according to restrictions due to 
+the neural net topology and computer net capabilities.
+ 
+

@@ -1,0 +1,34 @@
+Limitations of the Hodgkin-Huxley Formalism:
+Effects of Single Channel Kinetics upon Transmembrane Voltage Dynamics
+
+
+author Adam F. Strassber and Louis J. DeFelice
+ Computation and Neural Systems Program, California Institute of
+Technology, Pasadena, CA
+
+Caltech 216-76, Pasadena, CA 91125 or (strass@cns.caltech.edu)
+
+Permanent Address:
+Department of Anatomy and Cell Biology, Emory University School of Medicine,
+Atlanta, GA 30322.
+
+ Division of Biology, California Institute of
+Technology, Pasadena, CA
+The effects of random fluctuations of single ion channels upon
+transmembrane voltage dynamics are investigated with the example of the
+giant axon of the squid Loligo.
+A simulation using the continuous, deterministic Hodgkin-Huxley equations is 
+compared to a simulation using discrete, stochastic ion channel populations 
+modeled as Markov processes.
+The relative convergence and divergence of the membrane behavior predicted
+by the two alternative simulations is compared.
+It is demonstrated that random microscopic behavior, such as single channel 
+fluctuations,can producerandom macrosopic behavior, such as action potentials, 
+under many common biophysical conditions.
+The various parameters contributing to the amplification of
+this channel noise are analyzed and estimates for the noise sensitivity of
+a given membrane are derived.
+Many interesting biological adaptations have evolved to either exploit or 
+suppress thischannel noise.  These biological regimes are surveyed and their
+computational significance is considered.
+

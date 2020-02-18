@@ -1,0 +1,29 @@
+Analysis of rhythmic behavior of a reduced Traub model 
+for a
+CA3 neuron
+
+Paul F. Pinsky 1 t  and John Rinzel 2t
+
+t Mathematical Research Branch, NIDDK, National Institutes of Health,
+Bethesda MD 20892
+Applied Mathematics, University of Maryland, College Park MD 
+20742
+
+Abstract
+
+We have developed a two-compartment, eight-variable model of a 
+CA3 pyramidal cell which displays many of the same behavioral 
+features as does the more complex nineteen-compartment model of 
+Traub et al (J. Neurophysiol.66 1991:635-650). Our model, which 
+uses the same channel types and gating kinetics as Traub's, exhibits a 
+similar transition from bursting to spiking with increasing somatic 
+injected current. Network simulations with our model using 
+excitatory AMPA and NMDA synapses also give results similar to 
+Traub's. We have gained insight into the behavior of our single cell 
+model through the use of a phase-plane analysis.
+
+lEmail: pfpinsky@homer.niddk.nih.gov; To whom correspondence 
+should be addressed
+2Email: rinzel@helix.nih.gov
+ 
+

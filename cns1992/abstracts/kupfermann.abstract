@@ -1,0 +1,24 @@
+ 
+Title: The use of genetic algorithms to explore neural
+mechanisms that optimize rhythmic behaviors: Quasi-realistic
+models of feeding behavior in Aplysia. I Kupfermann, D.
+Deodhar, S.R. Rosen, and K.R. Weiss*.  Center for
+Neurobiology and Behavior, Columbia University, 722 W. 168
+St. New York, NY 10032 and * Fishberg Center, Mt. Sinai
+School of Medicine, 1 Gustave Levy Plaza, New York, NY
+10029.
+ 
+ 
+Using simple neural models, we have been studying how
+behavior (feeding) can be optimized. The effects of circuit
+parameters are studied by exhaustive search or genetic
+algorithms.  The findings indicate: 1)  A defined two
+neuron-two muscle system can generate rhythmic behavior that
+can result in a net gain of energy.  2) In the absence of
+modulatory inputs, the efficiency of the system sharply
+degrades when individual parameters are varied only a small
+percentage from those used to evolve the system.  It is
+postulated that various forms of circuit modulation will
+improve the functioning of the system over a wide range of
+external and internal parameters.
+

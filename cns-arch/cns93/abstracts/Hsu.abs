@@ -1,0 +1,23 @@
+Simulating the foveal cone receptive field
+A. Hsu (ahsu@retina.anatomy.upenn.edu)*
+R. G. Smith (rob@retina.anatomy.upenn.edu)
+P. Sterling (peter@retina.anatomy.upenn.edu)
+Dept. of Neuroscience, University of Pennsylvania, Phila., PA 19104-
+6058
+
+* To whom correspondence should be addressed
+
+Abstract
+
+The foveal midget ganglion cell has a receptive field center fed by 
+one cone. Since a cone is laterally connected to about 50 neighboring 
+cones through electrical coupling and horizontal cells, this suggests 
+that the surround is conveyed by the same cone terminal. To test the 
+contribution of the cone lateral connections to its receptive field, we 
+constructed a compartmental model of the primate foveal outer 
+plexiform layer based on the known anatomy and physiology. 
+Preliminary results indicate a strong correspondence between the 
+simulated cone receptive field and the receptive field of a midget 
+ganglion cell.
+
+

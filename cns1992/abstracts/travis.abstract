@@ -1,0 +1,15 @@
+A Computational Model of the Cat Subcortical
+Auditory System
+
+
+Bryan J. Travis
+MS-F66S
+Los Alamos National LaboratoIy
+Los Alamos, NM 87545
+
+
+Abstract
+
+
+A literal computational model of the cat subcortical auditory system, from the cochlea to the medial geniculate body of the thalamus is described. The model includes subunits representing the basilar membrane/hair cell system of the cochlea, parts of the cochlear nucleus, the central nucleus of the inferior colliculus and the ventral division of the medial geniculate body in the thalamus. Each subunit consists of model neurons whose structure, dynamics and connectivity are based as much as possible on what is known of the cat auditory system. The goal of this modeling effort is to shed light on the role of (1) the convergent/divergent projections seen between each stage of the auditory system and (2) the efferent projections sent from higher stages to lower.
+

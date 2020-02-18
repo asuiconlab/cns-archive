@@ -1,0 +1,25 @@
+Semiautomated 3-D Reconstruction Of Neural Architectures From 
+Serial Sections
+Viewed In A Transmission Electron Microscope: Recon 1.0
+
+Muriel D. Ross and 2Kevin Montgomery
+NASA Ames Biocomputation Center, MS 239-11, Moffett Field, CA 
+94035-1000
+e-mail: ross@neuron.arc.nasa.gov;
+2Sterling Software, Palo Alto, CA 94303, e-mail: 
+kevin@neuron.arc.nasa.gov
+
+Knowledge of details of neural connectivities is essential for better 
+computer simulation of neural functioning. We have developed a 
+semiautomated method (Recon 1.0) that eliminates many labor-
+intensive features of reconstruction from transmission electron 
+microscope (TEM) serial sections. We use a Zeiss 902 TEM, a video or 
+CCD camera, a PC-based automated stage control and image capturing 
+system, Silicon Graphics IRIS workstations and a Connection Machine 
+for computer-aided mosaicking, contour extraction, and registration 
+of sections. Visualization employs software already developed in the 
+Biocomputation Center. The result is a 3-D surface, with the level of 
+detail included determined by the investigator, usable as a basis for 
+modeling.
+(Supported by NASA and by NIMH.)
+

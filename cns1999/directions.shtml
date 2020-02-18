@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1999 - Directions</title>
+<meta name="description" content="CNS Meeting Home Page 1999 - Directions." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1999, 
+cns, computational, neuroscience, workshop, talks, posters, Directions" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1999</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-22, 1999, Pittsburgh, Pennsylvania</h3>
+  	
+  	<h4>CNS*1999 Directions to the Hilton Pittsburgh and towers</h4>
+  	
+  	<p>600 COMMONWEALTH PLACE<br />
+  	(412) 391-4600</p>
+  	
+  	<h4>FROM THE EAST :</h4>
+  	
+  	<p>PA Turnpike (1-76 West) to Exit #6 Monroeville-Pittsburgh onto Parkway 376 West. Exit 376 at 
+  	the #2 Exit which is Stanwix Street (left-hand exit). At the light, make a left onto Fort Pitt 
+  	Boulevard. Take the first right onto Commonweath Place. The Hilton is on the right.</p>
+  	
+  	<h4>FROM THE WEST :</h4>
+  	
+  	<p>PA Turnpike (I-76 East) to Exit #3 onto Route 19 South which will go into 1-79 South. 1-79 
+  	merges into 1-279. Follow 279 South signs for the Airport/Fort Pitt Bridge. On the bridge, get 
+  	into the second lane from the left (it will say Ft. Duquesne Blvd.). Exit left off the bridge and 
+  	go down the ramp to Fort Duquesne Boulevard. At the first street light, make a right onto Stanwix 
+  	Street. At the next light, make a right onto Liberty Avenue. Go to the next traffic light and 
+  	make a right. This is Commonwealth Place, and the Hilton is directly on your right.</p>
+  	
+  	<h4>FROM THE NORTH :</h4>
+  	
+  	<p>1-79 South merges into 279 South. Follow 279 South signs for the Airport/Fort Pitt Bridge. 
+  	Follow this sign over the Fort Duquesne Bridge and take the Fort Duquesne Boulevard ramp. At the 
+  	first light, turn right onto Stanwix Street. At the next light, make a right onto Liberty Avenue. 
+  	At the next light, make a right onto Commonwealth Place. The Hilton is on your right.</p>
+  	
+  	<h4>FROM PITTSBURGH INTERNATIONAL AIRPORT :</h4>
+  	
+  	<p>When you exit the airport, take a left and follow the signs to Pittsburgh to the Fort Pitt 
+  	Tunnel. Go through the tunnel which will bring you out onto the Fort Pitt Bridge. Come off the 
+  	bridge and at the first light, make a left onto Commonwealth Place. The Hilton is on your right.</p>
+  	
+  	<h4>FROM THE SOUTH :</h4>
+  	
+  	<p>Take 279 North through the Fort Pitt Tunnel and over the Fort Pitt Brige to Exit #9 (Liberty 
+  	Avenue). At the first light, make a left onto Commmonwealth Place. The Hilton is on your right.</p>
+  	
+  	<h4>FROM OAKLAND :</h4>
+  	
+  	<p>Follow Fifth Avenue and stay in the second lane from the left. Go through approximately 8 
+  	traffic lights and make a left onto Craft Avenue. At the first light, make a right onto Forbes 
+  	Avenue. Follow signs for Downtown. The road will yield onto 376 West. Take Exit #2 (Stanwix 
+  	Street) which will be a left-hand exit. At the first light, make a left onto Fort Pitt Boulevard. 
+  	Make the first right onto Commonwealth Place. The Hilton is on your right.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1999" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

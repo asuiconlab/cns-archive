@@ -1,0 +1,26 @@
+ A Critical Comparison of Models of Cortical Visual Map Formation
+
+E. Erwin, K. Obermayer and K. Schulten
+Beckman Institute and Department of Physics
+University of Illinois at Urbana-Champaign
+Urbana, IL61801,U.S.A.
+
+
+   High-resolution images of orientation and ocular dominance
+columns in monkey striate cortex have recently been obtained by
+optical techniques, allowing a quantitative description of the
+spatial patterns on the local and global scales.  The new data has
+provided strong evidence that the patterns of orientation and ocular
+dominance in monkey striate cortex are not independent, but rather
+correlated locally.
+
+In our contribution we compare the predictions of several models of
+cortical map formation, in light of the new data.  The comparison is
+made in terms of Fourier transforms, auto-correlation functions,
+Gabor transforms, and the gradients of the spatial patterns.  Our
+investigation includes topology-preserving maps and elastic-net
+models, models of correlation-based learning, and non-developmental
+pattern models.  When possible, the models are also extended to
+account for the simultaneous formation of orientation and ocular
+dominance columns, and hence to allow predictions about correlations
+between the two maps.

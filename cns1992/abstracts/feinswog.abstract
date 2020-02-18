@@ -1,0 +1,12 @@
+An Object-Oriented Paradigm for the Design of Realistic Neural Simulators
+
+L. J. Feinswog, R. K. Hutson, G. T. Kenyon and D. C. Tam
+
+Division of Neuroscience
+Baylor College of Medicine
+Houston, TX 77030
+
+Abstract
+
+We implement a detailed, realistic neural simulation using an objectoriented programming paradigm incorporating the known properties of biological neurons. The object-oriented design eliminates many of the complexities typical of a conventional modeling approach. Our model allows implementation of multiple integration algorithms which can be selected interchangeably by the user. Descriptions of physiological objects are supported at several hierarchical levels, from networks to neurons, membrane compartments, and ionic channels. Our design provides the flexibility to incorporate new physiological features and numerical algorithms with fault-tolerant capabilities.
+

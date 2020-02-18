@@ -1,0 +1,147 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Mark McDonnell" <mmcdonne@eleceng.adelaide.edu.au>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:42
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Mark McDonnell,
+
+We're happy to inform you that your paper 'Optimal Noisy Neural Coding' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper considers the operation of binary threshold devices in low SNR
+regimes, and tries to relate those findings to neural systems. The paper
+makes some interesting points about information processing and effects of
+noise in low SNR regimes. However, there are many strange design decisions
+in the models, the only goal of which seems to be to demonstrate that SR/SSR
+provides benefit to information processing.
+
+I was somewhat surprised by the direction of research this group has decided
+to take. One of the authors, Dr. Stocks, in another set of his papers [11,12
+here] maintained one of the most realistic views on the benefits and
+drawbacks of SR that I have ever encountered. 
+
+The reason this is important is that many of the statements in this paper
+sound very unconditional, as if they describe commonly accepted and used
+structure, but actually this is not so. It only make sense if one considers
+them in light of a SR framework, not as general signal-processing devices.
+In general, I am happy with the paper quality, but several major points need
+addressing before I can recommend it without reservations. Below, I will try
+to highlight those major points, and provide comments and questions about
+many more minor points.
+
+One major problem for me was the authors' model of a neural system. I do not
+mind the binary neurons, but summing those to provide the output of the
+network greatly reduces the information processing capacity of this device.
+Here, and in [11,12], this step seemed chosen with the sole purpose to
+provide a system in which SR/SSR will a beneficial effect. It is obvious
+that a quantizer with N binary units can have a capacity of N (i.e.,  2^{N}
+states!). Comparing this to the N+1 states in this system, one sees that
+most of the capacity is lost by loosing the identity of the lines when
+summing. Dr. Stocks himself points out in [11] that for standard digitizers,
+"... the transmitted information is generally higher in the absence of
+noise. This is hardly a surprising result."
+
+Considering this as a model of neural system operation is also not quite so
+straightforward, since it's been known for a while now that a) post-synaptic
+cells don't really sum; b) there are many of them, so the identity of the
+input lines is not necessarily lost and c) cell assemblies do carry
+information beyond their combined firing rates (see for examples Jonathan
+Victor's work).
+
+Another major problem resolves around the authors' perception that neurons
+are extremely noisy devices. This is not universally correct, and in many
+cases the "noisiness" of neurons was assessed by disregarding state
+information in a complex neural network, not by actually estimating the
+noise across a membrane, or in carefully controlled conditions. Quite
+contrary to this view, cells spend a lot of effort and energy, in the form
+of active dendritic conductances, to be able to propagate signals from the
+periphery to the soma. And action potentials rarely fail as well. By
+fixating on the task of finding useful applications of SR, the authors
+completely miss asking potentially very fundamental questions, like "Why are
+not all neurons noisy? Since many neurons can work essentially like clocks,
+why are some noisier than others? In what circumstances is noise beneficial?
+What additional constraints does this help solve for the system under
+study?"
+
+I have to admit that this series of papers has changed my attitude toward
+SR/SSR. I am now of the opinion that this technique may provide important
+insights into the functioning of systems at low SNR regimes. However, the
+consistent choice of signal processing systems with extremely poor
+performance, with little justification, does not in any way help elucidate
+this role better. I would like to urge the authors to seriously consider the
+above 3 major points: 
+
+1. Why choose N additive binary units as a model system? The capacity of the
+system is ridiculously low compared to the achievable capacity of N binary
+units in parallel. 
+
+2. How does this relates to neural system, in light of my comments above?
+
+3. Address the question of neuron noisiness using more recent studies of
+neural performance. The classic Bryant and Segundo should be a first
+reference, and recent work by Reinagel, Reed, Meister, should provide
+information about different neural subsystems.
+
+One additional comment included in this section of the review relates to the
+following comment the authors make at the top of page 4: "...sensory neurons
+threshold values can adapt to an input signal mean". This is correct,
+however it does not imply that they all adapt to the same mean, or that the
+thresholds are the same. The statement should be reworded accordingly. 
+
+I have included additional minor comments on content and presentation in the
+pdf file, which has been communicated to the action editor.
+
+In conclusion, I would like to recommend this work for acceptance, on
+condition that the above questions are addressed. I sincerely think that the
+authors can contribute greatly to clarifying the applicability of SR/SSR in
+signal processing (and neural processing in particular), if they only
+consider it objectively and avoid the typical SR style, which only
+demonstrates its utility in systems that no one in their right mind would
+use. This paper can be an important first step in this direction.
+
+Additional work that seems relevant to the topic of this paper:
+
+* Dimitrov et.al. and Tishby et.al. discuss optimal quantization schemes
+using the mutual information as a cost function. The schemes are very
+closely related to the optimization problem solved by the authors:
+X\rightarrow Y\rightarrow n , with an optimal solution sought for the last
+relation. Further information is available from the respective web sites:
+http://cns.montana.edu/~alex and http://www.cs.huji.ac.il/~tishby/
+
+* Information-processing properties of cascades of systems (serial and
+parallel, including neural) were recently addressed by Don Johnson. This
+work should comment its relation to his latest papers, "Neural population
+structures and consequences for neural coding" and "Optimal stimulus coding
+by neural populations using rate codes". For references, see
+http://www.ece.rice.edu/~dhj/.
+
+Neural Engineering: 
+Computation, Representation, and Dynamics in Neurobiological Systems  
+By Chris Eliasmith and Charles H. Anderson 

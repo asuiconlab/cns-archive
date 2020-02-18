@@ -1,0 +1,14 @@
+Invariant Contrast Adaptation
+in the Outer Plexiform Layer of the Primate Retina
+
+Josef Skrzypek and George Wu
+Machine Perception Laboratory
+Computer Science Department
+University of California, Los Angeles
+Los Angeles, CA 90024
+
+
+Abstract
+
+Recent anatomical and physiological results suggest that luminance contrast adaptation in the primate retina is localized to synaptic interactions of the outer plexiform layer(OPL). We present a quantitative study of luminance contrast adaptation using a computer model of the primate OPL derived from known anatomy and physiology. Results demonstrate that simple network interactions can implement invariant contrast adaptation while maintaining high luminance contrast sensitivity over 7 log units of retinal illuminance. Furthermore, simulation results predict behavior consistent with known psychophysics of primate foveal photopic vision. As far as we know this is the first quantitative demonstration of compatibility of primate OPL anatomy, physiology and psychophysics.
+

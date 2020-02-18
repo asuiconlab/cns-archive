@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1997 - Shuttle Service</title>
+<meta name="description" content="CNS Meeting Home Page 1997 - Shuttle Service." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1997, 
+cns, computational, neuroscience, workshop, talks, posters, Shuttle Service" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1997</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 6 - 10, 1997, Big Sky, Montana</h3>
+  	
+  	<h4>CNS*1997 Shuttle Service</h4>
+  	
+  	<p>Big Sky resort is about 1 hour's drive from the airport. For those of you who will not be 
+  	renting a car, we have arranged for bus transportation between the airport and meeting site.</p>
+  	
+  	<p>The cost per person, round trip, will be <b>$15</b> ($5 for each child under 16 years old). 
+  	The fee will be paid to CNS, not to the bus company, so you don't need to pay at the terminal. 
+  	Please send your checks and credit card information to Judy Macias, using the questionnaire 
+  	below.</p>
+  	
+  	<h4>When you get to the Bozeman airport</h4>
+  	
+  	<ol>
+  	  <li>Look for a CNS*97 sign at the big bear sculpture near the baggage claim area. Don't worry, 
+  	  you'll see it; the bear is very big, and the terminal is very small. As soon as it is obvious 
+  	  that all arrivees from the most recent flight are assembled, a bus from the Karst Stage Company 
+  	  will take you to Big Sky.</li>
+  	  <li>If you are a straggler and no busses seem to be out front, and no people from Karst are by 
+  	  the big bear, go to the 4x4 ground transportation booth near the car rental area next to the 
+  	  baggage claim area. We have arranged for individuals or small groups to be shuttled up to Big 
+  	  Sky in smaller vans when there aren't enough passengers on a flight to warrant a big bus. This 
+  	  procedure will also cover the people who miss flights or connections, and end up coming in at a 
+  	  time that is different than expected.</li>
+  	  <li>If all else fails, call the Karst Stage Company at 586-8567, extension 1-2060, and ask for 
+  	  Gary.</li>
+  	  <li>Some people may want to visit Bozeman before leaving. The way to do this is to go ahead and 
+  	  take the bus back to the airport, and take a cab to Bozeman (about $7) If you have reservations 
+  	  in a Bozeman Hotel, most of them operate courtesy vans that will come and get you from the 
+  	  airport when you call.</li>
+  	</ol>
+  	
+  	<h4>Shuttle Service Questionnaire and Registration</h4>
+  	
+  	<p>Please print this and fax to Judy Macias (or include it in an email message) <b>as soon as 
+  	possible</b>.</p>
+  	<pre>
+
+How many travellers are there in your party?
+
+
+What are their names?
+
+
+What is your date and time of arrival, airline, and flight number?
+
+
+Would you like us to charge your (__) VISA,  (__) MASTER CARD,  
+
+or (__) AMERICAN EXPRESS?
+
+number: _____________________________  expiration date: _______
+
+
+Or will you send a (__) check or (__) money order PAYABLE IN
+
+U.S. DOLLARS to CNS*97?
+
+
+TOTAL PAYMENT:   $_________
+
+
+Please send this shuttle service questionnaire and credit card
+information or checks to:
+
+Judy Macias
+Caltech
+Division of Biology 216-76
+Pasadena, CA 91125, USA
+Fax: (818) 795-2088
+</pre>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1997" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

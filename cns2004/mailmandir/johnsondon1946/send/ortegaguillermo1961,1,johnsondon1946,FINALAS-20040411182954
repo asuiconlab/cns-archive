@@ -1,0 +1,56 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"guillermo ortega" <ortega@df.uba.ar>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 11/4/2004 18:29:54
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear guillermo ortega,
+
+We're happy to inform you that your paper 'Rate synchronization as a deterministic signal
+in neural spike trains' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer Comments :
+This work presents a nice quantification of paired-spike interactions between pairs of neurons. Since such synchronized spiking reveals increased/strengthened spiking in target nuclei, it is interesting to see how this synchronized spiking is related to sensory stimulation.
+
+However, I have a few observations/comments to make regarding the presentation of this work 
+
+1) The results presented in figure 1 arise from a finite amount of experimental and simulated data. Yet, other than a brief mention of the number of synchronized events contributing to the calculation, the reader is left with little idea of the variance/error in the estimates. The data in figure 1 should contain error bars indicating the confidence interval of the probability estimates.
+
+2) There is little explanation of the relevance of the simulated data. While they clearly show similar trends to the experimental data, there is little discussion given to the relevance of these similarities. As it is presented, these similarities neither support nor contradict the experimental results; therefore, it remains unclear why the simulated results are presented along side the experimental results.
+
+3) The results of figure 2 are reported as the percentages of synchronized spikes correlated with stimulus. I assume this simply refers to the firing of spikes on two neurons within the time window tSE. However, this concept is never explicitly stated. This is important to emphasizing the strength of the synchronized event measure introduced in this paper.
+
+4) Frequently, variables and terminology appear in the text without prior definition. From the very beginning there is a reference to instantaneous firing rate (IFR), yet it is never explicitly defined. Similarly, in the explanation of equation 4, the variable Nc is introduced but never defined. Also, the abbreviation SE is suddenly introduced without prior definition.
+ 
+Also, the conditional probability introduced in equation (7) is suddenly referred to as a percentage of sychnronized events in the results section. This change in language is confusing.
+
+
+Overall, I found the paper interesting to read. I strongly recommend revising this paper to better highlight and illustrate the important results. 
+
+Good luck.

@@ -1,0 +1,46 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Amir Madany Mamlouk" <madany@gmx.net>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 3/5/2004 23:35:43
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Amir Madany Mamlouk,
+
+We're happy to inform you that your paper 'Unsupervised spike sorting with ICA and its evaluation using GENESIS simulations' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors use GENESIS to create surrogate datasets to test the efficacy of ICA to separate single neurons from multiunit recordings from several electrodes.  The results look promising, but the presenation could be improved.  Which ICA method was used?  It would be useful to compare several ICA methods since they may not give the same results.  The Brown et al paper analyzed optical recordings from a mollusc, not an insect.  Where was the z-axis relative to the cells in Fig 1?  What was the relationship of the probe to the cells?  What was the falloff in the extracellular fields relative to the geometry of the layout?  Were any interneurons detected?
+
+Reviewer 2 :
+
+

@@ -1,0 +1,16 @@
+Deterministic Entropy Measures for Investigating Complex SpatioTemporal Order in Multi-Unit Spike Train Data
+
+
+
+Garrett T. Kenyon and David C. Tam
+
+Division of Neuroscience, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030
+
+
+
+Abstract
+
+
+
+We consider the hypothesis that within a neural population, the distribution of cell firing times is chaotic, characterized by a finite Kolmogorov entropy. We contrast this with the alternative rate code hypothesis, which asserts that the distribution of cell firing times is ergodic, possessing an infinite Kolmogorov entropy. Starting from an explicit expression for the entropy of a train of uncorrelated events, characteristic features for the entropy of any ergodic process are inferred. Entropy growth that is slower than logarithmic at increased temporal resolutions, as well as anomalous renormalization flow, is argued to be a sufficient indicator of an underlying chaotic order. Stereotypical results are illustrated through the analysis of computer generated spike train data. A parallel algorithm for extracting the spike train entropy is provided.
+

@@ -1,0 +1,80 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Andrej Blejec" <andrej.blejec@uni-lj.si>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:43
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Andrej Blejec,
+
+We're happy to inform you that your paper 'Statistical method for detection of firing rate changes in spontaneously active neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+General comments
+---------------- 
+This paper is actually an analysis of a well-investigated problem known as change-point detection (see Basseville and Nifikorov, 1993). It tries to identify a non-stationary transition (or change) point in time, when the events are described by two stationary distributions (null and alternate hypothesis) on either side. As such it is an important and relevant problem in sensory neurobiology because it is a reasonable approximation of signal detection in continuously evolving spike trains. The author should be aware that while this problem is amenable to fixed-sample Neyman-Pearson testing (as has been done in this paper), it falls under the more general (and difficult) problem of online (or sequential) signal detection (see ref. above, and also the classic monograph of Wald, 1947). The more general problem of sequential testing on problems of this kind have also been attempted in neurobiology recently (see Chi et al., 2003a, 2003b; Ratnam et al. 2003; Goense and Ratnam 2003).
+
+What the author has done is to formulate the problem as a fixed-sample ternary hypothesis test (using control limits defined by percentile cut-offs in the distribution underlying the null-hypothesis). This dilutes the contribution, because in change-point detection, it is not the power of the test that is important but the speed of detecting a change-point once it has occurred. Does one terminate the test once the null hypothesis fails? Or does one continue testing? Stated another way, the fixed-sample method employed here will ALWAYS generate a hit if you wait long enough, due to statistical fluctuations. Thus defining power of the test is in some sense meaningless unless a signal window posterior to the change-point is defined. In which case power can be calculated (See point (1) in specific comments below). It is recommended that the author also consult the vast literature that exists for solving problems of this kind, and also become familiar with optimal algorithms such as CUSUM (Lorden 1976; Page 1954) and the various moving average tests. It seems as though the approach is similar to CUSUM, but this referee is not sure.
+
+Specific comments and suggestions for revision
+----------------------------------------------
+
+There are many details missing with regard to calculation of power. Also a systematic evaluation of type I error has not been carried out. The figures also need to be redrawn or reorganized for clarity. Finally, the author seems to be unaware that this problem is actually well investigated, even in neurobiology. The referee has suggestions for enhancing the MS:
+ 
+1. The author has not stated how power was calculated. This is a serious drawback with the analysis performed here. While it is easy to calculate type I error, it is not clear what power really means for a problem of this kind. Let us say a stimulus is introduced at some point in time. For how long in time (i,e., upto what rank) should the testing be performed? The author is doubtless aware that a hit will be scored if you wait long enough (with probability 1). To avoid this, power should be calculated only if the threshold is exceeded within a time window after the signal onset. The author has not mentioned whether this was indeed how power was calculated, nor has he commented on this (for instance such a window could be the width of the excitation (w) specified by the model used for simulations). But for real data (Figs. 3 and 4) the author should specify how this was dealt with. See also general comments below.
+
+2. Simulation results (Section 3, 4; Figure 2) do not investigate Type I error although the author states in the Introduction that this will be done. This referee suggests that the author do the following to reorganize Figure 2:
+
+Figure 2: Remove Panel A. Panel B is more useful as it shows Power as a function of signal-to-noise ratio (i.e., the parameter A/b). Also, when SNR is considered, it appears that the lines nearly collapse onto one another showing the it is A/b that is important and not A alone or b alone. So, this panel is more useful. The collapsing of the curves onto one line is to be expected because the model tests for a change in mean rate (the slope), and thus, SNR is simply a measure of discriminability. Panel A is thus redundant. 
+
+Figure 2: Type I error (false alarm) is not specified although it appears to be about 0.06. What the author may like to do is introduce another panel which shows the receiver operating characteristic (ROC). That is, for fixed value of A/b, plot the power as a function of Type I error. For this purpose the author may like to simplify the test by having only one control limit (e.g., just excitation), and reduce the problem to a binary hypothesis test. The author may also introduce one more ROC curve in the same panel for a different value of A/b.
+
+3. Figures 3 and 4 are poorly designed and cluttered. a) The author may like to remove the large text that appears on the top left of Panels A in both figures (the caption already specifies these parameters). b) Remove the EOG trace as it is unnecessary. c) Show the spike train once in Panels A, and remove them from Panels B as it adds to the clutter. d) It is not clear what the the gray colored horizontal line appearing in Panels B (Fig. 3, 4) at about y = 0, signifies. The author should explain what it is or just remove it.
+
+4. The analysis is not very different from a PSTH analysis. The method provides for measuring the instantaneous rate averaged over the window W(i,j). The difference is that a PSTH analysis is an average over many trials, whereas this method detects changes in spontaneous activity in one realization of the stimulus. This is actually useful. The author may like to point this out. See also general comments below.
+
+5. The author should discuss how the analysis can be applied if the signal onset time is unknown as it is biologically the more relevant problem. Will the method work in this case?. See also general comments below.
+
+Suggested references the author may like to consult or know about:
+------------------------------------------------------------------
+
+1. Wald A (1947) Sequential Analysis. Wiley, New York
+
+2. Basseville M, Nikiforov IV (1993), Detection of Abrupt Changes: Theory and Application, Prentice-Hall, Englewood Cliffs, NJ (This out-of-print book can be downloaded at http://www.irisa.fr/sigma2/kniga/).
+
+3. Lorden G (1976), Procedures for reacting to a change in distribution, Ann. Math. Stat. 42:1897-908.
+
+4. Page ES (1954), Continuous inspection schemes, Biometrika 14:100-115.
+
+5. Chi Z, Rauske PL, Margoliash D (2003a) Pattern filtering for detection of neural activity, with examples from HVc activity During sleep in zebra finches  Neural Computation 15:2307-2337 
+
+6. Chi Z, Rauske PL, Margoliash D (2003b) Detection of spike patterns using pattern filtering, with applications to sleep replay in birdsong.  Neurocomputing 52-54:19-24
+
+7. Goense JBM, Ratnam R (2003) Continuous detection of weak sensory signals in afferent spike trains: the role of anti-correlated interspike intervals in detection performance J. Comp. Physiol. A, 189: 741-759. 
+
+8. Ratnam R, Goense JBM, and Nelson ME (2003), Change-point detection in neuronal spike train activity. Neurocomputing 52-54, 849-955.

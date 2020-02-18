@@ -1,0 +1,9 @@
+A MODEL FOR SELF-REGULATION OF NEURONAL ACIIVITY
+
+Gwendal Le Masson, Eve Marder and L.F. Abbott
+Department of Biology and Physics and Center for Complex Systems
+Brandeis University Waltham, MA 02254.
+
+
+We constructed a conductance-based model from biophysical data of a stomatogastric ganglion neuron. Using this model, we address the question of stability of neuronal activity despite changes in both the internal and external environment. We propose that calcium could act as a regulatory signal to adjust the ratio of conductances expressed by a neuron. We show that the internal calcium concentration is highly correlated with electrical properties and we build a feedback mechanism to link calcium to the maximal conductance of each current. Models with dynamical maximal conductances can self-assemble the currents they need to produce a given target activity pattern from an arbitrary initial state and can recover from drastic changes in extracellular ionic concentration. This mechanism allows increased robustness and activity-dependent stabilization of network function.
+

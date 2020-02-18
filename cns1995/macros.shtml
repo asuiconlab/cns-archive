@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1995 - Macros</title>
+<meta name="description" content="CNS Meeting Home Page 1995 - Macros." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1995, 
+cns, computational, neuroscience, workshop, talks, posters, Macros" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1995</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 11 - 15, 1995, Monterey, California</h3>
+  	
+  	<h4>CNS*1995 Macros</h4>
+  	
+  	<p>A TeX/LaTeX macro package is now available for formatting papers for the CNS*95 proceedings. 
+  	This package was written by John Pezaris at Caltech (pz@caltech.edu), and although every effort 
+  	has been made to insure that it produces the correct format, if you chose to use the package, 
+  	<em>you should check your paper yourself to verify it meets the submission guidelines</em>. 
+  	Copies of the submission guidelines are available from Judy Macias, Division of Biology 216-76, 
+  	Caltech, Pasadena, CA 91125.</p>
+  	
+  	<p>The macro package is available via anonymous ftp from 
+  	<a href="./cns95.tex">http://www.neuroinf.org/CNS/cns-arch/cns95/cns95.tex</a></p>
+  	
+  	<p>Instructions for usage of the macro package are available in postscript form as a sample 
+  	paper. The source code for this sample paper is tacked to the end of the macro package (commented 
+  	out), and the postscript is available as 
+  	<a href="./sample.ps">http://www.neuroinf.org/CNS/cns-arch/cns95/sample.ps</a></p>
+  	
+  	<p>Read the sample paper before using the macro package. All questions regarding bugs, comments, 
+  	and usage of the macros should be directed to John Pezaris, and NOT to the CNS*95 organizers.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1995" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

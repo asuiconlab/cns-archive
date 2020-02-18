@@ -1,0 +1,73 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Bjoern Naundorf" <bjoern@chaos.gwdg.de>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 18:12:52
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Bjoern Naundorf,
+
+We're happy to inform you that your paper 'Dynamical Response Properties of a Canonical Model for Type-I Membranes ' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+In a recent paper (Fourcaud et al., J. Neurosci, 2003, 11628) Fourcaud et al.studied the spiking response to oscillating inputs for a variety of models with increasing realism. The results obtained in the present study are in agreement with Fourcaud et al paper which should be quoted. 
+
+In their simulations Fourcaud et al. found that the Wang Buszaki model and the Quadratic Integrate and Fire model behave differently. This is in contrast with the conclusions of the present paper. The origin of the discrepancy should be discussed.
+
+Reviewer 2 :
+P.3 2. par. "To meet a realistic relaxation time of the MP ..."  what
+is meant by relaxation time (the After Hyperpolarization)?  Give also
+more details why I_0=0 and sigma=10^-3 (and not a line in parameter
+space, e.g. sigma(I_0)) is a "reasonable choice".
+
+Eq.(3) In the diffusion term of the Fokker-Planck eq.  is  
+the factor \tau correct?
+
+P.4, 1. par. What are the H_m(...), Hermite Polynomials? 
+If so, this should be stated.
+
+Sec. IV  How were the different values of the stat. firing rate
+realized, by varying I_0, \sigma, or both? Give these parameter values
+and not only the resulting rate v_0. It is said that the amplitude
+exhibits a resonance maximum at v_0; later on the authors claim that
+for realistic correlation times the resonance frequency is "well below
+v_0". This is confusing.  Furthermore, is \tau_corr identical to the
+correlation time \tau_c of the correlated stimulus as suggested by
+Fig. 4 and the discussion on p.5? Or is it defined by the eigenvalue
+\lambda_2 as stated in the text and thus a characteristic property of
+the stimulated neuron?
+
+Fig.3 Lines are hardly to distinguish. It is also not clear
+which of the FOUR frequencies given in the legend belongs to
+which of the THREE curves. Use labels or different line styles. 
+
+Fig.4 (right panel) Give parameter values used for the simulation of
+all the models.
+
+
+

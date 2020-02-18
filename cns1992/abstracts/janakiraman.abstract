@@ -1,0 +1,14 @@
+A MODEL FOR DYNAMICAL ASPECTS OF
+VISUAL ATTENTION
+
+
+Janani Janakiraman	K.P.UnniKrishnan
+Advanced Technology Laboratories	Computer Science Department
+The University of Michigan	GM Research Laboratories
+1101 Beal Avenue, Ann Arbor, MI 48109	Warren, MI 48109-9055
+                       Abstract
+
+
+A model is presented to investigate the role of feedback pathways from association cortical areas to Vl and LGN in attentional mechanisms. In the model,these pathways are shown to be capable of modifying the tuning properties of lower level neurons, hence quickening their convergence. Model simulations use an algorithm (Alopex) that is implementable by known neural circuitry.
+The change in tuning properties of V4 and IT neurons in the monkey has lead to the hypothesis that these changes play a role in the static aspects of attention. Our results show that this may instead be a dynamic phenomenon,helping the visual system to focus attention rapidly.
+

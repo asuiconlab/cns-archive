@@ -1,0 +1,30 @@
+A Neural Model of Illusory Contour Perception
+
+Brian Ringer and Josef Skrzypek
+
+Machine Perception Laboratory
+Computer Science Department
+University of California, Los Angeles
+Los Angeles, CA 90024
+
+
+
+Abstract
+
+Illusory contours, which are perceived in absence of luminance contrast data, play an important role in visual processing. However, it is not clear what kind and how much information is necessary for the perception of this phenomenon. Most of the available explanations assume that contrast information on both sides of a gap is sufflcient to complete an illusory contour. Using a computer simulation we evaluated hypothesized explanation by making explicit physiological and psychophysical constraints. Our results indicate that a solution to illusory contour perception may lie with a recurrent network which integrates information about illusory surfaces (brightness and binocularity) with available contour information (luminance contrast).
+
+
+
+
+
+Address correspondence to
+Josef Skrzypek
+Machine Perception Laboratory
+Computer Science Department
+3532D Boelter Hall
+University of California
+Los Angeles, CA 90024
+(310) 825-2381
+Internet: skrzypek@cs.ucla.edu
+Fax: (310) ucla csd
+

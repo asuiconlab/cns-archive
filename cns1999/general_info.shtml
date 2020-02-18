@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1999 - General Information</title>
+<meta name="description" content="CNS Meeting Home Page 1999 - General Information." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1999, 
+cns, computational, neuroscience, workshop, talks, posters, General Information" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1999</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-22, 1999, Pittsburgh, Pennsylvania</h3>
+  	
+  	<h4>CNS*1999 General Information</h4>
+  	
+  	<p>CNS*99 will be held in Pittsburgh, Pennsylvania, July 18-22, 1999, and is sponsored in part by 
+  	the Center for the Neural Basis of Cognition at Carnegie Mellon University and the University of 
+  	Pittsburgh.</p>
+  	
+  	<p>This is the eighth in a series of annual inter-disciplinary conferences intended to address 
+  	the broad range of research approaches and issues involved in the general field of computational 
+  	neuroscience.</p>
+  	
+  	<p>As in the previous years, this meeting will bring together experimental and theoretical 
+  	neurobiologists along with engineers, computer scientists, cognitive scientists, physicists, and 
+  	mathematicians interested in understanding how biological neural systems compute. The meeting 
+  	will equally emphasize experimental, model-based, and more abstract theoretical approaches to 
+  	understanding neurobiological computation.</p>
+  	
+  	<p><a href="http://www.wpxi.com/pittsburgh/index.html">
+  	<img src="./images/downtown1.jpg" alt="picture of Pittsburgh city" /></a></p>
+  	
+  	<p>The conference will be held at the Hilton Pittsburgh &amp; Towers, located next to Point State 
+  	Park. The banquet on July 22 will be part of a three-hour dinner cruise on the Gateway Clipper 
+  	Party Liner.</p>
+  	
+  	<p><img src="./images/PartyLiner.jpg" alt="picture of Pittsburgh with boot" /></p>
+  	
+  	<p>Pittsburgh has a rich history, including such famous figures as George Washington, and Andrew 
+  	Carnegie, and thre are plenty of 
+  	<a href="http://www.wpxi.com/pittsburgh/entertainment/index.html">things to do in Pittsburgh!</a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1999" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

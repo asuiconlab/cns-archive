@@ -1,0 +1,17 @@
+Correlational-Based Development of Disparity Sensitivity
+
+
+Gregory S. Berns, Peter Dayan, Terrence J. Sejnowski
+CNL, Salk Institute for Biological Studies, PO Box 85800, San Diego, CA 92186-5800 USA
+
+
+Address correspondence to Gregory S. Berns (greg@helmholtz . sdsc. edu)
+
+
+
+
+ABSTRACT
+
+
+A correlational-based model of development of disparity sensitivity is proposed. Two input layers are fully connected to a single cortical layer with fixed intra-cortical connections, and the weights modified by an unsupervised linear Hebb rule. A small amount of between-eye correlation (approximately 5% the amplitude of the same-eye correlation) leads to the development of binocular cortical cells with the left and right receptive fields aligned, i.e. zero disparity. Several cells which become monocularly dominated tend to have non-zero disparity preferences. The same relationship between ocular dominance and disparity has been experimentally observed in the visual cortex.
+

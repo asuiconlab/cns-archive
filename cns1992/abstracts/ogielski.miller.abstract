@@ -1,0 +1,29 @@
+A MODEL FOR SYNAPTIC TRANSMISSION IN THE AUDITORY  NERVE:
+RANDOMNESS, PLASTICITY, AND SIGNAL ESTIMATION
+
+Michael I. Miller 
+The Institute for Biomedical Computing and 
+The Department of Electrical Engineering 
+Washington University at St. Louis
+Campus Box 1161 
+St. Louis, Missouri 63130 
+
+Andrew T. Ogielski
+Bell Communication Research
+445 South St.
+Morristown, New Jersey 07960
+
+In the cochlea of the cat and other mammals each afferent auditory neuron
+receives all its input from a single synapse on its target inner hair cell.
+The randomness and plasticity of synaptic transmission therefore
+profoundly influence the encoding of sound by action potentials in the
+auditory nerve.
+We present a mathematical model of continuous signal transmission by a
+synapse that can account for the observed history dependence and
+statistics of auditory nerve firing.
+The operation of a synapse is described in terms of interacting
+stochastic processes - stimulus driven vesicle exocytosis,
+vesicle recirculation, and postsynaptic potential generation.
+
+
+

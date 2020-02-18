@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Peter Murray" <p.murray@utoronto.ca>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:42
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Peter Murray,
+
+We're happy to inform you that your paper 'Reduced Kinetic Schemes of Short-term Synaptic Plasticity in Inhibitory Network Models' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The main idea expressed in the paper is a method to link between the complex and simple model, showing a "reduced" simple scheme of the networks dynamics. Since this is the basic idea the sections describing the method should be more precise.
+
+The paper lacks a number of computational measures in order to evaluate the work properly.
+1.	How stable are the parameters fitted? How many solutions are there? It would be of interest to present the full error map.
+2.	A comparison of the final parameters between the simple and complex model (after the fitting) is missing. Can one learn something out of these parameters values?
+
+Reviewer 2 :
+
+

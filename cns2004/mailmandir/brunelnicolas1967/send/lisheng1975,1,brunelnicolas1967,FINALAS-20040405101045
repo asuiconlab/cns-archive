@@ -1,0 +1,42 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Sheng Li" <sheng@sussex.ac.uk>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:10:45
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Sheng Li,
+
+We're happy to inform you that your paper 'On the Variability of Cortical Neural Responses  A Statistical Interpretation' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors argue that the noise in the stimulus is a source of variability. Actually they apply this notion in a more restricted setting where the internal representation is obtained by statistical inference of the stimulus. The idea is then illustrated with a simple example (2 neurons and gaussian distributions). An implicit hypothesis for the validity of this approach is that neurons perform statistical inference, what might not be the case. Please check very carefully the English.
+
+Reviewer 2 :
+
+

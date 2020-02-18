@@ -1,0 +1,40 @@
+Localized Principal Components of Natural
+Images - an Analytic Solution *t
+
+Yong Liu Harel Shouval
+Department of Physics and
+Institute for Brain and Neural Systems
+Box 1843, Brown University
+Providence, R. I., 02912
+yong@cns.brown.edu
+hzs@cns.brown.edu
+
+January 26, 1993
+
+Abstract
+
+The structure of receptive fields in the visual cortex is believed to be 
+shaped by unsupervised learning . A simple variant of unsupervised 
+learning is the extraction of principal components. In this paper, we 
+derived analytically the form of localized principal components of 
+natural images. This derivation relies on Fields results about the 
+covariance matrix of natural images (Field, 1987). Our resluts predict 
+both the shapes and the phases of the receptive fields. We also 
+compared our results to numerical simulation results performed by 
+Hancock et. al. (Hancock et al., 1992). Finally the biological relevance 
+of our results is discus sed.
+
+References
+
+Field, D. J. (1987). Ralations between the statistics of natural images 
+and the response properities od cortical cells. J. Opt. Soc. Am. A, 
+4(12):2379-2394.
+
+Hancock, P. J., Baddeley, R. J., and Smith, L. S. (1992). The principal 
+components of natural images. Network, 3:61-70.
+
+*This Research was supported by the Omce of Navel Research, the 
+Army Research Office, and the National
+Science Foundation
+ 
+

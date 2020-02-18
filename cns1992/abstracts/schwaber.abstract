@@ -1,0 +1,24 @@
+Abstract
+
+
+Modeling neuronal dynamics predicts responses in the rat
+baroreflex
+
+
+By J.S. SCHWABER,J.F.R. PATON, R.F. ROGERS AND E.B. GRAVES
+
+Neural Computation Group, DuPont Experimental Station E352, Dupont Company, Wilmington,
+DE 19880-0352, U.S.A. and 2Institute for Neuroscience, University of Pennsylvania, Philadel-
+phia, PA 19104
+
+
+
+
+Computer models were constructed for neurons recorded in vitro in the cardiovascular NTS of the
+rat. These neurons showed time- and voltage-dependent spike discharge patterns and subthreshold
+voltage trajectories when they were intracellularly injected with constant current pulses. Models
+of membrane ion channels were constructed and used to produce and match this dynamic behav-
+ior. Network models composed of these neurons and reflecting baroreceptor reflex organization in
+the NTS were used to explore systems level computation within the reflex. Highly non-linear and
+unpredicted activity was observed in simulations. However, some of these simulation results were
+taken as hyptheses and have subsequently been observed experimentally anatomically and in vivo.

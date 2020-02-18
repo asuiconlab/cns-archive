@@ -1,0 +1,25 @@
+A Computational Model of the Limulus Lateral Eye on a Parallel
+Computer
+Daryl R. Kipke, Erik Herzog, and Robert B. Barlow, Jr.
+Institute for Sensory Research, Syracuse University
+
+The lateral eye of Limulus provides an unique opportunity to investigate
+retinal function and the neural code of vision.  We have integrated
+computational, physiological, and behavioral experimental methods to
+investigate the information the eye sends to the brain and the efferent
+modulation of the eye by the brain.  We developed a cell-based
+computational model of the eye on a parallel computer (Connection
+Machine).  The model structure is related closely to the anatomical
+structure of the eye and the parameters are estimated from experimental
+data.  Model computations are combined with behavioral data to
+investigate the neural representation of the animal's visual world.
+
+
+Correspondence to:
+        Daryl R. Kipke, Ph.D.
+        Institute for Sensory Research
+        Syracuse University
+        Merrill Lane
+        Syracuse, New York 13244-5290
+        e-mail: dkipke@nova.npac.syr.edu
+

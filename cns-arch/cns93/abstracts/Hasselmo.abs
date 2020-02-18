@@ -1,0 +1,31 @@
+MODULATION OF NEURONAL ADAPTATION AND
+CORTICAL ASSOCIATIVE MEMORY FUNCTION.
+
+Edi Barkai, Ross E. Bergman, Gregory Horwitz
+and Michael E. Hasselmo
+
+Dept. of Psychology, Harvard University 33 Kirkland St.,
+Cambridge, MA 02138 hasselmo@katla.harvard.edu
+
+ABSTRACT
+
+Cortical pyramidal cells commonly show adaptation in response to 
+sustained current injection or synaptic input. However, this feature 
+of neuronal function has not been incorporated in most neural 
+network models. We have combined intracellular recording from 
+brain slice preparations of piriform cortex with detailed biophysical 
+models of this region to analyze the role of this neuronal adaptation 
+in cortical associative memory function. The experimentally observed 
+properties of adaptation in pyramidal cells were simulated with 
+voltage and calcium dependent potassium currents in a biophysical 
+simulation of piriforrn cortex developed using the GENESIS 
+simulation package. Neuronal adaptation allowed the network to 
+make transitions between two recall states determined by different 
+patterns of afferent input Suppression of this neuronal adaptation by 
+cholinergic modulation allowed the network to show a sustained 
+response to a single pattern appropriate for learning. Coupled with 
+the cholinergic suppression of intrinsic fiber synaptic transmission, 
+this modulation appears to set the appropriate network dynamics for 
+learning new patterns.
+
+

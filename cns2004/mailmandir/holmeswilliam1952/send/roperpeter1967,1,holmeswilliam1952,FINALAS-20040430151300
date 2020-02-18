@@ -1,0 +1,55 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"peter roper" <pete.roper@nih.gov>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:13:0
+-----------------------DATA----------------------
+Dear Peter Roper,
+
+We're happy to inform you that your paper 'Frequency-dependent depletion of secretory vesicle pools modulates bursting in vasopressin neurones of the rat supraoptic nucleus' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Decisions on presentation format (oral vs poster) will be made in early May and you will receive another e-mail then about your assignment.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Page 3  "D facilitated its own action" Could this be explained more clearly
+and justified experimentally ?
+
+Page 4  "D acts by shifting the Kd of the plateau current." This presumably
+means that Ca binds the channel with some Kd, and the bound state of the
+channel is inactive. While it is clear that the author is condensing a
+description of earlier work, it would be useful to explicitly state the
+underlying reaction. What is the order of the reaction ?
+
+The interactions described are rather involved. The description of the system
+would benefit from a block diagram of all the interactions, perhaps as
+another panel in Figure 1.
+
+Reviewer 2 :
+While it is clear from the model that an increase in burst length can be explained with a depletion of the RRP or IRP pool of VP vesicles, it is not clear why burst length does not continue to rise at higher frequencies (above 20 Hz).  Nor is it clear why delta would not also become smaller (depleted) at higher frequencies.  This should be explained better.
+
+Minor--"for so" should be "so for" after eq. 5.
+

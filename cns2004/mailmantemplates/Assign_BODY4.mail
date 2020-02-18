@@ -1,0 +1,28 @@
+Dear #FNAME# #LNAME#,
+
+We're sorry to inform you that your paper '#TITLE#' has NOT been 
+accepted for publication in the CNS proceedings.  The comments of the 
+reviewers which led to this rejection can be found below.  This 
+rejection is the result of a new policy of the CNS organization to 
+review papers to be published in the journal Neurocomputing more thoroughly.  
+As a result we rejected 10% of the papers for publication.
+
+This rejection applies only to publication, not to presentation at the 
+CNS*04 meeting.  In fact, we strongly encourage you to attend the 
+conference and present a poster to get additional feedback about your 
+work
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+#EDITOR# and Erik De Schutter
+
+COMMENTS FROM REVIEWERS
+
+Reviewer 1:
+#REV1DATA8#
+
+Reviewer 2 :
+#REV2DATA8#

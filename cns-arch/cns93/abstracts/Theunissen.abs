@@ -1,0 +1,35 @@
+Information theoretic analysis of the accuracy with which sensory stimuli
+and injected current waveforms are encoded by spike trains elicited in
+sensory receptors and interneurons of the cricket cercal sensory system.
+
+
+
+
+Frederic Theunissen, John P. Miller and Cooper Roddey, 195 LSA,
+Division of Neurobiology, Department of Molecular and Cell Biology,
+University of California, Berkeley, CA 94720. e-mail:
+ft@acheta.berkeley.edu, jpm@acheta.berkeley.edu,
+crip@acheta.berkeley.edu
+
+
+
+
+
+
+
+
+        We have applied the statistical principles of information theory to
+quantify the accuracy with which the velocities of air current stimuli were
+encoded within the spike trains of the interneurons and sensory receptor
+cells in the cricket cercal sensory system. For these studies, we used the
+"reverse reconstruction technique" to calculate the transinformation across
+several levels. Typical information transmission rates for sensory afferents
+and interneurons were remarkably high. We also carried out experiments in
+which current waveforms were injected directly into the spike initiation
+zones of the interneurons, and the elicited spike trains were recorded. The
+injected current signals were then reconstructed, and used for an analysis of
+the accuracy of the spike transduction mechanism. Two significant results
+of these experiments were that 1) rates of information transmission at these
+spiking frequencies are extremely high, and therefore DO NOT limit the
+ultimate encoding rates for actual sensory stimuli, and 2) the presence of
+ambient noise INCREASES the information transmission rate.

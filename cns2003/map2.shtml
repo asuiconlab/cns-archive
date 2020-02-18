@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2003 - Map</title>
+<meta name="description" content="CNS Meeting Home Page 2003 - Map." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2003, 
+cns, computational, neuroscience, Map, local area, transportation, info" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body id="leeg">
+
+  	
+  	<h4>CNS*2003 Map of local area and transportation info</h4>
+  	
+  	<p>(for legend see below the map)</p>
+  	
+  	<p><img src="./images/map_of_Alicante.jpg"></p>
+  	
+  	<h4>Legend to the figure:</h4>
+  	
+  	<ul>
+  	  <li>A train station</li>
+  	  <li>D CAM Auditorium</li>
+  	  <li>2 Hotel Meli&#225;</li>
+  	  <li>25 Hotel Spa Porta Maris</li>
+  	  <li>12 Hotel Tryp Ciudad de Alicante</li>
+  	  <li>3 Hotel Tryp Gran Sol</li>
+  	  <li>20 Hotel Rambla</li>
+  	  <li>22 Hotel Alfonso el Sabio</li>
+  	</ul>
+  </div>
+  	
+
+
+</body>
+</html>

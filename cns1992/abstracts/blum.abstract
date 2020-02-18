@@ -1,0 +1,20 @@
+Abstract
+
+
+Modeling and Simulation of Cerebellar Networks Implicated in Classical
+
+Conditioning of the Rabbit Eyeblink Response
+
+E. K. Blum*, P. M. Khademi, D. G. Lavond, P. K. Leung & R. F. Thompson
+
+Neural, Informational and Behavioral Sciences Program
+
+University of Southem California, Los Angeles, 90089 CA.
+
+* Corresponding author address: Mathematics Dept., U.S.C.
+
+Continuing previous research, several new detailed compartment models of cerebellar networks were developed based on new data from extra-cellular recordings in rabbit during
+conditioning of the eyeblink response. New sites of synaptic plasticity were postulated, as
+
+suggested by recent cooling-probe experiments, and these were incorporated into the models. The models were tested by simulation using the CAJAL simulator, which produces action potential spike trains that can be compared against the experimental time-trace data. Effects of cooling-induced lesions are simulated by varying certain parameters in the model neurons implicated by the lesion experiments. Conditioning is simulated by varying parameters in the model synapses of neurons implicated by these same experiments in a series of computer runs simulating training trials. Results provide further evidence that these cerebellar circuits may be the main neural substrates of this conditioning paradigm.
+

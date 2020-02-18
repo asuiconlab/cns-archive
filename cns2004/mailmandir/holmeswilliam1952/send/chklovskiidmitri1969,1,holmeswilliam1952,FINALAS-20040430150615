@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"Dmitri Chklovskii" <mitya@cshl.org>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:6:15
+-----------------------DATA----------------------
+Dear Dmitri Chklovskii,
+
+We're happy to inform you that your paper 'Synaptic connectivity and neuronal morphology  two sides of the same coin' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.  (Note, reviewer 2 did not have any suggestions for changes).
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Decisions on presentation format (featured oral vs. oral vs poster) 
+will be made in early May and you will receive another e-mail then about your assignment.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This is an outstanding and highly novel paper. The basic argument - that both axonal and dendritic arbors are required to maximize connectivity while minimizing brain volume - is simple, but the merit of the paper is that it uses relatively straightforward calculations to provide a quantitative basis for this argument. The main weakness of the analysis presented in the paper is that it assumes all-to-all connectivity, but (as the author points out) this is a reasonable first approximation, and can be overcome to some extent by considering *potential* connectivity (e.g. as supported by recent data showing dynamic synaptic connections in cortex). 
+
+The sentence in the Discussion that ends "... it does not rule out their other uses such as non-linear interactions between input currents and compartmentalization in  dendrites and spines (see e.g.  26 and references therein)." 
+seems rather biased to me. It is now rather clear that dendrites do all sorts of other things other than just providing optimized connection points for synapses. To say "...does not rule out..." is a major understatement in this context. I suggest the following rephrasing 
+
+"Although my argument suggests the evolutionary raison detre for axonal and dendritic arbors, it is well established that dendrites serve many other uses, such as non-linear interactions between input currents and compartmentalization in dendrites and spines (see e.g. 26 and references therein). Hence, the type of analysis presented here addresses some -- but not all -- of the reasons for dendritic and axonal arbors."
+
+Reviewer 2 :
+
+

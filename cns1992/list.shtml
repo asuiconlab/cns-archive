@@ -1,0 +1,494 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1992 - List of abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1992 - List of abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1992, 
+cns, computational, neuroscience, workshop, talks, posters, List of abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1992</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1992, San Francisco, California</h3>
+  	
+  	<h4>CNS*1992 List of abstracts</h4>
+  	
+  	<table class="mytable" cellspacing="0" cellpadding="0">
+  	  <tr valign="top">
+  	  	<th>Please select a name:</th>
+  	  	<th>Title of the abstract:</th>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Ahmad">Subutai Ahmad</a></td>
+  	  	<td>Visit: A Model of Human Visual Attention</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Aitken">Ashley M. Aitken</a></td>
+  	  	<td class="alt">Overview of the Valentino Computational Neuroscience Workbench for Simulation of Neural 
+  	  	Systems</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Anastasio">Thomas J. Anastasio</a></td>
+  	  	<td>Recurrent backpropagation models of the Vestibulo-Ocular Reflex provide experimentally 
+  	  	testable predictions</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Anderson">Charles H. Anderson</a></td>
+  	  	<td class="alt">Neural Routing Circuits in Primate Visual Cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Arad">N. Arad</a></td>
+  	  	<td>Dopaminergic Induced Multi-stable States in Neural Networks</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Assad">Christopher Assad</a></td>
+  	  	<td class="alt">Numerical simulations of the electric organ discharge of weakly electric fish.</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Axelrad">H. Axelrad</a></td>
+  	  	<td>A study of computation in a simple Neuronal Network: experimental recording and 
+  	  	theoretical simulation of the immature rat cerebellar cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Bair">Wyeth Bair</a></td>
+  	  	<td class="alt">Power Spectrum Analysis of MT Neurons from the Awake Monkey</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Bairaktaris">Dimitrios Bairaktaris</a></td>
+  	  	<td>Multi-Layer Bidirectional Auto-Associative Memories</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Barrow">Harry Barrow</a></td>
+  	  	<td class="alt">An Adaptive Neural Model of Early Visual Processing</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Bell">Anthony J. Bell</a></td>
+  	  	<td>Self-organising ion channel densities: the rationale for Anti-Hebb</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Berns">Gregory S. Berns</a></td>
+  	  	<td class="alt">Correlational-Based Development of Disparity Sensitivity</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Blum">E. K. Blum</a></td>
+  	  	<td>Modeling and Simulation of Cerebellar Networks Implicated in Classical Conditioning of the 
+  	  	Rabbit Eyeblink Response</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Borg">Lyle J Borg-Graham</a></td>
+  	  	<td class="alt">Non-Linear Spatio-Temporal Filtering in Dendrites: Directional Selectivity and Beyond</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Bower">James M. Bower</a></td>
+  	  	<td>A Silicon-based multi-single neuron probe designed for use in the cerebellum</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Bressler">S.L. Bressler</a></td>
+  	  	<td class="alt">Inter-areal synchronization in rhesus macaque neocortex during a visual pattern 
+  	  	discrimination task</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Bush">Paul C. Bush</a></td>
+  	  	<td>Simulations of Synaptic Integration in Neocortical Pyramidal Cells</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Chimento">Thomas C. Chimento</a></td>
+  	  	<td class="alt">Compartmental modeling of vestibular primary afferents: Ultrastructural morphology 
+  	  	matters.</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Coop">A. D. Coop</a></td>
+  	  	<td>A Model of the Peristaltic Reflex.</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Schutter">Erik De Schutter</a></td>
+  	  	<td class="alt">Integration of synchronous and asynchronous synaptic inputs in a detailed compartmental 
+  	  	model of the cerebellar Purkinje cell.</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Sat">Virginia de Sat</a></td>
+  	  	<td>Self-teaching through correlated input*</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Dominey">Peter F. Dominey</a></td>
+  	  	<td class="alt">A Model of Cortex, Basal Ganglia and Thalamus in Stimulus-Response</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Dong">Dawei Dong</a></td>
+  	  	<td>Dynamics of hebbian learning in feedback networks and development of interconnection 
+  	  	within visual cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Dorffner">Georg Dorffner</a></td>
+  	  	<td class="alt">Unsupervised Learning of Simple Speech Production Based on Soft Categorization</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Egert">David Egert</a></td>
+  	  	<td>Hair-Cell Modelling to Explore the Physiological Basis of Tuning in the Lower Vertebrate 
+  	  	Ear</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Erdi">P. Erdi</a></td>
+  	  	<td class="alt">Dynamic phenomenia in the olfactory bulb</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Erwin">E. Erwin</a></td>
+  	  	<td>A Critical Comparison of Models of Cortical Visual Map Formation</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Feinswog">L. J. Feinswog</a></td>
+  	  	<td class="alt">An Object-Oriented Paradigm for the Design of Realistic Neural Simulators</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Finkel">Leif H. Finkel</a></td>
+  	  	<td>Computer Simulations of Object Discrimination by Visual Cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Foldiak">Peter Foldiak</a></td>
+  	  	<td class="alt">The 'Ideal Homunculus': statistical inference from neural population responses</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Foster">William R. Foster</a></td>
+  	  	<td>Matching neural models to experiment</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Fransen">Erik Fransen</a></td>
+  	  	<td class="alt">A Model of Cortical Associative Memory based on Hebbian Cell Assemblies</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Garliauskas">Algis Garliauskas</a></td>
+  	  	<td>Logic functions realized on a stationary nonlinear dendrite</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Graham">B.P. Graham</a></td>
+  	  	<td class="alt">Simulation of the Muscle Stretch Reflex by a Neuronal Network</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Graves">E.B. Graves</a></td>
+  	  	<td>Network Model of the Respiratory Rhythm</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract.shtml#Gray">Richard A. Gray</a></td>
+  	  	<td class="alt"></td>
+  	  </tr>
+  	  <tr>
+  	  	<td> <a href="./abstract2.shtml#Gr%F6bler">Gr&ouml;bler, T.</a></td>
+  	  	<td>Dynamic phenomenia in the olfactory bulb II</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Grzywacz">Norberto M. Grzywacz</a></td>
+  	  	<td class="alt">Gated--Enhancer Model for Motion Facilitation in Retinal Directional Selectivity</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Hasselmo">Michael E. Hasselmo</a></td>
+  	  	<td>Cholinergic modulation of assoclative memory function in a realistic computational model 
+  	  	of piriform cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Hearne">P.G.Hearne</a></td>
+  	  	<td class="alt">The Neurone Describing function : A Single Compartment Study</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Herrmann">Michael Herrmann</a></td>
+  	  	<td>A network for semantic and episodic associations revealing thought disturbances due to 
+  	  	neural loss</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Hiller">Marty Hiller</a></td>
+  	  	<td class="alt">A Model of the Combined Effects of Chemical and Activity-Dependent Mechanisms in 
+  	  	Topographic Map Formation</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Horn">D. Horn</a></td>
+  	  	<td>Synaptic deletion and compensation in Alzheimer disease: A neural model</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Jacobs">Gwen Jacobs</a></td>
+  	  	<td class="alt">Morphological basis of wind stimulus discrimination in the cricket cercal sensory 
+  	  	system</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract.shtml#Jaeger">Dieter Jaeger</a></td>
+  	  	<td>Prolonged depolarizations following brief synaptic stimulations in the cerebellar Purkinje 
+  	  	cell: Intracellular recordings and compartmental modelling</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#James">Mark James</a></td>
+  	  	<td class="alt">Outline of a Theory of Isocortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Janakiraman">Janani Janakiraman</a></td>
+  	  	<td>A model for dynamical aspects of visual attention</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Jensen">R.V. Jensen</a></td>
+  	  	<td class="alt">NMDA-Activated Conductances Provide Short-Term Memory for Dendritic Spine Logic 
+  	  	Computations</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Jensen1">R.V. Jensen</a></td>
+  	  	<td>NMDA Receptors and Hyperexcitability in Human Hippocampal Granule Cells</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Kamiyama">Yoshimi Kamiyama</a></td>
+  	  	<td class="alt">A Method for Estimating the Neural Input to a Neuron using the Ionic Current Model</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Kentridge">R.W. Kentridge</a></td>
+  	  	<td>Dissipative Structures and Self-Organizing Criticality in Neural Networks with Spatially 
+  	  	Localized Connections.</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Kenyon">Garrett T. Kenyon</a></td>
+  	  	<td class="alt">Deterministic Entropy Measures for Investigating Complex SpatioTemporal Order in 
+  	  	Multi-Unit Spike Train Data</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Kipke">Daryl R. Kipke</a></td>
+  	  	<td>A Computational Model of the Limulus Lateral Eye on a Parallel Computer</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Konig">Peter Konig</a></td>
+  	  	<td class="alt">Assembly Formation and Segregation by a Self-organizing Neuronal Oscillator Model</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Kumar">T. Kumar</a></td>
+  	  	<td>Absence of Learning in Hyperacuity</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Kupfermann">I Kupfermann</a></td>
+  	  	<td class="alt">The use of genetic algorithms to explore neural mechanisms that optimize rhythmic 
+  	  	behaviors: Quasi-realistic models of feeding behavior in Aplysia</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Masson">Gwendal Le Masson</a></td>
+  	  	<td>A model for self-regulation of Neuronal activity</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Li">Zhaoping Li</a></td>
+  	  	<td class="alt">Understanding the Functional Goals of Retinal Ganglion Cells</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Liljenstrom">Hans Liljenstrom</a></td>
+  	  	<td>Acetylcholine and cortical oscillatory dynamics</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Linster">C. Linster</a></td>
+  	  	<td class="alt">Formal Model of the Insect Olfactory Macroglomerulus</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Lockery">S. R. Lockery</a></td>
+  	  	<td>Modeling Chemotaxis in Simple Nervous Systems</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Lytton">William W. Lytton</a></td>
+  	  	<td class="alt">Intrinsic oscillations in simulated thalamocortical relay cells</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Matias">Y. Matias</a></td>
+  	  	<td>A Neural Model for a Randomized Frequency-Spatial Transformation</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Mel">Bartlett W. Mel</a></td>
+  	  	<td class="alt">Large Nonlinear Pattern Discrimination in Dendritic Trees</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Mesrobian">Edmond Mesrobian</a></td>
+  	  	<td>Adaptive Receptive Fields for Textural Sgmentation</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Miller">J.P. Miller</a></td>
+  	  	<td class="alt">Linearization by Noise and Shunting Current of a Modified Hodgkin-Huxley Spiking Model</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Miller2">Read Miller</a></td>
+  	  	<td>Signaling Local Synaptic Covariance through Space</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Murthy">Venkatesh N. Murthy</a></td>
+  	  	<td class="alt">Effect of input synchrony on the response of a model neuron</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Niebur">Ernst Niebur</a></td>
+  	  	<td>The architecture of visual cortical orientation columns</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract2.shtml#Nine">Harmon S. Nine</a></td>
+  	  	<td class="alt">The role of subplate feedback in the development ocular dominance columns</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract2.shtml#Miller3">Michael I. Miller</a></td>
+  	  	<td>A model for synaptic transmission in the auditory nerve: randomness, plasticity and signal 
+  	  	estimation</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Parnas">B.R. Parnas</a></td>
+  	  	<td class="alt">A Neuronal Modeling System for Generating Brainstem Maps of Auditory Space</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Pawelzik">K. Pawelzik</a></td>
+  	  	<td>Switching Between Predictable and Unpredictable States in Data from Cat Visual Cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Postma">Eric O. Postma</a></td>
+  	  	<td class="alt">The Gating Lattice: A Neural Substrate for Dynamic Gating</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Ringer">Brian Ringer</a></td>
+  	  	<td>A Neural Model of Illusory Contour Perception</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Schillen">Thomas B. Schillen</a></td>
+  	  	<td class="alt">Temporal Structure can solve the Binding Problem for Multiple Feature Domains</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Schwaber">J.S. Schwaber</a></td>
+  	  	<td>Modeling neuronal dynamics predicts responses in the rat baroreflex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Segev">Idan Segev</a></td>
+  	  	<td class="alt">Dendritic delay</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Shapiro">Jonathan L. Shapiro</a></td>
+  	  	<td>Unsupervised Hebbian Learning and the Shape of the Neuron Activation Function</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Skrzypek">Josef Skrzypek</a></td>
+  	  	<td class="alt">Invariant Contrast Adaptation in the Outer Plexiform Layer of the Primate Retina</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Smetters">Diana Smetters</a></td>
+  	  	<td>A Model of a Thalamic Relay Cell Incorporating Voltage-Clamp Data on Ionic Conductances</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Smith">Jarnes A. Smith</a></td>
+  	  	<td class="alt">A local model for transparent motions based on spatiotemporal filters</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Softky">William R. Softky</a></td>
+  	  	<td>Cortical Cells Should Fire Regularly, But Do Not</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Speight">Michael D. Speight</a></td>
+  	  	<td class="alt">Using Parallel Supercomputers for Computational Neurobiology</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Srinivasan">M.A. Srinivasan</a></td>
+  	  	<td>Computations in tactile sensing</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Strassber">Adam F. Strassber</a></td>
+  	  	<td class="alt">Limitations of the Hodgkin-Huxley Formalism: Effects of Single Channel Kinetics upon 
+  	  	Transmembrane Voltage Dynamics</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Suarez">Humbert Suarez</a></td>
+  	  	<td>A Model of Direction Selectivity in Visual Cortex Using Massive Intracortical 
+  	  	Connections</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Sullivan">W. Edward Sullivan</a></td>
+  	  	<td class="alt">The highs and lows of horizontal sound localization: The biophysics of Structure-Function 
+  	  	correlations in nucleus laminaris</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Tam">David C. Tam</a></td>
+  	  	<td>A multi-Neuronal Vectorial Phase-space analysis for detecting Dynamical interactions in 
+  	  	firing patterns of Biological Neural</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Theunissen">F.E. Theunissen</a></td>
+  	  	<td class="alt">Representation of sensory information in the cricket cercal sensory system: an information 
+  	  	theoretic analysis</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Thompson">John H. Thompson</a></td>
+  	  	<td>Electrophysiological dissection of the three excitatory inputs to cerebellar Purkinje 
+  	  	cells</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Travis">Bryan J. Travis</a></td>
+  	  	<td class="alt">A Computational Model of the Cat Subcortical Auditory System</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Treves">Alessandro Treves</a></td>
+  	  	<td>Lateral Processing: the Time it Takes</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Ulinski">P. S. Ulinski</a></td>
+  	  	<td class="alt">Analysis of the distribution of geniculate afferents upon pyramidal neurons in turtle 
+  	  	visual cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Vanier">Michael C. Vanier</a></td>
+  	  	<td>Noradrenergic modulation of synaptic transmission in piriform cortex</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Verona">F. Bini Verona</a></td>
+  	  	<td class="alt">Neural Network Simulation in a CSP Language for Multicomputers</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Wadden">T. Wadden</a></td>
+  	  	<td>Realistic Simulation of Undulatory Locomotion A Trailing Oscillator Hypothesis</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Wang">DeLiang Wang</a></td>
+  	  	<td class="alt">Modeling Stimulus Specific Habituation: The Role of the Primordial Hippocampus</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Wang">X.-J. Wang</a></td>
+  	  	<td>Synchronization Among Inhibitory Model Neurons: Interplay Between Rebound Excitation and 
+  	  	Synaptic Kinetics</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Wang2">Xin Wang</a></td>
+  	  	<td class="alt">Modeling Synchronization of Oscillations in Visual and Olfactory Cortex by Coupled 
+  	  	Discrete-Time Limit-Cycle and Chaotic Neural Network Oscillators</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Watts">Lloyd Watts</a></td>
+  	  	<td>Designing Networks of Spiking Silicon Neurons and Synapses</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract3.shtml#Williams">Thelma L. Williams</a></td>
+  	  	<td class="alt">Entrainment of the Lampraey locomotor CPG: analysis and simulation</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract3.shtml#Wolf">F. Wolf</a></td>
+  	  	<td>Field Discontinuities and Islands in Visual Cortical Maps as a Self-Organized 
+  	  	Phenomenon</td>
+  	  </tr>
+  	  <tr> 
+  	  	<td class="alt"><a href="./abstract3.shtml#Zhang">Haiyun Zhang</a></td>
+  	  	<td class="alt">Spatial and temporal integration by locust nonspiking interneurons: Voltage-dependent 
+  	  	electrical geometry</td>
+  	  </tr>
+  	</table>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1992" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

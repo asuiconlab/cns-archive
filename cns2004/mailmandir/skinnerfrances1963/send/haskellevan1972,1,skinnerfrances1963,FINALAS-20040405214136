@@ -1,0 +1,53 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Evan Haskell" <neuronZ@beer.com>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:41:36
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Evan Haskell,
+
+We're happy to inform you that your paper 'Parallel Processing of Multi-Modal Information in Single Neuron
+Computation' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Understanding parallel processing by single neurons is certainly an important and critical step towards understanding brain computation. However, the authors must do a more convincing job of showing that their results, which focus on different aspects of dendritic processing, are novel contributions to this area. In loosely setting the context for their work in a particular sensory system (electrosensory system), the authors seem to neglect an entire field with many results in dendritic processing and computation (among many papers by Bartlett Mels group - see the recent pair in Neuron, Poirazi et al 2003 - as well as other work by Gabbiani, or Vu and Krasne, for example). The authors must set a more complete context for their work and explain why it is indeed different from previous work in each of the areas - spatial segregation of inputs, plasticity and active conductances. 
+
+Minor issues 
+
+1.  I'm not sure that different input frequencies would be seen by many as different modalities. Different modalities usually refers to inputs from distinct sensory systems - semantics perhaps, but should be clarified.
+
+2.  More explanation in the figure legends is required, so that they stand alone.
+
+3.  Correct several typos.
+
+Reviewer 2 :
+
+

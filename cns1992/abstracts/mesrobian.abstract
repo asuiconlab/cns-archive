@@ -1,0 +1,22 @@
+Adaptive Receptive Fields for Textural
+Sgmentation
+
+
+Edmond Mesrobian and Josef Skrzypek
+Machine Perception Laboratory
+Computer Science Department
+University of California
+Los Angeles, CA 90024
+
+
+
+Abstract
+
+Textural segmentation plays an important role in the figure-ground discrimination process. Many current models of mechanisms underlying textural segmentation assume that texture "contrast" information, captured at the border of two abutting textured regions, is sufficient to reconstruct the original surfaces of the textures. These approaches are based on the additional assumption that center-surround receptive fields of visual neurons are perfectly balanced; a uniform stimulus pattern, covering both the center and the surround, produces a zero response. We argue that such models would produce incorrect reconstructions of textural surfaces, and describe a neural network architecture for textural segmentation that can adaptively delimit the boundaries of uniformly textured regions. Simulation results are presented to demonstrate the segmentation capabilities of the architecture.
+
+
+
+
+
+Please address all correspondence to: Prof. J. Skrzypek 3532 Boelter Hall Computer Science Dept. UCLA LA, CA. 900'74 Tel. 310 825-2381 skrzypek@cs.ucla.edu
+

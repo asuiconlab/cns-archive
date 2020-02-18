@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2002 - Read more</title>
+<meta name="description" content="CNS Meeting Home Page 2002 - Read more." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2002, 
+cns, computational, neuroscience, workshops, posters, talks, Read more, information" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<a href="./posterCNS02.shtml"><img class="floatright" src="./images/pic02.jpg" alt="Poster of the Annual Computational Neuroscience Meeting 2002" title="Annual Computational Neuroscience Meeting, poster of 2002. Click the poster to enlarge." /></a>
+  	
+  	<h1>CNS*2002</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 21-25 2002, Chicago, Illinois, USA</h3>
+  	
+  	<p class="marginboven">The Computational Neuroscience meeting is a yearly interdisciplinary 
+  	conference organized around the broad range of research approaches and issues involved in 
+  	understanding the function of nervous systems. Starting in 1992 these meetings have brought 
+  	together experimental and theoretical neurobiologists along with engineers, computer scientists, 
+  	cognitive scientists, physicists, and mathematicians interested in understanding the relationship 
+  	between the structure and function of mammalian and non-mammalian nervous systems. Research 
+  	papers are solicited and peer reviewed prior to the meeting and then presented in either poster 
+  	or oral format. Each year meeting participants also nominate a small number of invited speakers 
+  	for the following year. Each year a proceedings volume has also been published. The CNS meeting 
+  	equally emphasize experimental, model-based, and more abstract theoretical approaches to 
+  	understanding neurobiological computation.</p>
+  	
+  	<h4>This Year's Meeting</h4>
+  	
+  	<p>This is the eleventh in a series of annual inter-disciplinary conferences intended to address 
+  	the broad range of research approaches and issues involved in the general field of computational 
+  	neuroscience. As in the previous years, this meeting will bring together experimental and 
+  	theoretical neurobiologists along with engineers, computer scientists, cognitive scientists, 
+  	physicists, and mathematicians interested in understanding how biological neural systems compute. 
+  	The meeting will equally emphasize experimental, model-based, and theoretical approaches to 
+  	understanding neurobiological computation. All accepted papers must demonstrate a clear and 
+  	direct relationship to biological neural computation.</p>
+  	
+  	<h4>Posters</h4>
+  	
+  	<p>The poster boards are 4 feet x 8 feet (1.2 meters x 2.4 meters).</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2002" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

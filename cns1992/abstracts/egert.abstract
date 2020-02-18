@@ -1,0 +1,20 @@
+Hair-Cell Modelling to Explore the Physiological Basis of Tuning
+in the Lower Vertebrate Ear
+
+by David Egert,  U.C. Berkeley/U.C. San Francisco Graduate Group
+in Bioengineering
+
+
+Abstract
+
+     The network modeling program SPICE was used to realize a
+model of hair-cell membrane dynamics and their role in the tuning
+processes of lower vertebrates.  Driving the modeled system with
+sinusoidal strain, we observed the transfer relationship between
+strain and membrane potential.  The observed transfer relation
+was of low dynamic order and was not consistent with the transfer
+relations we have seen in intact end-organs of the bullfrog.
+Hence we suspect the tuning involves interactions between several
+hair-cells, perhaps facilitated by mechanical linkages.  (Work
+supported by NIH grant DC00112.)
+

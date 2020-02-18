@@ -1,0 +1,9 @@
+AuthUserFile auth/cns99
+AuthGroupFile /dev/null
+AuthName "Reviewer Assignment System Access"
+AuthType Basic
+
+<Limit GET>
+require user "Committee Member" "Program Committee"
+</Limit>
+

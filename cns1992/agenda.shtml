@@ -1,0 +1,352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1992 - Meeting Agenda</title>
+<meta name="description" content="CNS Meeting Home Page 1992 - Meeting Agenda." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1992, 
+cns, computational, neuroscience, workshop, talks, posters, Meeting Agenda" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1992</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1992, San Francisco, California</h3>
+  	
+  	<h4>CNS*1992 Meeting Agenda</h4>
+  	
+  	<p><a href="#monday">Monday July 27</a></p>
+  	<p><a href="#thuesday">Tuesday July 28</a></p>
+  	<p><a href="#wednesday">Wednesday July 29</a></p>
+  	
+  	<a name="monday"></a><h4>Monday July 27</h4>
+  	
+  	<p class="marginboven">9:00 : Welcoming remarks and general information</p>
+  	<p>9:15 : Srinivasan, M.A (MIT)<br />
+  	<em>&quot;Computations in Tactile Sensing&quot;</em></p>
+  	<p>9:50 : Graham, B.P. and Redman, S.J. (Australian National University)<br />
+  	<em>&quot;Simulation of muscle Stretch Reflex by a Neuronal Network&quot;</em></p>
+  	<p>10:25 : First poster preview session</p>
+  	<p>10:25 : Smith, J.A. (MIT) and Grzywacz, N.M. (Smith-Kettlewell Institute)<br />
+  	<em>&quot;A local model for Transparent Motions Based on Spatio-temporal Filters&quot;</em></p>
+  	<p>10:30 : Li, Z. (Princeton University)<br />
+  	<em>&quot;Understanding the Functional Goals of Retinal Ganglion Cells&quot;</em></p>
+  	<p>10:35 : Jacobs, G., Theunissen, F., Levin ,J. and Landolfa, M. (U.C. Berkeley)<br />
+  	<em>&quot;Morphological Basis of Wind Stimulus Discrimination in the Cricket Cercal Sensory 
+  	System&quot;</em></p>
+  	<p>10:40 : Sullivan, W.E. (Princeton University)<br />
+  	<em>&quot;The Highs and Lows of Horizontal Sound Localization: the Biophysics of 
+  	Structure-Function Correlations in Nucleus Laminaris&quot;</em></p>
+  	<p>10:45 : Travis, B. (Los Alamos National Laboratory)<br />
+  	<em>&quot;A Computational Model for the Cat Subcortical Auditory System&quot;</em></p>
+  	<p>10:50 : Zhang, H. and Laurent,G. (Caltech)<br />
+  	<em>&quot;Spatial and Temporal Integration by Locust Nonspiking Interneurons: Voltage-dependent 
+  	Electrical Geometry&quot;</em></p>
+  	<p>11:00 : break</p>
+  	<p>11:15 : Skrzypeck, J. and Wu, G. (U.C. Los Angeles)<br />
+  	<em>&quot;Invariant Contrast Adaptation in the OuterPlexofirm Layer of the Primate 
+  	Retina&quot;</em></p>
+  	<p>11:50 : Miller, M.I. (Washington University) and Ogielski, A.T.(Bell Communication Research)<br />
+  	<em>&quot;A Model for Synaptic Transmission in the Auditory Nerve: Randomness, Plasticity, and 
+  	Signal Estimation.&quot;</em></p>
+  	<p>12:25 : Second poster preview session</p>
+  	<p>12:25 : Bell, A.J. (University of Brussels)<br />
+  	<em>&quot;Self-organising Ion Channel Densities: the Rationale for Anti-Hebb.&quot;</em></p>
+  	<p>12:30 : Prugel-Bennett, A. and Shapiro, J.L. (Manchester, England)<br />
+  	<em>&quot;Unsupervised Hebbian Learning and the Shape of the Neuron Activation 
+  	Function&quot;</em></p>
+  	<p>12:35 : Jensen, R.V.(Wesleyan University), Williamson A., Berkowicz D. and Shepherd G.M. (Yale 
+  	University)<br />
+  	<em>&quot;NMDA Receptors and Hyperexcitability in Human Hippocampal Granule Cells&quot;</em></p>
+  	<p>12:40 : Montague, R., Dayan P. and Sejnowski T.J (Salk Institute)<br />
+  	<em>&quot;Signaling Local Synaptic Covariance through Space&quot;</em></p>
+  	<p>12:45 : Fransen, E., Lansner A. and Liljenstrom H. (Royal Institute of Technology, Sweden)<br />
+  	<em>&quot;A Model of Cortical Associative Memory based on Hebbian Cell Assemblies&quot;</em></p>
+  	<p>12:50 : Speight, M.D. and Bower, J.M. (Caltech)<br />
+  	<em>&quot;Using Parallel Supercomputers for Computational Neurobiology&quot;</em></p>
+  	<p>1.00 : - 3.00 : lunch and poster scan session</p>
+  	<p>3:00 : Schwaber, J.S.(Dupont Experimental Station) Paton J.F.R, Rogers R.F. and Graves E.B. 
+  	(University of Pennsylvania)<br />
+  	<em>&quot;Modeling Neuronal Dynamics predicts Responses in the Rat Baroreflex&quot;</em></p>
+  	<p>3:35 : Miller, J.P., Eeckman, F.H. and Theunissen F.E. (U.C. Berkeley)<br />
+  	<em>&quot;Linearization by Noise and Shunting Current of a Modified Hodgkin-Huxley Spiking 
+  	Model&quot;</em></p>
+  	<p>4:10 : Le Masson, G., Marder E. and Abbott L.F. (Brandeis University)<br />
+  	<em>&quot;A Model for Self-regulation of Neuronal Activity&quot;</em></p>
+  	<p>4:45 : Foster, W.F.(University of Pennsylvania), Paton J.F.R., Schwaber J. S (Dupont 
+  	Experimental Station) and Ungar L.H.(University of Pennsylvania)<br />
+  	<em>&quot;Matching Neural Models to Experiment&quot;</em></p>
+  	
+  	<p class="marginboven"><b>5:20 : - 7:30 : poster session</b></p>
+  	
+  	<p>Arad,N., Ruppin E. and Yeshurun, Y. (University of Tel Aviv)<br />
+  	<em>&quot;Dopaminergic induced multi-stable states in neural networks&quot;</em></p>
+  	<p>Assad, C., Rasnow, B. and Bower J. (Caltech)<br />
+  	<em>&quot;Numerical simulations of the electric organ discharge of weakly electric 
+  	fish&quot;</em></p>
+  	<p>Bairaktaris D.(University of Edinburgh)<br />
+  	<em>&quot;Multi-Layer Bidirectional Auto-Associative Memories&quot;</em></p>
+  	<p>Barrow, H. and Bray, A. (University of Sussex)<br />
+  	<em>&quot;An Adaptive Neural Model of Early Visual Processing&quot;</em></p>
+  	<p>Bhalla, U., Bilitch, D., Bower, J.M. (Caltech)<br />
+  	<em>&quot;Rallpacks: A set of benchmarks for neuronal simulators&quot;</em></p>
+  	<p>Blum, E., Khademi, P., Lavond, D.,Leung, P.and Thompson, R.(USC)<br />
+  	<em>&quot;Modeling and Simulation of Cerebellar Networks Implicated in Classical Conditioning of 
+  	the Rabbit Eyeblink Response&quot;</em></p>
+  	<p>Borg-Graham, L. (MIT) and Grzywacz, N. (Smith-Kettlewell Eye Research institute)<br />
+  	<em>&quot;Non-Linear Spatio-Temporal Filtering in Dendrites: Directional Selectivity and 
+  	Beyond&quot;</em></p>
+  	<p>Bower, J. and Thompson, J. (Caltech)<br />
+  	<em>&quot;A Silicon-based multi-single neuron probe designed for use in the 
+  	cerebellum&quot;</em></p>
+  	<p>Chimento, T., Doshay D. and Ross, M. (NASA Ames)<br />
+  	<em>&quot;Compartmental modeling of vestibular primary afferents: Ultrastructural morphology 
+  	matters&quot;</em></p>
+  	<p>Dong, D. (UC Berkeley)<br />
+  	<em>&quot;Dynamics of Hebbian Learning in Feedback Networks and Development of Interconnection 
+  	within Visual Cortex&quot;</em></p>
+  	<p>Dorffner, G. and Schonauer, T. (University of Vienna)<br />
+  	<em>&quot;Unsupervised Learning of Simple Speech Production Based on Soft 
+  	Categorization&quot;</em></p>
+  	<p>Egert, D. (University of California)<br />
+  	<em>&quot;Hair-Cell Modelling to Explore the Physiological Basis of Tuning in the Lower Vertebrate 
+  	Ear&quot;</em></p>
+  	<p>Garliauskas, A. (Lithuanian Academy of Sciences) and Shimoliunas A. (Kaunas Medical 
+  	Academy)<br />
+  	<em>&quot;Logic functions realized on a stationary nonlinear dendrite&quot;</em></p>
+  	<p>Graves, E.,(Dupont Experimental Station), Richter, D. (Georg August University Goettingen) and 
+  	Schwaber, J. (Dupont Experimental Station)<br />
+  	<em>&quot;Network Model of the Respiratory Rhythm&quot;</em></p>
+  	<p>Gray, R. and Friesen, O. (University of Virginia)<br />
+  	<em>&quot;Identification of Leech Swim Neurons using a Resonance Technique&quot;</em></p>
+  	<p>Grobler, T. and Erdi P. (Hungarian Academu of Sciences)<br />
+  	<em>&quot;Dynamic phenomena in the olfactory bulb : II Model for a simple associative 
+  	memory&quot;</em></p>
+  	<p>Hearne, P, Wray, J., Agar, E., Sanders, D. and Green, G. (The Medical School)<br />
+  	<em>&quot;The Neurone Describing function : A Single Compartment Study&quot;</em></p>
+  	<p>Herrmann, M. (University of Leipzig), Ruppin, E. (Tel Aviv University) and Usher, M. 
+  	(Caltech)<br />
+  	<em>&quot;A Network for semantic and episodic associations revealing thought disturbances due to 
+  	neural loss&quot;</em></p>
+  	<p>Jensen, R. (Wesleyan University) and Shepherd, G. (Yale University School of Medicine)<br />
+  	<em>&quot;NMDA-Activated Conductances Provide Short-Term Memory for Dendritic Spine Logic 
+  	Computations&quot;</em></p>
+  	<p>Kamiyama, Y., Ishii, H. and Usui, S. (Toyohashi University of Technology)<br />
+  	<em>&quot;A Method for Estimating the Neural Input to a Neuron using the Ionic Current 
+  	Model&quot;</em></p>
+  	<p>Linster, C., Masson, C. (INRA/CNRS), Kerszberg, M. (Institut Pasteur), Personnaz, L. and 
+  	Dreyfus, G. (Ecole superieure de physique et de chimie industrielle de Paris)<br />
+  	<em>&quot;Formal Modal of the Insect Olfactory Macroglomerulus'</em></p>
+  	<p>Lockery, S., Nowlan, S. and Sejnowski, T. (Salk Institute) and Howard Hughes Medical 
+  	Institute<br />
+  	<em>&quot;Chemotaxis in Simple Nervous Systems&quot;</em></p>
+  	<p>Murthy, V. and Fetz, E. (University of Washington)<br />
+  	<em>&quot;Effect of input synchrony on the response of a model neuron&quot;</em></p>
+  	<p>Nine, H. (University of Michigan, Ann Arbor)and Unnikrishnan, K. (GM Research Laboratories)<br />
+  	<em>&quot;The role of subplate feedback in the development ocular dominance columns&quot;</em></p>
+  	<p>Schillen, T.and Konig, P.(Max-Planck-Institut fur Hirnforschung)<br />
+  	<em>&quot;Temporal Structure can solve the Binding Problem for Multiple Feature Domains&quot;</em></p>
+  	<p>Segev, I. and Agmon-Snir, H. (Hebrew University of Jerusalem)<br />
+  	<em>&quot;Dendritic Delay&quot;</em></p>
+  	<p>Strassberg, A. and DeFelice, L. (Caltech)<br />
+  	<em>&quot;Effects of Single Channel Kinetics upon Transmembrane Voltage Dynamics&quot;</em></p>
+  	<p>Theunissen, E., GozaniS. and Miller, J. (UC Berkeley)<br />
+  	<em>&quot;Representation of sensory information in the cricket cercal sensory system: an 
+  	information theoretic analysis&quot;</em></p>
+  	<p>Watts, L. (Caltech)<br />
+  	<em>&quot;Designing Networks of Spiking Silicon Neurons and Synapses&quot;</em></p>
+  	
+  	<a name="thuesday"></a><h4>Tuesday July 28</h4>
+  	
+  	<p class="marginboven">9:00 : announcements and session opening</p>
+  	<p>9:15 : Mel, B.W. (Caltech)<br />
+  	<em>&quot;Nonlinear Pattern Discrimination in Dendritic Trees&quot;</em></p>
+  	<p>9:50 : De Schutter, E. and Bower, J.M. (Caltech)<br />
+  	<em>&quot;Integration of Synchronous and Asynchronous Synaptic Inputs in a Detailed Compartmental 
+  	Model of the Cerebellar Purkinje Cell&quot;</em></p>
+  	<p>10:25 : Third poster preview session</p>
+  	<p>10:25 : Thompson, J.H. and Bower, J.M. (Caltech)<br />
+  	<em>&quot;Electrophysiological Dissection of the Three Excitatory Inputs to Cerebellar Purkinje 
+  	Cells&quot;</em></p>
+  	<p>10:30 : Jaeger, D., De Schutter, E. and Bower, J.M. (Caltech)<br />
+  	<em>&quot;Prolonged Depolarizations following Brief Synaptic Stimulations in the Cerebellar 
+  	Purkinje Cell: Intracellular Recordings and Compartmental Modeling&quot;</em></p>
+  	<p>10:35 : Axelrad, H., Bernard C. (Faculte de Medecine Pitie, Paris) and Giraud B. (CEA, 
+  	France)<br />
+  	<em>&quot;A Study of Computation in a Simple Neuronal Network: Experimental Recording and 
+  	Theoretical Simulation of the Immature Rat Cerebellar Cortex&quot;</em></p>
+  	<p>10:40 : Wadden, T. (Royal Institute of Technology, Sweden), Grillner, S., Lansner A., and 
+  	Matsushima T. (Karolinska Institute, Sweden)<br />
+  	<em>&quot;Realistic Simulation of Undulatory Locomotion - A Trailing Oscillator 
+  	Hypothesis&quot;</em></p>
+  	<p>10:45 : Postma, E.O., van den Herik H.J. and Hudson, P.T.W. (University of Limburg, The 
+  	Netherlands)<br />
+  	<em>&quot;The Gating Lattice: A Neural Substrate for Dynamic Gating&quot;</em></p>
+  	<p>10:50 : Tam, D.C. (Baylor College of Medicine)<br />
+  	<em>&quot;A Multi-neuronal Vectoral Phase-space Analysis for Detecting Dynamical Interactions in 
+  	Firing Paterns of Biological Neural Networks&quot;</em></p>
+  	<p>11:00 : Break</p>
+  	<p>11:15 : Bair, W., Koch, C. (Caltech), Newsome W. and Britten K. (Stanford University)<br />
+  	<em>&quot;Power Spectrum Analysis of MT Neurons from the Awake Monkey&quot;</em></p>
+  	<p>11:50 : Lytton, W.W. and Sejnowski, T.J (Salk Institute)<br />
+  	<em>&quot;Intrinsic Oscillations in Simulated Thalamocortical Relay Cells&quot;</em></p>
+  	<p>12:25 : Fourth poster preview session</p>
+  	<p>12:25 : Foldiak, P. (University of Oxford)<br />
+  	<em>&quot;The 'Ideal Homunculus': Statistical Inference from Neural Population 
+  	Responses&quot;</em></p>
+  	<p>12:30 : Ringer, B. and Skrzypeck, J. (U.C. Los Angeles)<br />
+  	<em>&quot;A Neural Model of Illusory Contour Perception&quot;</em></p>
+  	<p>12:35 : Smetters, D. (MIT)<br />
+  	<em>&quot;A Model of a Thalamic Relay Cell Incorporating Voltage-Clamp Data on Ionic 
+  	Conductances&quot;</em></p>
+  	<p>12:40 : Suarez, H., Koch C. (Caltech) and Douglas R. (University of Oxford)<br />
+  	<em>&quot;A Model of Direction Selectivity in Visual Cortex Using Massive Intracortical 
+  	Connections&quot;</em></p>
+  	<p>12:45 : Finkel, L. H. and Sajda P. (University of Pennsylvania)<br />
+  	<em>&quot;Computer Simulations of Object Discrimination by Visual Cortex&quot;</em></p>
+  	<p>12:50 : Ahmad, S.(Siemens Corporate Research, Germany)<br />
+  	<em>&quot;VISIT: A Model of Human Visual Attention&quot;</em></p>
+  	<p>12:55 : Ringer, B. and Skrzypek J. (U.C. Los Angeles)<br />
+  	<em>&quot;A Neural Model of Illusory Perception&quot;</em></p>
+  	<p>1:00 : - 3:00 : lunch and poster scan session</p>
+  	<p>3:00 : Coop, A.D.and Redman, S.J. (Australian National Universtiy)<br />
+  	<em>&quot;A model of the Peristaltic Reflex&quot;</em></p>
+  	<p>3:35 : Wang, X. -J. and Rinzel J. (University of Chicago)<br />
+  	<em>&quot;Synchronization Among Inhibitory Model Neurons: Interplay between Rebound Excitation 
+  	and Synaptic Kinetics&quot;</em></p>
+  	<p>4:10 : Williams, T. L. (St. George's Hospital Medical School, England)<br />
+  	<em>&quot;Entrainment of the Lamprey Locomotor CPG: Analysis and Simulation&quot;</em></p>
+  	<p>4:45 : Bressler, S.L.(Florida Atlantic University) and Nakamura R.K. (NIMH)<br />
+  	<em>&quot;Inter-areal Synchronization in Rhesus Macaque Neocortex During a Visual Pattern 
+  	Discrimination Task&quot;</em></p>
+  	
+  	<p class="marginboven"><b>5:20 : - 7:30 : poster session</b></p>
+  	<p>Aitkin, A. (University of New South Wales)<br />
+  	<em>&quot; Overview of the Valentino computational neuroscience workbench for simulation of neural 
+  	systems&quot;</em></p>
+  	<p>Anastasio, T. (University of Illinois)<br />
+  	<em>&quot;Recurrent backpropagation models of the vestibulo-ocular reflex provide experimentally 
+  	testable predictions&quot;</em></p>
+  	<p>Anderson, C., Olshausen, B. and Van Essen, D. (Caltech)<br />
+  	<em>&quot;Neural Routing Circuits in Primate Visual Cortex&quot;</em></p>
+  	<p>Bush, P. and Sejnowski, T. (Salk Institute)<br />
+  	<em>&quot; Simulations of Synaptic Integration in Neocortical Pyramidal Cells&quot;</em></p>
+  	<p>De Sa, V. and Ballard, D. (University of Rochester)<br />
+  	<em>&quot; Self-teaching through correlated input &quot;</em></p>
+  	<p>Dominey, P. (USC)<br />
+  	<em>&quot; A Model of Cortex, Basal Ganglia and Thalamus in Stimulus-Response Habit 
+  	Formation&quot;</em></p>
+  	<p>Erdi, P. and Grobler, T. (Hungarian Academy of Sciences)<br />
+  	<em>&quot;Dynamic phenomena in the olfactory bulb I bifurcation sequences, coexistence of 
+  	periodicity and chaos, synaptic modification induced transitions&quot;</em></p>
+  	<p>Feinswog, L., Hutson, R., Kenyon, G. and Tam, D. (Baylor College of Medicine)<br />
+  	<em>&quot; An Object-Oriented Paradigm for the Design of Realistic Neural Simulators&quot;</em></p>
+  	<p>Grzywacs, N. (Smith-Kettlewel Eye Research Institute), Amthor F. (University of Alabama) and 
+  	Borg--Graham, L. (MIT)<br />
+  	<em>&quot; Gated--Enhancer Model for Facilitation in Retinal Directional Selectivity&quot;</em></p>
+  	<p>Horn, D., Ruppin, E. (University of Tel Aviv), Usher, M. (Caltech) and Herrmann, M. (Leipzig 
+  	university)<br />
+  	<em>&quot; Synaptic deletion and compensation in Alzheimer disease: a neural model&quot;</em></p>
+  	<p>James, M. and Hoang, D. (University of Sydney)<br />
+  	<em>&quot;Outline of a Theory of Isocortex&quot;</em></p>
+  	<p>Janakiraman, J. (University of Michigan) and Unnikrishnan K. (GM Research Laboratories)<br />
+  	<em>&quot; A model for dynamical aspects of visual attention&quot;</em></p>
+  	<p>Kentridge, R. (University of Durham)<br />
+  	<em>&quot; Dissipative Structures and Self-Organizing Criticality in Neural Networks with 
+  	Spatially Localized Connections&quot;</em></p>
+  	<p>Kenyon, G. and Tam, D. (Baylor College of Medicine)<br />
+  	<em>&quot;Deterministic Entropy Measures for Investigating Complex Spatio-Temporal Order in 
+  	Multi-Unit Spike Train Data&quot;</em></p>
+  	<p>Konig, P., Janosch. B. and Schillen, T. (Max-Planck-Institute fur Hirnforschung)<br />
+  	<em>&quot; Assembly Formation and Segregation by a Self-organizing Neuronal Oscillator 
+  	Model&quot;</em></p>
+  	<p>Kumar, T. and Glaser, D. (U.C. Berkely)<br />
+  	<em>&quot;Absence of Learning in Hyperacuity&quot;</em></p>
+  	<p>Matias, Y. (University of Maryland) and Ruppin, E. (University of Tel Aviv)<br />
+  	<em>&quot;A Neural Model for Randomized Frequency-Spatial Transformation&quot;</em></p>
+  	<p>Mesrobian, E. and Skrzypek, J. (U.C. Los Angeles)<br />
+  	<em>&quot;Adaptive Receptive Fields for Textural Segmentation&quot;</em></p>
+  	<p>Niebur, E. (Caltech) and Worgotter, F. (Ruhr-Universitat Bochum)<br />
+  	<em>&quot;The architecture of visual cortical orientation collumns&quot;</em></p>
+  	<p>Parnas, B. and Lewis, E. (U.C. Berkeley)<br />
+  	<em>&quot;A Neuronal Modeling System for Generating Brainstem Maps of Auditory Space&quot;</em></p>
+  	<p>Pellionisz, A. (J.R. NASA Ames Research Center) and Bloedel, J. (Barrow Neurological 
+  	Institute)<br />
+  	<em>&quot;Geometry intrinsic to population responses of cerebellar Purkinje cells as revealed bu 
+  	neurocomputer analysis of multi-unit recordings from biological neural nets&quot;</em></p>
+  	<p>Softky, W. and Koch, C. (Caltech)<br />
+  	<em>&quot;Cortical Cells Should Fire Regularly, But Do Not&quot;</em></p>
+  	<p>Ulinski, P. and Larson-Prior, L. (University of Chicago)<br />
+  	<em>&quot;Analysis of the distribution of geniculate afferents upon pyramidal neurons in turtle 
+  	visual cortex&quot;</em></p>
+  	<p>Vanier, M. and Bower, J. (Caltech)<br />
+  	<em>&quot; Noradrenergic modulation of synaptic transmission in piriform cortex&quot;</em></p>
+  	<p>Verona, F., Mastroianni, M., Russo, S. (University of Napoli) and Ventre, G. (International 
+  	Computer Science Institute)<br />
+  	<em>&quot; Neural Network Simulation in a CSP Language for Multicomputers&quot;</em></p>
+  	<p>Wang D.(Ohio State University)<br />
+  	<em>&quot;Modeling Stimulus Specific Habituation : The Role of the Primordial 
+  	Hippocampus&quot;</em></p>
+  	<p>Wang X.(USC, Los Angeles)<br />
+  	<em>&quot;Modeling Synchronization of Oscillations in Visual and Olfactory Cortex by Couples 
+  	Discrete-Time Limit-Cycle and<br />
+  Chaotic Neural Network Oscillators&quot;</em></p>
+  	<p>Wolf, F., Bauer, H. and Geisel, T. (University of Frankfurt)<br />
+  	<em>&quot; Field discontinuities and islands in visual cortical maps as a self-organized 
+  	phenomenon&quot;</em></p>
+  	<p>8:00 : banquet</p>
+  	
+  	<a name="wednesday"></a><h4>Wednesday July 29</h4>
+  	
+  	<p class="marginboven">9:00 : announcements and session opening</p>
+  	<p>9:15 : Kipke, D.R., Herzog E. and Barlow, R.B.Jr (Syracuse University)<br />
+  	<em>&quot;A Computational Model of the Limulus Lateral Eye on a Parallel Computer&quot;</em></p>
+  	<p>9:50 : Berns, G.S., Dayan P. and Sejnowski T.J. (Salk Institute)<br />
+  	<em>&quot;Correlational-Based Development of Disparity Sensitivity&quot;</em></p>
+  	<p>10:25 : Hiller, M. (MIT)<br />
+  	<em>&quot;A Model of the Combined Effects of Chemical and Activity-Dependent Mechanisms in 
+  	Topographic Map Formation&quot;</em></p>
+  	<p>11:00 : break</p>
+  	<p>11:15 : Erwin, E.Obermayer K. and Schulten K.(University of Illinois)<br />
+  	<em>&quot;A Critical Comparison of Models of Cortical Visual Map Formation&quot;</em></p>
+  	<p>11:50 : Treves, A. and Abbott L.F. (University of Oxford)<br />
+  	<em>&quot;Lateral Processing: the Time it Takes&quot;</em></p>
+  	<p>12:25 : Pawelzik, K.Bauer H.-U. and Geisel T. (University of Frankfurt)<br />
+  	<em>&quot;Switching between Predictable and Unpredictable States in Data from Cat Visual 
+  	Cortex&quot;</em></p>
+  	<p>1:00 : - 2:30 : lunch</p>
+  	<p>2:30 : Hasselmo, M. (Harvard University) M. E., Vanier, M., Bergman, R. and Bower, J.M. 
+  	(Caltech)<br />
+  	<em>&quot;Cholinergic Modulation of Associative Memory Function in a Realistic Computational Model 
+  	of Pririform Cortex&quot;</em></p>
+  	<p>3:05 : Liljenstrom, H. (Royal Institute of Technology, Sweden) and Hasselmo, M.E.(Harvard 
+  	University)<br />
+  	<em>&quot;Acetylcholine and Cortical Oscillatory Dynamics&quot;</em></p>
+  	<p>3:40 : - 4:00 : meeting summary and conclusions</p>
+  	<p>4:30 : - 5:30 : workshop participants meeting</p>
+  	<p>7:00 : leave for workshops</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1992" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

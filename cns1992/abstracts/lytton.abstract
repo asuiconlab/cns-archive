@@ -1,0 +1,26 @@
+Intrinsic oscillations in simulated
+thalamocortical relay cells
+
+William W. Lytton 1
+Terrence J. Sejnowski
+Computational Neurobiology Laboratory
+The Salk Institute
+10010 N. Torrey Pines Rd.
+La Jolla, CA 92037
+tel (619) 453 4100 ext. 124
+fax (619) 587 0417
+billl@helmholtz.sdsc.edu
+
+
+
+Abstract: Thalamocortical relay cells show a rich repertoire
+of oscillatory behaviors depending on membrane voltage: 1-
+3 Hz slow wave oscillations, 8-10 Hz spindle oscillations and
+100 Hz repetitive spiking. We have looked at the intrinsic
+dynamics of a model relay cell with realistic geometry and 9
+voltage-sensitive channels. Spindling and slow wave oscillation
+could be reproduced in the model but were just two points
+along a spectrum of oscillation rate that varied with degree of
+hyperpolarization. Simulated cortical stimulation was effective
+ln phase resetting of either rhythm and could entrain the slower
+rhythm to higher frequencies.

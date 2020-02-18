@@ -1,0 +1,23 @@
+Unifying Two Forms of Memory: A Neural Model
+
+DeLiang Wang
+
+Laboratory of AI Research, Department of Computer and Information 
+Science
+and Center for Cognitive Science, The Ohio State University
+Columbus, OH 43210-1277, USA
+
+Email: dwang@cis.ohio-state.edu
+
+Abstract
+
+We provide a parsimonious description of the fundamental processes 
+of short-term and long-term synaptic plasticity. The model consists 
+of two interacting differential equations, one describing alterations of 
+the synaptic weight and the other the speed of recovery (forgetting). 
+The latter exhibits an inverse S-shaped curve whose high value 
+corresponds to short-term memory, and low value to long-term 
+memory. The model has been verified on habituation data of toad's 
+preycatching behavior spanning from several hours to several weeks, 
+and cell recording data from Aplysia's habituation.
+

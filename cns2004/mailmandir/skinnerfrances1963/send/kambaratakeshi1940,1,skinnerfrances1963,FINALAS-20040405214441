@@ -1,0 +1,97 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Takeshi Kambara" <kambara@pc.uec.ac.jp>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:44:41
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Takeshi Kambara,
+
+We're happy to inform you that your paper 'Neural mechanism of detecting interaural intensity differences in the owl's auditory brainstem for sound location' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper presents a model of neurons in the auditory brainstem nucleus VLVp and it's projection onto the external nucleus of the inferior colliculus (ICx) that robustly extracts interaural intensity differences (IID).  The model is based on a smooth gradient of paired interhemispheric mutual inhibition that progresses from pairs favoring input to one ear to pairs favoring inputs to the other.  When different intensities arrive at both VLVp's, there will be a specific location on this gradient where the inhibitory and excitatory imbalances cancel.  Neurons at this juncture will be silent, thereby releasing ICx neurons from shunting inhibition and hence contributing to the map of location in the IC.  The modeling work is solid and there is significant experimental evidence to support the model.  However, although this may be the first detailed model of this scheme (I'm not an expert in the field), the underlying idea has been around in the field for some time, hence impacting the novelty of the results.
+
+An additional question that I had was what determines the lack of firing in the gap.  Presumably there is some spread of inhibition from nearby locations along the chain.  Otherwise there will be no inhibition since neurons in both VLVp's are silent in the gap.  This could be made clearer.  How sensitive is the model to this spread of inhibitory connectivity?
+
+Reviewer 2 :
+Major
+1. The relation of your work to previous modeling and experimental studies of the IID coding in VLVp and in IC is not addressed. For example, what is new in your work compared to the model in 
+Peddicord R.  HEARING RESEARCH, 123  111-124, 1998
+also, what does it tell us about the role of the inter-VLVp inhibition beyond what has been conluded from experimental/modeling studies, for example
+Takahashi TT, Bala ADS, Spitzer MW, Euston DR, Spezio ML, Keller CH. BIOLOGICAL CYBERNETICS 89  378-387, 2003
+This needs to be addressed, at least in a sentence or two.
+
+2. Parameter values are not given anywhere!
+
+3. There are many problems with typos, missing words, incorrect sentences, etc (some are indicated in Minor comments below).
+
+4. what is different in the overlap coding model compared to the gap coding (the outputs of VLVp are different!)
+
+5. In equations (4) and (7) in the argument of H(.), you probably mean that the ditance should be less than l_dend/2, i.e. the sign of the argument is wrong. Also 'stepladder' function is not a common term. It needs to be defined.
+
+Minor comments 
+Absract 
+1. VLVp should be defined. 
+2. sentence 1 should have 'in barn owl' at the end
+3. ICc should be defined
+4. R- and L- should be defined or not used here
+
+Intro
+1. 'location' should be replaced by 'localization' everywhere
+2. last sentence of first paragraph  'remarkably'; no 'the' in front of 'reasonable'
+3. par. 2, sent 1  'has also been'
+4. par. 2, l.4  'both signals'
+5. par. 2, l.5  'inferior colliculus'
+6. par. 2, l.11  'tuned to' instead of 'turned on to'
+7. par 3, l. 5  'Inhibitory' (capitalized)
+8. par 3, l. 6  'coupled'
+9. page 2, line 7-8  starting with 'to keep the firing zone gap...' needs to be changed, perhaps 
+'to keep the firing zone gap from broadening and also from becoming too narrow...' but i am not sure i understand the sentence correctly. Same at the end of section 3.2
+
+Model
+1. check for typos!
+2. S_train(t) should be more clearly defined.
+3. l_dend is not in figure 1! 
+4. W_I(X,k,i) in figure 1 seems to be linear, but not in its definition by the formula.
+5. define parameter values that you use, in particular t_0-t_7 in Fig.2
+
+Section 3
+line 5 'coded by' instead of 'coded in to'
+line 6 od sec. 3.2  'reach contralateral'
+line 7 'stationarily given' replace e.g. by 'constantly present'
+par 2 of of 3.2  'both units'
+
+Conclusion
+l.1  'with respect to vertical'
+last line of par 1  'possible'
+
+
+

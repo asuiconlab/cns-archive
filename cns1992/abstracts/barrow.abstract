@@ -1,0 +1,26 @@
+             An Adaptive Neural Model of Early Visual Processing
+
+                        Harry Barrow and Alistair Bray
+                       (correspondence to first author)
+
+                  School of Cognitive and Computing Sciences
+                             University of Sussex
+                             Brighton, BN1 9QH, UK
+
+
+Abstract
+--------
+
+We describe an adaptive computer model of processing in the mammalian visual
+system, from retina to primary visual cortex, which incorporates: processing
+in retina and LGN; Non-negative neuron outputs and connection strengths;
+On-center and off-center channels; Excitatory and inhibitory cortical
+populations (3750 neurons); Non-linear cortical neurons, based on membrane
+potential and relaxation oscillator equations; Adaptive cortical connections.
+
+With images of the real world as input, the model robustly and simultaneously
+develops: oriented receptive field patterns, Gabor function-like fields,
+smoothly-varying orientation preference, and retinotopic mapping.
+Experiments with this and related models suggest the same mechanism may
+produce ocular dominance, and possibly color blobs.
+

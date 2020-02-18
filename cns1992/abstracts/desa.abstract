@@ -1,0 +1,51 @@
+Self-teaching through correlated input*
+
+Virginia de Sat
+desaQcs . rochester . edu
+Computer Science Department
+University of Rochester
+Rochester, NY 14627-0226
+(716)-275-9499
+
+January 7, 1992
+
+Dana Ballard
+dana~cs . rochester . edu
+Computer Science Department
+University of Rochester
+Rochester, NY 14627-0226
+(716)-275-3772
+
+
+
+
+
+Abstract
+
+How do cells in higher order sensory areas develop their invariant
+properties? In previous work we have shown that competitive learning
+coupled with a top-down teaching signal can produce compact invariant
+representations. In this paper we show that such a teaching signal can
+be derived internally from correlations between input patterns to two
+or more networks. Such correlations arise naturally from the structure
+present in natural environments. We demonstrate this process on two
+small but computationally difficult problems. We hypothesize that the
+correlations between and within sensory systems enable the learning
+of invariant properties.
+
+
+Presentation Info
+
+Presentation Preference : Oral
+Category
+Themes
+
+: B. Modeling and Simulation
+: A. Development, E. Sensory Systems
+                 2. Vision, 5. Other
+
+
+
+¥This research was supported by a grant from the Human Frontier Science Program
+and by a Canadian NSERC 1967 Science and Engineering Scholarship.
+tauthor to whom correspondence should be addressed

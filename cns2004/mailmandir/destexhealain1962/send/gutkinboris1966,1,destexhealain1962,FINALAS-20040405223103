@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"Alain Destexhe" <destexhe@iaf.cnrs-gif.fr>
+TO:	"Boris Gutkin" <boris@gatsby.ucl.ac.uk>
+REPLY:	"Alain Destexhe" <destexhe@iaf.cnrs-gif.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 22:31:3
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Boris Gutkin,
+
+We're happy to inform you that your paper 'Cholinergic modulation of phase response curves of cortical pyramidal neurons.' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Alain Destexhe
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Alain Destexhe and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+(1) Although very interesting, the Authors miss a discussion about the possible functional role of the reported conversion of PRCs by neuromodulators. Also, how does the reported in vitro experimental results translate into in vivo conditions? What would be the impact if the cells are subject to a persistent barrage with synaptic inputs? The Authors should speculate on this, and maybe underline their speculation with modelling results.
+
+(2) Due to the character of the conference, the Authors should present also modelling results in form of a figure and more detailed comparison with their experimental results.
+
+(3) No discussion was made concerning the canonical model (as mentioned in the Introduction). Given the first Author, the canonical model is probabely the theta-neuron model, in which case the way of incorporating neuromodulating effects would be of interest. 
+
+(4) At least Fig. 3 is in an unacceptable form. The Authors should add labels, captions, tic-marks etc etc commonly used in figures. 
+
+Reviewer 2 :
+Phase respose curves are a method to judge the synchronization behaviour of deterministic model neurons. The experimental results, however, exhibit a surprisingly large degree of stochasticity, which needs to be commented in the paper. Furthermore, the relation of expermental to the model PRCs do not agree well for small perturbation times. Because these deviations are substantial it is not clear if the PRC are a really useful measure for the characterization of real neurons. This problem could be alleviated by simulations which reproduce the large degree of variability of the ISI. Prior to publication these comments should be taken into account. 
+

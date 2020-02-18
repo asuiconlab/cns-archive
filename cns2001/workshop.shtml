@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2001 - Workshop</title>
+<meta name="description" content="CNS Meeting Home Page 2001 - Workshop." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2001, 
+cns, computational, neuroscience, workshop, talks, posters" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2001</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>June 30 - July 5, 2001, San Francisco and Pacific Grove, California</h3>
+  	
+  	<h4>CNS*01 Workshop</h4>
+  	
+  	<p>Workshops focusing on current issues in computational neuroscience will be held on July 4 and 
+  	5, 2001, as part of the CNS*2001 conference in Pacific Grove, California. Potential organizers 
+  	are invited to submit proposals for specific workshop topics.</p>
+  	
+  	<p>Workshops may fall into one of three formats:</p>
+  	
+  	<ol>
+  	  <li>Discussion Workshops (formal or informal)</li>
+  	  <li>Tutorials</li>
+  	  <li>Mini-symposia or,</li>
+  	  <li>They may combine more than one of these formats.</li>
+  	</ol>
+  	
+  	<p>The goal of the workshops is to provide an informal forum within the CNS meeting for focused 
+  	discussion of recent or speculative research, novel techniques, and open issues in computational 
+  	neuroscience. Discussion workshops, whether formal (i.e., held in a conference room with 
+  	projection and writing media) or informal (held elsewhere), should stress interactive and open 
+  	discussions in preference to sequential presentations. Tutorials and mini-symposia provide a 
+  	format for a focused exploration of particular issues or techniques within a more traditional 
+  	presentation framework; in these cases too, adequate time should be reserved for questions and 
+  	general discussion. The organizers of a workshop should endeavor to bring together as broad a 
+  	range of pertinent viewpoints as possible.</p>
+  	
+  	<p>In addition to recruiting participants and moderating discussion, workshop organizers should 
+  	be prepared to submit a short report, summarizing the presentations and discussion, to the 
+  	workshop coordinator shortly after the conference. These reports will be included on the CNS*2001 
+  	web site.</p>
+  	
+  	<h4>HOW TO PROPOSE A WORKSHOP</h4>
+  	
+  	<p>To propose a workshop, please submit the following information to the workshop coordinator at 
+  	the address below:</p>
+  	
+  	<ol>
+  	  <li>the name(s) of the organizer(s)</li>
+  	  <li>the title of the workshop</li>
+  	  <li>a description of the subject matter, indicating clearly the range of topics to be 
+  	  discussed</li>
+  	  <li>the format(s) of the workshop; if a discussion session, please specify whether you would 
+  	  like it to be held in a conference room or in a less formal setting</li>
+  	  <li>for tutorials and mini-symposia, a provisional list of speakers</li>
+  	  <li>whether the workshop is to run for one or two days</li>
+  	</ol>
+  	
+  	<p>Please submit proposals as early as possible by email or by post to:</p>
+  	
+  	<p>Dr. Maneesh Sahani<br />
+  	Gatsby Computational Neuroscience Unit<br />
+  	Alexandra House<br />
+  	17, Queen Square<br />
+  	London, WC1N 3AR, U.K.<br /><br />
+  	The descriptions of accepted workshops will appear on the CNS*2001 web site as they are received. 
+  	Attendees are encouraged to check this list, and to contact the organizers of any workshops in 
+  	which they are interested in participating.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2001" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+A simulation of neural processing in the auditory cortex of the Barn owl.
+
+J. Barbieri, D. Harris, F. Eeckman
+
+We have developed a computer program which simulates, to some extent, the
+funtion of interaural time differencing pathway of the auditory cortex of
+the Barn owl.  The pathway simulated includes the cochlea, spiral ganglia,
+the nucleus magnocellularis, and the nucleus laminaris.  For a given delay 
+in the acoustical signal, we show tht most of the spiking activity will
+occur at that time delay, however we also find that laminaris neurons
+fired even if there was no coincidence between the left and the right ear
+in de Barn owl.  It appears that the cross correlation process in the 
+laminaris is extremely robust.  We have test the simulation using a number
+of different waveforms, and in all cases the simulations was able to extract
+the delay in two signals.  It is interesting to not that the inclusion
+of the neurons spiking properties tend to make the coincidence calculation
+significantly more stable than the traditional algorithmic process. 

@@ -1,0 +1,26 @@
+Toward a mechanism for navigation by the rat hippocampus
+
+Neil Burgess		John O'Keefe		Michael Recce
+Dept. of Anatomy,	Dept. of Anatomy,	Dept. of Anatomy,
+University College,	University College,	University College,
+London WClE 6BT, U.K.	London WClE 6BT, U.K.	London WClE 6BT, U.K.
+N.Burgess@uk.ac.ucl	J.Okeefe@uk.ac.ucl	M.Recce@uk.ac.ucl.cs
+
+January 23, 1993
+
+Abstract
+
+A simulation of the activity of single cells in the hippocampus, and of 
+the resultant movement of the rat, is presented. Cells are 
+characterised by the number (and timing w.r.t. hippocampal ~) of 
+spikes fired. 'Learning' occurs in 'on-off' synapses; switched on by 
+pre- and post-synaptic activity (modulated by ~). Activity in the 
+input layer (entorhinal cortex) is modeled as a function of the 
+relative positions of environmental cues and drives CA3/CAl place 
+cell firing. 'Goal cells', that receive a stimulus whenever food is 
+encountered, and are driven by the activity of subicular cells, are 
+postulated as the output layer. After exploration, goal cell firing rates 
+code for the instantaneous direction of previously encountered 
+rewards or obstacles: allowing successful navigation in open fields.
+
+

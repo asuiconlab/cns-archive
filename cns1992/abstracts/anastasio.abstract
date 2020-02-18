@@ -1,0 +1,66 @@
+
+RECURRENT BACKPROPAGATION MODELS 
+OF THE VESTIBULO-OCULAR REFLEX 
+PROVIDE EXPERIMENTALLY TESTABLE PREDICTIONS
+Thomas J. Anastasio
+University of Illinois
+Beckman Institute
+
+Previous,  static  backpropagation  models   of   the   vestibulo-
+oculomotor system were able to capture the distributed aspects of 
+eye-movement  command  representation   by   brainstem   neurons.
+However, these models do not readily offer testable  predictions.
+More recently, recurrent backpropagation models have been used to 
+study the dynamic and nonlinear features of the  vestibulo-ocular
+reflex (VOR).  The dynamic models make clear predictions  concern-
+ing the behavior of VOR neurons following lesions.  Some  of  the
+predictions from the recurrent backpropagation models  differ  in
+critical ways from those derived from analytical models  of  VOR.
+The testability of the recurrent models  encourages  a  continued
+dialog between theory and experiment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              1
+
+
+
+
+
+
+
+

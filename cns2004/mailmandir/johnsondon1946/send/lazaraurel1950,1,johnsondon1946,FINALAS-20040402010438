@@ -1,0 +1,50 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Aurel Lazar" <aurel@ee.columbia.edu>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:38
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Aurel Lazar,
+
+We're happy to inform you that your paper 'Time Encoding with Integrate-and-Fire Neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Several typos, missing citations and grammatical errors.  At least needs a spellcheck run.
+
+The main results of the paper are presented as a series of propositions and lemmas with little text describing how they fit together to show the result you are intending.  More effort could be made to illustrate how each small piece fits into the overall result.
+
+The necessity of dealing with subband representations (after the filterbank) is not apparent to me.  What is preventing you from applying the encoding/decoding process to the (full bandwith) original input signal?  I think "Remark 3" may be addressing this, but that remark was not clear at all.
+
+Remark 2 points out that some x(e_k) exists that satisfies equation 12, so this sample can be recovered from the time series and the thresholds.  It is true that you know x(e_k) for SOME e_k between the point t_k and t_k+1, but you have no knowledge of exactly what e_k is.  I do not believe that it is "intuitive" that we should be able to reconstruct the signal from this information, and this should be explained further.
+
+Once you have perfect representations of the subband signals, the conditions and procedures for reconstruction in a filterbank are well known.  I think that section 3.2.2 should be cut entirely.  It is a well-known concept, it is not essential to your main result (the subband signals can be perfectly recovered from the time series) and it would give you more room to connect the pieces of your main result to be more clear.
+
+Reviewer 2 :
+The filterbank you present seems to implicitly depend on scale in ways that are not apparent. At one point, you claim the average rate depends on bandwidth (scale);; why this is so is not apparent. Also, the restriction that the \delta(t) need to be known is an interesting one, which may or may not be true in "practice." Exploring uncertainty here would be interesting.
+

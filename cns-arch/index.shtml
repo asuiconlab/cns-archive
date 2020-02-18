@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>The neuroinformatis site - Previous CNS Meetings</title>
+<meta name="description" content="Previous CNS Meetings." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, cns" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>Previous CNS Meetings.</h1>
+  	
+  	<ul id="menulijst">
+  	  <li><a href="./cns2005/index.shtml"><b>CNS*2005.</b></a>
+    	<br />The Computational Neuroscience meeting, Madison, Wisconsin (USA), July 17-21 2005</li>
+      <li><a href="./cns2004/index.shtml"><b>CNS*2004.</b></a>
+    	<br />The Computational Neuroscience meeting, Baltimore, MD, USA, July 18-20 2004</li>
+      <li><a href="./cns2003/index.shtml"><b>CNS*2003.</b></a>
+    	<br />The Computational Neuroscience meeting, Alicante, Spain, July 5-9, 2003</li>
+   	  <li><a href="./cns2002/index.shtml"><b>CNS*2002.</b></a>
+    	<br />The Computational Neuroscience meeting, Chicago, USA, July 21-25 2002</li>
+      <li><a href="./cns2001/index.shtml"><b>CNS*2001.</b></a>
+    	<br />The Computational Neuroscience meeting, San Francisco and Pacific Grove, USA, 
+    	June/July 2001</li>
+      <li><a href="./cns2000/index.shtml"><b>CNS*2000.</b></a>
+    	<br />The Computational Neuroscience meeting, Brugge, Belgium, July 2000</li>
+      <li><a href="./cns1999/index.shtml"><b>CNS*1999.</b></a>
+    	<br />The Computational Neuroscience meeting, Pittsburgh, Pennsylvania, July 1999
+    	<p>Proceedings volume: Bower, J.M. (Editor) (2000) Computational Neuroscience: Trends in 
+    	Research 2000. Plenum Press. New York. Also published in Neurocomputing, vol. 32-33 (2000). 
+    	The conference website is available.</p></li>
+      <li><a href="./cns1998/index.shtml"><b>CNS*1998.</b></a>
+    	<br />The Computational Neuroscience meeting, Santa Barbara California, July 1998
+    	<p>Proceedings volume: Bower, J.M. (Editor) (1999) Computational Neuroscience: Trends in 
+    	Research 1999. Plenum Press. New York. The archives are available online.</p></li>
+      <li><a href="./cns1997/index.shtml"><b>CNS*1997.</b></a>
+    	<br />The Computational Neuroscience meeting, Big Sky Montana, July 1997
+    	<p>Proceedings volume: Bower, J.M. (Editor) (1998) Computational Neuroscience: Trends in 
+    	Research 1998. Plenum Press. New York. you can link to the website , or archives.</p></li>
+      <li><a href="./cns1996/index.shtml"><b>CNS*1996.</b></a>
+    	<br />The Computational Neuroscience meeting, Cambridge, Mass, July 1996
+    	<p>Proceedings volume: Bower, J.M. (Editor) (1997) Computational Neuroscience: Trends in 
+    	Research 1997. Plenum Press. New York. The CNS*96 website and archives are available.</p></li>
+      <li><a href="./cns1995/index.shtml"><b>CNS*1995.</b></a>
+    	<br />The Computational Neuroscience meeting, Monterey, California, July 1995
+    	<p>Proceedings volume: Bower, J.M. (Editor) (1996) Computational Neuroscience: Trends in 
+    	Research 1995. Academic Press, New York. The archives are also available.</p></li>
+      <li><a href="./cns1994/index.shtml"><b>CNS*1994.</b></a>
+    	<br />The Computational Neuroscience meeting, Monterey, California, July 1994
+    	<p>Proceedings volume: Bower, J.M. (Editor) (1995) The Neurobiology of Computation: 
+    	Proceedings of the Annual Computational Neuroscience Meeting. Kluwer Academic Publishers, 
+    	Boston. CNS*94 archives are accessible on line.</p></li>
+      <li><b>CNS*1993.</b>
+    	<br />The Computational Neuroscience meeting, Washington D.C., July 1993
+    	<p>Proceedings volume: Eeckman, F. (Editor) (1994) Computation in Neurons and Neural Systems, 
+    	Kluwer Press, Boston. CNS*93 archives are not accessible on line.</p></li>
+      <li><a href="./cns1992/index.shtml"><b>CNS*1992.</b></a>
+    	<br />The Computational Neuroscience meeting, San Francisco, California, July 1992
+    	<p>Proceedings volume: Eeckman, F. and Bower, J.M. (Editors) (1993) Computation and Neural 
+    	Systems, Kluwer Press, Boston. CNS*92 archives are accessible on line.</p></li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cnsnone" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

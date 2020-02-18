@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2003 - Workshops</title>
+<meta name="description" content="CNS Meeting Home Page 2003 - Workshops." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2003, 
+cns, computational, neuroscience, Schedule, Workshops" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="./images/pic03.jpg" alt="Poster of the Annual Computational Neuroscience Meeting 2003" title="Annual Computational Neuroscience Meeting, poster of 2003." />
+  	
+  	<h1>CNS*2003</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 5-9, 2003, Alicante, Spain</h3>
+  	
+  	<h4>CNS*2003 workshops</h4>
+  	
+  	<h4>Workshop pre-registration :</h4>
+  	
+  	<p><a href="/logon.shtml"><b>[LOGON]</b></a> and follow the link "CNS 2003 Workshop registration" 
+  	(pre-registration is used to plan room allocation, you can attend multiple workshops a day if you 
+  	want to)</p>
+  	
+  	<h4>Workshops at CNS*2003: Schedule</h4>
+  	
+  	<p>(This schedule is subject to alteration.)</p>
+  	
+  	<h4>July 8: 10:00-13:30 and 17:00-20:00</h4>
+  	
+	<ul>
+	  <li><a href="http://www.gatsby.ucl.ac.uk/~maneesh/cns2003workshops/anderson-eliassmith-tutorial.html">
+	  <b>Unifying Neural Coding, Computation and Dynamics (Tutorial)</b></a>
+	  C. H. Anderson (Washington University, St. Louis, USA) and C. Eliasmith (University of 
+	  Waterloo, Waterloo, Canada). <em>(Morning session only)</em></li>
+	  <li><b>Comparative perspectives on sensory coding.</b> M. Maravall, R. Peterson, M. Diamond 
+	  (SISSA, Trieste, Italy) and S. Panzeri (UMIST, Manchester, UK).</li>
+	  <li><a href="http://www.sis.pitt.edu/~pmunro/cnsplast/">
+	  <b>Advances in activity-dependent plasticity.</b></a> P. Munro (University of Pittsburgh, 
+	  Pittsburgh, USA).</li>
+	  <li><b>Computational Models of Active Maintenance in Prefrontal Cortex</b> D. Noelle, 
+	  Vanderbilt University, Nashville, USA. <em>(Morning session will run to 14:00)</em>.</li>
+	  <li><a href="http://www.staff.ncl.ac.uk/peter.andras/cnnd-ws2003.htm">
+	  <b>Nonlinear spatio-temporal neural dynamics - Experiments and Theoretical Models</b></a> P. 
+	  Andras (Newcastle Univeristy, Newcastle, UK), Robert Kozma (University of Memphis, Memphis, 
+	  USA), Peter Erdi (Kalamazoo College, Kalamazoo, USA &#38; KFKI, Budapest, Hungary) and David 
+	  DeMaris (IBM Microelectronics, Austin, USA)</li>
+	  <li><b>Assessing New Structure-Function Relationships by Computational Neuroscience Models: 
+	  What Conventions to Break?</b> T. Wennekers (Ruhr University, Bochum, Germany) and F. Sommer 
+	  (Redwood Neuroscience Institute, Menlo Park, USA). <em>(Afternoon session only)</em></li>
+	</ul>
+	
+	<h4>July 9: 10:00-13:30 and 17:00-20:00</h4>
+	
+	<ul>
+	  <li><a href="http://www.bol.ucla.edu/~dchialvo/cns.html">
+	  <b>Complexity and Criticality in Networks</b></a> D. R. Chialvo (University of California, Los 
+	  Angeles, USA). <em>(Morning session only)</em></li>
+	  <li><a href="http://www-bcl.cs.unm.edu/Workshop/CNS-2003-attention.html">
+	  <b>Attention: Theory and Mechanism</b></a> B. A. Pearlmutter and S. Jaramillo (NUI Maynooth, 
+	  Ireland) <em>(Morning session only)</em></li>
+	  <li><a href="http://www.neuro.uni-bremen.de/~cns03"><b>Cortical Models and Psychophysics</b></a> 
+	  C. W. Eurich and U. A. Ernst (Universitaet Bremen, Bremen, Germany). <em>(Morning session 
+	  only)</em></li>
+	  <li><a href="http://cns.montana.edu/~alex/constraints.html"> 
+	  <b>Constraints in Neural Systems Design</b></a> A. Dmitrov (Montana State University, Bozeman, 
+	  USA).</li>
+	  <li><b>Visibility, Brightness, Shape, and their Relationship to the Neural Code (Tutorial)</b> 
+	  S. Martinez-Conde and S. L. Macknik (University College, London, UK). <em>(Afternoon session 
+	  only)</em></li>
+	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2003" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

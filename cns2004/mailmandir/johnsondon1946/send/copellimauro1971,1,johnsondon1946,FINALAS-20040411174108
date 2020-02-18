@@ -1,0 +1,68 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Mauro Copelli" <mcopelli@df.ufpe.br>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 11/4/2004 17:41:8
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Mauro Copelli,
+
+We're happy to inform you that your paper 'Signal Compression in the Sensory Periphery' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This is a good paper with interesting ramifications.  Some conceptual changes and minor edits would improve the paper 
+
+- p2, par 2, "Electrical synapses (gap junctions)".  It is my understanding that gap junctions are essentially holes in the intracellular membrane, which provide a passive route through which particles may pass.  While the gap junctions act as connections between neurons, they would not be a synapse in the usual sense of the word; they are simply passive conductances.  A synapse is defined by swellings and neurotransmitter vesicles, etc.  This confusion of terms detracts from the papers' impact and should be fixed throughout.
+
+- The paper makes the point in the conclusions that by knocking out connexin-36, the individual unit responses show less compression.  This point would be better made in the introduction.  It is otherwise unclear that the authors are arguing that without the gap junctions, the neural responses would show even more saturation.  Also, a short sentence mentioning that connexion-36 is the protein that makes up the gap junctions would aid the understanding of non-experts.
+
+How is this mechanism different from lateral inhibition?  It seems that the results would be similar, even though the mechanism is different.  Lateral inhibition is well-studied and familiar to most sensory neuroscientists and should be briefly mentioned.
+
+It is unclear to me why all three models were necessary.  A sentence explaining the usefulness of each model would help, especially for the CML model.  I was unable to understand the equations' significance.  Perhaps presenting all three models is not necessary.  In the figures, showing the results for the 1-D and 2-D model for the same model would be useful for comparison.
+
+- In Abstract, lateral excitatory connections => lateral connections
+
+- page 1, par 1, Psychophysics => psychophysics
+
+- p2, par 1, "linear saturating behavior" => "saturating behavior".  It is linear depending on the scale that the input is measured in (dB vs. linear units).
+
+P2-P3, "in our single compartment cells, set the system in its excitable regime [4], ".  Remove commas.
+
+Section 2 should be titled "The Models" (plural)
+
+Results   A schematic of the lattices would make the model structure more clear.  Also, labeling the lines in the graphs would help as the symbols are small.
+
+P5, par 1   "topology and connectivity patterns; results . . ."  Comma should be replaced by semi-colon.
+
+Reviewer 2 :
+Briefly, I recommend "reject", because the authors don't
+seem to know the basic anatomy and physiology of sensory systems, gap
+junctions have been know to exists there for a LONG time, their models do
+not reflect lateral inhibition, which is currently assumed to provide gain
+control and dynamic range, and their networks seem to oscillate too much,
+which will probably seriously hamper signal processing.

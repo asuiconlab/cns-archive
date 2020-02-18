@@ -1,0 +1,24 @@
+Synchronization Among Inhibitory Model Neurons:
+Interplay Between Rebound Excitation and Synaptic Kinetics
+
+ X.-J. Wang and J. Rinzel
+Mathematical Research Branch, NIDDK,
+National Institutes of Health
+Bldg. 31, Rm. 4B-54, Bethesda, MD 20892
+Department of Mathematics and the James Franck Institute
+University of Chicago, 5734 S. University Av.,
+Chicago, IL 60637
+
+It is well known that mutual inhibition in a neuronal network can lead
+to alternating rhythmic patterns of electrical activity.  Here, in contrast,
+we show with a theoretical model that mutually inhibitory cells, capable of
+post-inhibitory rebound, can be synchronized to zero phase difference,
+provided that synaptic
+activation decays slowly enough to outlast the presynaptic excitation.
+This study is motivated by consideration of a hypothesis on synchronizing
+mechanisms for the thalamocortical 10 Hz spindle rhythms, that
+ the reticular thalamic nucleus (RTN) plays a
+role of pacemaker or synchronizer of spindles in the thalamus.  Our results
+suggest that synchronization among GABAergic RTN cells can be mediated by
+GABA-B postsynaptic receptors which possess the required kinetic
+properties.

@@ -1,0 +1,17 @@
+Integration of synchronous and asynchronous synaptic inputs in a detailed 
+compartmental model of the cerebellar Purkinje cell.
+
+Erik De Schutter and James M. Bower, Div. of Biology 216-76, California 
+Institute of Technology, Pasadena CA 91125.
+
+ABSTRACT
+A detailed compartmental model of the Purkinje cell was used to examine 
+integration of synchronous granule cell synaptic inputs during background 
+asynchronous excitatory and inhibitory synaptic inputs.  For a synchronous 
+input on about 1% of the dendritic spines, the cell will fire on average one 
+spike within 10 ms after the stimulus.  This response is similar for inputs on 
+proximal dendritic spines compared to inputs on distal spines.  This 
+insensitivity to the spatial location of synchronous inputs is caused by the 
+P-type calcium channels in the dendritic membrane and by the branching pattern 
+of the dendritic arbor.
+

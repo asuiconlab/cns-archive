@@ -1,0 +1,44 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Andreas Knoblauch" <knoblauch@neuro.informatik.uni-ulm.de>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 9/4/2004 16:30:53
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Andreas Knoblauch,
+
+We're happy to inform you that your paper 'Statistical implications of clipped Hebbian learning of cell assemblies.' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+This is an interesting paper but there are already several works on the same models with which the author should compare his results   see e.g.
+J.-P. Nadal, J. Phys. A 24 (1991) 1093-1101
+"Associative memory  on the (puzzling) sparse coding limit" and references therein.
+

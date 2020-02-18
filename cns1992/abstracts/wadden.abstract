@@ -1,0 +1,29 @@
+Realistic Simulation of Undulatory Locomotion
+   A Trailing Oscillator Hypothesis
+
+
+
+T. Wadden~, S. Grillnert, A. Lansner & T. Matsushimat
+
+
+SANSÑStudies of Artificial Neural Systems
+Department of Numerical Analysis and Computing Science
+Royal Institute of Technology, S-100 44 Stockholm, Sweden
+~To whom correspondence should be addressed
+tomw~sans.kth.se
+
+tNobel Institute of Neurophysiology
+Karolinska Institute, S-104 01 Stockholm, Sweden
+
+In vertebrates like eel and lamprey a laterally directed wave is prop-
+agated down the body, pushing the animal forwards through the water.
+Whereas the function of the segmental neuronal network underlying locomo-
+tion (lamprey) is understood, the intersegmental coordination has remained
+enigmatic. Each spinal segment is connected by excitatory interneurons from
+neighbouring segments. Our model (7 to 20 segments) of this experimentally
+established network generates intersegmental coordination. Furthermore the
+phase lag can be graded and made to change sign, (enabling forward and
+backward swimming), by adding extra excitation only to one segment in the
+rostral or caudal part of the oscillator chain.
+
+

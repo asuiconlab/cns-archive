@@ -1,0 +1,36 @@
+
+
+Fatigue in a Neural Network Model
+
+M.E. Bleich
+
+Department of Physics, Duke University, Durham, NC 27710
+
+R.V. Jensen
+
+Department of Physics, Wesleyan University MiddletouJn, CT 06457 
+and
+
+Department of Neurobiology, Yale University School of Medicine, New 
+Haven, CT 06510
+
+The addition of neural fatigue due to adaptive membrane currents 
+can greatly expand the computational repertoire of recurrent 
+(Hopfield-type) networks to include the rich, dynamical behavior of 
+real biological neuronal networks such as the production of rythmic 
+oscillations, central pattern generators (CPG), and the storage and 
+retreival of temporal sequences of memories. Numerical simulations 
+of a simple model of a recurrent network with neural fatigue, 
+described by a lattice of coupled, 2D nonlinear maps, shows that 
+temporal sequences of memories can be reliably stored and and 
+retrieved using only fixed asymmetric weights and that memories 
+with overlapping representations can be sequentially retrieved in a 
+process resembling "free association" .
+
+EMAIL: jensen@scarecrow.phys.wesleyan.edu and 
+bleich~scratchy.phy.duke.edu
+
+Please address all correspondence to R.V. Jensen, Department of 
+Physics, Wesleyan University, Middletown, CT 06457
+ 
+

@@ -1,0 +1,10 @@
+
+
+
+Numerical simulations of the electric organ discharge of weakly electric fish.
+
+Christopher Assad, Brian Rasnow, James M. Bower
+
+
+A model of a weakly electric fish was constructed with data taken from Apteronotus leptorhynchus, and the electric organ discharge was simulated using boundary element and finite element methods. Maps of the electric potential measured around a live fish were used to calibrate the model parameters and test the results. Initial results suggest the fish's body position has a significant effect on the electrical images detected by the fish. Our goal is to quantitatively simulate various sequences of electrosensory input being sent to the central nervous system as the result of the fish's exploratory behavior.
+

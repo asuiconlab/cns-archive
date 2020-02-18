@@ -1,0 +1,54 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"Ruediger Kupper" <Ruediger.Kupper@Honda-RI.De>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sat 22/5/2004 21:36:5
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Ruediger Kupper,
+
+We're happy to inform you that your paper 'Spike-latency codes and the effect of saccades' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+It will be interesting to see the comparison to other saccadic actions in the full paper. The finding that relaxation performs a better reset than suppression is suprising, but doesn't this depend critically on model parameters such as strength of inhibition? This should be explored further, as should combined saccadic actions.
+
+Reviewer 2 :
+The question addressed by this paper -- whether the putative mechanisms of saccadic-related supression are sufficient to permit a spike-time based visual code -- is certainly interesting. Unfortunately, the results are likely to depend crucially on the neural model used.  The model chosen here is far too simplistic to be of any interest.
+
+Note that the crucial question here is about the time-scale of history-dependence in the neural activity, and whether or not this history-dependence can be eliminated by the mechanisms of saccadic suppression.  The core problem with model is that many, if not most, of the history-dependent mechanisms in the visual system have been eliminated.  Here are some examples 
+
+1. The neurons themselves are very simple integrate-and-fire units, whose only state variable is the membrane potential.  There are no adaptive currents, no metabatropic receptors, no long-time-constant (e.g. NMDA) synaptic currents, no intra-cellular calcium.  All of these well-documented phenomena (and more) will give additional history-dependences lasting longer than 10ms (the duration of the simulated suppression) which are missing from the current model.
+
+2. The retina and LGN are "knowingly neglected".  The problem with this is that it means that the input to the cortex has no history dependence.  In the real system this is not the case.  Both retina and thalamus contain adaptive mechanisms which will reflect the history of the input, and which will not be affected by saccadic suppression.
+
+3. As far as I can tell network effects in cortex are eliminated ... there are no intra-cortical connections.  Again, the input history will affect the activity of other neurons in the network (some of which may not receive inhibition from basket or chandelier cells) further complicating the results.  
+
+4. Synaptic state has also been neglected.  In particular, short-term depression effects are likely to profoundly impact the conclusions drawn from this model.
+
+At least one of these points needs to be addressed in this work to make it at all relevant to the brain.  And certainly all of these issues (and probably more) need to be brought up in the discussion.
+

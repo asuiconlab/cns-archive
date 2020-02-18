@@ -1,0 +1,182 @@
+ 
+<!-- workshops 14 feb 2001 -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<!-- #BeginTemplate "/Templates/algemeen.dwt" --> 
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE> neuroinformatics - workshops </TITLE>
+<!-- #EndEditable --> 
+<META NAME="author" CONTENT="Mike Wijnants">
+<META NAME="keywords" CONTENT="neuroinformatics, workshops">
+<META NAME="description" CONTENT="workshops">
+</HEAD>
+<BODY TEXT="#464646" BGCOLOR="#FFFFFF" LINK="#336699" VLINK="#999999" ALINK="#999999">
+<!-- Heading Table -->
+&#160; 
+<TABLE WIDTH="480" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+  <TR> 
+    <TD WIDTH="50">&#160;</TD>
+    <TD WIDTH="430"><FONT FACE="arial,helvetica,helv" COLOR="#336699" > 
+      <H2><!-- #BeginEditable "title" -->Conference submission guidelines and 
+        instructions <!-- #EndEditable --></H2>
+      </font></TD>
+  </TR>
+</TABLE>
+<BR>
+&#160; 
+<!-- Main Table -->
+<TABLE WIDTH="480" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+  <!--
+  <TR VALIGN="top">
+  <TD WIDTH="50">
+  <IMG SRC="/gifs/Ballblu.gif" ALT="" ALIGN="right" WIDTH="15" HEIGHT="15" BORDER="0"></TD>
+  <TD WIDTH="430"><FONT FACE="arial,helvetica,helv">
+  <B><A HREF="./Oslo-06-01/oslo.shtml" 
+  onmouseover="self.status='info about this workshop ...'; return true;" 
+  onmouseout="self.status=' '; return true;">
+  Workshop: Databasing the brain</A></B><BR>
+  Jul 1-2 2001, Oslo, Norway<BR><BR>
+  </TD>
+</TR>
+-->
+  <!--<TR VALIGN="top">
+  <TD WIDTH="50">
+  <IMG SRC="/gifs/Ballblu.gif" ALT="" ALIGN="right" WIDTH="15" HEIGHT="15" BORDER="0"></TD>
+  <TD WIDTH="430"><FONT FACE="arial,helvetica,helv">
+  <B><A HREF="http://www.neuroinformatics.cc/" 
+  onmouseover="self.status='info about this workshop ...'; return true;" 
+  onmouseout="self.status=' '; return true;">
+  World Congress on Neuroinformatics</A></B><BR>
+  September 24-29 2001, Vienna, Austria<BR><BR>
+  </TD>
+</TR>
+-->
+  <TR VALIGN="top"> 
+    <TD WIDTH="50"><!-- #BeginEditable "img1" --><!-- #EndEditable --></TD>
+    <TD WIDTH="430"><FONT FACE="arial,helvetica,helv"> <B><A HREF="../../workshop/./Dusse-04-02/dusseldorf1.shtml" 
+  onmouseover="self.status='info about this workshop ...'; return true;" 
+  onmouseout="self.status=' '; return true;"> </A></B><!-- #BeginEditable "subtitle1" --><font face="arial,helvetica,helv" color="#FF0000"><b>Submission 
+      is closed</b></font><FONT FACE="arial,helvetica,helv"><br>
+      <br>
+      Papers can include experimental, model-based, as well as more abstract theoretical 
+      approaches to understanding neurobiological computation. We especially encourage 
+      papers that mix experimental and theoretical studies. We also accept papers 
+      that describe new technical approaches to theoretical and experimental issues 
+      in computational neuroscience.<br>
+      <br>
+      The paper submission procedure is new this year: it is at a different web 
+      site and makes use of a preprint server. This allows everybody to view papers 
+      before the actual meeting and to engage in discussions about submitted papers.<br>
+      <br>
+      <br>
+      <font color="#336699"><b>Submission is done in 2 steps:</b></font><br>
+      <br>
+      <ul>
+        <li>Step 1 on neuroinf.org, where you provide all info concerning the meeting</li>
+        <li><p>Step 2 on the Elsevier preprint server where you upload your paper</p></li></ul>
+        <p><font color="#336699"><b>Paper submission</b></font><br>
+          <br>
+          Papers for the meeting can be submitted ONLY through the web site at 
+          http://www.neuroinf.org/CNS.shtml. The system is set up for one paper 
+          for each first author only; the first author is automatically the corresponding 
+          author. Papers can be submitted either old style (a 100 word abstract 
+          followed by a 1000 word summary) or as a full paper (max 6 typeset pages). 
+          In both cases the abstract (100 words max) will be published in the 
+          conference program. Submission will occur through a preprint server 
+          run by Elsevier, more information can be found on the submission web 
+          site. Authors have the option of declaring their submission restricted 
+          access, not making it publicly visible.<br>
+          <br>
+          All submissions will be acknowledged by email. It is important to note 
+          that this notice, as well as all other communication related to the 
+          paper will be sent to the designated correspondence author only.<br>
+          <br>
+          <font color="#336699"><b>The review process</b></font><br>
+          <br>
+          All submitted papers will be first reviewed by the program committee. 
+          They will be judged and accepted for the meeting based on the clarity 
+          with which the work is described and the biological relevance of the 
+          research. For this reason authors should be careful to make the connection 
+          to biology clear. We reject only a small fraction of the papers (~ 5%) 
+          and this usually based on absence of biological relevance (e.g. pure 
+          artificial neural networks). We expect to notify authors of meeting 
+          acceptance before end of March.<br>
+          <br>
+          The second stage of review involves evaluation of each submission by 
+          two independent referees. The primary objective of this round of review 
+          will be to select papers for oral and featured oral presentation. In 
+          addition to perceived quality as an oral presentation, the novelty of 
+          the research and the diversity and coherence of the overall program 
+          will be considered. To ensure diversity, those who have given talks 
+          in the recent past will not be selected and multiple oral presentations 
+          from the same lab will be discouraged. A second objective of the review 
+          is to rank papers for inclusion in the conference proceedings. All accepted 
+          papers not selected for oral talks as well as papers explicitly submitted 
+          as poster presentations will be included in one of three evening poster 
+          sessions. Authors will be notified of the presentation format of their 
+          papers by end of April.<br>
+          <br>
+          <font color="#336699"><b>Conference proceedings</b></font><br>
+          <br>
+          The proceedings volume is published each year as a special supplement 
+          to the journal Neurocomputing. In addition the proceedings are published 
+          in a hardbound edition by Elsevier Press.<br>
+          <br>
+          Only papers which are made publicly available on the preprint server, 
+          which are presented at the CNS meeting and which are not longer than 
+          6 typeset pages (see <a href="/CNS/style.shtml"><font color="#336699">style 
+          instructions</font></a> ) will be eligible for inclusion in the proceedings. 
+          The proceedings size is limited to 1200 pages (about 200 papers). In 
+          case more papers are eligible the lowest ranked papers will not be included 
+          in the proceedings but will remain available on the preprint server. 
+          Authors will be advised of the status of their papers immediately after 
+          the CNS meeting. Submission of final papers will be through the preprint 
+          server with a deadline early October.<br>
+          <br>
+          For reference, papers presented at CNS*99 can be found in volumes 32-33 
+          of Neurocomputing (2000) and those of CNS*00 in volumes 38-40 (2001). 
+          <br>
+          </p>
+      
+      </font><!-- #EndEditable --><br>
+      <!-- #BeginEditable "text1" --><!-- #EndEditable --></font></TD>
+  </TR>
+  <TR VALIGN="top"> 
+    <TD WIDTH="50"><!-- #BeginEditable "img2" --><!-- #EndEditable --></TD>
+    <TD WIDTH="430"><FONT FACE="arial,helvetica,helv"> <B><A HREF="../../workshop/./Paris-07-02/paris.shtml" 
+  onmouseover="self.status='info about this workshop ...'; return true;" 
+  onmouseout="self.status=' '; return true;"> </A></B><!-- #BeginEditable "subtitle2" --><FONT FACE="arial,helvetica,helv"></font><!-- #EndEditable --><br>
+      <!-- #BeginEditable "text2" --><!-- #EndEditable --></font></TD>
+  </TR
+
+>
+  <TR VALIGN="top"> 
+    <TD WIDTH="50"><!-- #BeginEditable "img3" --><!-- #EndEditable --></TD>
+    <TD> 
+      <div align="left"></div>
+      <div align="left"><font face="arial,helvetica,helv"><!-- #BeginEditable "subtitle3" --><font face="arial,helvetica,helv"></font><!-- #EndEditable --><br>
+        <!-- #BeginEditable "text3" --><!-- #EndEditable --></font></div>
+    </TD>
+  </TR>
+  <TR VALIGN="top"> 
+    <TD WIDTH="50"><!-- #BeginEditable "img4" --><!-- #EndEditable --></TD>
+    <TD> 
+      <p><font face="arial,helvetica,helv"><!-- #BeginEditable "subtitle4" --><!-- #EndEditable --><br>
+        <!-- #BeginEditable "text4" --><!-- #EndEditable --></font></p>
+    </TD>
+  </TR>
+  <TR VALIGN="top"> 
+    <TD WIDTH="50"><!-- #BeginEditable "img5" --><!-- #EndEditable --></TD>
+    <TD> 
+      <p><font face="arial,helvetica,helv"><!-- #BeginEditable "subtitle5" --><font face="arial,helvetica,helv"></font><!-- #EndEditable --><br>
+        <!-- #BeginEditable "text5" --><!-- #EndEditable --></font></p>
+    </TD>
+  </TR>
+</TABLE>
+<!--#include virtual="/includes/top.shtml"-->
+<!--#include virtual="/includes/linken-links-table.shtml"-->
+<!--#include virtual="/includes/copyright-table.shtml"-->
+</BODY>
+<!-- #EndTemplate -->
+</HTML>

@@ -1,0 +1,16 @@
+Temporal Structure can solve the
+Binding Problem for Multiple Feature Domains
+
+Thomas B. Schillen and Peter Konig
+
+   Max-Planck-Institut fur Hirnforschung
+Deutschordenstrasse 46, 6000 Frankfurt 71, FRG
+
+
+
+
+
+Abstract
+
+We investigate a solution to the binding problem in visual processing using temporal structure in a neuronal network. First, we demonstrate binding and segregation of assemblies by synchronizing and desynchronizing connections for a single feature representation. Then, we extend this model to multiple feature domains where each member of an distributed assembly is specific for its single particular feature expression only. This avoids the combinatorial explosion of multispecific cardinal cells. Besides binding by synchronization of temporal structure of distributed neuronal responses, our simulations demonstrate also for these examples that synchronization has to be complemented by a means for stimulus-dependent desynchronization.
+

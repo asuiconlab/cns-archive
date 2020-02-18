@@ -1,0 +1,17 @@
+Neural Routing Circuits in Primate Yisual Cortex
+Charles H. Anderson~. Bruno Olshausen2, David Van Essen3
+Jet Propulsion Laboratory1
+Computation and Neural Systems Program2
+Division of Biology3
+California Institute of Technology
+Pasadena, CA 91125
+
+
+(address correspondence to C.H. Anderson, email: cha@elroy.jpl.nasa.gov)
+
+
+
+Abstract
+
+Directed visual attention can be modeled by neural routing circuits that provide high-level areas of the visual cortex with dynamic access to retinal sensory inputs. This approach has many computational advantages over the more static, feedforward models of vision which construct increasingly more complex receptive fields as one moves upward through the hierarchy of cortical areas. Here, we provide details on the structure of neural routing circuits and their control as illustrated by interactive computer programs. Neural substrates for routing and control are proposed and physiological support for the model is discussed.
+

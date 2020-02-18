@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994 - List of abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1994 - List of abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters, List of abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<h4>CNS*1994 List of abstracts</h4>
+  	
+  	<table class="mytable" cellspacing="0" cellpadding="0">
+  	  <tr>
+  	  	<th scope="col">name</th>
+  	  	<th scope="col">title</th>
+  	  	<th scope="col">oral, poster or abstract</th>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Anderson">Charles H. Anderson</a></td>
+  	  	<td>NEUROBIOLOGICAL REPRESENTATIONS OF INFORMATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Armony">J.L. Armony</a></td>
+  	  	<td class="alt">NEURAL SYSTEM OF FEAR CONDITIONING: A CONNECTIONIST MODEL</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Av">Evyatar Av-Ron</a></td>
+  	  	<td>MODELING THE BURSTING INTERNEURONS OF THE LOBSTER CARDIAC GANGLION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Axelrad">H. Axelrad</a></td>
+  	  	<td class="alt">SOME NEW FINDINGS ABOUT THE NEURONAL TYPES OF THE CEREBELLAR<br />
+  	  	CORTEX AND SOME HYPOTHESIS ABOUT POSSIBLE ADDITIONS TO THE WIRING DIAGRAM OF THIS 
+  	  	STRUCTURE.</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Axelrad1">H. Axelrad</a></td>
+  	  	<td>A SIMULATION MODEL OF THE MOSSY FIBERS AND GRANULE CELLS OF THE CEREBELL~R CORTEX.</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Bair">Wyeth Bair</a></td>
+  	  	<td class="alt">RELIABLE TEMPORAL MODULATION IN NEURONAL SPIKE TRAINS IN AREA MT OF AWAKE MACAQUE 
+  	  	MONKEY</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Bairaktaris">Dimitrios Bairaktaris</a></td>
+  	  	<td>LOCALISED NEURONAL ASSEMBLIES WITH RECURRENT<br />
+  	  	SYNAPSES ENABLE GLOBAL TEMPORAL SYNCHRONISATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Baird">Bill Baird</a></td>
+  	  	<td class="alt">ATTENTION AS SELECTIVE SYNCHRONIZATION OF OSCILLATING CORTICAL SENSORY AND 
+  	  	MOTOR ASSOCIATIVE MEMORIES</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Baldi">Pierre Baldi</a></td>
+  	  	<td>COMPUTATIONAL APPROACHES TO EARLY OLFACTION</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Bell">Bell A.J.</a></td>
+  	  	<td class="alt">'BALANCING' OF CONDUCTANCES MAY EXPLAIN<br />
+  	  	IRREGULARITY OF CORTICAL SPIKING.</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Biederman">Biederman</a></td>
+  	  	<td>TEST OF A TWO-LAYER NETWORK AS A MODEL OF HUMAN ENTRY-LEVEL OBJECT RECOGNITION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Blum">Kenneth I. Blum</a></td>
+  	  	<td class="alt">A THEORETICAL FRAMEWORK FOR QUANTAL ANALYSIS AND ITS APPLICATION TO LONG TERM 
+  	  	POTENTIATION</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Blum1">Edward K. Blum</a></td>
+  	  	<td>BIONNIC: AN EFFICIENT AND FLEXIBLE INTEGRATOR FOR BIOLOGICAL NEURAL NETWORK SIMULATORS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Boettiger">Charlotte Boettiger</a></td>
+  	  	<td class="alt">A QUANTITATIVE ANALYSIS OF POST-EMBRYONIC DEVELOPMENTAL CHANGES IN THE 
+  	  	CRICKET CERCAL SENSORY SYSTEM'S FUNCTIONAL MAP OF WIND DIRECTION.</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Boussard">Eric Boussard</a></td>
+  	  	<td>A MODEL OF RETINA INCLUDING DOPAMINERGIC NEUROMODULATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Buonomano">Dean Buonomano</a></td>
+  	  	<td class="alt">A CORTICAL MODEL OF TEMPORAL INFORMATION PROCESSING BASED ON PAIRED-PULSE 
+  	  	FACILITATION AND SLOW IPSPS.</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Burgi">Pierre-Yves Burgi</a></td>
+  	  	<td>HEBBIAN PROCESSES AND SPONTANEOUS WAVES OF ACTIVITY COULD LEAD TO THE EMERGENCE OF 
+  	  	COMPLEX RETINAL RECEPTIVE FIELDS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Carandini">Matteo Carandini</a></td>
+  	  	<td class="alt">SUMMATION AND DIVISION IN V1 SIMPLE CELLS</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Carnevale">Nicholas T. Carnevale</a></td>
+  	  	<td>QUALITATIVE ELECTROTONIC COMPARISON OF THREE CLASSES OF HIPPOCAMPAL NEURONS IN THE RAT</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Carr">C. E. Carr</a></td>
+  	  	<td class="alt">THE DEVELOPMENT OF NUCLEUS LAMINARIS IN THE BARN OWL</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Chang">Hung-Jen Chang</a></td>
+  	  	<td>PARAMETER OPTIMIZATION IN AN OLFACTORY NEURAL SYSTEM</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Chapman">Andrew Chapman</a></td>
+  	  	<td class="alt">MODEL SYNAPSES WITH FREQUENCY POTENTIATION CHARACTERISTICS CAN COOPERATIVELY 
+  	  	ENHANCE HEBBIAN LEARNING</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Clague">Heather Clague</a></td>
+  	  	<td>THE EFFECT OF ADAPTATION ON THE QUALITY OF CODING OT STIMULI FOR AFFERENTS AND 
+  	  	INTERNEURONS IN THE CRICKET SENSORY SYSTEM</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Corey">M. Elizabeth Corey</a></td>
+  	  	<td class="alt">PARALLEL CONTROL MECHANISMS IN COCHLEAR MECHANICS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Schutter">E. De Schutter</a></td>
+  	  	<td>SHORT-TERM INTERACTIONS BETWEEN THE COMPLEX SPIKE AND GRANULE CELL INPUTS IN THE PURKINJE 
+  	  	CELL</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Destexhe">Alain Destexhe</a></td>
+  	  	<td class="alt">ELEMENTARY KINETICS PROVIDE EFFICIENT MODELS OF SYNAPTIC TRANSMISSION AND 
+  	  	NEUROMODULATION</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Eeckman">Frank H. Eeckman</a></td>
+  	  	<td>BRAINACE: A DATABASE-HYPERMEDIA TOOL FOR NEUROSCIENTISTS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Elias">John G. Elias</a></td>
+  	  	<td class="alt">VLSI NEUROMORPHS: BUILDING BLOCKS FOR NEURAL CIRCU</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Fransen">Erik Fransn</a></td>
+  	  	<td>LOW SPIKING RATES IN A NETWORK WITH OVERLAPPING ASSEMBLIES</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Freeman">Walter Freeman</a></td>
+  	  	<td class="alt">PHASE ANALYSIS OF MULTICHANNEL EEGs FROM PREPYRIFORM CORTEX IN RABBIT</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Freeman1">Walter J. Freeman</a></td>
+  	  	<td>PERCEPTUAL TOPOGRAPHY: SPATIOTEMPORAL ANALYSIS OF PREPYRIFONN, VISUAL, AUDITORY, AND 
+  	  	SOMESTHETIC EEGS IN PERCEPTION BY TRAINED RABBITS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Freeman2">Walter J. Freeman</a></td>
+  	  	<td class="alt">USING FICTIVE POWER AS EVENT MARKER IN EEG DATA PROCESSINGL</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Fukunishi">Kohyu Fukunishi</a></td>
+  	  	<td>EMPIRICAL NEURAL NETWORKS AND DYNAMIC CHARACTERISTICS OF THE GUINEA PIG AUDITORY CORTEX 
+  	  	BY OPTICAL IMAGING</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list1.shtml#Gabbiani">Fabrizio Gabbiani</a></td>
+  	  	<td class="alt">ESTIMATION OF TIME-VARYING SIGNALS ENCODED IN NEURONAL SPIKE TRAINS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list1.shtml#Geitz">Kurt A. E. Geitz</a></td>
+  	  	<td>THE ROLE OF FEEDBACK IN RESPIRATORY AMPLITUDE AND FREQUENCY MODULATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Golomb">David Golomb</a></td>
+  	  	<td class="alt">PARTIAL AND FULL SYNCHRONY IN THE RE DURING SPINDLE<br />
+  	  	OSCILLATIONS</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Grzywacz">Norberto M. Grzywacz</a></td>
+  	  	<td>A HEBBIAN RULE CONSISTENT WITH PHYSIOLOGY AND PRODUCING SHARP REFINEMENT OF 
+  	  	ORGANIZATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Gutkin">Boris S. Gutkin</a></td>
+  	  	<td class="alt">ANALYSIS OF A STOCHASTIC MODEL OF SOMATOSENSORY INFORMATION PROCESSING</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Harris">Anthony Harris</a></td>
+  	  	<td>DEVELOPMENT OF CORTICAL SEGREGATES BY THE COMPETITIVE DISTRIBUTION OF ACTIVATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Hashemiyoon">Rowshanak Hashemiyoon</a></td>
+  	  	<td class="alt">CODING FOR GLOBAL PARAMETERS MAY BE CARRIED BY SYNCHRONISED SUBCORTICAL 
+  	  	OSCILLATIONS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Hasselmo">Michael E. Hasselmo</a></td>
+  	  	<td>FEEDBACK REGULATION OF CHOLINERGIC MODULATION AND<br />
+  	  	HIPPOCAMPAL MEMORY FUNCTION.</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Hill">Hill</a></td>
+  	  	<td class="alt">THE EFFECT OF NEURONAL GROWTH ON SYNAPTIC INTEGRATION</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Hymel">E.C. Hymel</a></td>
+  	  	<td>A MATHEMATICAL MODEL OF RETINAL PHOTORECEPTORS.</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Idiart">M. A. P. Idiart</a></td>
+  	  	<td class="alt">SHORT-TERM MEMORY AS A SINGLE CELL PHENOMENON.</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Jaeger">Dieter Jaeger</a></td>
+  	  	<td>HOW ACTIVE DENDRITIC CONDUCTANCES AND SYNAPTIC INPUT CONTROL SOMATIC SPIKING IN 
+    THE PURKINJE CELL: A MODELING STUDY</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Jensen">R.V. Jensen</a></td>
+  	  	<td class="alt">KINETIC MODELS OF TRANSIENTION CHANNEL CURRENTS IN RESPONSE TO BRIEF PULSES OF 
+  	  	AGONIST</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Kay">Leslie Kay</a></td>
+  	  	<td>CORRELATED GAMMA, BETA, AND THETA OSCILLATIONS IN OLFACTORY AND LIMBIC BRAIN STRUCTURES 
+  	  	DURING ODOR RECOGNITION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#K%F6tter">Rolf K&ouml;tter</a></td>
+  	  	<td class="alt">A MODEL OF BIOCHEMICAL INTERACTIONS BETWEEN GLUTAMATERGIC AND DOPAMINERGIC 
+  	  	SIGNALS IN STRIATAL NEURONS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Lansner">Anders Lansner</a></td>
+  	  	<td>IMPROVING THE REALISM OF ATTRACTOR MODELS BY USING CORTICAL COLUMNS AS FUNCTIONAL UNITS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Lee">Christopher W. Lee </a></td>
+  	  	<td class="alt">A NONLINEAR HEBBIAN NETWORK THAT LEARNS TO DETECT DISPARITY IN RANDOM-DOT 
+  	  	STEREOGRAMS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#August">David A. August</a></td>
+  	  	<td>INFORMATION MAINTENANCE BY RETINAL GANGLION CELL SPIKES</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Levy">K. L. Levy</a></td>
+  	  	<td class="alt">USING MODELS TO DETERMINE THE RELATIVE IMPORTANCE OF INTRINSIC MEMBRANE 
+  	  	PROPERTIES VERSUS SYNAPTIC ORGANIZATION IN OCTOPUS CELLS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Li">Zhaoping Li</a></td>
+  	  	<td>UNDERSTANDING OCULAR DOMINANCE DEVELOPMENT FROM BINOCULAR INPUT STATISTICS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Liaw">Jim-Shih Liaw</a></td>
+  	  	<td class="alt">SIMULATION OF THE MOLECULAR MECHANISMS REGULATING TRANSMITTER RELEASE</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Liaw1">Jim-Shih Liaw</a></td>
+  	  	<td>TIMING A LOOMING OBJECT</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Liljenstr&#246;m">Hans Liljenstr&#246;m</a></td>
+  	  	<td class="alt">NOISE AND CHAOS IN ASSOCIATIVE MEMORY</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Linster">Christine Linster</a></td>
+  	  	<td>ODOR PROCESSING IN THE HONEY BEE'S ANTENNAL LOBE GLOMERULI: MODELING SENSORY MEMORY</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Lukashin">Alexander V. Lukashin</a></td>
+  	  	<td class="alt">OVERLAPPING NEURAL NETWORKS FOR MULTIPLE MOTOR ENGRAMS</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#McCandless">Jeffrey W. McCandless</a></td>
+  	  	<td>CROSS-COUPLING OF EYE POSITION SENSlTIVE NEURONS TO MAINTAIN BINOCULAR ALIGNMENT</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Miller">K. Miller</a></td>
+  	  	<td class="alt">A GENERAL SIMULATOR OF CELLULAR ELECTRO-CHEMICAL DYNAMICS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Murphey">C.R. Murphey</a></td>
+  	  	<td>A HYPERTEXT COMPARTMENTAL NEURONAL SIMULATOR</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Murphy">Sean D. Murphy</a></td>
+  	  	<td class="alt">THE STEM CELL: A COMPUTATIONAL MODEL OF BIOLOGICAL NEURONS USEFUL FOR 
+  	  	SPATIO-TEMPORAL PATTERN RECOGNITION</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Nadim">Farzan Nadim</a></td>
+  	  	<td>THE INTERPLAY OF INTRINSIC AND SYNAPTIC CURRENTS IN A HALF-CENTER OSCILLATOR</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Nakamura">Kiyohiko Nakamura</a></td>
+  	  	<td class="alt">CORTICAL COMPETITIVE PROCESSING PRODUCES INTERFERENCE IN WORD-COLOR NAMING 
+  	  	TASKS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Paulin">Michael G. Paulin</a></td>
+  	  	<td>MODELS OF ADAPTIVE SELF-NOISE CANCELLATION IN THE<br />
+  	  	ELASMOBRANCH ELECTROSENSORY SYSTEM</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Ding">Zhimin Ding</a></td>
+  	  	<td class="alt">SENSORY FEEDBACK AND CONTROL OF LEG-SUBSTRATE INTERACTIONS FOR AGILE 
+  	  	LOCOMOTION IN INSECTS AND ROBOTS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Nicolaus">Jill M. Nicolaus</a></td>
+  	  	<td>FUNCTIONAL INTERACTIONS BETWEEN INWARDLY RECTIFYING CONDUCTANCES AND GABA-MEDIATED 
+  	  	INHIBITION.</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Nicolelis">Miguel A. L. Nicolelis</a></td>
+  	  	<td class="alt">NEURAL NETWORK MECHANISMS OF DYNAMIC AND DISTRIBUTED SENSORY PROCESSING: 
+  	  	CHARACTERIZATION USING SIMULTANEOUS MULTI- SINGLE NEURON RECORDINGS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Usher">Marius Usher</a></td>
+  	  	<td>STIMULUS-DEPENDENT SYNCHRONIZATION IN A MODEL OF<br />
+  	  	ORIENTATION-TUNED SPIKING NEURONS</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list2.shtml#Olshausenl">Bruno A. Olshausenl</a></td>
+  	  	<td class="alt">A MODEL OF THE SPATIAL-FREQUENCY ORGANIZATION IN PRIMATE STRIATE CORTEX</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list2.shtml#Opara">Ralf Opara</a></td>
+  	  	<td>A MULTI MODULAR HARDWARE-SOFTWARE DEVELOPMENT FOR VISUAL SCENE ANALYSIS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Osborne">Leslie C. Osborne</a></td>
+  	  	<td class="alt">MEASUREMENTS OF CRICKET WIND-SENSITIVE HAIR MOTION WITH LASER FEEDBACK 
+  	  	INTERFEROMETRY</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Parnas">Bruce R. Parnas</a></td>
+  	  	<td>A 3-D INTERACTIVE MODEL FOR PERIPHERAL VESTIBULAL SIGNAL PROCESSING</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Ernst">U. Ernst</a></td>
+  	  	<td class="alt">MULTIPLE PHASE CLUSTERING OF GLOBALLY PULSE COUPLED NEURONS WITH DELAY</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Peyton">S. F. Peyton</a></td>
+  	  	<td>A COMPARTMENTAL MODEL OF VENTRAL COCHLEAR NUCLEUS STELLATE CELLS: RESPONSES TO CONSTANT 
+  	  	AND AMPLITUDE-MODULATED TONES</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Quenet">Quenet B</a></td>
+  	  	<td class="alt">IS A CLASSIFICATION OF HONEYBEE ANTENNAL LOBE NEURONES GROWN IN CULTURE 
+  	  	POSSIBLE?</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Rakshit">Subrata Rakshit</a></td>
+  	  	<td>MAXIMALLY INFORMATIVE FILTER BANKS AND NEURAL ENCODING</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Read">Walter Read</a></td>
+  	  	<td class="alt">A COMPUTATIONAL MODEL OF ATTENTIONAL FOCUS SEARCHLIGHT OF ATTENTION HYPOTHESIS 
+  	  	REVISITED</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Rush">Dr. Maureen E. Rush</a></td>
+  	  	<td>THE POTASSIUM A-CURRENT, LOW FIRING RATES, AND REBOUND EXCITATION IN HODGKIN-HUXLEY 
+  	  	MODELS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Rybak">I. A. Rybak</a></td>
+  	  	<td class="alt">COMPARATIVE MODELING OF NEUROGENESIS OF THE THREE-PHASE RESPIRATORY RHYTHM</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Sabbatini">Sabbatini, R.M.E</a></td>
+  	  	<td>CLASSIFICATION AND QUANTIFICATION OF BEHAVIORAL PATTERNS AND SEQUENCES IN NEUROETHOLOGICAL 
+  	  	STUDIES, USING ARTIFICIAL NEURAL NETWORKS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Sabbatini1">Sabbatini, R.M.E.</a></td>
+  	  	<td class="alt">USING ARTIFICIAL NEURAL NETWORKS TO UNDERSTAND BRAIN <br />
+ 	FUNCTION: THE ANALYSIS OF NEUROELECTRIC INFORMATION</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Salinas">Emilio Salinas</a></td>
+  	  	<td>DECODING VECTORIAL INFORMATION FROM FIRING RATES</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Sayegh">Samir I. Sayegh</a></td>
+  	  	<td class="alt">ANALYZING THE HIPPOCAMPAL PLACE-CELL PHENOMENON BY MODELING THE CENTRAL VISUAL 
+  	  	PATHWAY</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Shouval">Harel Shouval</a></td>
+  	  	<td>HOW DOES RETINAL PREPROCESSING EFFECT THE RECEPTIVE FIELDS OF STABILYZED HEBBIEN 
+  	  	NEURONS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Sigvardt">Karen A. Sigvardt</a></td>
+  	  	<td class="alt">SIMULATION AND EXPERIMENTAL CONFIRMATION OF A BOUNDARY LAYER IN THE 
+  	  	INTERSEGMENTAL PHASE LAGS ALONG THE LENGTH OF THE LAMPREY SPINAL CORD.</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Sirosh">Joseph Sirosh</a></td>
+  	  	<td>MODELING CORTICAL PLASTICITY BASED ON ADAPTING LATERAL INTERACTION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Lincoln">William Lincoln</a></td>
+  	  	<td class="alt">DEPTH FROM TRANSPARENCY</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Smetters">D. K. Smetters</a></td>
+  	  	<td>ELECTROTONIC STRUCTURE AND SYNAPTIC VARIABILITY IN CORTICAL NEURONS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Somers">D. C. Somers</a></td>
+  	  	<td class="alt">AN EMERGENT MODEL OF VISUAL CORTICAL ORIENTATION SELECTIVITY</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Stemmler">Martin Stemmler</a></td>
+  	  	<td>OSCILLATORY FIELD POTENTIALS WITH IRREGULAR SINGLE CELL DISCHARGE</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Kowtha">V. Kowtha</a></td>
+  	  	<td class="alt">EFFECTS OF RANDOM NOISE ON CLASSIFICATION BY A PIRIFORM HIERARCHICAL NEURAL 
+  	  	NETWORK</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Stern">Edward Stern</a></td>
+  	  	<td>INFORMATION PROCESSING PROPERTIES OF CORTICOSTRIATAL AND NEOSTRIATAL NEURONS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Stern1">Edward Stern</a></td>
+  	  	<td class="alt">REDUCTION OF STIMULUS AMBIGUITY: FUNCTIONAL CONNECTIVITY AND CORTICAL 
+  	  	OPERATIONS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Stiber">Michael Stiber</a></td>
+  	  	<td>SYNAPTIC CODING OF NONSTATIONARY SPIKE TRAINS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Surkis">A. Surkis</a></td>
+  	  	<td class="alt">CALCULATION OF PASSIVE MEMBRANE PROPERTIES FOR ARBITRARY DENDRITIC GEOMETRY OF 
+  	  	LATERODORSAL TEGMENTAL (LDT) NEURONS IN VITRO.</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Sutton">Jeffrey P. Sutton</a></td>
+  	  	<td>COMPUTATIONAL AND NEUROBIOLOGICAL FEATURES OF A NETWORK OF NETWORKS</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Tam">David C. Tam</a></td>
+  	  	<td class="alt">A NEW SPIKE TRAIN ANALYSIS FOR DETECTING TRENDS IN FIRING PATTERNS IN 
+  	  	NEURONS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Thau">Robert Thau</a></td>
+  	  	<td>VISUAL SEGMENTATION AND FEATURE BINDING WITHOUT<br />
+  	  	SYNCHRONIZATION</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Theunissen">Frederic Theunissen</a></td>
+  	  	<td class="alt">THE ROLE OF FUNCTIONAL MAPS: FACILITATING CONNECTIVITY AND OPTIMIZING 
+  	  	INFORMATION TRANSMISSION</td>
+  	  	<td class="altcen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Ulinski">Philip S. Ulinski</a></td>
+  	  	<td>SYNAPTIC MECHANISMS UNDERLYING INTENSITY-RESPONSE PROFILES IN CORTICAL NEURONS.</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Pelt">Jaap van Pelt</a></td>
+  	  	<td class="alt">DEPENDENCE OF DENDRITIC ELECTROTONIC EXTENT UPON BRANCHING PATTERN TOPOLOGY</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Vreeswijk">C.A. van Vreeswijk</a></td>
+  	  	<td>WHEN INHIBITION NOT EXCITATION SYNCHRONIZES NEURAL FIRING</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Vibert">J. - F. Vibert</a></td>
+  	  	<td class="alt">XNBC: A SIMULATION TOOL FOR NEUROBIOLOGISTS.</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Wadden">Tom Wadden</a></td>
+  	  	<td>SIMULATIONS OF THE INTERSEGMENTAL COORDINATION USING A CONTINUOUS NETWORK MODEL</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Westbrook">J. Thomas Westbrook</a></td>
+  	  	<td class="alt">INCREASING DYNAMIC RANGE IN A COCHLEA MODEL USING HIGH, MEDIUM, AND LOW 
+  	  	SPONTANEOUS RATE FIBERS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Wilson">Charles Wilson</a></td>
+  	  	<td>OUTWARD RECTIFICATION IN DENDRITES: COMPUTER SIMULATIONS OF ITS EFFECTS ON SYNAPTIC 
+  	  	TRANSMISSION</td>
+  	  	<td class="cen">O</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Winslow">Winslow</a></td>
+  	  	<td class="alt">EFFECTS OFENDOGENOUS CALCIUM BUFFERS AND VESICLE LOCATION ON VESICLE RELEASE 
+  	  	DYNAMICS AND NEUROTRANMI l l~R RELEASE</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Wolf">F. Wolf</a></td>
+  	  	<td>EMERGENCE OF LONG RANGE ORDER IN MAPS OF ORIENTATION PREFERENCE</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td class="alt"><a href="./abstract-list3.shtml#Yen">Shih-Cheng Yen</a></td>
+  	  	<td class="alt">FACE RECOGNITION BY PDP AND RADIAL BASIS FUNCTION NETWORKS: COMPARISONS AND 
+  	  	INSIGHTS</td>
+  	  	<td class="altcen">P</td>
+  	  </tr>
+  	  <tr>
+  	  	<td><a href="./abstract-list3.shtml#Yuille">Alan L. Yuille</a></td>
+  	  	<td>NEURAL IMPLEMENTATION OF BAYESIAN VISION THEORIES BY UNSUPERVISED LEARNING</td>
+  	  	<td class="cen">P</td>
+  	  </tr>
+  	</table>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

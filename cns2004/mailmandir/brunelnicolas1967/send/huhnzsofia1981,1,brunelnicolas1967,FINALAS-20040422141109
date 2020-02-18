@@ -1,0 +1,55 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Zsofia Huhn" <zsofi@rmki.kfki.hu>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Thu 22/4/2004 14:11:9
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Zsofia Huhn,
+
+We're happy to inform you that your paper 'Dendritic spiking accounts for rate and phase coding in a biophysical model of a hippocampal place cell' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors have introduced a large number of assumptions which are either unsupported by experimental data or are impossible to verify in the near future. For example  
+
+1)	They assume a purely velocity dependent input to a CA1 place cells from the entorhinal cortex.
+2)	They assume that the excitatory input to CA1 is entirely mediated by dendritic spikes and that this excitation is out of phase with the somatic periodic inhibition.
+3)	They assume that the place fields are symmetric.
+
+Why do they make these assumptions? Are the necessary? Can phase precession be explained without making these assumptions? Indeed, there are several computational models that can explain phase precession without making any of the above mentioned unwanted assumptions. The authors should read the existing experimental and computational literature carefully.
+
+Reviewer 2 :
+This is one of the clearest papers for me on precession and recession in place field dynamics.
+
+Specific comments 
+1. Are spikes in soma compt necessary?  If not, say so. Or, is only the shunting necessary?  ...and must it be in a distinct compt?
+2. Somatic input current changes sign?  Why, if this is hyperpolarizing inhibiont?
+3. It's surprising that modulation effect of I_s is absent in Fig 1A for I0-d > 2.0   Why?
+ pg 3 lower left   "not to mask" or "to mask"?
+4. For Figs with precession/recession, I'm not sure if "rat" is moving left to right or right to left.
+

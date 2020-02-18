@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2005</title>
+<meta name="description" content="CNS Meeting Home Page 2005." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2005, 
+cns, computational, neuroscience" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+<script type="text/javascript">
+	<!--
+	function makeMail(deel1, deel2, naam){
+		var name = deel1;
+		var domain = deel2;
+		document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+		document.write(naam + '</a>');
+	}
+	-->
+</script>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>CNS*2005</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 17-21 2005, Madison, Wisconsin (USA)</h3>
+  	
+  	<p>CNS *2005 will be held in Madison, Wisconsin from July 17 - 21. The international 
+  	Computational Neuroscience meeting (CNS) is a premier forum for presenting experimental and 
+  	theoretical results exploring the biology of computation in the brain. In 2003, the founding 
+  	executive committee, composed of Christiane Linster, Todd Troyer, Linda Larson-Prior, Erik De 
+  	Schutter and Philip Ulinski, created a formal structure in order to guarantee the continuation of 
+  	this successful meeting. Today, the organization is governed by a 15-20 member rotating board of 
+  	directors, including an executive committee composed of a president, vice-President, treasurer, 
+  	chair of the program-committee and local organizer.</p>
+
+ 	<p>Conforming to the CNS tradition, the Board of Directors is composed of an international 
+ 	group of computational neuroscientists including graduate students, postdoctoral associates 
+ 	and faculty. A separate program committee selects the individual presentations for each 
+ 	meeting. We encourage all members of the diverse computational community to contribute to 
+ 	making CNS a fun and productive meeting and to nominate themselves or others to serve on 
+ 	the rotating Board of Directors.</p>
+
+	<p>The Computational Neuroscience Meeting is held yearly (around mid-July) in varying locations 
+	in North America and Europe. Currently, the meeting is held in Europe once every three years.</p>
+	
+	<p><a href="http://www.cnsorg.org">More info about CNS*2005 and the organizing committee</a></p>
+	
+	<h4>Information and administration :</h4>
+	
+	<p>Christiane Linster <script type="text/javascript">makeMail("CL243","cornell.edu", "CL243(at)cornell(dot)edu");</script><br />
+	or <script type="text/javascript">makeMail("cns","cnsorg.org", "cns(at)cnsorg(dot)org");</script></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2005" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

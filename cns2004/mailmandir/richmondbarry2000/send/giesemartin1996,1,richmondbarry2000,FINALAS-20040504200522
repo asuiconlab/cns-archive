@@ -1,0 +1,52 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Martin Giese" <martin.giese@tuebingen.mpg.de>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 4/5/2004 20:5:22
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Martin Giese,
+
+We're happy to inform you that your paper 'Physiologically inspired neural model for the encoding of face spaces' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+General Comments 
+    This article deals with an interesting subject in a thoughtful manner, but the authors should be more cautious about their conclusions. A powerful approach is adopted in developing predictions from two different computational based models concerning the way in which faces might be represented. The predictions are then evaluated using neuronal data collected from monkey using specifically designed experiments. The conclusions that the authors draw, however, are not supported by the data. The tone of the paper needs to be adjusted accordingly.
+    Unfortunately, I think that the relatively straight-forward approach adopted by the authors is unlikely to reveal the nature of face space. The ?norm? based model assumes that the dimensions of the neuronal representation of face space are based on extraction of the relevant dimensions from experienced faces. The prototype based model assumes the encoding is based on a more ?absolute? space ? the characteristics of all faces. Unless some bias is introduced in the experienced range of faces these two models would result in the same neuronal representations. It is therefore necessary to consider other explanations of the results.
+    The neuronal results suggest that the representation of ?face space? is encoded by neurones whose largest responses would be elicited by stimuli that lie towards the ?edge? of face space (caricatures). It is erroneous to conclude from this that a norm based encoding system is used  it is always possible that the encoding uses neurones tuned to the ?edges? of a prototype based space. 
+    Thus, I believe that the authors should temper their conclusions somewhat and refer to the way in which face space is encoded (the neurones are ?tuned? to the edges of face space) rather than a continuous representation (i.e. neurones whose largest responses are elicited by stimuli towards the centre of face space). [Bizzi has argued for an even more extreme version of this type of coding for limb movement where the maximal neuronal responses lie in ?arm-movement? space at positions beyond the physical limitations of limb motion.] This more cautious interpretation is consistent with their results and does not suffer the possible confound of convergence of norm-based and prototype based representations.
+
+
+
+Reviewer 2 :
+The first sentence of the abstract I think has been subject to a writing error, there is of course a lot of neurophysiological data on the neural basis of the encoding of faces.  Of course, fully understanding the computational basis of the encoding is an interesting issue.  The data summarised at the end of section 3 sound interesting, but one is given very little impression of what the data are like.  It could be helpful if there were a figure here.  On page 5 principle components is principal.  Although a training set was used for the model, it is not clear how this concept is related to the neurophysiological experiment.  Partly because the model and the neurophysiology are not set out in sufficient detail, and do not appear to be directly comparable the whole paper is rather difficult to interpret.  My own view is that without considerable clarification, this particular paper would not be very helpful to the reader.
+

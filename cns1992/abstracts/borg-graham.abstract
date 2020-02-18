@@ -1,0 +1,30 @@
+Non-Linear Spatio-Temporal Filtering in Dendrites:
+ Directional Selectivity and Beyond}}
+
+
+Lyle J Borg-Graham and Norberto Grzywacz
+
+Center for Biological Information Processing E25-201 
+Department of Brain and Cognitive Sciences 
+Massachusetts Institute of Technology 
+Cambridge, Massachusetts, 02139
+ (To whom correspondence should be addressed)
+
+Smith--Kettlewell Eye Research Institute
+2232 Webster St.
+San Francisco, California, 94115
+
+We consider the non-linear spatio-temporal computation of directional
+selectivity (DS), and describe a model of retinal DS whose key
+elements are contained within the dendritic branches of amacrine
+cells. Interaction between excitatory and inhibitory synaptic input
+provides the non-linearity crucial for DS.  Distal outputs, cable
+properties and synaptic kinetics underly spatial asymmetry,
+discrimination, and temporal delay, respectively.  The model is
+supported by simulations of retinal cells and is consistent with
+recent electrophysiological data.  Similar conditions may occur
+elsewhere in the brain, and simulations of hippocampal pyramidal cells
+suggest that dendritic filtering that is selective for synaptic
+activation sequence may be a more general phenomenon.
+
+

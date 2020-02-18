@@ -1,0 +1,52 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Yutaka Hirata" <yutaka@isc.chubu.ac.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Thu 22/4/2004 14:10:24
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Yutaka Hirata,
+
+We're happy to inform you that your paper 'Evaluation of the inverse dynamic model in cerebellum during visual-vestibular interactions at different VOR gains in squirrel monkeys' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper is the first to analyze single neuron activity during different types of eye movements (OKR, several VOR) using an inverse dynamics analysis.  Some of their statistical methods have some originality among the studies using the inverse dynamics analysis.  But their analysis has a problem with their positional data.  The positional data (4th row in Fig. 2) includes saccadic eye movements, although the velocity and acceleration data (2nd and 3rd rows in Fig. 2) did not.  The authors should have removed the saccades from their positional data.  An analysis by equation (1) with eye positional data including saccades has an assumption that the floccular simple spike firing can produce saccadic eye position (not the saccadic velocity and acceleration).  There is no report that suggests such an assumption.  Moreover, mathematically, the eye position should be the integration of eye velocity in equation (1), but the eye position in Fig.2 is not the same as the integration of eye velocity in Fig. 2.  Usage of inadequate data for the analysis would produce inadequate results and discussions.  I recommend that the authors perform an inverse dynamics analysis using positional data that is the same as the integration of velocity data.  The authors might need another task in which the eye acceleration would have a different shape from eye position like the tasks in reference [3] and [9].  
+
+
+Reviewer 2 :
+This study evaluates the inverse dynamic model in cerebellum during visual-vestibular interaction. The model assumes that Purkinje cell firing is equivalent to the motor command. With the use of different behavioral conditions (VORd, VORs,VORe, OKR) the strength of this model was challenged. The inverse dynamic model could reconstruct the Purkinje cell firing behavior, but did need for every different behavioral paradigm a different set of parameters. The authors concluded that the output of the flocculus is not the motor command itself, but that it is at least related to the motor command.
+
+Major
+- p2  "When only SS  Purkinje cells" is not really a scientific approach. How many cells are recruited in this way? You cannot hear the complex spike pause, can you?
+- Figure 2 and 3  The given parameter values in figure 2 sometimes deviate too much from the average values in figure 3 (fe figure 2  (row 2,col 1), (row 3,col 2), (row 4,col 1), (row 4,col2)).
+
+Minor
+- Did some sort of animal welfare committee approve these experiments (add to methods section).
+- p2  The abbrev. OKS is first used the Data handling section line 1.
+p2 Data handling section line 11  unknown capital V 
+

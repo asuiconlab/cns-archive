@@ -1,0 +1,44 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Go Ashida" <ashida@acs.i.kyoto-u.ac.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 6/4/2004 19:7:17
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Go Ashida,
+
+We're happy to inform you that your paper 'Signal Size Detection by Noisy Neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+This work treats the case of a H&H-like stochastic neuron model receiving well-defined current input. It shows that in such a neuron, it is possible to reconstruct the input size and input time from measuring the spike timing and number of output spikes.
+
+This is not a very-well written paper, neither the results are convincingly explained. I can't say that I have learned new things from this work. However, with further systematic analysis, one can possibly draw a more general conclusion and interesting insights. 
+

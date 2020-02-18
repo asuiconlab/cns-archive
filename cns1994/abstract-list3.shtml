@@ -1,0 +1,837 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994 - Abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1994 - Abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters, Abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<h4>CNS*1994 Abstracts</h4>
+  	
+  	<ul>
+  	  <li><a name="Osborne"></a>
+  	  <p><b>Author:</b> Leslie C. Osborne</p>
+      <p>Group in Biophysics<br />
+      University of California<br />
+      Berkeley, CA 94720</p>
+      <p><b>Title:</b> MEASUREMENTS OF CRICKET WIND-SENSITIVE HAIR MOTION WITH LASER FEEDBACK 
+      INTERFEROMETRY</p>
+      <p><b>Abstract:</b> The wind-sensing hairs of crickets are an accessible mechanosensory system 
+      in which one can quantify both the stimulus and the response and thereby extract the mechanical 
+      filter that passes air-motion inforrnation to the neurons of the cercal system. Tuning and range 
+      fractionation are accomplished by size variation in the hairs and the fluid mechanical 
+      properties of the cercus. Using laser feedback interferometry, I measured hair motion down to 
+      the level of Brownian motion which may represent a fundamental noise source in the neural 
+      computations of the cercal system.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Parnas"></a>
+  	  <p><b>Author:</b> Bruce R. Parnas* and Muriel D. Ross</p>
+      <p>Biocomputation Center<br />
+      MS 239-11, NASA Ames Research Center<br />
+      Moffett Field, CA 94035-1000</p>
+      <p><b>Title:</b> A 3-D INTERACTIVE MODEL FOR PERIPHERAL VESTIBULAL SIGNAL PROCESSING</p>
+      <p><b>Abstract:</b> We have developed a 3-D interactive abstract network model for the 
+      vestibular periphery. This model allows the user to rotate, translate and scale the model so 
+      that specific portions may be viewed. This feature becomes increasingly important as the size of 
+      the system being simulated increases. In addition the user may choose specific component 
+      elements and see the associated temporal waveforms and receptive fields in separate windows. The 
+      model uses simple representations for anatomical elements, resulting in a computationally 
+      efficient system. With this system we hope to model the effects of altered gravity experiments 
+      on signal processing in the vestibular periphery.</p>
+      <hr /></li>
+      
+      <li><a name="Ernst"></a>
+  	  <p><b>Author:</b> U. Ernst, K. Pawelzik*, and T. Geisel</p>
+      <p>Institut fur Theoretisch Physik, Universitat Frankfurt<br />
+      60054 Frankfurt/M., Germany</p>
+      <p><b>Title:</b> MULTIPLE PHASE CLUSTERING OF GLOBALLY PULSE COUPLED NEURONS WITH DELAY</p>
+      <p><b>Abstract:</b> Neuronal synchronizations have gained increased attention since it has been 
+      suspected that they related to higher brain functions. The basic mechanisms leading to 
+      synchronization and desynchronization in realistic neuronal groups are still only insufficiently 
+      understood. In this contribution we analyse the mathematical gronds for synchronization in 
+      groups of simple pulse coupled neurons with finite transmission delays. Finite transmission 
+      delays and pulselike coupling yield a rich phenomenology including multiple clustering and 
+      spontanous desynchronization. In particular we analyse the stability of synchronization and 
+      derive a simple mechanism leading to synchronization in case of inhibition. Our treatment 
+      explains the emergence of multiple phase clustering for delayed mutual inhibition while for 
+      delayed excitatory interaction we can prove that precise synchronization is unstable.</p>
+      <hr /></li>
+      
+      <li><a name="Peyton"></a>
+  	  <p><b>Author:</b> S. F. Peyton* 1 and D. R. Kipke 2</p>
+      <p>Arizona State University<br />
+      Bioengineering Program<br />
+      Tempe, AZ 85287-6006</p>
+      <p><b>Title:</b> A COMPARTMENTAL MODEL OF VENTRAL COCHLEAR NUCLEUS STELLATE CELLS: RESPONSES TO 
+      CONSTANT AND AMPLITUDE-MODULATED TONES</p>
+      <p><b>Abstract:</b> ln this study, we developed biologically plausible, compartmental models of 
+      ventral cochlear nucleus stellate cells to investigate the effects of synaptic distribution on 
+      spike-discharge activity using constant and amplitude-modulated tones. Differences in the 
+      spatial distribution of excitatory auditory nerve (AN) inputs and inhibitory non-cochlear inputs 
+      evoke a range of post-stimulus time histograms (PSTHs) chopper responses from sustained to 
+      transient to onset. These simulations illustrate how non-linear dendritic processing of AN 
+      inputs determines the frequency selectivity and temporal responses characteristic of stellate 
+      cells observed in frequency threshold curves PSTHs, and modulation transfer functions.</p>
+      <hr /></li>
+      
+      <li><a name="Quenet"></a>
+  	  <p><b>Author:</b> Quenet B.*, Devaud J. M. Gascuel J., and Masson C.</p>
+      <p>Laboratoire de Neurobiologie Comparee des Invertebres (L.N.C.I.)<br />
+      INRA-CNRS (URA 1190)<br />
+      BP 23 91440 Bures-sur-Yvette, France</p>
+      <p><b>Title:</b> IS A CLASSIFICATION OF HONEYBEE ANTENNAL LOBE NEURONES GROWN IN CULTURE 
+      POSSIBLE?</p>
+      <p><b>Abstract:</b> The study presented here concerns the morphology of honeybee antennal lobe 
+      neurones grown in vitro. An important set of such neurons has been described by using 
+      morphometric parameters that permit to classified them into three different classes. An attempt 
+      to make a correspondence between this classification and the one established in vivo on 
+      morphological and functional criteria is proposed.</p>
+      <hr /></li>
+      
+      <li><a name="Rakshit"></a>
+  	  <p><b>Author:</b> Subrata Rakshit* and Charles H. Anderson</p>
+      <p>Dept. of Anatomy and Neurobiology<br />
+      Washington University School of Medicine<br />
+      St. Louis, MO, 63110</p>
+      <p><b>Title:</b> MAXIMALLY INFORMATIVE FILTER BANKS AND NEURAL ENCODING</p>
+      <p><b>Abstract:</b> A multitude of neural responses and representations are observed 
+      experimentally and utilized in models. The choice of which representation to use for a 
+      particular computational task can be explored utilizing information theory. It can be shown 
+      that in order to be maximally informative about their inputs, neural response curves must encode 
+      the probability density functions of their inputs. Moreover, the information in the neural 
+      outputs must be encoded in a way that makes it immune to noise inherent in spike trains. Hence 
+      the selection of the information encoding scheme is influenced by the structure of the 
+      statistics of the task space, the signal to noise of neural spike train outputs and the amount 
+      of resources that can be devoted to the task. Specific neurobiological examples are examined to 
+      show how far one may account for various biological design strategies by assuming that the goal 
+      is to robustly encode maximum amount of information at a given cost.</p>
+      <hr /></li>
+      
+      <li><a name="Read"></a>
+  	  <p><b>Author:</b> Walter Read* 1 and Valeriy I. Nenov 2</p>
+      <p>1 Department of Computer Science<br />
+      California State University<br />
+      Fresno, CA</p>
+      <p>2 Division of Neurosurgery, CHS 74-140<br />
+      UCLA School of Medicine, Los Angeles, CA</p>
+      <p><b>Title:</b> A COMPUTATIONAL MODEL OF ATTENTIONAL FOCUS SEARCHLIGHT OF ATTENTION HYPOTHESIS 
+      REVISITED</p>
+      <p><b>Abstract:</b> The &quot;searchlight of attention&quot; can involve (at least) two separate 
+      functions: the relative enhancement of one region and a shift of the enhancement. To study these 
+      functions we built a series of computational models of increasing complexity. These models were 
+      analyzed and implemented on the Connection Machine for a variety of parameter values. We found 
+      that under reasonable assumptions, the model showed strong enhancement of the most prominent 
+      area and was able to fade out the foreground and to enhance the background. We have not yet been 
+      able to show full general switching between visual areas.</p>
+      <hr /></li>
+      
+      <li><a name="Rush"></a>
+  	  <p><b>Author:</b> Dr. Maureen E. Rush 1 and Dr. John Rinzel 2</p>
+      <p>1 Mathematics Department<br />
+      California State University<br />
+      Bakersfield, CA 93311</p>
+      <p>2 Mathematical Research Branch<br />
+      NIDDK/NIH<br />
+      Bethesda, MD 20892</p>
+      <p><b>Title:</b> THE POTASSIUM A-CURRENT, LOW FIRING RATES, AND REBOUND EXCITATION IN 
+      HODGKIN-HUXLEY MODELS</p>
+      <p><b>Abstract:</b> The Hodgkin-Huxley equations have been used to describe action potential 
+      generation in many excitable cells, and they predict repetitive firing over an interval of 
+      constant, applied current values. Moreover, the minimum firing frequency is rather high (&gt; 
+      50 Hz) as a consequence of the subcritical Hopf bifurcation structure of periodic solutions to 
+      the equations. In the work of Connor and Stevens, lower firing rates are attributed to the 
+      presence of a second potassium current, the transient A-current. We show that a necessary 
+      condition to obtain arbitrarily low rates is that the membrane's steady-state, current-voltage 
+      relation be non-monotonic, and that this leads to a different (non-Hopf-like) bifurcation 
+      structure for the emergent periodic behavior. Motivated by the prevalence of the A-current in 
+      many excitable cells, we define a generic A-current and study the onset of periodic orbits with 
+      zero frequency and the dependence of this non-Hopf-like bifurcation on A-current parameters. For 
+      the data set we consider most typical, we find that IA does not lower the firing frequency 
+      arbitrarily close to zero; it does shift the stimulus-frequency curve to a more depolarized 
+      interval of applied current, and so effectively reduces the frequency of firing. Finally, we 
+      use the method of averaging to show how additional bifurcations emerge along the branch of 
+      periodic solutions if the inactivation of IA is slow. This leads to periodic bursting of action 
+      potentials where the number of sodium spikes in a burst depends on the maximal conductance of 
+      IA-</p>
+      <p>Many cell types that fire repetitively under constant depolarizing stimulus also show the 
+      phenomenon of anode break excitation. The A-current can significantly effect such rebound 
+      behavior since it recovers from inactivation during hyperpolarization. The additional opposition 
+      provided by IA can suppress excitation after deep hyperpolarization, creating an 'inhibition' 
+      threshold above which a cell can no longer fire. Since the model neuron remains excitable after 
+      modest hyperpolarization, an excitation window is created. IA controls the size of this window, 
+      and there is a maximal conductance value above which all excitation is suppressed.</p>
+      <hr /></li>
+      
+      <li><a name="Rybak"></a>
+  	  <p><b>Author:</b> I. A. Rybak* and J. S. Schwaber</p>
+      <p>Neural Computation Group<br />
+      Experimental Station<br />
+      DuPont Co, E-323<br />
+      Wilmington, DE 19880-0323</p>
+      <p>Department of Neuroscience<br />
+      University of Pennsylvania<br />
+      Philadelphia, PA 19104</p>
+      <p><b>Title:</b> COMPARATIVE MODELING OF NEUROGENESIS OF THE THREE-PHASE RESPIRATORY RHYTHM</p>
+      <p><b>Abstract:</b> Models capable of autonomous generation of the respiratory rhythm were 
+      developed following Richter's theory of the origin of the respiratory rhythm. In this theory the 
+      respiratory cycle consists of three phases: inspiration, post-inspiration and expiration; and 
+      the oscillations in the respiratory network are provided by both specific interconnections and 
+      individual properties of neurons of several respiratory groups. Several versions of the neural 
+      architecture capable of generating the three-phase respiratory rhythm and reproducing the 
+      specific activity patterns of real neurons of different respiratory groups have been developed. 
+      Model comparisons were made of a simplified spiking, dynamic neuron model and the complete 
+      Hodgkin-Huxley type model. Results are analyzed and compared with physiological data. Some 
+      predictions are considered.</p>
+      <hr /></li>
+      
+      <li><a name="Sabbatini"></a>
+  	  <p><b>Author:</b> Sabbatini, R.M.E 1 and Cardoso, S.H. 2</p>
+      <p>1 Center for Biomedical Informatics of the State University of<br />
+      Campinas<br />
+      P. O. Box 6005<br />
+      Campinas, SP 13081-970, Brazil</p>
+      <p>2 Laboratory of Psychobiology<br />
+      Dept. of Psychology and Education<br />
+      University of Sao Paulo<br />
+      Ribeirao Preto<br />
+      SP 14040-000, Brazil</p>
+      <p><b>Title:</b> CLASSIFICATION AND QUANTIFICATION OF BEHAVIORAL PATTERNS AND SEQUENCES IN 
+      NEUROETHOLOGICAL STUDIES, USING ARTIFICIAL NEURAL NETWORKS</p>
+      <p><b>Abstract:</b> The identification, isolation and quantification of animal behavioral 
+      patterns and sequences represent essential steps for the analysis of observed behavior using the 
+      ethological approach. Many of the difficulties and poor performance associated to conventional 
+      techniques can be traced to time-varying transition probabilities between elements of a sequence 
+      and the essential non-linear separability of multidimensional patterns. In this paper we present 
+      a novel approach to the problem of behavioral pattern classification, using artificial neural 
+      networks (ANN). Our aim was to test the feasibility of using ANNs in the task of automatic 
+      identification and quantification of complex behavioral patterns, using a input a raw sequence 
+      of elementary behavioral items recorded systematically by direct observation, consisting of 
+      computer-recorded sequences of aggressive, defensive and escape behavior of brain-stimulated 
+      cats. All networks converged to criterion. The present work provides a demonstration of the 
+      usefulness and viability of the ANN approach in computational analysis of observed behavioral 
+      patterns in neuroethology.</p>
+      <hr /></li>
+      
+      <li><a name="Sabbatini1"></a>
+  	  <p><b>Author:</b> Sabbatini, R.M.E.</p>
+      <p>Center for Biomedical Informatics<br />
+      State of University of Campinas<br />
+      P.O. Box 6005<br />
+      Campinas, SP 13081-970, Brazil</p>
+      <p><b>Title:</b> USING ARTIFICIAL NEURAL NETWORKS TO UNDERSTAND BRAIN FUNCTION: THE ANALYSIS OF 
+      NEUROELECTRIC INFORMATION</p>
+      <p><b>Abstract:</b> One of the main goals of the neurosciences is to measure and to understand 
+      the complex flow of information that takes place in the nervous system. With the recent 
+      development of techniques for the simultaneous recording of large number of neurons the 
+      informational analysis of recorded spike-train data is crucial to the study of the dynamics of 
+      biological neural networks. Artificial neural networks (ANNs) are proving to be very useful as 
+      computational tools for this purpose, thus closing the circle of mutual influence between the 
+      Neurosciences and Connectionist Science. This paper reviews briefly the state-of-the-art in ANN 
+      applications in cell-level neuroelectric signal processing, and discusses new ideas for a more 
+      intense bond between connectionist science and computational neurosciences.</p>
+      <hr /></li>
+      
+      <li><a name="Salinas"></a>
+  	  <p><b>Author:</b> Emilio Salinas* and L.F. Abbott</p>
+      <p>Biology Department and Center for Complex Systems<br />
+      Brandeis University<br />
+      Waltham, MA 02254</p>
+      <p><b>Title:</b> DECODING VECTORIAL INFORMATION FROM FIRING RATES</p>
+      <p><b>Abstract:</b> In many systems the firing rates of a population of neurons are functions of 
+      a vectorial quantity. We address the problem of reconstructing the coded vector from measured 
+      firing rate data. Several methods are analysed and compared. A new linear method, the optimal 
+      linear estimator (OLE), is presented. When neurons have tuning curves that approximate cosines 
+      the OLE generates estimates of the vector that are as accurate as those found using complex 
+      statistical methods. It also produces more accurate reconstructions using many less neurons than 
+      the known vector method. The results point out two general information coding strategies that 
+      neural networks might implement.</p>
+      <hr /></li>
+      
+      <li><a name="Sayegh"></a>
+  	  <p><b>Author:</b> Samir I. Sayegh* 1, Pulin Sampat 2 and Sattar A. Jaboori 3</p>
+      <p>1 Department of Physics<br />
+      2 Department of Computer Sciences<br />
+      3 Department of Biological Sciences</p>
+      <p>Purdue University at Fort Wayne<br />
+      Fort Wayne, IN 46805-1499</p>
+      <p><b>Title:</b> ANALYZING THE HIPPOCAMPAL PLACE-CELL PHENOMENON BY MODELING THE CENTRAL VISUAL 
+      PATHWAY</p>
+      <p><b>Abstract:</b> We have constructed a realistic, yet simple model in GENESIS incorporating 
+      the place-cell activity in response to visual cues as processed through the central visual 
+      pathway. The CA3 region in the hippocampus contains bursting pyramidal cells that respond to 
+      spatial location by processing environmental cues. Our pyramidal cells as constructed are based 
+      on the model developed by Roger Traub (1991). Our results show the movement of stimuli induced 
+      by environmental cues through the central visual pathway and eventually mapped onto the 
+      hippocampus. The model learns the position of the environmental cues via a hebbian mechanism.</p>
+      <hr /></li>
+      
+      <li><a name="Shouval"></a>
+  	  <p><b>Author:</b> Harel Shouval* and Yong Liu</p>
+      <p>Department of Physics and<br />
+      Institute for Brain and Neural Systems<br />
+      Box 1843, Brown University<br />
+      Providence, R. I., 02912</p>
+      <p><b>Title:</b> HOW DOES RETINAL PREPROCESSING EFFECT THE RECEPTIVE FIELDS OF STABILYZED 
+      HEBBIEN NEURONS</p>
+      <p><b>Abstract:</b> The structure of receptive fields in the visual cortex is believed to be 
+      shaped by unsupervised learning. It has been shown that several of the forms of stabilyzed 
+      Hebbien (Hebb, 1949) rules are governed by the first principal components(Oja, 1982; ?). In this 
+      paper we analyze the form of the principal components of natural images, which have been 
+      preprocessed by center surround filters, anoulogus to those found in the retina. An assumption 
+      is made that only small circular regions of the images are being used as training patterns. We 
+      investigate how the ratio between the size of the receptive fields, and the size of the 
+      preprocessing filter, effects the receptive field structure. The derivation relies on results 
+      about the correlation function of natural images (Field, 1987), and on the assumption that the 
+      correlation function is radially symmetric. Finally the biological relevance of our results is 
+      discussed.</p>
+      <hr /></li>
+      
+      <li><a name="Sigvardt"></a>
+  	  <p><b>Author:</b> Karen A. Sigvardt* 1 and Thelma L. Williams 2</p>
+      <p>1 Department of Neurology<br />
+      University of California-Davis<br />
+      Martinez CA 94553</p>
+      <p>2 Department of Physiology<br />
+      St George's Hospital Medical School<br />
+      London SW17 ORE, UK</p>
+      <p><b>Title:</b> SIMULATION AND EXPERIMENTAL CONFIRMATION OF A BOUNDARY LAYER IN THE 
+      INTERSEGMENTAL PHASE LAGS ALONG THE LENGTH OF THE LAMPREY SPINAL CORD.</p>
+      <p><b>Abstract:</b> An important feature of the swimming motor pattern generated by the lamprey 
+      spinal cord is an intersegmental phase delay that is constant along the length of the cord. The 
+      lamprey CPG for locomotion has been modeled as a chain of coupled oscillators, within a general 
+      mathematical framework (Kopell and Ermentrout 1986, 1988). The analysis predicts that for 
+      asymmetric coupling of equally-activated oscillators, the intersegmental phase lag will be 
+      uniform along the chain except in a boundary layer at one end. In this presentation we will 
+      describe simulations showing this boundary layer at the rostral end of a chain of oscillators in 
+      which ascending coupling is dominant, and experimental results that confirm that a boundary 
+      layer does exist at the rostral end of an isolated preparation of lamprey spinal cord.</p>
+      <hr /></li>
+      
+      <li><a name="Sirosh"></a>
+  	  <p><b>Author:</b> Joseph Sirosh* and Risto Miikkulainen</p>
+      <p>Department of Computer Sciences<br />
+      The University of Texas at Austin<br />
+      Austin, TX 78712</p>
+      <p><b>Title:</b> MODELING CORTICAL PLASTICITY BASED ON ADAPTING LATERAL INTERACTION</p>
+      <p><b>Abstract:</b> A neural network model called LISSOM for the cooperative self-organization 
+      of afferent and lateral connections in cortical maps is applied to modeling cortical plasticity. 
+      After self-organization, the LISSOM maps are in dynamic equilibrium with the input, and 
+      reorganize like the cortex in response to simulated cortical lesions and intracortical 
+      microstimulation. Adapting lateral interactions are shown to form the basis for such plasticity. 
+      The model replicates several experimental results computationally and can also account for the 
+      dynamics of cortical reorganization.</p>
+      <hr /></li>
+      
+      <li><a name="Lincoln"></a>
+  	  <p><b>Author:</b> William Lincoln and Josef Skrzypek*</p>
+      <p>Machine Perception Laboratory<br />
+      University of California<br />
+      Los Angeles, CA 90024</p>
+      <p><b>Title:</b> DEPTH FROM TRANSPARENCY</p>
+      <p><b>Abstract:</b> When transparency is perceived, psychophysical evidence demonstrates effects 
+      on depth relationships between two or more apparently superimposed physical surfaces suggestive 
+      of early interaction. Why should there exist low-level visual mechanisms for a seemingly 
+      peripheral visual phenomenon such as transparency? Shadows as well as other physical phenomenon 
+      cannot create the luminance and depth conditions consistent with perceptual experience, and thus 
+      mechanisms for their analysis are not solely responsible for perceptual transparency. We present 
+      here a computational model for perceptual transparency supposing no specialized mechanisms. In 
+      our model depth from transparency results from local interactions of monocular occlusion cues 
+      and stereoscopic depth. End-stopped cells might provide the physiological mechanism sensitive to 
+      opaque occlusion. Simulation results suggest the pattern of activity of hypothetical end-stopped 
+      cells determines the depth interactions due to transparency. End-stop cells signaling occlusion 
+      interact with a population encoding of disparity consistent with neurophysiology and 
+      psychophysics in a computational model that explains many experimental results.</p>
+      <hr /></li>
+      
+      <li><a name="Smetters"></a>
+  	  <p><b>Author:</b> D. K. Smetters* and S. B. Nelson</p>
+      <p>Department of Brain and Cognitive Science<br />
+      43 Carleton St., E25-618<br />
+      MIT<br />
+      Cambridge, MA 02139</p>
+      <p><b>Title:</b> ELECTROTONIC STRUCTURE AND SYNAPTIC VARIABILITY IN CORTICAL NEURONS</p>
+      <p><b>Abstract:</b> Compartmental models of reconstructed cortical neurons were used to assess 
+      the relative contributions of electrotonic filtering, synaptic parameters and recording 
+      characteristics on the distribution of synaptic responses measured at the soma from synapses 
+      located throughout the dendritic tree. The distribution of peak amplitudes in simulated current 
+      clamp was very narrow, except for extremely distal synapses. In voltage clamp, space clamp 
+      errors and dendritic filtering increase variability, but this is greatly reduced by series 
+      resistance. This suggests that while some of the synaptic variability measured experimentally is 
+      due to cable filtering, much of it results from intrinsic variability between synapses.</p>
+      <hr /></li>
+      
+      <li><a name="Somers"></a>
+  	  <p><b>Author:</b> D. C. Somers*, S. B. Nelson, and M. Sur</p>
+  	  <p>Department of Brain and Cognitive Science<br />
+  	  43 Carleton St., E25-618<br />
+  	  MIT<br />
+  	  Cambridge, MA 02139</p>
+  	  <p><b>Title:</b> AN EMERGENT MODEL OF VISUAL CORTICAL ORIENTATION SELECTIVITY</p>
+      <p><b>Abstract:</b> We demonstrate a cortical circuit based on known anatomical details and 
+      cellular properties which can achieve sharp orientation tuning despite poorly tuned 
+      thalamocortical input. Sharp tuning arises emergently from excitatory interactions between 
+      similarly tuned neurons, which also receive broadly tuned inhibition. This model accounts for 
+      intracellular recordings and pharmacological blockade studies, the results of which had appeared 
+      to conflict over the role of inhibition. We suggest that inhibition acts non-specifically to 
+      maintain the selectivity of individual neurons, but that it is critical at the columnar level 
+      for balancing the strong intracortical excitation.</p>
+      <hr /></li>
+      
+      <li><a name="Stemmler"></a>
+  	  <p><b>Author:</b> Martin Stemmler*, Marius Usher, and Christof Koch</p>
+      <p>Computation and Neural Systems, 139-74<br />
+      California Institute of Technology<br />
+      Pasadena, CA 91125</p>
+      <p><b>Title:</b> OSCILLATORY FIELD POTENTIALS WITH IRREGULAR SINGLE CELL DISCHARGE</p>
+      <p><b>Abstract:</b> While cortical oscillations are robust and commonly found in local<br />
+      field potential measurements (Gray et al., 1990; Eckhorn et al., 1993), they are much less 
+      evident in single spike trains recorded from behaving monkeys (Bair et al.,l994). We show that a 
+      simple computational neural model with biologically plausible lateral connectivity can explain 
+      such a discrepancy. Analysis of the model's power spectra reveals a prominent peak around 30-50 
+      Hz in the local field potential, defined as the summed spiking activity of a local population. 
+      At the same time, oscillatory peaks are completely absent in the spectra of single cell spike 
+      trains. Instead, the discharge pattern of single cells is highly irregular, as it is in vivo 
+      (Softky and Koch, 1993); as a consequence, single-cell power spectra replicate the standard 
+      spectral shape seen in cortical cells (Bair et. al, 1994 ).</p>
+      <hr /></li>
+      
+      <li><a name="Kowtha"></a>
+  	  <p><b>Author:</b> V. Kowtha 1, P. Satyanarayana 2 , R. Granger 3 and D. Stenger* 4</p>
+      <p>1 Center for Bio/Molecular Science and Engineering, Code 6900<br />
+      Naval Research Laboratory<br />
+      Washington, DC 20375</p>
+      <p>2 Applied Physics Division<br />
+      Science Applicaitons International Corporation<br />
+      1710 Goodrich Drive<br />
+      Mclean, VA 22102</p>
+      <p>3 Center for Neurobiology of Learning and Memory<br />
+      University of California, Irvine, CA 92717</p>
+      <p>4 Center for Bio/Molecular Science and Engineering, Code 6900<br />
+      Naval Research Laboratory<br />
+      Washington, DC 20375</p>
+      <p><b>Title:</b> EFFECTS OF RANDOM NOISE ON CLASSIFICATION BY A PIRIFORM HIERARCHICAL NEURAL 
+      NETWORK</p>
+      <p><b>Abstract:</b> Fundamental questions exist about the ability of biological and artificial 
+      neural networks to perform classification when presented with increasingly noisy input patterns. 
+      We compared a piriform hierarchical clustering (PHC) algorithm, modeled after the rat olfactory 
+      cortex, with conventional back propagation algorithms. PHC can be trained on patterns with 
+      combined levels (0, 1, 5, and 10%) of Gaussain noise to allow roughly equivalent performance at 
+      arbitrary noise levels between 0 and 10%. We examine the mechanisms underlying this property, 
+      and suggest possible implications for modeling of biological neural networks that must operate 
+      on input patterns with varying signal-to-noise ratio.</p>
+      <hr /></li>
+      
+      <li><a name="Stern"></a>
+  	  <p><b>Author:</b> Edward Stern*, Charles Wilson, and Anthony Kincaid </p>
+      <p>Dept. of Anatomy and Neurobiology<br />
+      University of Tennessee Medical School<br />
+      855 Monroe Ave.<br />
+      Memphis, TN 38163</p>
+      <p><b>Title:</b> INFORMATION PROCESSING PROPERTIES OF CORTICOSTRIATAL AND NEOSTRIATAL NEURONS</p>
+      <p><b>Abstract:</b> We analyzed the membrane bistability of neostriatal and corticostriatal 
+      neurons using dwell-time histograms. The variance of the depolarized state was greater than that 
+      of the hyperpolarized state, reflecting synaptic noise. The bistability of the corticostriatal 
+      cells is less clearly defined, and has a smaller dynamic range than that of the neostriatal 
+      neurons. The analysis showed a high likelihood that the converging synaptic input to the 
+      cortical and corticostriatal neurons has a large stochastic component. The onset of the input 
+      needed to generate the depolarized state occurs with similar distributions in both neuronal 
+      classes. The differences can be explained by the different distributions of channels in the 
+      respective neuronal cell membranes.</p>
+      <hr /></li>
+      
+      <li><a name="Stern1"></a>
+  	  <p><b>Author:</b> Edward Stern* 1, Ad Aertsen 2, Eilon Vaadia 3, Shaul Hochstein 4</p>
+      <p>Dept. of Anatomy and Neurobioloy<br />
+      University of Tennessee Medical School,<br />
+      855 Monroe Ave.<br />
+      Memphis, TN 38163 USA</p>
+      <p>2 Dept. of Neurobiology, Weizmann Inst. of Science, Rehovot, Israel,<br />
+      and Inst. fuer Neuroinformatik, Ruhr-University, Bochum, Germany.</p>
+      <p>3 Physiology Dept and Center for Neural Computation<br />
+      Hebrew University, Jerusalem, Israel</p>
+      <p>4 Neurobiology Dept and Center for Neural Computation<br />
+      Hebrew University, Jerusalem, Israel</p>
+      <p><b>Title:</b> REDUCTION OF STIMULUS AMBIGUITY: FUNCTIONAL CONNECTIVITY AND CORTICAL 
+      OPERATIONS</p>
+      <p><b>Abstract:</b> Multidimensional receptive fields were used for the description and 
+      comparison of the information-processing characteristics of single neurons and neuronal 
+      assemblies. The tuning of the response of an assembly of simultaneously recorded neurons was not 
+      predicted by the individual responses of the component neurons. The bandwidth of the multineuron 
+      response was significantly narrower than that predicted from the tuning of the individual 
+      neurons' receptive fields. The coincident firing of two neurons therefore carries more 
+      information than the two neurons measured individually. Neuronal coincident activity is 
+      therefore a dynamic. stimulus- and time-dependent phenomenon. We propose that this may be a 
+      major computational mechanism of primary sensory cortex.</p>
+      <hr /></li>
+      
+      <li><a name="Stiber"></a>
+  	  <p><b>Author:</b> Michael Stiber* 1 , Li Yan 1 and Jose P. Segundo 2</p>
+      <p>1 Department of Computer Science<br />
+      The Hong Kong University of Science and Technology<br />
+      Clear Water Bay, Kowloon, Hong Kong</p>
+      <p>Jose P. Segundo<br />
+      Department of Anatomy and Cell Biology<br />
+      and Brain Research Institute<br />
+      University of California<br />
+      Los Angeles, California 90024</p>
+      <p><b>Title:</b> SYNAPTIC CODING OF NONSTATIONARY SPIKE TRAINS</p>
+      <p><b>Abstract:</b> Spike-producing neurons produce complex responses to stationary input 
+      trains. These responses have been described using techniques from the field of nonlineary 
+      dynamics, and are typical of those from periodically perturbed nonlinear oscillators.</p>
+      <p>Here we are concerned with the effects of nonstationary input trains. We present recent 
+      simulation results, largely in agreement with experimental results on a living preparation, 
+      emphasizing the relationships between stationary and nonstationary behaviors. The implications 
+      for synaptic coding are considered. We suggest that the viewpoint of a neuron as a nonlineary 
+      dynamical system has important contributions to make to our understanding of neural 
+      computation.</p>
+      <hr /></li>
+      
+      <li><a name="Surkis"></a>
+  	  <p><b>Author:</b> A. Surkis 1, B. Taylor 1, C. S. Peskin 2, and C. S. Leonard 1</p>
+      <p>Center for Neural Science, New York University,<br />
+      6 Washington Place, New York, NY 10003</p>
+      <p>Courant Institute of Mathematical Sciences, New York University,<br />
+      251 Mercer Street, New York, NY 10003</p>
+      <p><b>Title:</b> CALCULATION OF PASSIVE MEMBRANE PROPERTIES FOR ARBITRARY DENDRITIC GEOMETRY OF 
+      LATERODORSAL TEGMENTAL (LDT) NEURONS IN VITRO.</p>
+      <p><b>Abstract:</b> A numerical solution of the cable equation was used to extract the membrane 
+      parameters from guinea pig cells that were studied with current injection in a brain slice 
+      preparation. Reconstructions of cells provided the geometries used in the numerical solution. 
+      Cable parameters were chosen which provided the best fit to experimental data, where the error 
+      was calculated directly between the recorded voltage traces and the cable equation solution. In 
+      searching the parameter space, intracellular resistivity was held fixed, while membrane 
+      conductance and capacitance varied. Fits were also done for the case in which dendritic and 
+      somatic membrane conductance varied independently.</p>
+      <hr /></li>
+      
+      <li><a name="Sutton"></a>
+  	  <p><b>Author:</b> Jeffrey P. Sutton* 1, and James A. Anderson 2</p>
+      <p>1 Department of Psychiatry<br />
+      Harvard Medical School<br />
+      MGH Bldg 149, 13th Street<br />
+      Charlestown, MA 02129<br />
+      and<br />
+      Cognitive Sciences<br />
+      E25-201, Massachusetts Institute of Technology<br />
+      Cambridge, MA 02139<br />
+      sutton@ai.mit.edu</p>
+      <p>2 Department of Cognitive and Linguistic Sciences<br />
+      Brown University, Providence, RI 02912</p>
+      <p><b>Title:</b> COMPUTATIONAL AND NEUROBIOLOGICAL FEATURES OF A NETWORK OF NETWORKS</p>
+      <p><b>Abstract:</b> A recurrent theme in neurobiology is that modules of neurons process local 
+      information. When modules are modeled, the approximation is almost always made that the overall 
+      average activity level is the critical measure. We propose a model wherein the communication 
+      between the local networks is vector valued rather than a scalar quantity representing average 
+      activity. We term our model system a &quot;network of networks.&quot; In this contribution, we 
+      review and integrate the computational and neurobiological aspects of the model and suggest ways 
+      for implementing the approach to problems in computer science, neuroscience and neurology.</p>
+      <hr /></li>
+      
+      <li><a name="Tam"></a>
+  	  <p><b>Author:</b> David C. Tam* 1 and Michelle A. Fitzurka 2</p>
+      <p>1 Center for Network Neuroscience<br />
+      Dept. of Biological Sciences<br />
+      University of North Texas<br />
+      Denton, TX 76203</p>
+      <p>2 Dept. of Physics<br />
+      Catholic University<br />
+      Washington, DC 20064</p>
+      <p><b>Title:</b> A NEW SPIKE TRAIN ANALYSIS FOR DETECTING TRENDS IN FIRING PATTERNS IN NEURONS</p>
+      <p><b>Abstract:</b> We have developed a new spike train analysis method for detecting trends in 
+      firing patterns in neurons based on a statistical measure of serially dependent firing 
+      probabilities. We introduce the serial interspike interval difference (SISID) scatter plot to 
+      display these changes in firing probability. This technique reveals a higher order serial 
+      dependency by showing how such &quot;trends&quot; evolve in time within a spike train. SISID 
+      analysis establishes the statistics based on the difference between two adjacent interspike 
+      intervals (ISIs). Typically, joint interspike interval (JISI) analysis estimates the conditional 
+      firing probabilities at consecutive ISIs by plotting (tx,ty). Similarly, SISID plots the 
+      difference between two adjacent ISI tuples (&AElig;tx, &AElig;ty). The distribution of a tuple 
+      in the SISID scatter plot indicates the firing trend. For example, points within the first 
+      quadrant show that the neuron fires with increasing ISIs, while those in the third quadrant 
+      denote the opposite. Furthermore, by connecting adjacent points in the scatter plot, the 
+      evolution of the firing trend can be revealed. This allows us to determine how firing patterns 
+      change, thus enabling the detection of characteristic firing patterns or burst behaviors for 
+      that neuron.</p>
+      <hr /></li>
+      
+      <li><a name="Thau"></a>
+  	  <p><b>Author:</b> Robert Thau</p>
+      <p>MIT Dept. of Brain and Cognitive Sciences<br />
+      MIT, room NE43-711<br />
+      Cambridge, MA, 02139</p>
+      <p><b>Title:</b> VISUAL SEGMENTATION AND FEATURE BINDING WITHOUT SYNCHRONIZATION</p>
+      <p><b>Abstract:</b> There has recently been a sizable amount of work on visual segmentation in 
+      neural networks. Typically, these have functioned by &quot;tagging&quot; the outputs of units, 
+      by oscillatory phase or some similar mechanism.</p>
+      <p>The network described here exploits constraints on the segmentation task to solve it with 
+      units whose outputs have no special features for binding or tagging at all, using a process 
+      analogous to constraint propagation among Waltz labels for the scene. Possible physiological 
+      correlates of the network's mechanism in primate visual cortex are discussed.</p>
+      <hr /></li>
+      
+      <li><a name="Theunissen"></a>
+  	  <p><b>Author:</b> Frederic Theunissen* and Gwen Jacobs</p>
+      <p>Dept. of Molecular and Cell Biology Neurobiology<br />
+      Division. LSA 195. Berkeley, CA 94720</p>
+      <p><b>Title:</b> THE ROLE OF FUNCTIONAL MAPS: FACILITATING CONNECTIVITY AND OPTIMIZING 
+      INFORMATION TRANSMISSION</p>
+      <p><b>Abstract:</b> We postulate that functional sensory maps are generated to facilitate the 
+      connectivity between the afferent neurons and the output neurons in a manner that optimizes the 
+      transfer of information across the synaptic interface. In our theory, the connections between 
+      the output neurons and afferents are determined by simple rules which only invoke the spatial 
+      location of the input dendrites of the output neurons. Within our theory, we derived a 
+      mathematical formalism to 1) calculate the efficiency of a functional map in transmitting the 
+      maximum amount of information and 2) obtain a measure how simple the connectivity rules between 
+      the map and the output neurons need to be to achieve such an efficiency. High map efficiencies 
+      and simple connectivity rules would give good supporting evidence for our theory. The formalism 
+      is applied to the wind direction map of the cercal system of the cricket with astonishingly good 
+      results.</p>
+      <hr /></li>
+      
+      <li><a name="Ulinski"></a>
+  	  <p><b>Author:</b> Philip S. Ulinski* and Mathew T. Calef</p>
+      <p>Department of Organismal Biology and Anatomy<br />
+      University of Chicago<br />
+      1025 E. 57th Street, Chicago, IL 60637</p>
+      <p><b>Title:</b> SYNAPTIC MECHANISMS UNDERLYING INTENSITY-RESPONSE PROFILES IN CORTICAL 
+      NEURONS.</p>
+      <p><b>Abstract:</b> Responses of neurons in visual cortex to lights of different intensities 
+      were studied using an in vitro preparation of turtle whole-brain and eyes and a compartmental 
+      model of cortical microcircuitry. Pyramidal neurons show GABAA-mediated IPSPs mediated via 
+      feedforward inhibition from layer 1 stellate cells in the dark. The frequency of GABAA-mediated 
+      IPSPs increases and EPSPs mediated by geniculate afferents appear at moderate levels of light 
+      intensity. G A B A A- and GABAB-mediated inhibition mediated by feedback from stellate and 
+      horizontal cells limits the number of action potentials produced by the pyramidal cell at higher 
+      levels of light intensity.</p>
+      <hr /></li>
+      
+      <li><a name="Pelt"></a>
+  	  <p><b>Author:</b> Jaap van Pelt 1 and Andreas Schierwagen 2</p>
+      <p>1 Netherlands Institute for Brain Research<br />
+      Meibergdreef 33<br />
+      1105 AZ Amsterdam, The Netherlands</p>
+      <p>2 University of Leipzig<br />
+      Dept. of Informatics<br />
+      Augustusplatz 10/11<br />
+      O-7010 Leipzig, Germany</p>
+      <p><b>Title:</b> DEPENDENCE OF DENDRITIC ELECTROTONIC EXTENT UPON BRANCHING PATTERN TOPOLOGY</p>
+      <p><b>Abstract:</b> The effect of branching pattern topology on the dendritic electrotonic 
+      extent is investigated in a systematic statistical way. Sets of dendritic branching patterns 
+      with a realistic topological variability are produced using a stochastic model for dendritic 
+      outgrowth.</p>
+      <p>The present study demonstrates not only that the electrotonic extent of a dendrite depends 
+      strongly on its topological structure, but also that the branch-power, used to calculate the 
+      segment diameters, plays a critical role herein. Additionally, the three different measures, 
+      used to express dendritic electrotonic extent, give inconsistent outcomes when the branch power 
+      differs from the value of 1.5 or when the trees are very asymmetric.</p>
+      <hr /></li>
+      
+      <li><a name="Vreeswijk"></a>
+  	  <p><b>Author:</b> C.A. van Vreeswijk* 1, L.F. Abbott 1, and G.B. Ermentrout 2</p>
+      <p>1 Department of Physics and Center for Complex Systems<br />
+      Brandeis University<br />
+      Waltham, MA 02254</p>
+      <p>2 Department of Mathematics<br />
+      University of Pittsburg<br />
+      Pittsburg, PA 15260</p>
+      <p><b>Title:</b> WHEN INHIBITION NOT EXCITATION SYNCHRONIZES NEURAL FIRING</p>
+      <p><b>Abstract:</b> It is commonly assumed that excitatory synapses tend to synchronize neurons 
+      while inhibition pushes neurons toward anti-synchrony. However the opposite has been observed in 
+      some models. In this study we show that such 'reversed' behaviour is the rule rather than the 
+      exception. We consider circuits of two identical neurons with fast, well-separated action 
+      potentials and with identical synapses having time-constants exceeding the spike width. We 
+      consider integrate-and-fire models, as well as models using phase-coupling. We find that only 
+      inhibition completely synchronizes the cells. Excitation often produces anti-synchronous firing. 
+      These results were confirmed by computer simulations using Hodgkin-Huxley model neurons.</p>
+      <hr /></li>
+      
+      <li><a name="Vibert"></a>
+  	  <p><b>Author:</b> J. - F. Vibert, D. Lambolez, K. Pakdaman, and N. Azmy</p>
+      <p>B3E, URBB INSERM<br />
+      U263 Faculte de Medecine Saint-Antoine.<br />
+      27 rue Chaligny 75571 Paris Cedex 12, France</p>
+      <p><b>Title:</b> XNBC: A SIMULATION TOOL FOR NEUROBIOLOGISTS.</p>
+      <p><b>Abstract:</b> XNBC allows the simulation of interacting biological neural networks. It is 
+      designed for computer naive neuroscientists. XNBC provides two simulation levels: one based on a 
+      leaky integrator model of neuron dynamics and another based on the Hodgkin-Huxley formalism 
+      describing ionic channel conductance dynamics. Simulated biological networks can be made of 
+      several interconnected neural clusters, which may receive external inputs even from experimental 
+      spike train recordings. Network architecture and neuron parameters are specified and fine tuned 
+      using graphic editors under visual control. Parameters can be modified on the fly during 
+      simulations in order to reproduce experimental or pathological conditions. Animation of the 
+      neurons' membrane potential spatio-temporal evolution, of spikes travelling along axons and the 
+      networks' global activity can be visualized on moving displays. XNBC provides the complete 
+      collection of analysis tools used by neuroscientists, to study the network behavior, at both 
+      global and unitary levels, in both frequency and temporal domains. XNBC runs on Unix, is menu 
+      driven with a user-friendly XWindow/Motif interface and produces high quality color PostScript 
+      graphic outputs. abstract document.</p>
+      <hr /></li>
+      
+      <li><a name="Wadden"></a>
+  	  <p><b>Author:</b> Tom Wadden*1, Jeanette Hellgren-Kotaleski 2, Anders Lansner 1, and Sten 
+  	  Grillner 2</p>
+      <p>1 Department of Numerical Analysis and Computing Science<br />
+      Royal Institute of Technology<br />
+      Stockholm, Sweden</p>
+      <p>2 Nobel Institute for Neurophysiology<br />
+      Karolinska Institutet<br />
+      Stockholm, Sweden</p>
+      <p><b>Title:</b> SIMULATIONS OF THE INTERSEGMENTAL COORDINATION USING A CONTINUOUS NETWORK 
+      MODEL</p>
+      <p><b>Abstract:</b> Swimming in the lamprey involves the coordination of alternating burst 
+      activity between the left and right sides of each spinal segment, with a frequency from .25 to 
+      10 Hz. Rostrocaudal time delays between burst onset in each segment produce a laterally directed 
+      traveling wave which pushes the animal forward through the water. A reversed direction of the 
+      wave results in backward swimming. In our model we use a compartmental based neuron employing a 
+      Hodgkin-Huxley type formalism, with the synaptic connectivity compatible with experimental data. 
+      The result is a continuous network model for intersegmental coordination that is capable of 
+      producing stable forward, backward and narrow swimming.</p>
+      <hr /></li>
+      
+      <li><a name="Westbrook"></a>
+  	  <p><b>Author:</b> J. Thomas Westbrook* 1 and Daryl R. Kipke 2<br />
+  	  Arizona State University<br />
+  	  Bioengineering Program<br />
+  	  Tempe, AZ 85287-6006</p>
+      <p><b>Title:</b> INCREASING DYNAMIC RANGE IN A COCHLEA MODEL USING HIGH, MEDIUM, AND LOW 
+      SPONTANEOUS RATE FIBERS</p>
+      <p><b>Abstract:</b> We present a composite auditory periphery model that simulates cochlear 
+      mechanics, hair cell physiology, and auditory-nerve fiber physiology. It includes three separate 
+      populations of auditory nerve fibers having low, medium, and high spontaneous firing rates. We 
+      have implemented it on a Connection Machine and a UNIX workstation and have varified it using 
+      tones, amplitude-modulated tones, noise, and speech. In each case the model output compares well 
+      with published physiological data. The model operates over the entire dynamic range and 
+      frequency range of human hearing.</p>
+      <hr /></li>
+      
+      <li><a name="Wilson"></a>
+  	  <p><b>Author:</b> Charles Wilson</p>
+      <p>Department of Anatomy and Neurobiology<br />
+      University of Tennessee<br />
+      Memphis 875 Monroe Ave.<br />
+      Memphis, TN 38l63</p>
+      <p><b>Title:</b> OUTWARD RECTIFICATION IN DENDRITES: COMPUTER SIMULATIONS OF ITS EFFECTS ON 
+      SYNAPTIC TRANSMISSION</p>
+      <p><b>Abstract:</b> Computer simulations were used to study the effect of voltage-gated 
+      potassium conductances on summation of excitatory synaptic potentials in a dendritic neuron. 
+      They acted to counteract spatial gradients of potential over the cell membrane. They isolated 
+      and suppressed spatially clustered, temporally asychronous inputs. Spatially distributed input 
+      saturated at membrane potentials well below the synaptic reversal potential.</p>
+      <hr /></li>
+      
+      <li><a name="Winslow"></a>
+  	  <p><b>Author:</b> Winslow</p>
+      <p>Biomedical Engineering<br />
+      University of Toronto<br />
+      Toronto, Ontario M5S-3B9</p>
+      <p><b>Title:</b> EFFECTS OFENDOGENOUS CALCIUM BUFFERS AND VESICLE LOCATION ON VESICLE RELEASE 
+      DYNAMICS AND NEUROTRANMI l l~R RELEASE</p>
+      <p><b>Abstract:</b> In presynpatic axoplasmic regions, calcium enters via voltage gated channels 
+      in active zones. This rapid influx of calcium interacts with trigger or release (T/R) molecules 
+      to cause transmitter vesicle fusion with membrane. Using reaction-diffusion PDEs for 
+      concentrations of calcium, nondiffusable buffer and product, diffusable buffer and product, 
+      calcium concentrations were calculated. Differences in concentration of nondiffusable buffer has 
+      considerable effects on fast dynamics of calcium concentration. These calcium dynamics have 
+      profound influence on the T/R mechanisms for vesicle fusion with membrane. Location of vesicles 
+      with respect to channels and closeness of active zones have a large influence on release 
+      dynamics.</p>
+      <hr /></li>
+      
+      <li><a name="Wolf"></a>
+  	  <p><b>Author:</b> F. Wolf*, K. Pawelzik, T. Geisel</p>
+      <p>Institut fur Theoretische Physik<br />
+      Universitat Frankfurt<br />
+      60054 Frankfurt/M., Germany</p>
+      <p><b>Title:</b> EMERGENCE OF LONG RANGE ORDER IN MAPS OF ORIENTATION PREFERENCE</p>
+      <p><b>Abstract:</b> The formation of feature-maps in the developing visual cortex has become a 
+      central system for the study of cooperative phenomena in large neural networks, both 
+      theoretically and experimentally. With advanced optical imaging techniques it has now become 
+      possible to monitor the activity of neural populations synchronously with a high spatial 
+      resolution. This kind of measurement should finally enable a comparison of experiment and 
+      mathematical theory in quantitative detail. In the adult visual cortex the pattern of preferred 
+      orientations exhibits a particular complex spatial organization, characterized by a large number 
+      of point defects (pinwheels). Because the orientation preference map in adult cats is close to 
+      optimally smooth, the structure of the map can be predicted from the knowledge of position and 
+      chirality of its defects. Moreover in this system optimal smoothness results in a particular 
+      kind of long range order, that allows to predict preferred orientation across cortical distance. 
+      In this contribution we show that this global spatial coherence cannot be achieved easily during 
+      the initial phase of development, in which the pattern of preferred orientations arises via an 
+      instability mechanism. Therefore we propose a two stage model for the process of map formation 
+      which explains the establishment of long range order in the visual cortex. We predict the 
+      occurrence of a second phase in the process of map formation, during which cells cooperate 
+      effectively over large cortical distances. Furthermore we show how this process could be 
+      observed directly in optical imaging experiments 1.</p>
+      <hr /></li>
+      
+      <li><a name="Yen"></a>
+  	  <p><b>Author:</b> Shih-Cheng Yen*, Paul Sajda, and Leif Finkel 3</p>
+      <p>Department of Bioengineering and Institute for Neurological Sciences<br />
+      220 S. 33rd St.<br />
+      University of Pennsylvania<br />
+      Philadelphia, PA 19104-6392</p>
+      <p><b>Title:</b> FACE RECOGNITION BY PDP AND RADIAL BASIS FUNCTION NETWORKS: COMPARISONS AND 
+      INSIGHTS</p>
+      <p><b>Abstract:</b> Despite a number of proposed neuropsychological and computational models, 
+      there is no accepted explanation for human face recognition abilities. We investigated the 
+      representations developed in both PDP and Radial Basis function networks presented with a large 
+      database of faces. Both networks achieved performances above 90% in gender classification tasks. 
+      Network representations were analyzed using a number of techniques including examination of 
+      connection weights, network inversion, ablation and modification of the image, and Wiener kernal 
+      - reverse correlation techniques. Comparison of the networks reveals a template-based strategy 
+      that combines statistical decision making with proto-type exemplars.</p>
+      <hr /></li>
+      
+      <li><a name="Yuille"></a>
+  	  <p><b>Author:</b> Alan L. Yuille* 1 and Stelios M. Smirnakis 2</p>
+      <p>1 Harvard University<br />
+      G12e Pierce Hall<br />
+      Division of Applied Sciences<br />
+      29 Oxford Street<br />
+      Cambridge, MA 02138</p>
+      <p>2 Division of Applied Sciences<br />
+      Harvard University<br />
+      Cambridge, MA 02138</p>
+      <p><b>Title:</b> NEURAL IMPLEMENTATION OF BAYESIAN VISION THEORIES BY UNSUPERVISED LEARNING</p>
+      <p><b>Abstract:</b> It is often claimed that Bayesian theories of vision require time consuming, 
+      and biologically implausible, relaxation algorithms. We show that, on the contrary, Bayesian 
+      theories can be implemented by feedforward networks, multilayer perceptrons, where the weights 
+      of the network are trained by unsupervised learning using a novel variant of backpropagation. 
+      Both multilayer perceptrons and backpropagation are of questionable realism but our approach can 
+      be generalized to more biologically plausible models. We illustrate our theory on an example of 
+      image segmentation. Such unsupervised learning might have a role in the development of the 
+      visual system.</p></li>
+    </ul>
+      
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

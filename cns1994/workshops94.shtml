@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994 - Workshops</title>
+<meta name="description" content="CNS Meeting Home Page 1994 - Workshops." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<h4>CNS*1994 Workshops</h4>
+  	
+  	<p>The Post-meeting workshops will be held over two full days at Asilomar Conference Center at 
+  	Asilomar State Beach in Pacific Grove, California. The workshops are intended to provide an 
+  	opportunity for conference participants to informally discuss results presented at the main 
+  	meeting as well as important issues in computational neuroscience. The organizer of the workshops 
+  	this year is Mike Hasselmo.</p>
+  	
+  	<h4>Workshop Topics</h4>
+  	
+  	<p>Workshop topics will be established in one of two ways:</p>
+  	
+  	<ol>
+  	  <li>Meeting participants interested in particular subjects can submit those subjects prior to 
+  	  the meeting to Mike Hasselmo, via email. Suggestions should include the title of the workshop, 
+  	  a brief abstract describing the issue(s) involved, and any other meeting attendees known to be 
+  	  interested in participating. Information about these workshops will be posted on the CNS*94 ftp 
+  	  site.</li>
+  	  <li>Workshop subjects can also be suggested during the main meeting. We are particularly 
+  	  interested in topics that arise as a result of meeting presentations. A bulletin board at the 
+  	  meeting will be used for participant sign-up. The bulletin board will list all suggested 
+  	  workshops as well as the current list of participants.</li>
+  	</ol>
+  	
+  	<h4>Workshop Structure</h4>
+  	
+  	<p>The workshops themselves will be conducted as informal discussions. Large paper tablets will 
+  	be available. The use of slides or overheads, however, is discouraged. Each workshop group will 
+  	be asked to appoint a secretary to keep track of the relevant questions and discussion points. 
+  	Particular attention should be paid to the relevant &quot;open&quot; questions on the particular 
+  	issue being discussed. Evening sessions will be organized in which each workshop will report 
+  	their results to the entire group.</p>
+  	
+  	<h4>Workshop Location</h4>
+  	
+  	<p>All workshops and lodging for participants will be at the Asilomar Conference Center. This 
+  	state run conference facility is located on the beautiful Asilomar State Beach in Pacific Grove 
+  	California. The facilities include multiple cabins and lodges as well as many opportunities for 
+  	walks and nature study.</p>
+  	
+  	<h4>Logistical Arrangements</h4>
+  	
+  	<p>All workshop participants will be housed at the conference center. Meals and lodging are 
+  	included in the workshop registration costs. Transportation will be arranged to and from the main 
+  	meeting location in downtown Monterey. The weather can be expected to be warm and sunny.</p>
+  	
+  	<h4>Suggestions for Workshop Topics</h4>
+  	
+  	<p>Please send suggestions to Mike Hasselmo.</p>
+  	
+  	<p>Include the following material:</p>
+  	
+  	<ol>
+  	  <li>a title</li>
+  	  <li>a brief (300 word) abstract</li>
+  	  <li>a list of any known interested participants</li>
+  	</ol>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

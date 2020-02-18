@@ -1,0 +1,27 @@
+A Model of Direction Selectivity in Visual Cortex Using
+ Massive Intracortical Connections}
+
+author Humbert Suarez, Christof Koch, and Rodney Douglas
+
+ Computation and Neural Systems Program,
+ California Institute of Technology,
+ Pasadena CA 91125, USA.
+ hhs@cns.caltech.edu.
+ Anatomical Neuropharmacology Unit, University of Oxford, Oxford,
+ United Kingdom.
+
+
+ Almost all  models of orientation and direction-selectivity in  visual
+ cortex are based on feed-forward  connection schemes, where
+ geniculate input provides all excitation to both pyramidal and
+ inhibitory neurons. The latter neurons then veto the response of the
+ former for non-optimal stimuli.  However,  the majority of the synaptic input
+ on any cortical cell is provided by other cortical cells. Based on the
+ canonical microcircuit of Douglas \& Martin (1991), we
+ simulate here this massive excitatory and inhibitory synaptic convergence
+ in order to explain a number of puzzling features about direction
+ selective simple cells.  In this model, weak geniculate input is
+ dramatically amplified by the action of intracortical excitation, while
+ inhibition has a dual role: (i) to prevent the early geniculate-induced
+ excitation in the null direction  and (ii)  to serve as gain-control
+ element.

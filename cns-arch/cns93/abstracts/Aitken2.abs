@@ -1,0 +1,17 @@
+Overview of the Valentino Computational Neuroscience Workbench for
+Simulation of Neural Systems
+
+A. Aitken
+
+A.I.L.
+The University of New South Wales
+Box 1, PO Kensington. N.S.W. 2033
+Australia
+
+We present an innovative simulator system designed to facilitate research
+in computational neuroscience.  The Valentino Computational Neuroscience 
+Workbench (CNW) incorporates an oject-oriented design and a neuroscience
+workbench metaphor wherein a number of independent tools manipulate a shared
+persistent simulation structure.  Central to the system is a novel tool for
+configuring structured neural networks using a graphical user-interface
+and powerful, flexible, extendible and, yet, still easy to use.

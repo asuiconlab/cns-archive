@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2004</title>
+<meta name="description" content="CNS Meeting Home Page 2004." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2004, 
+cns, computational, neuroscience" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+<script type="text/javascript">
+	<!--
+	function makeMail(deel1, deel2, naam){
+		var name = deel1;
+		var domain = deel2;
+		document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+		document.write(naam + '</a>');
+	}
+	-->
+</script>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>CNS*2004</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-20 2004, Baltimore, MD, USA</h3>
+  	
+  	<p><a href="./Table_of_contents_CNS04.pdf">Table of contents of CNS04 Proceedings Book</a> (pdf)</p>
+  	
+  	<p>The annual Computational Neuroscience Meeting will be held at the historic 
+  	<a href="http://www.radisson.com/hoteldirectory/hotelbio.jsp?hotelCode=MDBALHAR">Radisson Plaza 
+  	Lord hotel</a> in Baltimore, MD, USA July 18th - 20th, 2004. The main meeting will be followed by 
+  	two days of workshops on July 21st and 22nd. In conjunction, the "2004 Annual Symposium, 
+  	University of Maryland Program in Neuroscience: Computation in the Olfactory System" will be held 
+  	as a satellite symposium to CNS*04 on Saturday, July 17th.</p>
+  	
+  	<p><a href="http://www.cnsorg.org">More info about CNS*2004 and the organizing committee</a></p>
+  	
+  	<p><a href="./CNS04program.shtml">CNS*2004 Meeting Program</a></p>
+  	
+  	<h4>Paper submission</h4>
+  	
+  	<p>Use the 'my menu' button on the left to log on and select "CNS2004 paper submission form" from 
+  	the menu.<br />
+  	<a href="../style.shtml">Style</a> and submission instructions can be also be found at the top of 
+  	the CNS2004 paper submission form.</p>
+  	
+  	<p><b>SUBMISSION DEADLINE: January 26, 2004. midnight</b></p>
+  	
+  	<h4>Information and administration :</h4>
+  	
+  	<p>Christiane Linster <script type="text/javascript">makeMail("CL243","cornell.edu", "CL243(at)cornell(dot)edu");</script><br />
+	or <script type="text/javascript">makeMail("cns","cnsorg.org", "cns(at)cnsorg(dot)org");</script></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2004" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

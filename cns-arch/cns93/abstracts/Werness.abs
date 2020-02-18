@@ -1,0 +1,42 @@
+COMPUTATIONAL HERMISSENDA PHOTOARRAY MODEL
+
+     by
+
+     Susan A. Werness*   werness@erim.org  (correspondence)
+     Dale Fay*        fay@erim.org
+     Kim T. Blackwell**     avrama@helix.nih.gov
+     Thomas P. Vogl**       vogl@helix.nih.gov
+     Daniel L. Alkon***
+     James Olds***        olds@helix.nih.gov
+
+     *ERIM
+     P.O. Box 134001
+     Ann Arbor, Mi.
+              48113-4001
+
+     **ERIM
+     1101 Wilson Blvd.
+      Suite 1100
+      Arlington, Virginia 22209
+
+      ***Neural Systems Section
+      National Institute of Neurological disorders and Stroke
+      National Institutes of Health, Bethesda, MD 20892
+
+
+
+ABSTRACT
+
+        Even the simplest invertebrate animals embody robust, adaptable, and
+efficient features in sensory information processing and integration.   The
+
+marine snail, Hermissenda crassicornis, is an ideal animal for study and
+
+modeling of biological computing mechanisms because much of the
+connectivity of its underlying neuronal network has been elucidated.
+A computer model of the photoarray in a single Hermissenda eye is
+described. This model demonstrates 1) many of the information
+processing capabilities that have been studied in electrophysiological
+and behavioral studies of Hermissenda's visual sensors, and 2) the
+importance of heterogeneity in the efficient and robust operation of
+biological networks.

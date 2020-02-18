@@ -1,0 +1,21 @@
+ Simulation of the Muscle Stretch Reflex by a Neuronal Network
+    Dr B.P. Graham1, Centre for Information Science Research
+  Prof. S.J. Redman, Division of Neuroscience, The John Curtin
+                   School of Medical Research
+          The Australian National University, Canberra
+
+Abstract
+
+The roles that a variety of different neuronal types play in the
+muscle stretch reflex have been investigated by means of a
+dynamic computer simulation.  The simulated reflex circuit
+controlled two antagonistic muscles acting on a load.
+Simulation results revealed that while the dynamic component of
+the Group 1a afferent firing rate was important for good dynamic
+response, it also caused oscillations in the load position at a
+frequency similar to the condition known as clonus.  If Group II
+afferents also excited the motoneurones, these oscillations were
+reduced.  Inhibition from Renshaw cells and Group 1b afferents
+greatly increased the stability of the circuit.
+
+

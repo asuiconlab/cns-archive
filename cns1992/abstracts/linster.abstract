@@ -1,0 +1,29 @@
+Formal Model of the Insect Olfactory Macroglomerulus
+
+
+C. LINSTER*1, C. MASSON**, M. KERSZBERG***,
+L. PERSONNAZ*, G. DREYFUS*
+* Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris,
+Laboratoirc d'Eleclronique
+10, rue Vauquelin
+75005 PARIS - FRANCE
+
+
+** Laboratoire dc Neurobiologie Comparee des Invertebres
+INRA/CNRS
+91140 BURES SUR YVETTE - FRANCE
+
+
+***Institut Pasteur
+25, rue du Docteur Roux
+75015 PARIS
+
+
+
+
+
+Abstract
+
+
+An original model of the specialist olfactory system of insects, built in a semi-random fashion constrained by biological data is presented. A classification of the response patterns of individual neurons, based on the temporal aspects of the observed response, allows to analyze the behavior of the model with respect to he qualitative and the temporal variations of the stimulus. Among the results, a number are related to data about olfactory information processing reported in the literature, others may serve as guidelines for further investigations. We show how the model computes the information relevant as a basis for further processing in higher centers.
+

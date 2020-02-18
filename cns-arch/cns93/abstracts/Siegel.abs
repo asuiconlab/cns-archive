@@ -1,0 +1,24 @@
+ACTIVITY-DEPENDENT CONDUCTANCES PRODUCE
+NONUNIFORM CURRENT DISTRIBUTIONS
+IN SPATIALLY EXTENDED MODEL NEURONS
+
+Micah Siegel*, Eve Marder** and L.F. Abbott* Departments of 
+Physics* and Biology** and Center for Complex Systems Brandeis 
+University Waltham, MA 02254
+
+eMail: siegel@binah.cc.brandeis.edu, marder@binah.cc.brandeis.edu, 
+abbott@binah.cc.brandeis.edu
+
+We study multi-compartment model neurons in which the maximal 
+conductances of membrane currents are slowly varying dynamic 
+variables regulated by intracellular calcium. This allows us to model 
+activity-dependent effects arising from processes that develop and 
+modify membrane channels. Starting with no conductances, the 
+regulated, multi-compartmental model neurons develop a realistic, 
+nonuniform distribution of membrane conductances, with strong 
+inward currents in the soma tapering off to a constant intermediate 
+level along the axon and with weak inward and strong outward 
+currents in the dendrite. The morphology of the neuron and the 
+intracellular calcium concentration determine the final spatial 
+distribution of currents.
+

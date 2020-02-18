@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2000 - Instructions to authors</title>
+<meta name="description" content="CNS Meeting Home Page 2000 - Instructions to authors." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2000, 
+cns, computational, neuroscience, workshop, talks, posters, Instructions, authors" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2000</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July, 16-20, 2000, Brugge, Belgium</h3>
+  	
+  	<h4>CNS*2000 Instructions to authors</h4>
+  	
+  	<h4>Proceedings Computational Neuroscience Meeting<br />
+  	To be published as part of the Journal Neurocomputing</h4>
+  	
+  	<p><b>DEADLINE</b>:</p>
+  	
+  	<p>Papers due on or before October 15, 2000</p>
+  	<p>Please send all manuscript materials to</p>
+  	<p>Attn: Judy Macias<br />
+  	Caltech, MC 216-76<br />
+  	Division of Biology<br />
+  	1200 E. California Blvd.<br />
+  	Pasadena, CA 91125</p>
+  	
+  	<p>The journal Neurocomputing publishes articles describing fundamental contributions in the 
+  	field of neurocomputing. In 2000 Volumes 30 - 35 are scheduled for publication. For more 
+  	information, take a look at 
+  	<a href="http://www.elsevier.com/locate/neucom">http://www.elsevier.com/locate/neucom</a></p>
+  	
+  	<h4>GENERAL:</h4>
+  	
+  	<p>Please read these instructions carefully. Please note that the Guest Editor of the Proceedings 
+  	will be collecting your work. If you have queries regarding technical details, you can however 
+  	contact the Author Support Department at the Publisher</p>
+  	
+  	<p>Your paper should be introduced by three to five keywords and a self-contained abstract of no 
+  	more than 100 words not counting the formulas. Biosketch (limit yourself to 150 words) and photo 
+  	(passport size) of each author should be supplied as well. For the conference proceedings a limit 
+  	of six typeset pages is valid. The conversion factor is roughly 25 - 30 %; i.e. a manuscript of 8 
+  	pages printed on one side in double spacing with wide margins (3cm) generates approximately 6 
+  	pages.</p>
+  	
+  	<p>Footnotes should be avoided if possible and be brief. They should be numbered consecutively. 
+  	Please make sure that the paper is submitted in its final form. Corrections in the proof stage 
+  	other than printer's errors should be avoided: costs arising from such corrections will be 
+  	charged to the authors.</p>
+  	
+  	<p>An accepted article can be submitted in electronic form (a LaTeX file, or as a file from other 
+  	word processors), but should always be accompanied by a paper manuscript (typed on one side in 
+  	double spacing with wide margins). Only the final accepted manuscript can be submitted on disk, 
+  	along with a paper-printed version that is identical to the file. Please label the disk with your 
+  	name, and mention which word processor you have used.</p>
+  	
+  	<p>Please note that your submission, or any translation of it, should not have copyrighted or 
+  	published or is not being submitted for publication elsewhere.</p>
+  	
+  	<p>Upon acceptance of an article, the author(s) will be asked to transfer copyright of the 
+  	article to the Publisher. This transfer will ensure the widest possible dissemination of 
+  	information.</p>
+  	
+  	<h4>REFERENCES:</h4>
+  	
+  	<p>References should be listed alphabetically, as in the following examples:<br />
+  	Books (1), articles in journals (2), papers in a contributed volume (3, 4), unpublished papers 
+  	(5).</p>
+  	
+  	<ul>
+  	  <li>(1) E Borger, Computability, Complexity, Logic (North-Holland, Amsterdam, 1989)</li>
+  	  <li>(2) DE Knuth, Theory and practice, Theoret. Comput. Sci. 90 (1991) 1-15</li>
+  	  <li>(3) A K Lenstra and H W Lenstra, Jr, Algorithms in number theory, in: J van Leeuwen, ed., 
+  	  handbook of Computer Science, Vol. A (Elsevier, Amsterdam, 1990) 673-715</li>
+  	  <li>(4) M Li, Lower bounds by Kolmogorov complexity, in: Proc. ICALP '85, Lecture Notes in 
+  	  Computer Science, Vol 194 (Springer, Berlin, 1985) 383-393</li>
+  	  <li>(5) A Rajasekar, Semantics for logic programs, Ph D Thesis, Department of Computer Science, 
+  	  University of Maryland, 1989</li>
+  	</ul>
+  	
+  	<h4>FIGURES:</h4>
+  	
+  	<p>If you are considering the submission of your manuscript as an electronic file, you may wonder 
+  	whether we would also like to have an electronic version of the illustrations. The answer is yes! 
+  	Although there are still a large number of technical difficulties to overcome, we are processing 
+  	graphic files in a growing number of cases. Both scanned and computer generated illustrations, 
+  	either color or black and white are acceptable. (Notes: for color we charge!)<br />
+  	The following requirements are to be met:</p>
+  	
+  	<ul>
+  	  <li>Hard copy in all cases.</li>
+  	  <li>Since we cannot a priori guarantee the usability of your graphic file(s) hard-copies of all 
+  	  illustrations should accompany the accepted printout of the manuscript of all cases. One set 
+  	  should be in publishable condition.</li>
+  	</ul>
+  	
+  	<h4>DISKETTE:</h4>
+  	
+  	<p>Files should preferably be submitted on diskette, either IBM or Macintosh. Submission via 
+  	e-mail is not recommended.</p>
+  	
+  	<h4>FORMAT:</h4>
+  	
+  	<p>TIFF or EPS files are preferred. TIFF files should preferably be compressed, but only LZW 
+  	(Macintosh) compression is acceptable. Please note that corrections in EPS figures are only 
+  	possible if they have been prepared with Adobe Illustrator 3.0 or higher versions. The usability 
+  	of other formats is to a large extent dependent on the information you supply us with concerning 
+  	the soft-and hardware used. It is a good idea to put the relevant information in the header of 
+  	the file.</p>
+  	
+  	<h4>RESOLUTION:</h4>
+  	
+  	<p>Drawings made with Adobe Illustrator and Aldus Freehand (Macintosh) and CorelDraw (IBM/DOS) 
+  	generally give good results. Drawings made in WordPerfect or Word generally have too low a 
+  	resolution; only if made at a much higher resolution (1016 dpi) can they be used. Files of 
+  	scanned line drawings are acceptable if done at a minimum of 1016 dpi. For scanned halftone 
+  	figures a resolution of 300 dpi is sufficient. Scanned figures compressed with JPEG usually give 
+  	no problems. Please note that scanned figures cannot be enlarged, only reduced.</p>
+  	
+  	<h4>ELECTRONIC SUBMISSION: LaTeX</h4>
+  	
+  	<p>LaTeX files of papers that have been accepted for publication may be sent to the Publisher by 
+  	e-mail or on a diskette (3.5&quot; or 5.25&quot; MS-DOS). If the file is suitable, proofs will be 
+  	produced without rekeying the text. The article should be encoded in ESP-LaTeX, standard LaTeX, 
+  	or AMS-LaTeX (in document style &quot;article&quot;). The Elsevier-LaTeX package, together with 
+  	instructions on how to prepare a file, is available from the Publisher. This package (including 
+  	detailed information for LaTeX preparation) can be obtained from the Comprehensive TeX Archive 
+  	Network (CTAN). Search for Elsevier on the CTAN Search page or the CTAN-Web page or use direct 
+  	access via FTP in Germany, United Kingdom or (Massachusetts, USA) and go to the directory: 
+  	(/texarchive/macros/latex/contrib/supported/elsevier).</p>
+  	
+  	<p>The Elsevier package consists of the files; ascii.tab (ASCII table), elsart.cls (use this file 
+  	if you are using LaTeX2e, the current version of LaTeX), elsart.sty and elsart12.sty (use these 
+  	two files if you are using LaTeX2.09, the previous version of LaTeX), instraut.dvi and/or 
+  	instraut.ps (instruction booklet), readme. CTAN is a mirrored network of 
+  	<a href="ftp://ftp.tex.ac.uk">ftp.tex.ac.uk</a>, <a href="ftp://ftp.dante.de">ftp.dante.de</a> 
+  	and tug2.cs.umb.edu, which are widely mirrored and hold up-to-date copies of all the 
+  	public-domain versions of TeX, LaTeX, Metafont and ancillary programs.</p>
+  	
+  	<p>No changes from the accepted version are permissible, without the explicit approval by the 
+  	Editors. The Publisher reserves the right to decide whether to use the author's file or not. 
+  	Authors should include an ASCII table (available from the Publisher) in their files to enable the 
+  	detection of transmission errors. The files should be mailed to Elvira Nieuwerf, Elsevier Science 
+  	BV, PO Box 2759, 1000 CT Amsterdam, The Netherlands. Fax: +31 20 485 3264. NOTE: in the case of 
+  	the Proceedings, only send material directly to the Publisher after the Guest Editor has approved 
+  	of this. For the purpose of further correspondence the manuscript should end with a complete 
+  	mailing address, preferably including e-mail address, of at least one to the authors.</p>
+  	
+  	<h4>ELECTRONIC SUBMISSION: Non-LaTeX</h4>
+  	
+  	<p>The word-processed text should be in single column format. Keep the layout of the text as 
+  	simple as possible; in particular, do not use the word-processor's options to justify the text or 
+  	to hyphenate the words. The electronic text should be prepared in a way very similar to that of 
+  	conventional manuscripts. The list of references, figures and tables in the text; instead, 
+  	indicate their approximate locations, either directly in the electronic text or on the 
+  	manuscript.</p>
+  	
+  	<p>The final text should be submitted both in manuscript form and on diskette. Use standard 
+  	3.5&quot; or 5.25&quot; diskettes for this purpose. Both double density (DD) and high-density 
+  	(HD) diskettes are acceptable. It is recommended to tear the main text, list of references, 
+  	tables and figure legends in separate text files with clearly identifiable file names (for 
+  	example, with extensions .TXT, .REF, .TBL, .FIG).</p>
+  	
+  	<p>Essential is that name and version of the work-processing program and type of computer on 
+  	which the text was prepared is clearly indicated on the diskette label or the accompanying 
+  	checklist. The manuscript may contain parts (e.g. formulas or complex tables) or last-minute 
+  	corrections which are not included in the text on diskette; however, if this is the case then 
+  	differences with the diskette version should be clearly marked on the manuscript.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2000" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

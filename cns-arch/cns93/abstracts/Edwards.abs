@@ -1,0 +1,31 @@
+CHANGES in SYNAPTIC INTEGRATION during the GROWTH of an INTERNEURON
+ by Donald H. Edwards and Shih-Rung Yeh ,
+Department of Biology, Georgia State University, Atlanta, GA 30302-4010
+
+Current Address of DHE: Program in  Computational Neuroscience, National
+ Science Foundation, Rm 321, 1800 G Street, NW, Washington D.C. 20550;
+ INTERNET: DEDWARDS@NSF.GOV; Tel: (202) 357-7041; FAX: (202) 357-7846.
+  All correspondence should be addressed to Dr. Donald Edwards at these
+addresses.
+
+ABSTRACT
+
+The effects of growth on the passive integrative properties the LG neurons of
+ crayfish were analysed by simultaneous recordings from the dendrites and
+initial axon segment of juvenile (<2 cm) and adult (> 8 cm) crayfish, and by
+ constructing and testing multicompartment models of these neurons.  EPSPs in
+ the large LG were more attenuated and experienced significantly more smoothing
+ than did the same EPSPs evoked in the small LGs.   Simulations with the models
+ gave similar responses, indicating that the changes in integrative properties
+of LG during growth (increased EPSP attenuation, enhanced low-pass filtering of
+ EPSPs) could be accounted for by growth and the observed increase in Tm.
+
+        To determine whether these changes in LG's integrative characteristics
+ were typical of growing neurons generally,  we analyzed the responses of large
+ and small equivalent cylinder models of neurons to current injection and to si
+mulated synaptic input.   It was concluded that uniform patterns of neuronal gr
+owth will decrease the input resistance, increase the low- pass filtering chara
+cteristics, and increase the attenuation of synaptic potentials away from input
+ sites.  These changes could be compensated for by parallel increases in the ef
+fective membrane resistance of the neuron and decreases in its effective membra
+ne capacitance.

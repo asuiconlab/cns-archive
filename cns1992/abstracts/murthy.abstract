@@ -1,0 +1,9 @@
+Effect of input synchrony on the response of a model neuron
+Venkatesh N. Murthy and Eberhard E. Fetz
+Dept. of Physiology & Biophysics, SJ-40, University of Washington, Seattle, Wa 98195
+
+
+
+
+ABSTRACT: We studied the dependence of the average spike frequency (f-out) of a biophysically realistic model neuron on the degree of synchrony (s, varied from 0 to 100%) in its excitatory synaptic inputs. The following independent parameters were systematically varied: (1) N, the number of inputs to the neuron, (2) f-in, the average frequency of the inputs, and (3) w, the strength of the input connection. The goal was to empirically determine the relation: f-out = F(N, fin, w, s). The results indicate that for parameter values in the range found in neocortical cells, input synchrony can affect output significantly.
+

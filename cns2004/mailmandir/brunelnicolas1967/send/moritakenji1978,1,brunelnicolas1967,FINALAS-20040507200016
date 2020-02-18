@@ -1,0 +1,77 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Kenji Morita" <morita@sat.t.u-tokyo.ac.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 7/5/2004 20:0:16
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Kenji Morita,
+
+We're happy to inform you that your paper 'A network model with pyramidal cells and GABAergic non-FS cells in the cerebral cortex' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors propose a rate model of the dynamics of a network 
+consisting of a number of pyramidal cells and a pooled non-FS cells.
+Inferring from the cortical organization observed in anatomy, 
+the authors modified the conventional rate model to incorporate 
+the fact the dendrites can be regarded as nonlinear units with 
+the non-FS neurons directly connected to them. The resulting 
+rate model differs from conventional rate model in that 
+the threshold non-linearity is applied to each feedforward
+currents separately, rather than to the summed total current
+to the neuron. With this modified model the authors studied 
+the winner-take-all dynamics with self-excitation and global 
+inhibition. They claim that, unlike the conventional model,
+their model support a "I don't know states", in which all neurons
+fire instead of just the winner.
+
+I find the claim of the paper questionable. The so called 
+"I don't know" states also exist in the conventional model, 
+contrary to what the authors state. This depends on the relative
+strength of the self excitation and global inhibition. 
+When inhibition is strong and/self excitation is large,
+the network always converge to a winner-take-all state.
+However, if inhibition and the self excitation are weak,
+the network converge to a winner-take-all state only when 
+the input pattern has a highly non-uniform distribution; 
+otherwise the network converge to a state with all neurons 
+fire, which is what the authors call "I don't know state".
+So "I don't know state" is not something new in the authors'
+model; it exists in conventional model as well.
+
+The paper is interesting in pointing out a new interpretation 
+of why the nonlinearity can be put in individual feedforward inputs
+rather than the over all summed current. However, the authors
+clearly do not understand well the conventional model and their own model. 
+They make dubious claims. I would suggest the authors
+analytically analyze simple networks with two neurons, for example,
+to help understanding of the conventional model and their own model.
+
+Reviewer 2 :
+
+

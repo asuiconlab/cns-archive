@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1999 - Travel Grant Information</title>
+<meta name="description" content="CNS Meeting Home Page 1999 - Travel Grant Information." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1999, 
+cns, computational, neuroscience, workshop, talks, posters, Travel Grant Information" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1999</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-22, 1999, Pittsburgh, Pennsylvania</h3>
+  	
+  	<h4>CNS*1999 Travel Grant Information</h4>
+  	
+  	<p>In order to process your travel grant we need a copy of your passport.</p>
+  	
+  	<p>Also, foreign nationals attending the CNS*99 conference need to enter the U.S. on a Business 
+  	Visa in order to be eligible for reimbursement for travel expenses. This means that you will need 
+  	to go to the American Consulate in your respective country and request a B-1 Business Visa. Upon 
+  	entering the country, you will receive a little white card called "I-94" valid for up to 6 
+  	months. Please make sure you photocopy the I-94 card (as well as the passport). We will need it 
+  	in order to process your paperwork.</p>
+  	
+  	<p>People from the following countries don't need to apply for the Business Visa. Instead, you 
+  	can just enter the U.S. on the "Visa Waiver for Business". All you need to do is come to the 
+  	country and, upon entry, you will be issued a green I-94 card with the initials "WB" written in 
+  	and you will be issued a green I-94 card with the initials "WB" written in and valid for up to 3 
+  	months. Again, make sure to photocopy this card before you come to CNS*99.</p>
+  	
+  	<ul>
+  	  <li>Andorra</li>
+  	  <li>Argentina</li>
+  	  <li>Australia</li>
+  	  <li>Austria</li>
+  	  <li>Belgium</li>
+  	  <li>Denmark</li>
+  	  <li>Finland</li>
+  	  <li>France</li>
+  	  <li>Germany</li>
+  	  <li>Iceland</li>
+  	  <li>Ireland</li>
+  	  <li>Italy</li>
+  	  <li>Japan</li>
+  	  <li>Liechtenstein</li>
+  	  <li>Luxembourg</li>
+  	  <li>Monaco</li>
+  	  <li>New Zealand</li>
+  	  <li>Norway</li>
+  	  <li>San Marino</li>
+  	  <li>Slovenia</li>
+  	  <li>Spain</li>
+  	  <li>Sweden</li>
+  	  <li>Switzerland</li>
+  	  <li>The Netherlands</li>
+  	  <li>United Kingdom</li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1999" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

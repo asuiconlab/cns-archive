@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1999 - Call for Papers</title>
+<meta name="description" content="CNS Meeting Home Page 1999 - Call for Papers." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1999, 
+cns, computational, neuroscience, workshop, talks, posters, Call for Papers" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1999</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-22, 1999, Pittsburgh, Pennsylvania</h3>
+  	
+  	<h4>CNS*1999 Call for Papers</h4>
+  	
+  	<p><b>DEADLINE FOR SUMMARIES AND ABSTRACTS:</b> 11:59pm January 26, 1999</p>
+  	
+  	<p><b>IMPORTANT DATES :</b></p>
+  	
+  	<ul>
+  	  <li>Paper submission deadline: January 26, 1999 by 11:59pm</li>
+  	  <li>Notification of acceptance: 2nd week of May, 1999</li>
+  	</ul>
+  	
+  	<p><b>SUBMISSION INSTRUCTIONS</b></p>
+  	
+  	<p>With this announcement we solicit the submission of presented papers, all of which will be 
+  	refereed. Peer review will be conducted based on a 1000-word (or less) summary describing the 
+  	methods, nature, and importance of your results. Authors will be notified of acceptance by the 
+  	second week of May, 1999.</p>
+  	
+  	<p>As for last year's meeting, all submission of papers will be performed electronically using a 
+  	custom-designed Web interface. Full instructions for submission can be found at the meeting web 
+  	site.</p>
+  	
+  	<p>However, in brief, authors should cut and paste text from their own word processors into the 
+  	forms available on the web site. It is important that all requested information be provided, 
+  	including a 100 word abstract for publication in the conference program, all author information, 
+  	and selection of the appropriate category and theme from the list provided. Authors should 
+  	especially note the mechanisms used for figures and mathematical equations. All submissions will 
+  	be acknowledged by e-mail within 48 hours. Program committee decisions will be sent to the 
+  	designated correspondence author only. Submissions will not be considered if they lack category 
+  	information, abstracts, author addresses, or are late.</p>
+  	
+  	<p>We would like to strongly encourage authors to make their submissions electronically. However, 
+  	if you do not have ready access to the internet or a web server, we will send you instructions 
+  	for paper submission if you contact us either by e-mail or at the following address.</p>
+  	
+  	<p>CNS*99<br />
+  	Division of Biology 216-76<br />
+  	Caltech<br />
+  	Pasadena, CA 91125</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1999" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

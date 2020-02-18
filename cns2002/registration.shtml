@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2002 - Registration</title>
+<meta name="description" content="CNS Meeting Home Page 2002 - Registration." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2002, 
+cns, computational, neuroscience, Registration" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<a href="./posterCNS02.shtml"><img class="floatright" src="./images/pic02.jpg" alt="Poster of the Annual Computational Neuroscience Meeting 2002" title="Annual Computational Neuroscience Meeting, poster of 2002. Click the poster to enlarge." /></a>
+  	
+  	<h1>CNS*2002</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 21-25 2002, Chicago, Illinois, USA</h3>
+  	
+  	<h4>CNS*02 Meeting registration</h4>
+  	
+  	<p><b>Please contact Diane Hall for any question concerning registrations</b></p>
+  	
+  	<p>Participants can now register on line at:<br />
+  	<a href="http://epayment.uchicago.edu/cns">http://epayment.uchicago.edu/cns</a>.<br />
+  	Registration is $280 for regular participants and $130 for students prior to June 10, 2002. It 
+  	increases to $310 for regular participants and $155 for students after June 1. Extra tickets for 
+  	the banquet can be purchased for adult guests and children.</p>
+  	
+  	<p class="important">NOTICE!</p>
+  	
+  	<p>We have noticed problems with payment by creditcards from some non-US countries.<br />
+  	We hope to solve this quickly. We do get the registration information correctly. So even if you 
+  	have problems with the payment, if you register before June 10, you will have the benefit of the 
+  	early registration fee.<br />
+  	Diane Hall is the responsible person for CNS2002 at Chicago University.</p>
+  	
+  	<h4>Hotel registration</h4>
+  	
+  	<p>CNS*2002 will be held in the Congress Plaza Hotel &amp; Convention Center, 520 South Michigan 
+  	Avenue, Chicago, Illinois. Room rates are $ 109.00 for one or two persons per room, and $20.00 
+  	for each additional person. There is a 14.9 % local hotel occupancy tax. The meeting rates are 
+  	available for three days prior to and three days after the official meeting dates. All 
+  	reservations must be made by June 20, 2002. Reservations must be guaranteed for arrival by a 
+  	first night's deposit or a major credit card. Meeting participants should register directly with 
+  	the Hotel. Reservations can be made by phone by calling 312-427-3800 extension 5025 or 
+  	1-800-635-1666. Participants must identify themselves as associated with CNS*2002 to obtain the 
+  	conference rates. Alternatively, reservations can be made on-line at the hotel website or through 
+  	the meeting website. Participants must indicate that they are associated with CNS*2002 in the 
+  	&quot;special needs&quot; box in the on-line registration form to obtain the conference rates.</p>
+  	
+  	<h4>Neural coding workshop: how does the cortex code information ?</h4>
+  	
+  	<p>The Committee on Computational Neuroscience at the University of Chicago will sponsor a 
+  	workshop on neural coding in the cerebral cortex on Saturday, July 20 preceding CNS*2002. There 
+  	is a separate registration fee of $50 for this workshop, which will cover the cost of the coffee 
+  	breaks and lunch. The program will be available early in May. You can register for the workshop 
+  	through the two meeting registration websites.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2002" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

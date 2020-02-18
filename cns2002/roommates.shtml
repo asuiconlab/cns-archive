@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2002 - Room-mate list</title>
+<meta name="description" content="CNS Meeting Home Page 2002 - Room-mate list." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2002, 
+cns, computational, neuroscience, Room-mate list, workshops, posters, talks" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<a href="./posterCNS02.shtml"><img class="floatright" src="./images/pic02.jpg" alt="Poster of the Annual Computational Neuroscience Meeting 2002" title="Annual Computational Neuroscience Meeting, poster of 2002. Click the poster to enlarge." /></a>
+  	
+  	<h1>CNS*2002</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 21-25 2002, Chicago, Illinois, USA</h3>
+  	
+  	<h4>CNS*02 Room-mate list</h4>
+  	
+  	<p>Sorry this year the list can not be displayed on this page, just because the system was not 
+  	designed to serve this kind of requests. To access the list you need to logon first.</p>
+  	
+  	<p>Putting the list behind the logon is an extra step to take but it shields the information from 
+  	the always hungry email-web-robots, we all have to deal with spam-mail and we do not like to make 
+  	it worse.</p>
+  	
+  	<p>To logon you can use the same username and password that you used for the paper submission on 
+  	this site. In case you forgot the password the system can mail it back to you.</p>
+  	
+  	<p>After logon, please follow the link "CNS 2002 Room-mate list" ( the second link on the menu). 
+  	Now you will get a page that's allows you to add / change your entry or to display all entries in 
+  	the list.</p>
+  	
+  	<p>So please follow this <a href="/logon.shtml">link</a> to the logon-page or press the "login" 
+  	button from the menu on top.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2002" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

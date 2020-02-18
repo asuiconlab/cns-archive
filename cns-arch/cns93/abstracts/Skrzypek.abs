@@ -1,0 +1,31 @@
+Combined effects of cellular and network components of light
+adaptation in the vertebrate cone: A computational model
+
+Josef Skrzypek and William F. Smith
+Machine Perception Laboratory
+3532D Boelter Hall, Computer Science Department
+UCLA
+Los Angeles, California 90024
+INTERNET: SKRZYPEK@CS.UCLA.EDU
+FAX: (310) 825-2273
+
+Abstract
+
+We report here the results of our qualitative studies derived from 
+analysing the behavior of a detailed computational model of a cone 
+that includes 1) temporally realistic light sensitive IVa+ conductance 
+in the outer segment modulated by interactions between Ca++ and 
+cGMP, 2) feedback from horizontal cells to cones and 3) coupling 
+between neighboring cones. The model accounts for detailed 
+variations in the temporal waveform of the light response recorded 
+from intact cones embedded in the retina. It suggests that the 
+transduction mechanism in the outer segment need not be modulated 
+directly by the feedback from horizontal cells to explain how 
+surround illumination contributes to shifting the intensity-response 
+curves and unsaturating the cone's membrane potential. It also 
+suggests that in order to generate additional light response after the 
+membrane of a cone is fully hyperpolarized by light, it is insufflcient 
+to have a feedback effect alone that would depolarize the cone 
+membrane: light sensitive channels that were not previously closed 
+(Attwell, et. al., 82) must also be available.
+

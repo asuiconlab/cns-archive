@@ -1,0 +1,61 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"Enrico Rossoni" <e.rossoni@susx.ac.uk>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 20/4/2004 17:12:10
+-----------------------DATA----------------------
+Dear Enrico Rossoni,
+
+We're happy to inform you that your paper 'Modeling the milk-ejection reflex' may be accepted for publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org, as only papers presented at the meeting can be published in the proceedings volume. Decisions on oral presentations, if requested, will be made soon.
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper describes a model of the burst patterns of oxytocin neurones that contribute to the hormone concentration in the blood that leads to a milk ejection reflex. The title is therefore misleading, as no model of the milk-ejection reflex as such is presented. The Introduction is rather glibly assembled, with several over- and mis- statements, unsupported by appropriate references. For example (p. 1, ln 6), where are the data showing that "every cell discharge (sic) spikes in brief "? Their citation of ref. 4 (p. 2, ln 5) in support of the statement that "During lactation the astroglial architecture . . is reorganised to facilitate dendro-dendritic interactions" is incorrect, as is ref. 6 on ln 8. Neither ref. 6 nor ref. 8 provided data relevant to morphological reorganisation.  At the end of that paragraph, they neglect citing a reference for dendritic bundling, which is crucial to their model. This is simply poor scholarship. 
+
+The model is somewhat simplistic in that it takes no account of possible roles of other molecules that are known to be co-released with oxytocin, and to have biphasic effects on oxytocin neuronal activity (e.g., ATP and its rapid conversion to adenosine). With well chosen parameters one can mathematically get from the input to the output functions of a biological process, although the actual biological system being modelled may get there by a different route. Nevertheless, their model does have the ability to simulate many features of the burst patterns, so it is not without value.
+
+Technical queries 
+
+How are the membrane time constants defined in eq. (1)?
+What label should be on the ordinate of Fig. 3?
+
+Reviewer 2 :
+The paper by Rossoni et al. presents a model of synchronous burst generation in oxytocin (OT)-secreting neurons of supraoptic nucleus (SON) of hypothalamus during lactation.  The model is based on the physiologically admissible hypothesis concerning the interaction of OT neurons through dendritic release of OT. Using a network of simple Integrate-and-Fire (IF) neurons, the authors showed a possible dual role of dendritically released OT in synchronous burst generation  the excitation of neighboring cells and the retrograde inhibition of background tonic afferent inputs to the OT cells. The modeling results are compared with data recorded in vivo from a lactating animal. The model is quite successful in respect to emulating bursts with characteristics close to the suckling-induced activity, as well as effects of excitatory and inhibitory inputs on firing activity of OT cells in the SON. 
+The paper contains enough data that is interesting for computational neuroscientists and may be recommended for publication in the journal Neurocomputing).
+Major concerns 
+1) I would recommend a change in the title because it is too broad. The model deals with synchronous burst generation in the SON, which is a central mechanism of milk-ejection reflex. 
+2) The paper presents a purely phenomenological approach. It does not take into account numerous physiological and biophysical properties of OT neurons. 
+3) Authors do not consider the mechanisms of internuclear synchronization of neuronal electrical activity at milk ejection. 
+4) The model description is not complete which decreases significance and reproducibility of the presented results. There is no any reference related to previous model studies of authors or other similar IF models that could specify parameters, which are not presented in current paper. 
+Minor concerns 
+1) P.2, line 36  "k1 is the membrane constant" (Not fully specified).
+2) P.3, line 1  "k and tau were adjusted to match experimental results" (Which results? ).
+3) P3, line 24  It is better to replace term "auto-catalytic process" by more physiological one.
+4) P.3, line 11  "diffuses into the SON with rate k5, and is degraded/removed in the SON with the rate k5". Presumably the last "k5" should be replaced by other coefficient.
+5) P.4, line 18  The term "bursting reflex" is confusing. 
+6)P.5, Fig3   As well as term "inter-burst ISIHs" (inter-burst inter-spike interval histograms) 
+7) Abbreviations SON, GLU, ISIHs, EPSP, IPSP are not defined.
+
+

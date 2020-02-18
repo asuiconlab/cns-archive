@@ -1,0 +1,43 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Thomas Hoch" <hoch@cs.tu-berlin.de>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:8:53
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Thomas Hoch,
+
+We're happy to inform you that your paper 'Correlations in the background activity allow the use of single 
+neuron learning rules in populations' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The result found in this work has some relevance under the assumption that learning rules should operate at the single neuron level (that is, that they learn by presumably using only local information). The paper does not justify the choice of the optimization criterion, and does not discuss alternative choices. Perhaps the English requires some revision.
+
+Reviewer 2 :
+This paper follows several previous studies of information transmission by populations of neurons by the authors and others. It specifically studies how the stochastic resonance phenomenon is affected by the correlation between pairs of neurons. The results are interesting and timely. However, this reviewer could not understand why learning has anything to do with these results. The authors should either remove completely the reference to learning (both in title and text) or explain in more detail what they mean by single neuron learning rules' and why these results are relevant to the issue of learning.
+

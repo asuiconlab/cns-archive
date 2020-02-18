@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2003 - Map</title>
+<meta name="description" content="CNS Meeting Home Page 2003 - Map." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2003, 
+cns, computational, neuroscience, Map, local area, transportation, info" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="./images/pic03.jpg" alt="Poster of the Annual Computational Neuroscience Meeting 2003" title="Annual Computational Neuroscience Meeting, poster of 2003." />
+  	
+  	<h1>CNS*2003</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 5-9, 2003, Alicante, Spain</h3>
+  	
+  	<h4>CNS*2003 Map of local area and transportation info</h4>
+  	
+  	<p>The conference will be hosted at two different venues around the harbor of Alicante. Oral 
+  	sessions in the morning and evening will occur at the "Caja de Ahorros del Mediterráneo" (CAM) 
+  	Auditorium ("Aula de Cultura de la CAM") in the intersection of "Parque de Canalejas" and 
+  	"Avenida Doctor Gadea" (see D in the map). The entrance is at 1, Avenida Dr. Gadea. The 
+  	conference will start in this place on July 5 at 9:45 am. The poster sessions will be hosted in 
+  	the room "sala Europa" on July 5, and in the room "sala Alicante" on July 6 and 7 of the hotel 
+  	Meliá, a 5 minute walk from the CAM Auditorium (see no. 2 in the map).</p>
+  	
+  	<h4>Airport transportation:</h4>
+  	
+  	<p>A taxi ride from the airport to the city center costs 12-15 euros. There is also public bus 
+  	service connecting the airport to the city and serving all CNS*03 hotels: as you exit the airport 
+  	terminal walk across the street and up the stairs to an upper level street, there you can take 
+  	the bus C-6 leaving the airport everyday at irregular times 
+  	(<a href="http://www.subus.es/Lineas/Ficheros/ALCC6HorarioDiario.asp?codigo=272">
+  	see schedule "Salidas desde Aeropuerto"</a>). If you go to the hotels "Tryp Ciudad de Alicante" 
+  	(no. 12 in the map), "Meliá" (no. 2 in the map) or "Spa Porta Maris" (no. 25 in the map) your 
+  	stop is the last one: "Puerta del Mar", you'll see the big Spanish flag in the middle of a 
+  	traffic rotary/roundabout. If you go to hotel "Rambla" (no. 20 in the map) or hotel "Tryp Gran 
+  	Sol" (no. 3 in the map) your stop is "Portal de Elche" (the one before last). If you go to the 
+  	hotel "Alfonso el Sabio" (no. 22 in the map) your stop is "Alfonso X el Sabio (Colmena)". The bus 
+  	ride takes about 30 minutes and costs 1.05 euros.</p>
+  	
+  	<h4>Safety:</h4>
+  	
+  	<p>Summer in Spain means tons of tourists flock to our coastal resorts. This keeps our economy 
+  	going (tourism is the most important industry in Spain and last year Spain displaced the Unites 
+  	States as the world's second-favorite tourism destination. France holds the number one spot) but 
+  	it also brings some inconveniences. The one that tourists are more likely to experience is 
+  	pick-pocketing in and around touristic areas. This is especially acute in big cities like 
+  	Barcelona and Madrid, but it never does any harm to use some precaution also in Alicante. Make 
+  	sure your carry your wallet and purse in a safe location to avoid being pick-pocketed.</p>
+  	
+  	<p>Click on the map to enlarge</p>
+  	
+  	<p><a href="./map2.shtml"><img src="./images/map_of_Alicante_ltl.jpg" alt="Map of Allicante" /></a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2003" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

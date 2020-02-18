@@ -1,0 +1,51 @@
+
+
+Hybrid physiological/connectionist model of the 
+computation of intensity difference in the barn owl
+
+Clay D. Spence and John C. Pearson
+David Sarnoff Research Center
+CN5300
+Princeton, NJ 08543-5300
+
+CSpence@sarnoff.com
+John_Pearson@maca.sarnoff.com
+
+Send correspondence to John Pearson.
+
+Abstract (83 words)
+
+Sound localization for the barn owl requires the representation of the 
+binaural difference (BID) spectrum [1,2], which should be 
+independent of the average binaural intensity level (ABI). Previous 
+modeling work [3] has accounted for a good deal of the known 
+physiology and anatomy of this system [4], however, it did not 
+explain how ABI independence can be generated. This paper 
+presents a solution to this problem, involving a hybrid simulation 
+that combined connectionist [5,6] and more biologically faithful
+[7,8] techniques.
+
+[1] Moiseff, A. (1989) Binaural disparity cues available to the barn 
+owl for sound localization. J. Comp. Physiol. 164:629-636.
+[2] Moiseff, A. (1989) Bi-coordinate sound localization by the barn 
+owl. J. Comp. Physiol. 164:637 644.
+[3] Pearson, J. C., C. D. Spence, and R. Adolphs (1992) Model of the 
+origin of neuronal selectivity for binaural intensity difference in the 
+barn owl, in: Neural Systems: Analysis and Modeling,F. H. Eeckman, 
+ed., Kluwer Academic Publishers, Norwell, MA.
+[4] Manley, G. A., C. Koppl, and M. Konishi (1988) A neural map of 
+interaural intensity differences in the brain stem of the barn owl. J. 
+Neurosci. 8:2665-2676
+[5] Lehky, S. R. and T. J. Sejnowski (1988) Network model of shape 
+from shading: neural function arises from both receptive and 
+projective fields. Nature 333:452-454.
+[6] Zipser, D. and R. A. Anderson (1988) A back-propagation 
+programmed network that simulates response properties of a subset 
+of posterior parietal neurons. Nature 331:679-684.
+[7] Bhalla, U. and J. Bower (1993) Genesis: a neuronal simulation 
+system, in: Neural Systems: Analysis and Modeling,F. H. Eeckman, ed., 
+Kluwer Academic Publishers, Norwell, MA.
+[8] Koch, C. and I. Segev (1989) Methods in Neuronal Modeling. MIT 
+Press.
+
+

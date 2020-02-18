@@ -1,0 +1,13 @@
+Cortical Cells Should Fire Regularly, But Do Not
+
+William R. Softky & Christof Koch
+216-76 California Institute of Technology
+Pasadena, CA 91125
+
+
+
+
+Abstract
+
+The standard theory of a leaky integrator with stochastic spike input predicts that cortical cells should fire regularly. We tested interspike-interval histograms from awake, behaving macaque visual cortex (Vl and MT), and found high levels of variability (CV > 0.5) characteristic of a nearly random (Poisson) process. A simple integrate-and-fire model, using accepted biophysical parameters, fails by more than a factor of ten to account for the high CV. We also simulated a biophysically detailed compartment-model of an anatomically reconstructed and physiologically characterized layer V pyramidal cell; again, at high firing rate, CV values are low, in disagreement with the data. Only a few situations could account for this discrepency: very large EPSP's, a very short membrane time constant (Tm < 0.3 msec), or highly correlated (e.g. synchronized) input. Our analysis suggests that cortical computation may occur at a time-scale much faster than previously realized.
+

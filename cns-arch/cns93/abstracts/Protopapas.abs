@@ -1,0 +1,24 @@
+
+Resiliency of cellular response to fluctuations in synaptic 
+timing around physiological values in pyramidal cells of the 
+olfactory cortex
+
+Alexander Protopapas and James Bower, California Institute of 
+Technology, Division of Biology 216-76, Pasadena CA 91125
+
+Abstract
+
+Current source density analysis has revealed a stereotyped pattern 
+of synaptic input in the pyramidal cells of the piriform cortex in rat 
+and opossum. This pattern is believed to underly synaptic activity in 
+the awake behaving animals as well. We were interested in 
+determining how fluctuations in the timing of synaptic inputs change 
+the cellular response. A simple model of a pyramidal cell was 
+constructed to reproduce the field potentials used in the CSD analysis. 
+The pattern of synaptic input generating appropriate field potential 
+data was used in a more complete model of a pyramidal cell with 
+realistic dendritic morphology. Onset times for synaptic inputs were 
+varied and subsequent changes in cell response were measured. 
+These simulations revealed that cell response was considerably 
+reselient to fluctuations in synaptic timing.
+

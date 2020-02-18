@@ -1,0 +1,50 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"Alexei Samsonovich" <asamsono@gmu.edu>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:0:39
+-----------------------DATA----------------------
+
+Dear Alexei Samsonovich,
+
+We're happy to inform you that your paper 'Algorithmic Description of Hippocampal Granule Cell Dendritic Morphology' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+Decisions on presentation format (oral vs. poster) will be made in early May and you will receive another e-mail then about your assignment.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Please define "branch" and "segment"
+Rationale of equation (1)?
+Dendrograms in Fig2A and 2C do not seem to have equal pathlength distributions - caused by the underlying biological variations?
+
+Reviewer 2 :
+1.The description of the algorithm is confusing. For example, the third phase is described as embedding the dendrogram into a 3d space, where the dendrogram was obtained in phase 1. However, phase 3 includes sampling to obtain the total degree of the dendritic tree, sampling to obtain the number of trees, etc. Some of those parameters are used in phase 1 (such as lambda1). 
+It appears that phase 3 does a lot more than embedding a dendrogram into 3d and that phase 1 required parameters generated in phase 3.
+2. Figure 1 is presumably used as a probability distribution to generate the degree of a daughter from that of a parent (with the uniform probability"). However, the squares in many of the rows add to more than one. Is the color key accurate?
+3. The authors refer to the first, second and third principal components in figure 3. Each principal component is determined by three values (a vector in 3d), yet the figure includes only one value for each component. Perhaps the authors are referring to the magnitude of the eigenvalue? Or something else? Please clarify.
+4. Authors should avoid using references to work under review (ref 8 for work submitted to Hippocampus) when explaining the algorithm. 
+5. Equation 1 includes lambda1 and lambda2, but only lambda1 is defined in the text.  
+

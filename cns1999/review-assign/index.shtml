@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>CNS*99 Reviewer Assignment</title>
+</head>
+<body bgcolor=white>
+<h2>CNS*99 Reviewer Assignment</h2>
+<h4>(Complete by March 11th)</h4>
+Welcome!  As you know, it's the responsibility of the program committee
+to assign two reviewers for each submitted paper.  This Web page will
+help you keep track of a number of things related to this process, including
+the number of papers assigned to each reviewer and which papers you have
+already assigned.
+<p>
+First, <b>pick your name from the following list</b> and click on the
+"Enter!" button.  This will log you into your own review selection
+page.
+<form action="cgi-bin/sign-in.cgi" method=POST>
+<table>
+<tr><td>
+<select name=id size=1>
+<option> - none selected -
+<option> Jim Bower
+<option> Erik De Schutter
+<option> Raymon M. Glantz
+<option> Ranu Jung
+<option> Anders Lansner
+<option> Chip Levy
+<option> Simon Thorpe
+<option> David S. Touretzky
+<option> Gina Turrigiano
+</select>
+</td><td>
+<input type=submit value="Enter!">
+</tr>
+</table>
+</form>
+<hr>
+<font size=2>
+<i>Please contact
+<a href="mailto:support@cns.numedeon.com">support@cns.numedeon.com</a>
+if you have any questions regarding this Web page.</i>
+</body>
+</html>

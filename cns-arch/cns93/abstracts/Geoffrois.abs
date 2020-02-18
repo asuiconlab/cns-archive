@@ -1,0 +1,25 @@
+Learning by Delay Modifications
+
+Edouard GEOFFROIS
+
+Present address (until Sept 93):
+NTT Human Interface Laboratories
+3-9-11 Midori-cho, Musashino-shi Tokyo 180, JAPAN
+geoffroi@speech-sun.ntt.jp
+
+Permanent address:
+LIMSI, BP 133, F-91403 Orsay cedex, FRANCE
+geoffroi@limsi .fr
+
+Abstract
+
+In order to account for real time processing by the visual system, it 
+has been proposed that single spike relative arrival times can encode 
+analog information, which can be processed faster than firing rates 
+by a lateral inhibitory network. We show that learning can occur in 
+such a scheme by introducing variable delays, resulting in both fast 
+and adaptive processing. The A-current, known to be involved in 
+learning, is shown to have the suitable properties for controlling 
+these delays. This offers a complementary mechanism for modeling 
+receptive field plasticity.
+

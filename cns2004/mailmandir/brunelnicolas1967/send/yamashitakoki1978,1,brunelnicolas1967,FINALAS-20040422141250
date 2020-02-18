@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Koki Yamashita" <kooki-y@sophia.ac.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Thu 22/4/2004 14:12:50
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Koki Yamashita,
+
+We're happy to inform you that your paper 'Parametric study of dopaminergic neuromodulatory  effect in a reduced model of the prefrontal cortex' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors propose a new model to explain dopaminergic modulation of sustained activities in prefrontal cortex. The model reproduces the observed inverted U shape of the modulation. I have several commentaries. First, due to the very large range of action of dopamine in PFC (pyramidal/interneurons, synaptic/intrinsic, ...), there are probably many way to obtain the U shape effect. Second, the model is partly based on in vitro results which may not be applicable in vivo. Third, the modulatory effect obtained with the model indicates symmetric suppression of sustained activities for small and large DA doses. It is unclear how it relates to behavioral studies which show asymmetry DA effect  suboptimal DA levels lead to inattention (as measured by chance level behavior in a delayed alternation task) and supraoptimal DA levels to perserveration (less-than-chance behavior) (Zahrt et al., 1997, J Neurosci 17(21) 8528). Fourth, DA acts both as a phasic and tonic neuromodulator, which should play a crucial role in DA-related functions (Grace, 1991, Neuroscience 41 1; Cohen et al., 2002, Curr Opin Neurobiol 12(2) 223; Dreher and Burnod, 2002, Neural Netw 15(4-6) 583). Consequently, I am not sure the present model adds something new to the role of DA in PFC.
+
+Reviewer 2 :
+The authors present a simple toy model of dopaminergic modulation. The strength of such a model is that it could be analyzed in detail, in fact it consists of just 2 piecewise linear differential equations which could be solved. The drawback of such a model is that it might be physiologically not that realistic. Unfortunately the authors kept the drawbacks while not exploiting the strengths.
+
+More specifically 
+1)The U-shaped function of DA-modulation seems to depend crucially on the fact that the curve for the inhibitory effects is steeper than that for the excitatory ones (?), although, as stated above, the authors did not use their simple model to study or discuss the mechanisms behind the U-shape. If the much larger steepness of the inhibitory curve is indeed crucial, the authors will have to discuss how this can be derived from the physiological data. In any case, the authors should work out, possibly analytically, what the crucial ingredients are that lead to the U-shape, and then discuss the physiological evidence for it.
+2)The authors are rather selective in their presentation of the DA literature and data. For instance, the finding that supranormal D1 suppresses activity is controversial, and there are reports to the contrary. It also seems to me that a more natural implementation of the DA effect on interneurons is adding a depolarizing current rather than manipulation of inhibitory time constant, with potentially very different results? One might also ask whether the 'net' effects of DA on exc. transmission are adequately described as enhancement, since they depend on the activity state of the network (see ref.11). 
+Thus, partly due to the abstract nature of the presented model, implementation of DA effects remains somewhat arbitrary, and so do the results. Unless the authors reveal the general mechanism by which inverted-U is achieved (see point 1) and discuss its physiological basis, this seems not very convincing.
+

@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1999 - Workshops</title>
+<meta name="description" content="CNS Meeting Home Page 1999 - Workshops." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1999, 
+cns, computational, neuroscience, workshop, talks, posters" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1999</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-22, 1999, Pittsburgh, Pennsylvania</h3>
+  	
+  	<h4>CNS*1999 Workshops</h4>
+  	
+  	<p><b>Workshop Title:</b> Mathematical Reduction of Complex Neural Models: Methods and Uses of 
+  	Reduced Models.</p>
+  	<p><b>Moderator:</b> Boris Gutkin</p>
+  	<p><b>Description:</b></p>
+  	
+  	<p class="insprongpar">With increasing computational power, models of single neurons have become 
+  	progressively more complicated, reflecting the multiplicity of trans-membrane conductances and 
+  	the spatial structure of the neuron. While informative about specific biophysical mechanisms such 
+  	models are mathematically unwieldy and do not yield to much formal analysis, nor do they easily 
+  	connect with the more abstract neural network models used to study behavior of cell circuits and 
+  	assemblies.</p>
+  	
+  	<p class="insprongpar">In the past several years, a number of mathematical techniques have been 
+  	developed that allow one to reduce the mathematical complexity of neural models. The resulting 
+  	models go far beyond the classical Integrate-and-Fire neuron in their ability to reproduce 
+  	physiological phenomena and are amenable to mathematical analysis. Furthermore, the formal 
+  	mathematical method makes it clear what are the assumptions inherent in the reduction process, 
+  	and what are the structural and dynamical requirements for the reduction to be applicable.</p>
+  	
+  	<p class="insprongpar">In this workshop we shall present a survey of modern reduction methods 
+  	with some examples of how the reduced models can be used.</p>
+  	
+  	<p class="insprongpar">Some examples of methods include:</p>
+  	<ul>
+  	  <li>separation of time scales methods</li>
+  	  <li>the spike-response models</li>
+  	  <li>reductions using normal forms to give canonical phase models</li>
+  	  <li>reduction of weakly and slowly coupled spiking neurons to neural networks</li>
+  	</ul>
+  	
+  	<p><b>Duration:</b> One Day</p>
+  	<p><b>Format:</b> Informal tutorial/mini-symposium</p>
+  	<p><b>Tentative presenters:</b> G. Bard Ermentrout; Carson Chow, John Rinzel, Boris Gutkin, 
+  	Eugene Izhikevich, Larry Abbott</p>
+  	
+  	<hr />
+  	
+  	<p><b>Workshop Title:</b> In vivo intracellular recording in vertebrates: How and why?</p>
+  	<p><b>Moderator:</b> Dieter Jaeger</p>
+  	<p><b>Description:</b></p>
+  	
+  	<p class="insprongpar">In vivo intracellular recordings in vertebrates are rumoured to be a 
+  	frustrating experience best left to others.</p>
+  	
+  	<p class="insprongpar">In anesthetized animals it may not be so bad, however, depending on brain structure and cell 
+  	type.</p>
+  	
+  	<p class="insprongpar">This workshop will collect the experiences, tips, and frustrations that 
+  	the participants have had with in vivo intracellular techniques.</p>
+  	
+  	<p class="insprongpar">In particular we will address the question of how brain pulsations can be 
+  	reduced. Other factors that are important in getting stable recordings, such as electrode shape 
+  	and manipulator stability, will be duly noted.</p>
+  	
+  	<p class="insprongpar">And if we can do such recordings, what should we be using them for? The 
+  	organizer claims that good intracellular recordings from behaving animals are the holy grail of 
+  	computational neuroscience.</p>
+  	
+  	<p><b>Duration:</b> One day</p>
+  	<p><b>Format:</b> formal discussion</p>
+  	
+  	<hr />
+  	
+  	<p><b>Workshop Title:</b> Computational Neuroanatomy</p>
+  	<p><b>Moderator:</b> Giorgio Ascoli</p>
+  	<p><b>Description:</b></p>
+  	
+  	<p class="insprongpar">I would like to stimulate the conversation and the exchange of opinions on 
+  	the following questions:</p>
+  	<ol>
+  	  <li>Why are there so many different morphological classes of neurons in nervous systems? Why is 
+  	  there such a wide morphological variability even within given morphological classes? What is 
+  	  the influence of dendritic morphology on neuronal electrophysiology and synaptic integration, 
+  	  either qualitatively (e.g. spiking VS bursting) or quantitatively (e.g. spike frequency, 
+  	  inter-train interval, etc.)?</li>
+  	  <li>How does all of the above affect network connectivity? How do dendritic and axonal growth 
+  	  interact with each others, and what role does this play on ensable activity and dynamics?</li>
+  	  <li>How can we describe in a concise, effective, complete and yet intuitive way the 
+  	  "fundamental" parameters of neuronal morphology and network anatomy? At what level a 
+  	  biologically plausible network model should include the mutual interplay between neuroanatomy 
+  	  and neurophysiology?</li>
+  	  <li>In principle, what is the right approach to generate "virtual brains" in a computer? By 
+  	  assembling large-scale experimental databases? By generating accurate stochastic models 
+  	  constrained by experimental statistics? Or maybe an hybrid of these two approaches?</li>
+  	</ol>
+  	
+  	<p><b>Duration:</b> One day (Thursday)</p>
+  	<p><b>Format:</b> formal discussion</p>
+  	
+  	<hr />
+  	
+  	<p><b>Workshop Title:</b> Cortical Dynamics: Its Turtles From Here On Down</p>
+  	<p><b>Moderator:</b> Phil Ulinski</p>
+  	<p><b>Description:</b></p>
+  	
+  	<p class="insprongpar">The nervous system of freshwater turtles makes an excellent preparation 
+  	for neurobiological studies because these animals have a remarkable tolerance to anoxia. Turtle 
+  	forebrains can, therefore, be maintained intact in an in vitro preparation and used in a variety 
+  	of different kinds of studies. The goal for this minisymposium is to review recent work on the 
+  	spatial and temporal dynamics of turtle visual cortex using an in vitro preparation of the turtle 
+  	geniculocortical pathway. Philip Ulinski will discuss the use of turtle cortex for studies that 
+  	relie upon intracellular recording techniques to test the key features of the canonical 
+  	microcircuit concept formulated by Douglas, Martin and colleagues. David Senseman will discuss 
+  	the use of turtle cortex for studies that use voltage sensitive dyes to characterize the 
+  	spatiotemporal dynamics produced in the cortex by visual stimuli. Kay Robbins will discuss the 
+  	use of dynamical systems methods to characterize the waves of activity produced in the cortex by 
+  	visual stimuli. Bijoy Ghosh will describe a network model of turtle cortex, based on 
+  	biophysically realistic models of individual neurons, which analyzes basic features of the waves 
+  	of activity seen in voltage sensitive dye studies.</p>
+  	
+  	<p><b>Duration:</b> one day</p>
+  	<p><b>Format:</b> informal minisymposium.</p>
+  	<p><b>Tentative Presenters:</b> Phil Ulinski, David Senseman, Kay Robbins, Bijoy Ghosh</p>
+  	
+  	<hr />
+  	
+  	<p><b>Workshop Title:</b> Map development in visual cortex</p>
+  	<p><b>Moderator:</b> Geoff Goodhill</p>
+  	<p><b>Description:</b></p>
+  	
+  	<p class="insprongpar">Models for the development of maps in visual cortex have a long history. 
+  	From a relatively small set of basic mathematical principles, an impressive amount of 
+  	experimental data can be accounted for. However, experimental advances continually provide new 
+  	challenges, and theoretical advances pose new and often surprising predictions. The goal of the 
+  	workshop is to review the different theoretical approaches in this fast-moving field, see where 
+  	they agree and where they disagree in their biological predictions, and to gain further 
+  	understanding of the strengths and weaknesses of different models.</p>
+  	
+  	<p><b>Duration:</b> One Day (Wednesday)</p>
+  	<p><b>Format:</b> Informatl Mini-symposium</p>
+  	<p><b>Tentative Speakers:</b></p>
+  	
+  	<hr />
+  	
+  	<p><b>Workshop Title:</b> Nonlinear dynamics and noise in single neurons and in human 
+  	psychophysics experiments.</p>
+  	<p><b>Moderators:</b> Hans Braun, Frank Moss</p>
+  	<p><b>Description:</b></p>
+  	
+  	<p class="insprongpar">Neurons with subthreshold, noise mediated oscillators in reality and in a 
+  	Hodgkin-Huxley model will be discussed. The temperature dependence, electrosensitivity and 
+  	pharmacological modulation, bifurcations and the signatures of noise mediated low dimensional 
+  	dynamical behavior in electro-, photo-, cold-receptors and hypothalamic neurons of example real 
+  	neurons are discussed. Topology of the dynamics in the zero noise Hodgkin-Huxley oscillating 
+  	neuron model is examined. An explosion of time intervals that results from the collision of a 
+  	fixed point with a homoclinic orbit, is observed at low temperatures in real pacemaker neurons 
+  	and in the HH model. By numerical simulation of a Hodgkin-Huxley model with an intrinsic 
+  	oscillator, we compare the dynamics of the spike trains with the trajectories of the system. 
+  	Reconstructed dynamics on the Poincare section and measures are discussed.</p>
+  	
+  	<p class="insprongpar">How computational neuroscience work led to animal studies that led to 
+  	psychophysical studies that have now led to clinical studies. We demonstrate stochastic 
+  	resonance-type behavior in: model neurons, rat cutaneous sensory neurons, and the human 
+  	touch-sensation system. We discuss how, from a bioengineering and clinical standpoint, these 
+  	developments may be particularly relevant for individuals with elevated sensory thresholds, such 
+  	as older adults and patients with peripheral neuropathy.</p>
+  	
+  	<p class="insprongpar">The electroreceptor in the paddlefish (Polyodon Spathula) contains a quite rigid internal 
+  	oscillator. Though their frequencies do not respond sensitively to external fields we have found 
+  	that they can easily be synchronized (phase locked). The effects can be accurately mimicked with 
+  	a noisy Hodgkin-Huxley or circle map.</p>
+  	
+  	<p class="insprongpar">Questions to be addressed:</p>
+  	<ul>
+  	  <li>Do nonlinear dynamical processes play a role in encoding, or do they just simply reflect 
+  	  the stochastic nonlinear properties of these neurons?</li>
+  	  <li>What is the source of "bursting" in the oscillating HH model, and could it be an 
+  	  explanation for bursting in pacemaker-type neurons?</li>
+  	  <li>Does the explosion of time intervals encode temperature information?</li>
+  	  <li>Is the spike timing sufficient to describe the underlying dynamics of the nervous system 
+  	  and what does the dynamics represent?</li>
+  	  <li>Will noise enhanced sensory perception lead to new therapies for diseases of the nervous 
+  	  system?</li>
+  	  <li>Does the rigidity of the oscillator and the ease of phase synchronization mean that the 
+  	  paddlefish uses a synchronization code to locate, track and find its planktonic prey?</li>
+  	</ul>
+  	
+  	<p><b>Duration:</b> Two days</p>
+  	<p><b>Format:</b> Informal Tutorial/Mini Symposium</p>
+  	<p><b>Presenters:</b></p>
+  	
+  	<ol>
+  	  <li>Hans A. Braun and Frank Moss. "Introduction and overview".</li>
+  	  <li>Robert Gilmore (Drexel University, Philadelphia) "Topological analysis of chaos in neural 
+  	  spike train bursts"</li>
+  	  <li>Alexander Neiman, Xing Pei (St. Louis) and Ulrike Feudel (Physics, University of Potsdam, 
+  	  Germany) "Homoclinic bifurcations and the explosion of time intervals in a Hodgkin-Huxley model 
+  	  and in Crayfish Caudal Photoreceptor neurons".</li>
+  	  <li>Xing Pei (St. Louis) "Reconstruction of low dimensional dynamical properties from spike 
+  	  trains"</li>
+  	  <li>J. J. Collins (Center for Biodynamics, Boston University) "Noise-enhanced sensory 
+  	  dynamics".</li>
+  	  <li>Alexander Neiman, Xing Pei, Frank Moss and Hans A. Braun "Stochastic synchronization of the 
+  	  paddlefish electroreceptors with external fields"</li>
+  	  <li>7. Martin Huber (Marburg) "Noise and bifurcations in psychiatric models and experiments"</li>
+  	</ol>
+  	
+  	<hr />
+  	
+  	<p><b>Workshop Title:</b> Modeling the hippocampus: Is this the right direction, time and place?</p>
+  	<p><b>Moderators</b>: Phil Best and Ali Minai</p>
+  	<p><b>Description</b>:</p>
+  	
+  	<p class="insprongpar">A number of models have been developed to account for neural processes 
+  	underlying the characteristics of place cells in the hippocampus and head-direction cells in 
+  	related structures. The workshop will provide an opportunity to discuss a variety of questions 
+  	concerning the performance of these models in explaining experimental data, the problems inherent 
+  	in hippocampal modeling, and possible future directions. Questions:</p>
+  	<ol>
+  	  <li>What is the state of the art in hippocampal models, and what are the most important 
+  	  outstanding questions?</li>
+  	  <li>How well do the existing models fit existing data?</li>
+  	  <li>Are there any properties of place and head-direction cells that make modeling them 
+  	  particularly difficult?</li>
+  	  <li>Do any of the models make unintuitive predictions that have yet to be tested?</li>
+  	  <li>Are there empirical questions yet to be addressed that would distinguish between the 
+  	  models?</li>
+  	  <li>What methods, technologies, and experimental paradigms are needed to address the most 
+  	  important open questions in the field?</li>
+  	</ol>
+  	
+  	<p><b>Duration:</b> One day</p>
+  	<p><b>Format:</b> informal workshop</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1999" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Wei Wu" <weiwu@dam.brown.edu>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 7/5/2004 19:59:29
+-----------------------DATA----------------------
+Dear Wei Wu,
+
+We're sorry to inform you that your paper 'Movement Direction Decoding using Fast Oscillation in Local Field Potential and Neural Firing during Instructed Delay in a Center-Out Reaching Task' is NOT accepted for
+publication in the CNS proceedings.  The comments of the reviewers
+which led to this rejection can be found below.  Notice that you are
+still invited to present your paper as a poster at the CNS*04 meeting
+and hope that the comments will help you in improving your
+presentation.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+COMMENTS FROM REVIEWERS
+
+Reviewer 1:
+The goal of this study was to explore the role of the fast beta-oscillations in LFP observed during the preparatory phase of movement in primary motor cortical areas. The author have explored whether considering firing rates during periods of fast beta-oscillations or during different phase of this oscillation could carry more information than periods without beta-oscillations.
+
+However, the technique used by this paper is not particularly new, nor the results very conclusive. The author use "Bayesian decoding", but assuming Gaussian distributions with diagonal covariance matrix. This is in effect equivalent to a simple form of linear decoding, a technique efficiently used in this group and others to decode hand movements from the activity of population of M1 cells (i.e Paninsky et al, J Neurophysiol. 2004 Jan;91(1) 515-32). The new contribution of this paper is thus to propose to use simple linear decoding on the firing rate in only portions of the response, namely periods with fast oscillations or with different phase within the LFP oscillations. But the results are not significant or conclusive, as pointed by the author themselves. The numbers reported on figure 3 truly look like noise. The choices of measurement are in themselves quite arbitrary, given the infinite number of combinations that could be tested. For example, it could be the difference in firing rates between period A and B (equation 3) that carries information. Moreover a meaningful comparaison of SER requires the same size for the databases (i.e. oscillatory versus non-oscillatory periods), which does not appear to be the case here. Thus this paper does not bring a conclusive answer to the question of whether fast beta-oscillations carry information on movement parameters.
+
+As a conclusion, I do not think this paper is suitable for publication in Neurocomputing.
+
+Reviewer 2 :
+This paper seeks to decode movement directions in a 4-alternative forced choice task by combining information from both spike times and the local field potential (LFP). As is always the case in these problems, the big question is what code
+to use for the spikes. The authors chose to use spike count in windows that were influenced by the LFP. They assumed that the spike count distribution given the stimulus was Gaussian with independent noise.
+                                                                                
+They investigated three decoding schemes 
+                                                                                
+1. Spike count was independent of the LFP.
+2. Spikes were counted only if the LFP was above
+   some amplitude (suitably defined).
+3. Spikes were counted and labeled by phase. That 
+   is, the spike count from each neuron bifurcated 
+   into two numbers  spike count in one phase of the
+   LFP and spike count in another.
+                                                                                
+While this is an eminently reasonable approach, it suffers from three interrelated problems 
+                                                                                
+First, there are an infinite number of coding schemes one could consider. Why this one? Is there any reason to think that it will be better than others?
+                                                                                
+Second, the three methods gave almost identical results  scheme 2 was at best 2% better than scheme 1, and scheme 3 was at best 3% better than scheme 1. Given that multiple comparisons were made, it was not clear whether these improvements were real or due solely to statistical fluctuations. Moreover, analysis that could have answered this question was not performed by the authors. And, even if the effect had been real, the improvement was small enough that one might be tempted, for purely practical reasons, to use the simpler of the three decoding schemes.
+                                                                                
+Third, the authors did not check that the independent Gaussian assumption was a
+good one. This is a relatively easy check to make,
+and should have been done.

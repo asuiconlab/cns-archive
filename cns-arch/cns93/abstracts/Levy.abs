@@ -1,0 +1,23 @@
+Using adaptive synaptogenesis to model the development
+of ocular dominance in kitten visual cortex.
+
+Costa M. Colbert, Christopher P. Fall, and William B Levy
+Department of Neurological Surgery - Box 420
+University of Virginia Health Sciences Center
+Charlottesville, VA 22908
+cmc4a@virginia.edu, cpf8kQvirginia.edu, wblQvirginia.edu
+
+ABSTRACT
+Activity-dependent modification of synaptic weights is a hallmark of 
+neural network computation. On the other hand, the actual formation 
+of these connections is either ignored or not generally considered to 
+be activity-dependent. Here we present a computational model of the 
+development of ocular dominance in the kitten visual cortex which 
+uses activity-dependent synaptogenesis. The rules governing 
+synaptogenesis are based on physiological and anatomical 
+investigations of synapse formation in both the central and 
+peripheral systems, and, as formulated, these rules are local, 
+adaptive processes with desirable convergence and stability 
+properties. Various experimental conditions are successfully modeled 
+with this formulation.
+

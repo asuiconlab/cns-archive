@@ -1,0 +1,60 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Christian Hauptmann" <c.hauptmann@fz-juelich.de>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:7:28
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Christian Hauptmann,
+
+We're happy to inform you that your paper 'Delayed feedback control of synchronization in locally coupled and stimulated networks' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper attempts to use delayed feedback control to desynchronize a
+network of coupled oscillators representing the basal ganglia. It is
+fairly readable (I struggled in a few places) but is for the most part
+competant. I would say that it is suitable for an oral presentation 
+the English, with the exception of the abstract, is good. The authors
+start with a phase model and show that it works as proof of
+principle. They then apply the methoid to the ML bursting model to
+show that validity remains in spiking models.  here are some minor
+points 
+
+1. define what is meamt by average phase pn page 2.
+2. Should perhaps try to come up with an explanation of why this
+technique leads to desynchronization in the ML system.
+ Is there a way to analyse the stability of the asynchronous state or
+ instability of synchrony? Perhaps they can do a phase reduction of
+ the ML system and compare it to their phase model. This may be too
+ much to ask for a conference, however
+
+Reviewer 2 :
+This work suggests a new method to control synchronous oscillations in the Subthalamic Nucleus of Parkinsonian patients. The idea is that feeding a delayed version of the neuronal activity back to the network desynchronizes the activity. Network models of various degree of realism are used to examplify this idea. Although Tthis paper is interesting and should be published,  it has one weakness  paper is in all the studied examples synchrony results from recurrent interactions between the neurons. However, the actual mechanism for synchronous oscillations if Parkinson disease remains unknown. Does the method suggested still works for synchronous oscillations emerging via other mechanisms?. The authors should comment on that point.
+
+Minor  There are many misprints in the text and in the reference tables which should be corrected. 
+

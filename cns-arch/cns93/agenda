@@ -1,0 +1,384 @@
+                 	 CNS*93
+
+               	   Main Meeting Agenda
+
+
+
+-------------------------------------------------------------------
+                 Sunday August 1
+
+
+9:00    Welcoming remarks and general information
+
+9:15	Invited talk : Idan Segev (Hebrew University)
+	  "Dendritic Processing"
+
+10:05	Poster previews
+
+   10:05	Hines (Duke University Medical Center)
+		"A demonstration of NEURON"
+   10:10	Ross  (NASA)
+		"Semiautomated 3-D reconstruction of neural architectures from
+		serial sections viewed in a transmission electron microscope:
+		Recon 1.0."
+
+   10:15	Ulinski (University of Chicago)
+		"A novel method of estimating the kinetic parameters of active
+		conductance from current clamp data"
+
+   10:20	Av - Ron (Ecole Normale Superieure)       
+		" Modeling olfactory neurons of the insect antennal lobe"
+
+
+   10:25	Protopapas  (Caltech)
+		"Resilience of cellular response to fluctuations in synaptic 
+		timing around physiological values in pyramidal cells of the 
+		olfactory cortex"
+
+10:30	break
+
+11:00	Short talks
+
+11:00	Sakai       (University of Pennsylvania)
+        "A cortical mechanism for shape-from-texture based on dynamic changes
+        in complex cell receptive fields"
+
+11:20	Edwards     (National Science Foundation)
+	"Changes in synaptic integration during the growth of an interneuron"
+
+11:40	Ekeberg      (Royal Institute of Technology)
+        "An integrated neuronal and mechanical model of fish swimming"
+
+12:00	Schiff       (Children's National Medical Center)
+        "Controlled wavelet transforms for electroencophalographic spike
+        detection"
+
+12:20	Lunch and poster viewing - session A
+
+2:20	Invited talk: Markus Meister (Harvard University)
+
+3:10	Poster previews
+
+   3:10		Theunissen   (University of California)
+		"Information theoretic analysis of the accuracy with which 
+		sensory stimuli and injected current waveforms are encoded by 
+		spike trains elicited in sensory receptors and interneurons of 
+		the cricket cercal sensory  system"
+
+   3:15		Hsu  (University of Pennsylvania)
+		"Simulating the foveal cone receptive field"
+
+   3:20		Skrzypeck    (University of California)
+		"Combined effects of cellular and network components of light
+		adaptations in the vertebrate cone: a computational model"
+
+   3:25		Bonham       (University of California)
+		"Self-organization and properties of receptive fields in the 
+		audidtory brainstem - a modeling approach"
+
+   3:30		Tam (University of North Texas)
+		"A multi-conditional correlation statistics for detecting 
+		spatio-temporally correlated firing pattern"
+
+   3:35		Buhmann      (University of Bonn)
+		"A  silicon retina for face recognition"
+
+3:40  	break
+
+4:00	Invited talk - Gwen Jacobs (University of California - Berkeley)
+	  "Reconstructing and reading a functional map"
+
+4:50	Short talks
+
+4:50	Linster     (Ecole superieure de Paris)
+	"Pheromone detection, ratio discrimination and oscillations : a new
+	approach to olfactory coding"
+
+5:10	 Anastasio    (University of Illinois)
+	"Distributed parallel dynamics in a sensorimotor transformation"
+
+5:30	Ross  (NASA)
+	"Computer simulations of neurocomputation by the vestibula macula :
+	a prototypic neural system"
+
+5:50	End of day announcements
+
+7:30	Poster session A
+		(Poster previews plus:)
+
+		Geoffrois    (NTT Human Interface Laboratories)
+		"Learning by delay modifications"
+		Schneider    (University of Saarland)
+		"Connectionist simulation of adaptive processes in the flight 
+		control system of migratory locusts"
+		Hashemiyoon  (Hahneman University)
+		"Retinally derived oscillations exhibiting non-linear dynamical
+		properties synchronise visual system structures"
+		Hearne       (The Medical School)
+		"The nonlinear processing capabilities of parietal ganglia 
+		neurones of the Pulmonata snail Helix aspersa"
+		Hankinson    (University of Michigan)
+ 		"Synaptic modification: learning mechanisms and algorithms"
+		Wernnes     (ERIM)
+		"Computational Hermissenda photoarray model"
+		Taylor      (King's College London)        
+		"Compartmental model response function for dendritic trees"
+		Sayeyg      (Purdue University)
+		"Facilitation and unblocking : a quantitative model"
+		Hatsopoulos (Caltech)
+		"Hysteresis reduction in propioception using presynaptic
+		shunting inhibition"
+
+-----------------------------------------------------------------------------
+
+			Monday, August 2
+
+9:00	Announcements
+
+9:15    Invited talk Larry Abbott  (Brandeis University) 
+	"Activity-Dependent Regulation of Neuronal Conductances"
+
+10:05   Poster previews
+
+   10:05        Wilke (University of Nuernberg)
+		"Simulation of neural networks in a distributed computing
+		environment using Neurograph."
+
+   10:10        Smith (University of Philadelphia)
+		"Unbiased measurement of simulation speed"
+
+   10:15        Beeman (University of Colorado)
+		"Simulation-based tutorials for education in computational 
+		neuroscience"
+
+   10:20        Idiart  (Brandeis University)
+     		"Propagation of excitation in neural network models"
+               
+   10:25        Siegel  (Brandeis University)
+  		"Activity-dependent conductances produce nonuniform current 
+		distributions in spatially extended model neurons"
+               
+10:30   break
+
+11:00   Short talks
+
+11:00   De Schutter  (Caltech)
+        "Compartmental simulation of diverse inputs to the cerebellar
+        Purkinje cell predicts function"
+
+11:20	Jaeger       (Caltech)
+        "Physiological and modeling studies of cerebellar Purkinje cell
+        responses to tactile stimulations: Processing of synaptic excitation
+        and inhibition"
+
+11:40   Gardner      (Cornell University Medical College)
+     	"Neurobiological substrates consistent with back-propagation"
+        
+12:00    Kotter      (University of Otago)
+	"Effects of asymmetrical neuronal connectivity and dopamine on
+	striatal function: simulation and analysis of a model for
+	Huntington's disease"
+        
+12:20   Lunch and poster viewing - session B
+
+2:20    Invited talk:  Yan-Yi Peng  (University of Chicago)
+	"Dynamics of presynaptic Ca2+ and peptide release"
+
+3:10    Poster previews
+
+   3:10         Paulin       (University of Otago)
+  		"Neural system identification using LN=IPFM models: application
+		to modeling electrosensory neurons in the Carpet Shark"
+                                
+   3:15         O'Dell       (Caltech)
+		"A role for the cerebellum in the global regulation of regional
+		 blood flow and energy delivery"
+               
+   3:20         Troyer       (University of California)
+		"Computer aided visualisation and analysis of a topographic map
+                
+3:25    break
+
+4:00    Invited talk:  Mark Nelson (University of Illinois)
+	  "Adaptive filtering in the electrosensory system"
+
+4:50    Short talks
+
+4:50    Holmes (University of Ohio)
+	"Temporal requirement for associative LTP in the dentate"
+
+5:10    Taylor  (King's College London)
+        "A global competitive network for attention"
+        
+5:30    Nicolelis    (Hahneman University)
+	"Distributed spatiotemporal properties of networks of neurons in the
+	ventral posterior medial thalamus of awake rats"
+        
+5:50    End of day announcements
+
+7:30    Poster session B
+		(Poster previews plus:)
+
+		Nelson       (University of Illinois)
+	       "A network model of automatic gain control in the electrosensory
+		system"
+		Sutton       (Harvard Medical School)
+		"State-dependent sequencing and learning"
+		Aitkin       (University of New South Wales)
+		"Overview of the Valentino computational neuroscience workbench
+		for simulation of neural systems"
+		Fay  (ERIM)
+		"Porting GENESIS from Sun to Silicon Graphics"
+		Krowne       (Naval Research Laboratory)
+		"3D mapping of the human brain using reconstructive imaging"
+		Pearson      (David Sarnoff Research Center)
+		"Hybrid physiological/connectionist model of the computation of
+		intensity difference in the barn owl"
+		Barbieri     (Naval Air Weapons Center)
+		"A simulation of neural processing in the auditory cortex of 
+		the Barn owl"
+		Nelson      (University of Illinois)
+		"System identification and modeling of primary electrosensory
+		afferent response dynamics"
+		Parnas       (University of California)
+		"The effects of neuronal modeling parameters on the auditory
+		nerve image : an exploration of parameter space"
+
+-------------------------------------------------------------------------------
+
+                	Tuesday August 3
+
+
+9:00    Announcements
+
+9:15    Invited talk:  Gilles Laurent (Caltech)
+          "Dendro-dendritic gain control in sensorimotor circuits" 
+
+10:05   Poster previews
+
+   10:05        Gottschalk   (University of Pennsylvania - Hospital)
+		"Limits on image representation in early vision"
+               
+   10:10       	Sajda        (University of Pennsylvania)      
+		"Construction of illusory surfaces by intermediate-level 
+		visual cortical networks" 
+                
+   10:15        Wolf	     (University of Frankfurt)
+ 		"Map structure from pinwheel position"
+
+   10:20        Pawelzik     (University of Frankfurt) 
+		"Identifying the assembly dynamics underlying correlated 
+		neuronal response"
+
+10:25   break
+
+11:00   Short talks
+
+11:00   Moore      (University of Rennes I)
+        "Interaction of NMDA and non-NMDA receptors on peripheral dendrites"
+
+11:20   Armentrout   (University of Maryland)
+	"A computational model of map reorganization following cortical lesion"
+
+11:40   Hasselmo       (Harvard University)
+	"Modulation of neuronal adaptation and cortical associative memory
+	function"
+
+12:20   Lunch and poster viewing - session C
+
+2:20    Invited talk: Apostolos Georgopoulos  (University of Minnesota) 
+	" The computing motor cortex"
+
+2:50    Poster previews
+
+   2:50         LoFaro       (Boston University)
+		"Subharmonic coordination in networks of neurons with slow
+		conductances"
+
+   2:55         Skinner      (Brandeis University)
+		"Modulation of frequency and burst duration in oscillating 
+		neurons and two cell networks"
+
+   3:00		Pinsky       (National Institutes of Health)
+		"Analysis of rhythmic behavior of a reduced Traub model for a 
+		CA3 neuron"
+
+   3:05         Jensen       (Wesleyan University)
+		 "Fatigue in a neural network model"
+
+   3:10         Golomb       (NIH)
+		"Synchronization among heterogeneous inhibitory RTN neurons
+		globally coupled"
+
+3:15    break
+
+3:45    Short talks
+
+3:45    Destexhe     (Salk Institute)
+	"Possible mechanisms for the various types of membrane potential
+	oscillations in thalamocortical cells"
+
+4:05	Nicolaus     (University of Chicago)
+	"Hyperpolarizing sag currents in inhibitory neurons in turtle visual
+	cortex"
+
+4:55    Invited talk - Dan Margoliash (University of Chicago)
+	"Distributed representation of learned, idiosyncratic 
+	  features of song in birds:  sensorimotor and 
+	  computational implications"
+
+5:45 	end of day announcements
+
+7:30	Poster session C
+		(Poster previews plus:)
+
+		Wang  (Ohio State University)
+		"Modeling global synchrony in the visual cortex by locally 
+		coupled neural oscillators"
+		Wang  (Ohio State University)
+		"Unifying two forms of memory: a neural model"
+	 	Nakamura      (Tokyo Institute of Technology)
+		"Competitive parallel processing of millisecond scale in the
+		neocortical circuitry."
+		Burgess      (University College London)
+		"Toward a mechanism for navigation by the rat hippocampus"
+		Shouval      (Brown University)
+		"Localized principal components of natural images - an analytic
+		solution"
+ 		Redish       (Carnegie Mellon University)
+		"The sinusoidal array: a theory of representation in parietal 
+		cortex"
+		Segev       (Hebrew University of Jerusalem)
+		"Chain-reaction of spike firing in excitable dendritic trees"
+		Aitkin       (University of New South Wales)
+		"Preliminary aspects of the SAMtheory of the cerebral neocortex
+		Levy 	     (University of Virginia Health Sciences Center)
+		"Using adaptive synaptogenesis to model the development of 
+		ocular dominances in kitten visual cortex"
+		Giannitrapani (Veterans Affairs Medical Center)
+		"Cognitive correlations of EEG rhythmic activity"
+		Blum 	     (University of southern California)
+		"Compartmental models of cerebellar networks for rabbit NMR
+		conditioning"
+		Rose 	     (Duke University)
+		"Concurrent agonist - antagonist administration as a method for
+		analyzing tonic vs phasic nervous system processes"
+		Lincoln      (University of California)
+		"A neural model for the perception of surface transparancy"
+
+-------------------------------------------------------------------------------
+
+ 			Wednesday, August 4
+
+9:00	Announcements
+
+9:15	Invited speaker open discussion sessions	
+
+10:55	break
+
+11:15   Invited speaker open discussion sessions
+
+12:15	End of main meeting wrap up
+
+12:30	End of main meeting
+

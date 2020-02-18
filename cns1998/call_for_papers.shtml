@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1998 - Call for Papers</title>
+<meta name="description" content="CNS Meeting Home Page 1998 - Call for Papers." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1998, 
+cns, computational, neuroscience, workshop, talks, posters, Call for Papers" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1998</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 26 - 30, 1998 Santa Barbara, California</h3>
+  	
+  	<h4>CNS*1998 Call for Papers</h4>
+  	
+  	<p>This is the seventh annual meeting of an interdisciplinary conference addressing a broad range 
+  	of research approaches and issues involved in the field of computational neuroscience. These 
+  	meetings bring together experimental and theoretical neurobiologists along with engineers, 
+  	computer scientists, cognitive scientists, physicists, and mathematicians interested in the 
+  	functioning of biological nervous systems. Peer reviewed papers are presented all related to 
+  	understanding how nervous systems compute. As in previous years, CNS*98 will equally emphasize 
+  	experimental, model-based, and more abstract theoretical approaches to understanding 
+  	neurobiological computation. This is the seventh annual meeting of an interdisciplinary 
+  	conference addressing a broad range of research approaches and issues involved in the field of 
+  	computational neuroscience. These meetings bring together experimental and theoretical 
+  	neurobiologists along with engineers, computer scientists, cognitive scientists, physicists, and 
+  	mathematicians interested in the functioning of biological nervous systems. Peer reviewed papers 
+  	are presented all related to understanding how nervous systems compute. As in previous years, 
+  	CNS*98 will equally emphasize experimental, model-based, and more abstract theoretical approaches 
+  	to understanding neurobiological computation.</p>
+  	
+  	<img class="floatright" src="./images/surfer-small.gif" alt="picture of a surfer" />
+  	
+  	<p>The meeting in 1998 will take place at the Fess Parker's Double Tree Resort in Santa Barbara, 
+  	California, and include plenary, contributed, and poster sessions. The first session starts at 9 
+  	am, Sunday, July 26th and ends with the annual banquet on Thursday evening, July 30th. There will 
+  	be no parallel sessions. The meeting will include time for informal workshops focused on current 
+  	issues in computational neuroscience. Travel funds will be available for students and 
+  	postdoctoral fellows presenting papers. Child day care will also be available.</p>
+  	
+  	<p>Santa Barbara, California is approximately 1-1/2 hours by car from the Los Angeles 
+  	International airport (LAX). Airport shuttles from the airport to Santa Barbara run regularly. In 
+  	addition, Santa Barbara has its own small airport. The hotel itself is located on the ocean and 
+  	within walking distance from distinctive downtown Santa Barbara.</p>
+  	
+  	<p>With this announcement we solicit the submission of presented papers. All papers will be 
+  	refereed. Peer review will be conducted based on a 1000-word (or less) summary describing the 
+  	methods, nature, and importance of your results. Authors will be notified of acceptance by the 
+  	second week of May, 1998.</p>
+  	
+  	<h4>Submission Instructions</h4>
+  	
+  	<p>This year, for the first, time, submission of papers will be performed electronically using a 
+  	custom designed JAVA/HTML interface. Full instructions for submission can be found at the 
+  	meeting's submission page.</p>
+  	
+  	<p>In brief, authors should cut and paste text from their own word processors into the forms 
+  	available on the web site. It is important that all requested information be provided, including 
+  	a 100 word abstract for publication in the conference program, all author information, and 
+  	selection of the appropriate category and theme from the list provided. Authors should especially 
+  	note the mechanisms used for handling figures and mathematical equations. All submissions will be 
+  	acknowledged immediately by email. Program committee decisions will be sent to the designated 
+  	correspondence author only. Submissions will not be considered if they lack category information, 
+  	abstracts, author addresses, or are late.</p>
+  	
+  	<p>Presentation categories:</p>
+  	
+  	<ol class="letters">
+  	  <li>Theory and Analysis</li>
+  	  <li>Modeling and Simulation</li>
+  	  <li>Experimental</li>
+  	  <li>Tools and Techniques</li>
+  	</ol>
+  	
+  	<p>Themes:</p>
+  	
+  	<ol class="letters">
+  	  <li>Development</li>
+  	  <li>Cell Biology</li>
+  	  <li>Excitable Membranes and Synaptic Mechanisms</li>
+  	  <li>Neurotransmitters, Modulators, Receptors</li>
+  	  <li>Sensory Systems
+  	  <ol>
+  	  	<li>Somatosensory</li>
+  	  	<li>Visual</li>
+  	  	<li>Auditory</li>
+  	  	<li>Olfactory</li>
+  	  	<li>Other systems</li>
+  	  </ol></li>
+  	  <li>Motor Systems and Sensory Motor Integration</li>
+  	  <li>Learning and Memory</li>
+  	  <li>Behavior</li>
+  	  <li>Cognition</li>
+  	  <li>Disease</li>
+  	</ol>
+  	
+  	<h4>Further Meeting Correspondence</h4>
+  	
+  	<p>We would like to strongly encourage authors to make their submissions electronically. However, 
+  	if you do not have ready access to the internet or a web server (would you be reading this?), we 
+  	will send you instructions for paper submission if you contact us either by email or at the 
+  	following address:</p>
+  	
+  	<p>CNS*98<br />
+  	Division of Biology, 216-76<br />
+  	Caltech<br />
+  	Pasadena, CA 91125, U.S.A.<br />
+  	</p>
+  	
+  	<h4>Registration and Additional Information</h4>
+  	
+  	<p>All submitting authors will be sent registration material automatically. Others may acquire 
+  	registration as well as other information about the conference though any of the methods listed 
+  	below.</p>
+  	
+  	<ul>
+  	  <li>By using our on-line WWW information and registration form.</li>
+  	  <li>By ftp-ing a registration form from our ftp site.</li>
+  	  <li>By sending Email.</li>
+  	</ul>
+  	
+  	<h4>CNS*98 Organizing Committee</h4>
+  	
+  	<ul>
+  	  <li><i>Co-Chair Logistics</i>: John Miller, Montana State University</li>
+  	  <li><i>Co-Chair Finances &#38; Program</i>: Jim Bower, Caltech</li>
+  	  <li><i>Governmental Liaison</i>: Dennis Glanzman, NIMH/NIH</li>
+  	  <li><i>Workshop Organizer</i>: David Tam</li>
+  	</ul>
+  	
+  	<h4>Program Committee:</h4>
+  	
+  	<ul>
+  	  <li>Axel Borst, Max-Planck Inst., Tuebingen, Germany</li>
+  	  <li>Leif Finkel, University of Pennsylvania</li>
+  	  <li>Ranu Jung, University of Kentucky</li>
+  	  <li>Anders Lansner, Royal Institute of Technology, Sweden</li>
+  	  <li>Linda Larson-Prior, Pennsylvania State University Medical College</li>
+  	  <li>Simon Thorpe, CNRS, Toulouse, France</li>
+  	  <li>David Touretzky, Carnegie Mellon University</li>
+  	  <li>Gina Turrigiano, Brandeis University</li>
+  	</ul>
+  	
+  	<h4>Regional Organizers:</h4>
+  	
+  	<ul>
+  	  <li>Europe - Erik DeSchutter (Belgium)</li>
+  	  <li>Middle East - Idan Segev (Jerusalem)</li>
+  	  <li>Down Under - Mike Paulin (New Zealand)</li>
+  	  <li>South America - Renato Sabbatini (Brazil)</li>
+  	  <li>Asia - Zhaoping Li (MIT)</li>
+  	  <li>India - Upinder Bhalla (Bangalore)</li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1998" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

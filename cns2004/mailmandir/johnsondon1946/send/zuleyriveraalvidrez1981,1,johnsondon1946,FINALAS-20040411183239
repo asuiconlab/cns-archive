@@ -1,0 +1,44 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Zuley Rivera-Alvidrez" <zuley@ece.arizona.edu>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 11/4/2004 18:32:39
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Zuley Rivera-Alvidrez,
+
+We're happy to inform you that your paper 'Contrast Saturation in a Neuronally-Based Model of Elementary Motion Detection' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer Comments :
+1. The main problem with the ms is that it contrasts the HR-model with a neuronal model. However, as far as I can see, the only difference is that in the neuronal model the various low- and high-pass filters are given names of neuron types found in the fly visual ganglia. It is therefore not suprising that the authors find the same performance as the HR detector simulations done by Egelhaaf and colleagues. In this study, too, the authors were only able to mimick the cellular data by putting the sigmoidal fct in one particular place. What is needed is that the authors clearly present in what respect their model differs from the HR model, besides substituting the multiplication by a shunting inhibition (by way, to what extent this is equivalent to a multiplication obviously depends on the exact parameters used, so they should be given). The relation between the two models needs to be crips clear, otherwise the results are meaningless to everyone else. Simply calling it a neuronally-based model only obscures the facts. 
+
+2. Related to that is the problem that the model seems to be explained only in a ms which is not published (yet). There, one might also find the justification for the various relationships between the model filter elements and neuron types given. 
+
+3. The time-course of the model response should be shown as an example. 
+
+4. Besides emphasizing the similarities between the spatially integrated output of lobula plate tangential cells and the motion detector model, it would be of particular interest to see local responses since these have also been measured in fly neurons using calcium sensitive dyes. Comparing the signal shapes with the measured ones will also tell to what extent the shunting inhibition implementation indeed is a good approximation of a multiplication or not.

@@ -1,0 +1,36 @@
+
+
+A Computational Model of Map Reorganization Following 
+Cortical Lesions
+
+Steven L. Armentrout*      sla@cs.umd.edu
+James A. Reggia          reggia@cs.umd.edu
+C. Lynne D'Autrechy      lynne@cs.umd.edu
+Granger G. Sutton III       grange@bengal.tigr.org
+
+Department of Computer Science,
+Department of Neurology
+University of Maryland
+College Park, MD 20742 USA
+
+Abstract
+
+Previous computational models of cortical plasticity have not 
+successfully reproduced the experimentally-observed map 
+reorganization that occurs following a cortical lesion. Modeling such 
+post-lesion reorganization provides a deeper understanding of 
+cortical physiology, and could lead to a computational model of 
+stroke recovery. We describe here a model of primary 
+somatosensory (SI) cortex based on a new mechanism of intracortical 
+inhibitory effects, competitive distribution of activity. This 
+competitive SI model spontaneously reorganizes following a cortical 
+lesion. The model's two-phase reorganization process provides the 
+first experimentally testable prediction of whether competitive 
+distribution is present in mammalian cortex.
+
+
+Acknowledgment: This work was supported by NINDS Awards 
+NS29414 and NS16332.
+
+*Corresponding author
+

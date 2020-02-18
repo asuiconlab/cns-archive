@@ -1,0 +1,31 @@
+Dopaminergic Induced Multi-stable States in Neural Networks
+
+Summary submitted to CNS*92
+
+N. Arad & E. Ruppin & Y. Yeshurun
+School of Mathematical Sciences
+Sackler Faculty of Exact Sciences
+Tel Aviv University
+69978, Tel Aviv, Israel
+
+
+
+
+ E. Ruppin. E-mail: eitanr@math.tau.ac.il
+
+January 7, 1992
+
+
+Abstract
+
+The dynamical behaviour of neural networks is typically considered to be
+controlled by the synaptic weights and by the neurons' thresholds. Recently,
+it was suggested that the network's activity can be modified by solely mod-
+ulating the neuronal activation function. We examine the effect of modula-
+tory neurotransmitter on the behavior of a simple excitatory neural network
+model by varying the neuronal gain. The network passes through several
+qualitatively distinct regions of activity, traversing from a uni-steady state
+to a multi-steady state region, and back to a region of a small number of
+steady states. Our results may shed light on the possible regulatory role of
+dopamine in the cortico-striato-pallido-thalamic loop, and the effects of its
+malfunction in the pathogenesis of movement related disorders.

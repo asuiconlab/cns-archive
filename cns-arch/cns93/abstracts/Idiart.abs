@@ -1,0 +1,22 @@
+PROPAGATION OF EXCITATION IN
+NEURAL NETWORK MODELS
+M.A.P. Idiart and L.F. Abbott
+Department of Physics and Center for Complex Systems
+Brandeis University- Waltham, MA 02254
+Emails: idiart@binah.cc.brandeis.edu and 
+abbott@binah.cc.brandeis.edu
+
+Abstract
+The speed of propagation of a wave of excitation in a neural network 
+can provide important informations about the synaptic connections 
+of the network. We examine the relationship between propagation 
+velocity and synaptic connectivity in neural network models both 
+analytically and by computer simulation. We find that in many cases 
+the velocity of waves of excitation is determined by low order 
+moments of the synaptic weigth function .
+
+Research supported by National Science Foundation grant D~IS-
+9208206 and CNPqBrasil.
+
+ 
+

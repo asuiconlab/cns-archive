@@ -1,0 +1,55 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Shoji Tanaka" <tanaka-s@sophia.ac.jp>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:46
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Shoji Tanaka,
+
+We're happy to inform you that your paper 'State-dependent alteration of dopamine and glutamate transmission in the prefrontal cortex by psychostimulants' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The work describes a model of dopamine control under the assumption of a closed-loop circuit between the prefrontal cortex and the midbrain dopamine nuclei. The model deals with the regulation of DA during the "internal mode", where there are no externals inputs. The author presents the model results and links them to biological mechanisms. 
+The regulation system is described nicely, under the closed-loop assumption.
+ 
+The model description can be improved, describing precisely each equation and its parameters.
+
+Type errors  caption of figure 1 ".. The ocrtex .."
+
+Reviewer 2 :
+A computational nonlinear model that provides an explanation to an apparently contradicting experimental results. 
+The idea is good, however there are many parameters and assumptions in the model and only two examples are provided.
+In order to provide a solid contribution it is suggested to add one or both of the following 
+- a thorough analysis of the model.
+- an extensive simulation with various parameter values. (sensitivity analysis).
+
+Also in my printout there were a few places with two bold dotts (In the references and in Fig 1 captions)
+

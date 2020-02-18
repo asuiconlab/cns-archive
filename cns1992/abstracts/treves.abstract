@@ -1,0 +1,20 @@
+Lateral Processing: the Time it Takes
+
+
+Alessandro Treves and L F Abbott
+
+
+
+Department of Experimental Psychology, University of Oxfordt
+South Parks Road, Oxford OX1 3UD, U K
+
+
+Physics Department and Center for Complex Systems, Brandeis University
+Waltham, MA 02254, U S A
+
+
+
+Abstract
+
+A novel analytical approach is presented, which allows studying the dynamics of reciprocally connected networks of integrate-and-fire model neurons. Synaptic interactions are modelled at the level of conductance changes, and firing rate adaptation is induced by a spike-activated intrinsic potassium conductance. One obtains both the attractor states of the network and the full spectrum of time constants of the transients leading to those attractor states. Using parameters appropriate to neocortical pyramidal cells, one can estimate, from the slowest transients, the time required for lateral processing, and compare with new experimental data on the time course of single-cell responses in behaving primates.
+

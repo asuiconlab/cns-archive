@@ -1,0 +1,46 @@
+ACTUATOR:	mail
+FROM:	"Hidetoshi Ikeno" <ikeno@shse.u-hyogo.ac.jp>
+TO:	"Xiangbao Wu" <xw3f@virginia.edu>
+REPLY:	"Hidetoshi Ikeno" <ikeno@shse.u-hyogo.ac.jp>
+SENDER:	webmaster@neuroinf.org
+TIME:	Wed 31/3/2004 14:11:50
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Xiangbao Wu,
+
+We're happy to inform you that your paper 'Increasing CS and US longevity increases the learnable trace interval' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Hidetoshi Ikeno
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Hidetoshi Ikeno and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Fascinating demonstration of the effect of trace interval on classical conditioning.   The model is presented well, except for one equation 
+In the last equation in section 2 (for D_i(t)), Desired Activity is one of the terms, but it is not described mathematically. 
+In contrast, the results are presented too briefly.  In figure 3, it is not clear what the difference is between the solid line and the dotted line.  Please state so in the figure caption, or add a legend to the figure.
+Also, does behavior deteriorate in the rapid, non-linear manner illustrated in Figure 4?  
+If not, the authors should indicate what causes this discrepancy between model and behavior.
+
+Reviewer 2 :
+
+

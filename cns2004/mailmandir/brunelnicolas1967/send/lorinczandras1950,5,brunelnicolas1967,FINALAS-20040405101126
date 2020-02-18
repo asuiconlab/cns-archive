@@ -1,0 +1,72 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Andras Lorincz" <alorincz@axelero.hu>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:11:26
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Andras Lorincz,
+
+We're happy to inform you that your paper 'Noise induced structures in STDP networks' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Noise induced structures in STDP networks
+
+This paper deals with a rich and interesting subject, namely how do noise and STDP
+interact and form networks.
+The results are quite interesting, but I have the following comments 
+
+The role and value of delta t in the simulations remains undicussed.
+Secondly, delta t  can be scaled out in favor of scaling the weights and the
+input. In other words the argument below eq.1 is wrong.
+
+The shape of the kernel K is not given. 
+
+On Fig1. THe caption is not clear. It should more explicitly say what the left
+panel shows. It would be of interest to show the activity in the different modes
+as well. Looking at the figureI wonder if the connections are symmetric and if
+so, why?
+
+On Fig2. Is is possible to give some intuition about the results of Fig.2B+C? 
+
+Finally, the role of noise remains a bit obscure. For instance, how important
+is the variance of the noise? These issues would take too much space to discuss
+in the paper. However, the authors could consider changing the pitch of their paper and limit their discussion to their actual results.
+
+
+Reviewer 2 :
+The authors analyse network characteristics, such as Barabasi's preferntial attachment model, in neural networks whose synaptic connections follow the STDP paradigm while undegoing random noise stimulation.
+
+Comments 
+1. I don't think that ref. 9 is the appropriate one for STDP. I suggest they search for a review dedicated to STDP.
+2. The particular version of STDP they use is the additive one. There exist quite a few papers on the multiplicative version, which is implied by the data (e.g. Poo et al
+disucss percentage variation of synapses).
+It may be very interesting to see the difference between these two types of rules and the way it is reflected in the characteristics of the network that they study.
+3. The neurobiological relevance is sometimes unclear. Thus, in the third point made in page 5, where it says 'isolated neurons tend to develop new connections...' it is not clear whether this should be taken as a statement that biologists should test or explain. It certainly looks a little strange.
+4. I suggest the authors explain the neurobiological relevance of their findings - why and where are they relevant?
+

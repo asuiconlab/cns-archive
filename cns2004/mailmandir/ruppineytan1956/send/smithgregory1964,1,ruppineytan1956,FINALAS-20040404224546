@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Gregory Smith" <greg@as.wm.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:46
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Gregory Smith,
+
+We're happy to inform you that your paper 'The effect of feedback inhibition on throughput properties of the dLGN/PGN' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The paper presents a network model of retinogeniculate transmission, examining the throughput of the dLGN/PGN when stimulated by a spontaneous or visually-driven input.
+The minimal network model is composed of two one-dimensional arrays of TC and RE integrate-and-fire-or-burst neurons. The TC layer receives spontaneuous or visually-driven excitation and feedback inhibition from RE. The RE neurons are excited by the TC and and inhibited by other neurons within the layer.
+The model exhibits sleep rhythm activity in the presence of a spontaneuous retinal input, while rhythmic bursting is not sustained in the awake state (RE quiescent and TC respond in tonic mode). In response to a full modulated input, RE is active and TC respond in both burst and tonic responses. Parameter studies indicate three responses types.
+The model is elaborated on very clearly and the paper is very well written. But, I feel that the paper lacks some hard evidence to support the hypotheses suggested by the model, or otherwise, more intuitive explanations of those hypotheses are needed to make the simulations significant to a large audience.
+
+Reviewer 2 :
+Some comparison to past related models is needed near end of introduction.  Explicitly indicate what is new, what is the problem that is being examined, and what scientific hypothesis is being tested.  Remove abbreviations from title and abstract.  Define all abbreviations when first used (e.g., PGN). Give journal name for reference 4.
+

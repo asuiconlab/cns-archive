@@ -1,0 +1,18 @@
+Modeling Chemotaxis in Simple Nervous Systems
+
+
+
+S. R. Lockery, S. J. Nowlan and T. J. Sejnowski
+Computational Neurobiology Laboratory
+The Salk Institute for Biological Studies
+P. O. Box 85800
+San Diego, CA 92186-5800
+and
+The Howard Hughes Medical Institute
+
+
+
+
+
+ABSTRACT Parameters in network models can be adjusted using algorithms that optimize the fit between the response of neurons in the model and biological system. Often, however, more is known about behavior than neuronal responses. Using chemotaxis in the nematode C. elegans as a model system, we adapted a recurrent backpropagation algorithm to optimize parameters using behavioral data alone. In this form, backpropagation successfully optimized a dynamical network to chemotax in a simple environment. This sets the stage for the use of optimization techniques in more realistic models of the anatomically well-defined nervous system of C. elegans.
+

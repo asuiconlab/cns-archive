@@ -1,0 +1,17 @@
+A Model of Cortical Associative Memory
+based on Hebbian Cell Assemblies
+
+Erik Fransen*, Anders Lansner and Hans Liljenstrom
+
+SANS - Studies of Artificial Neural Systems
+Dept. of Numerical Analysis and Computing Science
+Royal Institute of Technology, S-100 44 Stockholm, Sweden
+
+*To whom correspondence should be addressed
+Email: erikf@sans.kth.se
+
+January 7, 1992
+
+
+A model of cortical associative memory, based on Hebb's theory of cell assemblies, has been developed and simulated. The network is comprised of realistically modelled pyramidal-type cells and inhibitory fast spiking interneurons and its connectivity is adopted from a trained recurrent artificial neural network. After-activity, pattern completion and competition between cell assemblies is readily produced. If, instead of pyramidal cells, motor neurons are used, spike synchronization can be observed but after-activity is hard to produce. After-activity is facilitated by increased levels of serotonin and disrupted by low levels. Our results support the biological plausibility of Hebb's cell assembly theory.
+

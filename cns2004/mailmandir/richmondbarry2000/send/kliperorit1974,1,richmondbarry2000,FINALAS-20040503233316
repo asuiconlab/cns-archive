@@ -1,0 +1,49 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Orit Kliper" <klipor@post.tau.ac.il>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 3/5/2004 23:33:16
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Orit Kliper,
+
+We're happy to inform you that your paper 'The inertial-DNF Model  Spatiotemporal Patterns with Two Time-Scales' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper provides an inertia mechanism to the original DNF model by the same authors in order to model the longer time scale temporal changes in the spatiotemporal patterns observed in the biological data of Locust Antenal Lobes (ALs). This is really the main purpose of the paper and hence this paper could be seen as a modeling technique paper, unless other computational or biological significances are  pointed out. 
+
+It is important that the authors also describe briefly the original DNF model, at least in a couple of equations, rather than leaving it out of the present paper. After all, the subject of this paper is an augmentation of the previous model. 
+Also, to put this work in the context and improve the presentation of this paper, it is important that the authors review briefly previous works on olfactory modeling in insect and mammals, present some essential and relevants facts about biological olfaction, and compare their work with the previous ones modeling works. 
+
+Reviewer 2 :
+The authors state that, upon including the inertia into their model, the across-trial variability of the neurones' response is increased (cf. Fig. 2). First  why is that? Second, this raises the question whether the categorization obtained in Fig. 3 still holds when individual trial responses had been used, instead of the averaged responses over 15 trials. Presumably, the locust does not have the opportunity to average across trials.
+

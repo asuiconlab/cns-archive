@@ -1,0 +1,35 @@
+Template accept with revisions
+
+Dear #FNAME# #LNAME#,
+
+We're happy to inform you that your paper '#TITLE#' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor #EDITOR#
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+#EDITOR# and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The problem of understanding the behavior of in vitro neuronal networks is a very interesting one. The author proposes a model that is of feed forward nature and composed of binary neurons in order to investigate the problem. It seems to me that a model of such a system should rely on a feedback network of spiking neurons, given the present standard of the field. 
+
+Reviewer 2 :
+#REV2DATA8#
+

@@ -1,0 +1,22 @@
+Synaptic Modification: Learning
+Mechanisms and Algorithms
+
+J. Matthew Hankinson
+3214 EECS Bldg.
+Electrical Engineering and Computer Science Department
+University of Michigan
+Ann Arbor, MI 48109-2122
+e-mail: matt@engin.umich.edu
+
+Abstract
+
+Associative forms of learning, such as classical conditioning, have 
+been experimentally found in Aplysia in the form of activity-
+dependent presynaptic facilitation. Long Term Potentiation has been 
+found in the rabbit hippocampus as a possible implementanon of 
+Hebbian learning. As more is learned about these cellular 
+mechanisms of learning, there is an increasing need for 
+understanding the computational function of these mechanisms. This 
+paper compares different learning mechanisms and examines the 
+computational differences through simulation.
+

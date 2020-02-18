@@ -1,0 +1,50 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"Ruggero Scorcioni" <rscorcio@gmu.edu>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:15:51
+-----------------------DATA----------------------
+Dear Ruggero Scorcioni,
+
+We're happy to inform you that your paper 'Algorithmic reconstruction of complete axonal arborizations in rat hippocampal neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions. (Note, reviewer 1 was happy with the paper as it is).
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Decisions on presentation format (oral vs poster) will be made in early May and you will receive another e-mail then about your assignment.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+1. Abstract is confusing; rewrite  Third sentence refers to validation by comparing results of dendritic reconstructions even though the second sentence indicates the algorithm is for axonal reconstructions. 
+2. The method used by Gulyas (1999) and Wolf (1995) seems very relevant; referencing and comparison seem appropriate.
+3. The second step in the algorithm mentions two conditions, if p1 is closest to p2 and if p2 is closest to p1. Both conditions are equivalent given that any distance metric has to be symmetric. If this is not the case using the term distance in step one is inappropriate. 
+4. The method chosen to validate the algorithm is rather weak  a method can conform with average values yet be very inaccurate. The new method should be compared to an established method on the same data and shown to produce comparable results; see Wolf (1995). The conclusions section include this consideration.
+5. Column headers for table 1 should be defined or a reference to their definition provided.
+6. X  axis labels in figure 4 are erroneous. Panel D should read Order while panel E should read  Bifurcations
+
+Gulyas et al (1999), J. Neurosci 19 10082.
+Wolf et al (1995), J Neurosci Meth 63 137.
+

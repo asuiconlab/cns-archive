@@ -1,0 +1,68 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Kousuke Abe" <abe@acs.i.kyoto-u.ac.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 9/4/2004 16:29:48
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Kousuke Abe,
+
+We're happy to inform you that your paper 'Existence of stable states of stochastic dynamics in a model of neocortex' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+This paper addresses a very timely and interesting question, but it is
+very unclear.  There are three problems the authors should clarify.
+
+1. Explain what differs in the three sample paths  the initial
+conditions? and/or the realization of external inputs?
+
+2. Figures 1-2 show a very puzzling effect  voltages are very
+correlated from sample path to sample path, but recurrent inputs are
+very weakly correlated.  The authors should explain in more detail why
+this happens.  If external inputs are uncorrelated from sample to
+sample, and recurrent inputs are weakly correlated, then the finding
+of high correlations in voltages seems puzzling.  If external inputs
+are exactly the same from sample to sample (initial conditions being
+the only difference), then clearly voltages can be correlated, but how
+could recurrent inputs not reflect these correlations?
+
+3. It seems there is an inconsistency of parameters for the
+connectivity. First, I believe the term inside the exponential in
+equation (2) should read i1-i2+j1-j2. Second, integration of
+Equation (2) for all (i2,j2) for a given (i1,j1) gives approximately
+4*sigma**2; hence the total number of connections is
+4*sigma**2/Sigma. For the parameters shown in p.4, 4*sigma**2=3600,
+which means that Sigma has to be smaller than one to get the 5000
+connections. This in turn means a probability higher than 1 to get a
+connection in some radius. The authors should discuss this, and
+explain whether Sigma is adjusted to have effectively 5000 connections
+per neuron.
+

@@ -1,0 +1,59 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Thomas Wennekers" <thomas.wennekers@plymouth.ac.uk>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 9/4/2004 16:31:33
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Thomas Wennekers,
+
+We're happy to inform you that your paper 'Stochastic Interaction in Associative Nets' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors discuss a method to characterize spike correlations
+in terms of a distance from statistical independence. These measures
+of the spatial and temporal interactions are essentially based on the 
+mutual information. The two measures are interesting in principle, but
+it is unclear to me whether they can be applied to a realistic network
+simulation, and eventually to in vivo data. The authors show the analysis
+in a very simplified situation in which there is essentially a chain
+of states and some probability (always the same) to jump from a state to
+the next or to stay in the same state. The authors should compute they
+observables also in the case of simulations, like the ones they present
+in figure 2. It is also unclear to me how they can get figure 2B. If all
+the neurons are firing synchronously, then it is not clear how the activity
+can selfsustain. The authors should provide more details about their simulations
+and they should run more realistic simulations in which the activity is
+essentially asynchronous, but the instantaneous rate changes in time
+(any network of randomly coupled integrate and fire neurons would show this
+behavior for properly chosen parameters).
+A few spelling mistakes should also be corrected.
+
+Reviewer 2 :
+
+

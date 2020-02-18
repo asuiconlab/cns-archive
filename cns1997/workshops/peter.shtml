@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1997 - Workshops</title>
+<meta name="description" content="CNS Meeting Home Page 1997 - Workshops." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1997, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1997</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 6 - 10, 1997, Big Sky, Montana</h3>
+  	
+  	<h4>CNS*1997 Workshops</h4>
+  	
+  	<h4>The role of chaotic dynamics in neural systems.</h4>
+  	
+  	<p><b>Peter Rowat</b></p>
+  	
+  	<p>It is proposed to hold a discussion on the following topic:</p>
+  	
+  	<p>Is the occurrence of low-dimensional deterministic chaos in a neural system simply an 
+  	epiphenomenon like the rattling sounds in a car when driving on a rough road, or is it an 
+  	essential functional component of the system, like the action of your car springs on the rough 
+  	road?</p>
+  	
+  	<p>Some questions that could be raised:</p>
+  	
+  	<p>Recent work in a small motor-pattern-generating system has shown that an isolated neuron may 
+  	display low-dimensional chaotic dynamics, and that intercellular connections in small networks 
+  	may modify - increase or decrease - the Lyapunov exponents associated with neurons having chaotic 
+  	dynamics. What functional advantages does this confer on a motor system?</p>
+  	
+  	<p>Is the unexpectedly high variability of the interspike interval in cortical spiketrains due to 
+  	deterministic chaos rather than stochastic noise - high-dimensional chaos - in the environment? 
+  	Van Vreeswick and Sompolinsky have proposed that this is due to an approximate balance between 
+  	the excitatory and inhibitory synaptic inputs to a neuron in a large cortical-like network.</p>
+  	
+  	<p>A closely related question arises from the observations by Mainen and Sejnowski of precisely 
+  	timed spike firing patterns in response to stimuli with small, synaptic-input like, fluctuations. 
+  	Could this result from the small fluctuations &quot;controlling&quot; the endogenously chaotic 
+  	dynamics of individual cells?</p>
+  	
+  	<p>Is the chaos observed in olfactory systems (Freeman et al) generated endogenously by the 
+  	chaotic dynamics of individual neurons, or is it a consequence of the connections between 
+  	neurons, or by some combination of intrinsic cellular and network dynamics?</p>
+  	
+  	<p>A physical system in a chaotic parameter regime can switch between distinct strange attractors 
+  	in response to a changing input much faster than a corresponding non-chaotic system. Is this 
+  	property utilized in biological sensory-motor systems?</p>
+  	
+  	<p><a href="../workshop-info.shtml">Back to workshops</a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1997" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

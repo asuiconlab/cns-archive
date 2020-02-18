@@ -1,0 +1,26 @@
+A Neuronal Modeling System for Generating Brainstem Maps of Auditory
+Space
+
+B.R. Parnas and E.R. Lewis
+Department of EECS
+University of California
+Berkeley, CA 94720
+
+Abstract
+
+     We have developed a simulation system, based on realistic
+representations of neurons, which exploits massive parallelism to represent
+the processing performed by the first few levels of the generalized
+mammalian auditory system.  We have modeled the cochlea, auditory nerve
+(AN), anteroventral cochlear nucleus (AVCN) and medial superior olivary
+nucleus (MSO).  These structures produce a variety of maps of auditory
+space which are used by further processing centers to extract the cues used
+in auditory perception.  The centers we have modeled thus far play a role
+in binaural signal processing.
+
+correspondence:
+Bruce Parnas
+207-105 Cory Hall
+University of California
+Berkeley, CA 94720
+

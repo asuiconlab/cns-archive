@@ -1,0 +1,23 @@
+A Multi-Conditional Correlation Statistics for
+Detecting Spatio-Temporally Correlated Firing Patterns
+
+David C. Tam
+
+Center for Network Neuroscience
+Department of Biological Sciences
+University of North Texas
+Denton, TX 76203
+
+E-mail: dtam@sol.acs.unt.edu
+
+Abstract
+A multi-conditional correlation statistics is developed to detect the 
+spatio-temporal firing patterns in a network of biological neurons. 
+This conditional statistics measures the conditional probability of 
+firing of the next spike for a neuron in relation to the firing times of 
+spikes in other spike trains. It detects the conditions under which 
+firing in neurons occur in recorded spike trains. Once the multi-
+conditional probability density function (c.p.d.f.) is established, the 
+probability of which of the n recorded neurons contributes to the 
+combinatorical firing of a neuron can be determined.
+

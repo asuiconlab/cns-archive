@@ -1,0 +1,24 @@
+ABSTRACT
+
+
+
+    Genesis/Xodus is a powerful software package that minimizes the
+development time required for simulation of complex neural systems.The
+distribution of Genesis/Xodus includes the source code which allows
+users to customize and port the software. This presentation describes
+how the Genesis/Xodus versions 1.2 and 1.3 were ported from the Sun to
+the Silicon Graphics (SGI) IRIX 3.2 operating system. Sufficient
+detail will be provided to assist researchers in porting
+Genesis/Xodus to other workstations.
+
+
+
+
+
+     Dale Fay        fay@erim.org  (correspondence)
+     Susan Werness   werness@erim.org
+
+     ERIM
+     P.O. Box 1340001
+     Ann Arbor, Mi.
+              48113-4001

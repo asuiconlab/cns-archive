@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Ruben Moreno-Bote" <rmoreno@delta.ft.uam.es>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:46:19
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Ruben Moreno-Bote,
+
+We're happy to inform you that your paper 'Simple model neurons with AMPA and NMDA filters. The role of the synaptic time scales' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The point you nicely make is somewhat self-evident,
+however it helps to make it. However you should emphasize that it applies when neurons are kept subthreshold and driven to spike by noise. The sentence "their contribution to the total input current can be described by two white noise processes..." is just an assumption, by no means acceptable in general. And the conclusion is only valid for a range of mean current values, which should be clarified.
+
+Reviewer 2 :
+Overall, the presented idea is nice. However, besides passive properties of the membrane, active properties should also be discussed, at least in the discussion. In the results section , the "detection behavior', a kind of sensitivity to the input fluctuation is mentioned. This fairly intresting phenomenon, however, is not quantified. A small analysis on this issue would help the reader to have a feeling what this finding is about.
+
+Minor  'to be agree' (p.5) should be either 'to be in agreement with' or 'to agree'.
+

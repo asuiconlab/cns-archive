@@ -1,0 +1,20 @@
+Spatial and temporal integration by locust nonspiking
+interneurons:  Voltage-dependent electrical geometry.
+Haiyun Zhang and Gilles Laurent,  California Institute of
+Technology,  Biology Division,  CNS Program, 139-74,  Pasadena,
+CA 91125.
+
+We constructed a simplified computer model of a locust
+nonspiking interneuron, using morphological features from
+intracellular cobalt  and HRP fills, and biophysical parameters
+determined from voltage-clamp studies.  The model has 56
+compartments, a leak and 2 voltage-activated K conductances with
+different kinetics of activation and inactivation.  These active
+conductances are known from current-clamp experiments to lead
+to a ten-fold change in membrane time constant over the normal
+operating range of the interneurons.  We ran numerical simulation
+experiments to study the changes in apparent space constant with
+membrane voltage.  We found that the electrical geometry of a
+nonspiking interneuron can be dramatically altered by small
+changes in membrane voltage, leading to compartmentalization at
+the more positive potentials.

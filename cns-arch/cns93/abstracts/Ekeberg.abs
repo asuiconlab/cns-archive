@@ -1,0 +1,24 @@
+An Integrated Neuronal and Mechanical
+Model of Fish Swimming
+
+ORJAN EKEBERG
+
+SANSStudies of Artificial Neural Systems
+Dept. of Numerical Analysis and Computing Science
+Royal Institute of Technology, S-10044 Stockholm, S~eden
+E-mail: orjan@sans.kth.se
+
+Abstract
+
+Several mechanisms involved in the generation and control of fish 
+swimming have been combined in a simulated model. The model 
+includes a spinal neuronal network based on neurophysiological data, 
+a spring-and-damper muscle model, body mechanics including 
+interaction with the surrounding water, and sensory stretch receptor 
+feedback. The components have been simplified and combined to 
+form a working integrated model. By varying a small set of 
+parameters, corresponding to brainstem input to the spinal CPG, a 
+variety of basic locomotor behaviors, like swimming at different 
+speeds and turning can be produced.
+
+

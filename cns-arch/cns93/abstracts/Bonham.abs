@@ -1,0 +1,21 @@
+Ben H. Bonham and Edwin R. Lewis Department of Electrical 
+Engineering and Computer Science University of California Berkeley, 
+CA 94720 email: ben@bandit.berkeley.edu, 
+lewis@bandit.berkeley.edu Correspondence should be addressed to B. 
+Bonham at the above address.
+
+Self-organization and properties of receptive fields in the auditory 
+brainstem - a modeling approach
+
+Abstract:
+
+We have applied Hebb-type synaptic modification to modeling of 
+sensory receptive field development in the cochlear nucleus (CN). 
+Synaptic update in the CN model is driven by correlations between 
+neighboring channels from a cochlear model driven by white noise. 
+The resulting noisedriven development in the CN model yielded 
+receptive fields (in terms of responsiveness to various frequencies 
+at the ear) that qualitatively matched those found in the mammalian 
+CN.
+
+

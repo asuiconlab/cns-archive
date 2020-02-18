@@ -1,0 +1,48 @@
+ACTUATOR:	mail
+FROM:	"Alain Destexhe" <destexhe@iaf.cnrs-gif.fr>
+TO:	"Anders Sandberg" <asa@nada.kth.se>
+REPLY:	"Alain Destexhe" <destexhe@iaf.cnrs-gif.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 22:31:4
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Anders Sandberg,
+
+We're happy to inform you that your paper 'An Autocatalytic Model of STDP Timing from Slow Calcium Signals' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Alain Destexhe
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Alain Destexhe and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This article presents a model based on autocatalytic amplification of calcium concentration differences. This model reproduces the STDP curve. The idea of autocatalytic amplification comes from the autocatalytic loop od CaMKII involved in LTP. The authors predict the same kind of loop for LTD. This idea is interesting. Is there any experimental evidence for such a mechanism? 
+- In equation 1 and 2, could you justify the second term  +/- mu(pre-post)? Justify also the sign of this term in each equation, it seems to me that there is an error.
+- fig1  horizontal axis label  tpostspike-tprespike instead of tpre-tpost.
+- fig1  caption  tpostspike-tprespike insted of tposttime-tpretime.
+- fig1  Calcium signals in spines seem to be much faster (Sabatini et al, 2002 , the life cycle of ca2+ ions in dendritic spines, Neuron 33) than the traces used here. At least, the kinetics of the calcium from epsps is not the same than the kinetics of the calcium from BAPs. Does the model still work with realistic calcium signals?
+- p7  it is not clear how it is possible to differentiate the calcium from pre and post, and to calculate the difference between both.
+- The interactions between multiple pre or post spikes could be studied.
+
+Reviewer 2 :
+This paper is competendly done, but it kind of "solves" a problem of the authors' own creation.  There ARE fast things involving calcium that could easily generate the rapid switch between LTP and LTD seen in STPD.  Specifically, the voltage-dependent block of the NMDA receptor is the standard explanation.
+

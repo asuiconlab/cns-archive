@@ -1,0 +1,10 @@
+A LOCAL MODEL FOR TRANSPARENT MOTIONS BASED ON SPATIOTEMPORAL FILTERS Jarnes A. Smith Center For Biological Information Processing, E25-201 MIT Cambridge, MA 02139, and Norberto M. Grzywacz Smith-Kettlewell Institute, 2232 Webster St. San Francisco, CA 94115.
+
+
+
+ABSTRACT
+
+
+
+Psychophysical studies suggest that humans perceive moving sine plaids as fused when the underlying component gratings are of sufficiently different speed, orientation, and contrast (Adelson & Movshon 1982; Welch, 1990). Other experiments indicate that for short presentation times, the velocities of fused type II sine plaids are not always consistent with the intersection of constraints. We propose a gradient inhibition model that explains these phenomena using only local intensity information. Computational results show a contrast dependent transition for splitting/fusion of sine plaid images. This model suggests that transparency information can be locally computed and subsequently fed into global vision modules.
+

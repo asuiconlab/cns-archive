@@ -1,0 +1,19 @@
+Power Spectrum Analysis of MT Neurons from the Awake Monkey
+
+
+Wyeth Bair, Christof Koch, William Newsome and Kenneth Britten
+
+January 10, 1992
+
+
+We analyzed extracellular spike trains recorded from single cells in area MT in rhesus monkeys which performed a demanding motion discrimination task (Newsome, Britten & Movshon, 1989). In particular, we computed the power spectra of spike trains from 2 sec long trials of visual stimulation during which the monkey held fixation. Most cells have a relatively flat spectrum with a dip at low frequencies, indicative of a Poisson process with a refractory period. 10% of cells have a substantial peak in the spectrum between 25-50~z, but the presence and strength of this peak does not correlate in any way with the know behavior of the monkey (e.g. correct or incorrect decision). However, there exists a very strong correlation between cells that discharge 2-4 spikes within 37msec (burst cells) and cells that have a peak in the power spectrum. The simplest interpretation of this data is that a small fraction of cells randomly and independently of the stimulus fire in bursts followed by a refractory period, giving rise to a peak near 40Hz in the power spectrum.
+
+
+
+
+
+Computation and Neural Systems Program, California Institute of Technology, Pasadena,CA. 
+correspondence should be addressed at Caltech 216-76, Pasadena, CA 91125.
+wyeth@cns.caltecll.edu. 
+Dept. of Neurobiology, Stanford University School of Medicine, Stanford,
+

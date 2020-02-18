@@ -1,0 +1,38 @@
+Temporal requirement for associative LTP in the dentate.
+Dependence on modeled Rm and Ri values.
+
+William R. Holmes
+Neurobiology Program, Department of Biological Sciences
+Ohio University, Athens, OH 45701
+holmes@cneuro.zool.ohiou.edu
+
+William B Levy
+Neurosurgery Research
+University of Virginia School of Medicine, Charlottesville, VA 22908
+wbl@galen.med.virginia.edu
+
+
+
+
+
+
+
+
+
+
+ABSTRACT
+
+The temporal limits of association, at the cellular level, are
+studied by using a strong input to control LTP induction of a
+weak input. The preferred temporal ordering is the weak input
+preceding, or simultaneous with, the strong input. This
+experimental result is reproduced in our biophysical models.
+Surprisingly, the preferred temporal ordering predicted by these
+biophysical models does not depend on whether we use whole-cell
+or sharp electrode data even though the Rm and input resistance
+of these data are quite different.  (However with different
+resistivity values, different strong input intensities were required
+for potentiation to occur). Even with the much larger time
+constant of whole-cell patch experiments, the NMDA receptor is
+the arbiter of the temporal limits of associativity.
+

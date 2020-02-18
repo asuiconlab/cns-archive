@@ -1,0 +1,56 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"Hualou Liang" <hualou.liang@uth.tmc.edu>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 20/4/2004 17:9:52
+-----------------------DATA----------------------
+Dear Hualou Liang,
+
+We're happy to inform you that your paper 'Empirical Mode Decomposition  A Method for Analyzing Neural Data' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Leslie Kay
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org, as only papers presented at the meeting can be published in the proceedings volume. Decisions on oral presentations, if requested, will be made soon.
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The paper Empirical Model Decomposition  by Liang et al describes a new technique to recognize oscillatory components applied to electrophysiologic signals.  The method is data adaptive and designed to deal with nonstationary data. Overall the results are interesting and very promising, but this reviewer has a few minor issues.
+Minor.
+- Line 9 in the Abstract and Fig. 3   It is suggested that the low-frequency component contributed to the evoked potential and the high-frequency components to the gamma band.  The difference between the ERPs from data and EMD seem to be a difference in bandwidth, indicating that both components contribute.  A detail of the evoked potential showing the first 500 ms might be helpful.
+- First paragraph in the Introduction   The statements concerning the limitations of conventional methods are not supported by the data presented in the paper.  For example, it seems that the middle graphs in Fig. 1 might also have been obtained with a bank of band-pass filters.
+- Second paragraph on p.4   What is the low-frequency component? Is it C7, C6 or a combination?
+
+Reviewer 2 :
+Concerns 
+Methods 
+The method for deriving the IMFs needs some clarification.  The algorithm provided yields one IMF, but it isnt clear how successive IMFs are calculated.  Is the first IMF subtracted from the original time series, and then the method applied to the difference?  If so, this step should be added to the three steps listed in the sifting process.
+
+Experiment and results 
+The efficacy of the attentional task has not been demonstrated; it would be useful to see a behavioral measure indicating that attention has truly been directed during the task.  Often, increased reaction times to catch trials are provided, but in this case, a report of percent correct may be the appropriate measure.
+
+The result in Figure 2 (right panel) shows a slight increase in amplitude of gamma frequency activity for the attention in RF case; however, no indication of significance is provided.
+
+Motivation   
+The authors state that the major drawback of traditional methods is that they use fixed basis functions and do not necessarily capture the time varying nature of signals.  A moving window Fourier decomposition would be sufficient to capture the increasing trend in the gamma band during attention shown in figure.2 .  It would be very interesting to see the two methods directly compared.
+
+The authors also cite the presence of stochasticity and nonstationarity as reasons to employ a nontraditional analysis method.  Unfortunately, in a data driven method such as this, those features may make interpretation of the results more difficult.  For example, in the bottom right panel of Figure 1, individual IMFs show frequency content that is present in other IMFs, but there is no reason to believe that the 40-Hz activity in IMF C1 is different than the 40-Hz activity in C2.  It is tempting to view the instantaneous frequency plots of IMFs as trajectories of some sort through state-space, but that would probably be a mistake.  Furthermore, because of the variability between trials, it is conceivable that real, reproducible features of the data might be captured by different IMFs (C1 vs. C2) in separate trials.  This inherent variability in forming the basis functions and the meaninglessness of individual components make one question what advantages this method provides relative to traditional methods.  Discussion of these points and direct comparisons with other techniques would shed some light on the potential utility of the EMD method.
+

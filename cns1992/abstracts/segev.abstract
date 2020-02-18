@@ -1,0 +1,17 @@
+                           DENDRITIC DELAY
+
+Hagai Agmon-Snir and Idan Segev, Dept. Neurobiol. Inst. Life Sciences,
+Hebrew Univ. Jerusalem, 91904, Israel.
+
+    Neurons behave like delay lines.  A significant delay is contributed
+by the cable properties of the dendrites as synaptic potentials propagate
+from their sites of origin towards the spike initiation zone.  We introduce
+a novel analytical approach for calculating signal delay in arbitrary
+passive structures.  Dendritic delay is defined as the difference between
+the center of gravity (the centroid) of the transient current input and
+the center of gravity of the resultant voltage transient, measured at any
+point in the dendritic tree.  Several general theorems on the effect of
+various biophysical and geometrical parameters on the delay are proven.
+Specific examples for the delay in different geometries, ranging from an
+isopotential soma to complicated trees, are given.  We discuss the implications
+of the results for the computations that may be performed by nerve cells.

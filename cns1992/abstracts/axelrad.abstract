@@ -1,0 +1,9 @@
+A STUDY OF COMPUTATION IN A SIMPLE NEURONAL NETWORK: EXPERIMENTAL RECORDING AND THEORETICAL SIMULATION OF THE IMMATURE RAT CEREBELLAR CORTEX.
+
+H. AXELRAD*, C. BERNARD* & B. GIRAUD¡
+~ Lab. of Neurophysiology- Fac. Medecine Pitie- Paris13 - France
+¡ Dept. of Theoretical Physics - CEA - Saclay - France
+
+
+Experimental and theoretical analysis of the 5-7 days old rat cerebellar cortex (Cbcx) was undertaken to get some insight on the role of inhibition in modulating the ongoing activity and the spatial distribution of functionally correlated neurons. Pairs of Purkinje cells (PC) were recorded in vivo before and after uncoupling the inhibitory links (mediated by their recurrent collaterals) via superfusion of biccuculin. Statistical techniques were used to assess the characteristics and correlation of the spike trains. A new tool is presented which computes an index of informational entropy. Experimental results are compared with simulation results from a biologically accurate model of this structure. It appears that inhibition: 1- significantly changes the spike trains data; 2- it restricts the space of states in which the network can evolve and 3-it leads to a spatio-functional segregation of correlated PCs. The limitations of CNS models will be discussed.
+

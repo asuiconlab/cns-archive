@@ -1,0 +1,124 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"mathilde badoual" <badoual@iaf.cnrs-gif.fr>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 18:8:32
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear mathilde badoual,
+
+We're happy to inform you that your paper 'High discharge variability in neurons driven by current noise' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The authors investigate the nature of the high discharge variability observed
+in vivo and during up states in vitro. They show that that the coefficient of
+variability (CV) and the gamma distribution of the interspike intervals (ISIs)
+can be captured in vitro using conductance injection via the dynamic clamp
+technique, in agreement with earlier numerical studies. Then they focus
+on whether high variability can be obtained in vitro using current noise
+injection, modeled as an Ornstein-Uhlenbeck (OU) process. They show that if
+the time constant tauI of the OU process is larger than the membrane time
+constant tauM, high variability can be obtained, but  the ISI distribution departs
+from a gamma distribution and its autocorrelogram shows a peak at small lags.
+
+I think the paper is clearly written and addresses an important topic. It
+reaches a clear conclusion and suggests a way to further compare conductance-
+vs current-driven neurons in vitro.
+
+Here are a few minor points 
+
+- the term 'noise time constant' in the abstract is not clear. Perhaps 'time
+constant of the noisy input' - or something similar - is better.
+
+- the authors refer to Poisson statistics in an inappropriate way, in my
+opinion. What they really mean is Gamma statistics most of the time, and this
+could be misleading because for Poisson distributed spike trains CV=1, while
+for Gamma is always less than 1. This is quite important in a paper about the
+CV. I suggest to replace Poisson with Gamma and use Poisson only when the
+distribution is actually Poisson, i.e. Gamma with parameter 1.
+
+- in Methods, the sentence "their degree of independence", is
+confusing. Better "the degree of independence of the ISIs".
+
+- In fig 1, A, it would be nice to know what the CV values actually are.
+
+- in Fig3, (B), the current should have been chosen point by point in order to
+match the output frequency of the points in (A) for the same tauI. Comparison
+of CV values must be done at parity of output rate to be meaningful.
+
+Finally, the authors might find interesting that the effect of tauI on the
+variability of the spike train was investigated by Rinzel and Svirskis,
+Biophys. J. 5 629 (2000), in the same regime as in the present paper, and a
+more detailed analysis of the effect of tauI, also in the supra-threshold
+regime, has been done by La Camera et al, Lecture Notes in Computer Science
+2714, 449-452, Springer-Verlag (2003).
+
+Reviewer 2 :
+The paper is quite interesting; technically it can be certainly improved.
+
+1) I strongly recommend to remove the phrase "Poisson statistics" from
+the paper.  The Poisson distribution of intervals is an exponential
+and NOT a fitted Gamma distribution (the exp. distr.  is obtained for
+q=0 but obviously, q>0 for most data sets fitted[see, however, (4)
+below]).  Incidentally, note that a Gamma distr. can have arbitrarily
+low CV; thus a CV close to one and the ISI being fitted by a Gamma
+distribution are two independent findings. In the context of the paper
+in makes more sense to talk about irregularity AND bursting or
+non-bursting behavior instead of talking about Poisson or non-Poisson.
+The successful fit to a Gamma distribution together with a flat
+correlogram can then be interpreted as non-bursting behavior and so
+on.
+
+2) If the Gamma distribution is used, one of the parameters is
+redundant (param. a) because of the normalization by the total number
+of ISIs measured; furthermore if q is not an integer, use \Gamma(q+1)
+instead of q!. The authors should also state the fitted parameters for
+every data set and briefly explain the fitting procedure.
+
+3) Since the paper is about the difference in CV under conductance and
+current noise stimulation, the CV for the conductance noise case is not given
+but it is only stated that there is a "high CV". Please, give the value for
+the CV for this case; the values for the reversal potentials should be stated in 
+the Methods section.
+
+4) Just a hint  The ISI histogram in Fig.3 lower middle (model data,
+for current stims with short membrane time constant) looks pretty much
+like that of a Poisson process - apart from a very short refractory
+period at small intervals. Is the Gamma distribution fit shown in this
+figure really the optimal one? The CV for this case is close to one
+and thus an exponential distribution might provide be a much better
+fit (this would be larger at small and large ISIs like the data
+suggest).
+
+5) Regarding the stimulation protocol with conductance noise  It is
+not clear how the statistics of intervals depends on the correlation
+times and variances of the OU processes.
+
+6) What happened without any stimulus? Did the neuron show some spontaneous
+activity and if so what was the CV?
+

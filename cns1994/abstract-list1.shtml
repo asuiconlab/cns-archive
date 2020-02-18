@@ -1,0 +1,777 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994 - Abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1994 - Abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters, Abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<h4>CNS*1994 Abstracts</h4>
+  	
+  	<ul>
+  	  <li><a name="Anderson"></a>
+  	  <p><b>Author:</b> Charles H. Anderson* and David Van Essen<br />
+  	  Dept. of Anatomy and Neurobiology<br />
+  	  Washington University School of Medicine<br />
+  	  St. Louis, MO, 63110<br />
+  	  cha@shifter.wustl.edu<br />
+  	  vanessen@vl.wustl.edu</p>
+  	  <p><b>Title:</b> NEUROBIOLOGICAL REPRESENTATIONS OF INFORMATION</p>
+  	  <p><b>Abstract:</b> A definition for neural representations is constructed on the presumption 
+  	  that neurobiological systems encode joint probability density functions of analog quantities. 
+  	  This allows a unified framework for discussing cell responses in a variety of neural structures 
+  	  including the superior colliculus, visual and motor cortical areas. The formulation encompasses 
+  	  many aspects of standard neural network modeling, while imposing a rigorous framework for 
+  	  analysis and understanding. Biological systems can be seen as displaying high variability from 
+  	  one perspective, while performing robust and consistent computations at another.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Armony"></a>
+  	  <p><b>Author:</b> J.L. Armony, and J.E. LeDoux<br />
+  	  Center for Neural Science<br />
+  	  New York University,<br />
+  	  4 Washington Place,<br />
+  	  New York, NY l0003<br /><br />
+  	  D. Servan-Schreiber<br />
+  	  Department of Psychiatry<br />
+  	  University of Pittsburgh School of Medicine<br />
+  	  3811 O'Hara Street<br />
+  	  Pittsburgh, PA 15213</p>
+  	  <p><b>Title:</b> NEURAL SYSTEM OF FEAR CONDITIONING: A CONNECTIONIST MODEL</p>
+  	  <p><b>Abstract:</b> We developed a connectionist model of the thalamo-cortico-amygdala network 
+  	  that mediates conditioned fear responses to auditory stimuli. The relevant neural structures 
+  	  are represented as modules of non-linear units with lateral inhibition, connected by 
+  	  feedforward parallel pathways of excitatory weights. The network is trained using a Hebb-type 
+  	  learning rule. The model accounts for the behavior and . frequency receptive-field changes 
+  	  observed empirically during conditioning and provides a new approach to the study of emotional 
+  	  information processing.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Anastasio"></a>
+  	  <p><b>Author:</b> Thomas J. Anastasio<br />
+  	  University of Illinois<br />
+  	  Beckman Institute</p>
+  	  <p><b>Title:</b> Recurrent backpropagation models of the Vestibulo-Ocular Reflex provide 
+  	  experimentally testable predictions</p>
+  	  <p><b>Abstract:</b> Previous, static backpropagation models of the vestibulo-oculomotor system 
+  	  were able to capture the distributed aspects of eye-movement command representation by 
+  	  brainstem neurons. However, these models do not readily offer testable predictions. More 
+  	  recently, recurrent backpropagation models have been used to study the dynamic and nonlinear 
+  	  features of the vestibulo-ocular reflex (VOR). The dynamic models make clear predictions 
+  	  concerning the behavior of VOR neurons following lesions. Some of the predictions from the 
+  	  recurrent backpropagation models differ in critical ways from those derived from analytical 
+  	  models of VOR. The testability of the recurrent models encourages a continued dialog between 
+  	  theory and experiment.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Av"></a>
+  	  <p><b>Author:</b> Evyatar Av-Ron*<br />
+  	  Groupe de Bioinformatique, URA 686 - Ecole Normale Superieure, 46<br />
+  	  rue D'Ulm, 75230 Paris cedex 05, France</p>
+      <p>Hanna Parnas<br />
+      Department of Neurobiology, Institute of Life Sciences, Hebrew<br />
+      University, Jerusalem 91904, Israel</p>
+      <p>Lee A. Segel<br />
+      Department of Applied Mathematics and Computer Science,<br />
+      Weizmann Institute of Science, Rehovot 76100, Israel</p>
+  	  <p><b>Title:</b> MODELING THE BURSTING INTERNEURONS OF THE LOBSTER CARDIAC GANGLION</p>
+  	  <p><b>Abstract:</b> The lobster cardiac ganglion consists of four interneurons and five 
+  	  motorneurons that stimulate the lobster heart. The interneurons exhibit bursting behavior of 
+  	  varied durations and frequencies. They consist of at least one pacemaker (endogenous burster) 
+  	  and possibly conditional bursters. A simple biophysical model is used to describe the four 
+  	  interneurons.</p>
+  	  <p>Based on experimental results, the parameters of the model are chosen to fit the description 
+  	  of the slow calcium wave observed in the soma. This calcium wave is considered a driver 
+  	  potential for the bursting behavior. In addition, Hodgkin-Huxley sodium and potassium currents 
+  	  are incorporated. The full model exhibits the action potentials riding on the slow wave. The 
+  	  rates of calcium influx and removal control the durations of bursting and quiescence while the 
+  	  maximal sodium conductance controls the frequency during the burst.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Axelrad"></a>
+  	  <p><b>Author:</b> H. Axelrad,<br />
+  	  J. Laine, B. Berthie, A. Crivat &amp; M.E. Marc<br />
+  	  Laboratoire de Neurophysiologie,<br />
+  	  Faculte de Medecine PitieSalpetriere,<br />
+  	  91 bd de l'H6pital, 75634 Paris Cedex 13, France</p>
+  	  <p><b>Title:</b> SOME NEW FINDINGS ABOUT THE NEURONAL TYPES OF THE CEREBELLAR CORTEX AND SOME 
+  	  HYPOTHESIS ABOUT POSSIBLE ADDITIONS TO THE WIRING DIAGRAM OF THIS STRUCTURE.</p>
+  	  <p><b>Abstract:</b> Our views about the elementary components and the interrelating circuitry 
+  	  of the corticocerebellar network have not changed since Ramon y. Cajal, whose superb 
+  	  morphological work was functionally confirmed by Eccles and collaborators. Four recent findings, 
+  	  among which the discovery of three new cell types, have been made, on Golgi impregnated 
+  	  material, and add more complexity to what was considered to be a rather simple structure.</p>
+      <p>1) The axon of the fusiform cell of Lugaro has now been shown to terminate in the molecular 
+      layer; 2) Another large, but globular, neuron of the granular layer sends a profusely branched 
+      axon to the molecular layer; 3) The candelabrum cell, located inside the ganglionic layer, also 
+      has an axon that terminates in a peculiar fashion in the molecular layer; 4) The unipolar brush 
+      cell, found mostly in the granular layer of the vestibulocerebellum, has a specific 
+      monodendritic appearance and a contorted axon, with rosette excrescences, that stays confined 
+      into the same layer.</p>
+      <p>These new findings will be described, including 3D reconstructions, and the possible 
+      additions to the wiring diagram of this structure discussed.</p>
+      <hr /></li>
+  	  
+  	  <li><a name="Axelrad1"></a>
+  	  <p><b>Author:</b> H. Axelrad, O. Chatelain, and C. Bernard<br />
+  	  Laboratoire de Neurophysiologie,<br />
+  	  Faculte de Medecine PitieSalpetriere,<br />
+  	  91 bd de l'Hopital, 75634 Paris Cedex 13, FRANCE.</p>
+  	  <p><b>Title:</b> A SIMULATION MODEL OF THE MOSSY FIBERS AND GRANULE CELLS OF THE CEREBELL~R 
+  	  CORTEX</p>
+  	  <p><b>Abstract:</b> The information brought to the cerebellar cortex by mossy fibers is relayed 
+  	  to the Purkinje cells and other interneurons dendritic trees by means of the granule cells and 
+  	  their axons, which branch in the molecular layer as parallel fibers. A recent realistic 
+  	  simulation of these parallel fibers has shown that the properties of travelling volleys imply 
+  	  that the Purkinje cells act as coincidence detectors (C. Bernard &amp; H. Axelrad, Brain 
+  	  Research, 1991, 565: 195-208) a finding that was confirmed by a theoretical anatomical analysis 
+  	  (J. Meek, Neuroscience, 1992, 48: 249-283).</p>
+  	  <p>We extend here our former parallel fiber simulation study by building a model of a restricted 
+  	  volume of the granular layer in which mossy fibers and granule cells are represented. Realistic 
+  	  morphological and physiological data are used and the model is constructed so as to allow 
+  	  further additions, such as Golgi cells, and interaction with the parallel fiber model. The 
+  	  morphological and physiological elements embedded in the model will be extensively described as 
+  	  well as the rules governing the mossy fiber-granule cell interactions. First results of 
+  	  simulations, under constrained conditions, will be discussed.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bair"></a>
+  	  <p><b>Author:</b> Wyeth Bair1,2, Christof Koch 1, William Newsome 3, and Kenneth<br />
+  	  Britten 4</p>
+      <p>1 Computation and Neural Systems Program<br />
+      California Institute of Technology<br />
+      Pasadena, CA 91125</p>
+      <p>2 California Institute of Technology<br />
+      139-74<br />
+      Pasadena, CA 91125</p>
+      <p>3 Department of Neurobiology<br />
+      Standford University School of Medicine<br />
+      Stanford, CA 94305</p>
+      <p>4 Center for Neuroscience<br />
+      University of California Davis<br />
+      Davis, CA 94516</p>
+  	  <p><b>Title:</b> RELIABLE TEMPORAL MODULATION IN NEURONAL SPIKE TRAINS IN AREA MT OF AWAKE 
+  	  MACAQUE MONKEY</p>
+  	  <p><b>Abstract:</b> We analyzed the repeatability of temporal structure in spike trains recorded 
+  	  from area MT in behaving rhesus monkeys which viewed a dynamic random dot stimulus (Newsome, 
+  	  Britten &amp; Movshon, 1989). We find a surprising degree of regularity in the temporal 
+  	  modulation of the response of many cells--the most reliable cell will fire a few isolated action 
+  	  potentials or show a period of elevated firing which begins and ends fixed in time relative to 
+  	  stimulus onset with a standard deviation of less than 4 msec in recording periods which may 
+  	  last many minutes to hours. Spike count during these short periods of elevated firing rate is 
+  	  more reliable, i.e. has a lower variance to mean ratio, on average than the spike count taken 
+  	  over the entire 2 sec stimulus. Onset and offset of high firing periods can occur with very 
+  	  similar and fast time constants. Autocorrelation analysis reveals that deviations from the mean 
+  	  response are rarely substantially correlated beyond 100 msec, and in half of cell no correlation 
+  	  exists between consecutive interspike intervals beyond that predicted from the time-varying mean 
+  	  firing rate. Reliable temporal modulation intervals beyond that predicted from the time-varying 
+  	  mean firing rate. Reliable temporal modulation disappears or diminishes for completely coherent 
+  	  motion stimuli, and we propose an experiment to determine whether this is due to saturation in 
+  	  firming rate or due to a qualitative change in the way MT cells respond to the stimulus.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bairaktaris"></a>
+  	  <p><b>Author:</b> Dimitrios Bairaktaris,<br />
+  	  Dept. of Computing Science,<br />
+  	  University of Stirling,<br />
+  	  Stirling FK9 4LA,<br />
+  	  Scotland, UK</p>
+  	  <p><b>Title:</b> LOCALISED NEURONAL ASSEMBLIES WITH RECURRENT SYNAPSES ENABLE GLOBAL TEMPORAL 
+  	  SYNCHRONISATION</p>
+  	  <p><b>Abstract:</b> Neuronal assemblies with recurrent synapses can be found in area CA3 of the 
+  	  hippocampal formation. It has been suggested that such neuronal formations play an important 
+  	  role in temporal information processing. The work presented in this paper describes a modular 
+  	  network architecture comprising localised recurrent networks which can perform global temporal 
+  	  synchronisation. A situation where temporal syn~hronisation is required, arises in human Short 
+  	  Term Memory research where individual features of a single memory object are encoded at 
+  	  different points within a very small window of time and are then dynamically bind together to 
+  	  form the representation of the object. This form of dynamic binding can be achieved by combining 
+  	  existing activation maintenance and temporal synchronisation computational techniques.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Baird"></a>
+  	  <p><b>Author:</b> Bill Baird* 1, Todd Troyer 2 and Frank Eeckman 3</p>
+      <p>1 Department of Mathematics<br />
+      U.C. Berkeley<br />
+      Berkeley, CA 94720</p>
+      <p>2 Dept. of Phys.,<br />
+      U.C. San Francisco<br />
+      513 Parnassus Avenue<br />
+      San Francisco, CA 94143</p>
+      <p>3 Frank Eeckman<br />
+      Lawrence Livermore National Laboratory<br />
+      P).O. Box 808 (L-0270)<br />
+      Livermore, CA 94550</p>
+  	  <p><b>Title:</b> ATTENTION AS SELECTIVE SYNCHRONIZATION OF OSCILLATING CORTICAL SENSORY AND 
+  	  MOTOR ASSOCIATIVE MEMORIES</p>
+  	  <p><b>Abstract:</b> We show how a sensory/motor network architecture, constructed from 
+  	  recurrently connected oscillatory associative memory network modules, can employ selective 
+  	  &quot;attentional&quot; control of synchronization to direct the flow of communication and 
+  	  computation within the architecture to solve a grammatical inference problem.</p>
+      <p>In this architecture, oscillation amplitude codes the information content or activity of a 
+      module (unit), whereas phase and frequency are used to &quot;softwire&quot; the network. Only 
+      synchronized modules communicate by exchanging amplitude information; the activity of 
+      non-resonating modules contributes chaotic crosstalk noise.</p>
+      <p>Attentional control is modeled as a special subset of the modules with ouputs which affect 
+      the resonant frequencies of other modules. They learn to control synchrony among these modules 
+      and direct the flow of computation (attention) to effect transitions between subsections of a 
+      large automaton which the system learns to emulate. The internal crosstalk chaos is used to 
+      drive the required random transitions of the system.</p>
+      <hr /></li>
+  	  
+  	  <li><a name="Baldi"></a>
+  	  <p><b>Author:</b> Pierre Baldi* 1 and James M. Bower 2</p>
+  	  <p>1 Division of Biology 216-76<br />
+  	  California Institute of Technology<br />
+  	  Pasadena, CA 91125</p>
+      <p>2 Division of Biology 216-76<br />
+      California Institute of Technology<br />
+      Pasadena, CA 91125</p>
+  	  <p><b>Title:</b> COMPUTATIONAL APPROACHES TO EARLY OLFACTION</p>
+  	  <p><b>Abstract:</b> We have recently been interested in developing a better understanding of 
+  	  early olfaction, from both a molecular and a computational point of view. At the molecular 
+  	  level, we have used Hidden Markov Models to analyze the amino acid sequences of the large family 
+  	  of recently described putative G-protein related olfactory receptors. When the primary 
+  	  structures of these proteins are compared to those of other brain G-coupled receptors, the 
+  	  putative olfactory receptors are found to be the most variable. Further, a high degree of 
+  	  randomness appears to be present in the amino acid structures of these proteins. The diversity 
+  	  seen in the arnino acid sequences of the putative olfactory receptors seems to be perfectly 
+  	  consistent with the overall physiological and anatomical properties of the olfactory system. 
+  	  For example, this system is known for its extremely broadly tuned neuronal responses as well as 
+  	  its diffuse and distributed pattern of inter neuronal connectivity. Further, the olfactory 
+  	  receptor neurons turn over rapidly (1/2 life 60 days) throughout the life time of the animal. We 
+  	  have recently developed several mathematical models with which to explore the potential 
+  	  significance of these features of the olfactory system for information processing. These models 
+  	  share many of the known features of the projections from olfactory receptors to the mitral cells 
+  	  of the olfactory bulb, but differ in the extent of topography in the projections of receptors of 
+  	  different types to the bulb. Using statistical techniques, we have contrasted the likely ability 
+  	  of each model to adequately represent olfactory stimulus space. The results suggest that the 
+  	  highly distributed almost random patterns of cellular response and connectivity may be the most 
+  	  efficient means to assure an adequate sample of olfactory stimulus space. In this context, the 
+  	  models also provide a means to interpret the tremendous diversity in the molecular structure of 
+  	  the olfactory receptors we have observed.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bell"></a>
+  	  <p><b>Author:</b> Bell A.J., Mainen Z.F. &amp; Sejnowski T.J.ORAL</p>
+      <p>Computational Neurobiology Laboratory<br />
+      Salk Institute<br />
+      La Jolla, CA</p>
+  	  <p><b>Title:</b> 'BALANCING' OF CONDUCTANCES MAY EXPLAIN IRREGULARITY OF CORTICAL SPIKING.</p>
+  	  <p><b>Abstract:</b> How may synaptic and voltage-dependent conductances be adjusted in models to 
+  	  achieve spiking as noisy as that seen in cortical neurons? We identify five factors contributing 
+  	  to inter-spike-interval (ISI) irregularity: the mean and variance of the input current, the 
+  	  instananeous membrane resistance, the degree of repolarisation after spiking and bistabilities 
+  	  in the membrane dynamics. Crucially, by balancing excitation and inhibition so the cell is 
+  	  typically around threshold, we are able to achieve ISI coefficients of variation of around 1 in 
+  	  single compartment models. Our simulations suggest that the currents entering a neuron are 
+  	  'balanced' to achieve maximum sensitivity to inputs.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Biederman"></a>
+  	  <p><b>Author:</b> Biederman* 1, Jozsef Fiser 2, and Eric E. Cooper 3</p>
+      <p>1 Hedco Neuroscience Building<br />
+      University of Southern California<br />
+      Los Angeles, CA 90089-2520</p>
+      <p>2 Center for Neural Engineering, Image Understanding Lab Hedco<br />
+      Neuroscience Building University of Southern California Los Angeles,<br />
+      CA 90089-2520</p>
+      <p>3 Deparrtment of Psychology University of Minnesota Elliott Hall<br />
+      Minneapolis, MN 55455</p>
+  	  <p><b>Title:</b> TEST OF A TWO-LAYER NETWORK AS A MODEL OF HUMAN ENTRY-LEVEL OBJECT 
+  	  RECOGNITION</p>
+  	  <p><b>Abstract:</b> A number of recent models of shape recognition assume that the outputs of a 
+  	  lattice of early (V1) spatial filters are mapped directly onto an object representation layer. 
+  	  Although such two-layer networks may be appropriate for face recognition or visually guided 
+  	  motor behavior, a near optimum version of such a model failed to generate the qualitative 
+  	  characteristics of human object recognition data. Hidden layers that represent 
+  	  viewpoint-invariant properties of contours may be required for modeling human object 
+  	  recognition.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Blum"></a>
+  	  <p><b>Author:</b> Kenneth I. Blum* and Marco A. P. Idiart<br />
+  	  Center For Complex Systems,<br />
+  	  Dept. of Biology, and Dept. of Physics, Brandeis University,<br />
+  	  Waltham, MA 02254-3110</p>
+  	  <p><b>Title:</b> A THEORETICAL FRAMEWORK FOR QUANTAL ANALYSIS AND ITS APPLICATION TO LONG TERM 
+  	  POTENTIATION</p>
+  	  <p><b>Abstract:</b> We have constructed a mathematical framework for quantal analysis of central 
+  	  synaptic transmission that takes both multiple synapses and postsynaptic fluctuations into 
+  	  account. For each instant in time we calculate the distribution of postsynaptic currents 
+  	  produced by synaptic events. We have used this framework to determine the shape of distributions 
+  	  both close to and far from receptor saturation. Our approach allows the effects of changing both 
+  	  presynaptic and postsynaptic parameters to be conveniently assayed.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Blum1"></a>
+  	  <p><b>Author:</b> Edward K. Blum* 1, Qingnan Li 2, Stephen C. J. Hyland 3, and Patrick K. 
+  	  Leung 4</p>
+      <p>1 Department of Biomedical Engineering<br />
+      2 Department of Mathematics<br />
+      3 Department of Computer Science<br />
+      4 Department of Biomedical Engineering<br />
+      University of Southern California<br />
+      Los Angeles, California 90089</p>
+  	  <p><b>Title:</b> BIONNIC: AN EFFICIENT AND FLEXIBLE INTEGRATOR FOR BIOLOGICAL NEURAL NETWORK 
+  	  SIMULATORS</p>
+  	  <p><b>Abstract:</b> We present the Biological Neural Network Integrator Collection, BIONNIC, a 
+  	  stable and efficient integrator for computing solutions to large systems of ordinary 
+  	  differential equations obtained from compartmental modeling of networks of neurons, each neuron 
+  	  having an arbitrarily branched tree structure. BIONNIC is a portable and reusable library of C 
+  	  subroutines which differs from many general purpose integrators (LSODE, IVPAG) by permitting 
+  	  multiple calls for different sets of equations to be intermixed, and by dynamically allocating 
+  	  memory. This expedites the efficient implemention of parallel simulations of biological neural 
+  	  networks. In addition to fixed time step modes, BIONNIC has variable step, variable order (VSVO) 
+  	  backward differentiation formulae (BDF), which are stiffly stable lor orders 1 to 6, combined 
+  	  with an O(n) time complexity algorithm due to Parter, for solving a linear system of algebraic 
+  	  equations derived from implicit methods.</p>
+      <p>Currently, BIONNIC has been implemented in the new version of our simulator, Cajal-V4.0, on a 
+      Sun Sparc 10. In VSVO mode, for a given accuracy, the best combination of order and step size is 
+      calculated after each integration step, so that the dynamic activity of each neuron will be 
+      taken into account to shorten the computation time. Preliminary simulation results have shown 
+      BIONNIC to be accurate, fast, and portable. BIONNIC will be available through anonymous ftp, as 
+      of July 1, 1994.</p>
+      <hr /></li>
+  	  
+  	  <li><a name="Boettiger"></a>
+  	  <p><b>Author:</b> Charlotte Boettiger* and Gwen Jacobs<br />
+      Dept of Molecular and Cell Biology Neurobiology Division University<br />
+      of California 195 LSA Berkeley, CA 94720</p>
+      <p><b>Title:</b> A QUANTITATIVE ANALYSIS OF POST-EMBRYONIC DEVELOPMENTAL CHANGES IN THE CRICKET 
+      CERCAL SENSORY SYSTEM'S FUNCTIONAL MAP OF WIND DIRECTION.</p>
+  	  <p><b>Abstract:</b> Using methods of computer aided reconstruction and morphological analysis 
+  	  developed in our lab, we have analyzed the structures of a representative sample of indentified 
+  	  neurons in the afferent projection of the cricket cercal sensory system's functional map of wind 
+  	  direction, their spatial relationships to one another, and the map as a whole, at 30%, 50%, 70%, 
+  	  and 90% of post-embryonic development. Each the cells studied has a characteristic gestalt which 
+  	  is conserved through development, but at earlier stages the arborizations are less elaborated 
+  	  and the architecture of the cell's original targeting can be seen. The global structure of the 
+  	  map exists in it's ultimate form by 30% of post-embryonic development, but as cells elaborate, 
+  	  they overlap more with those having related functional properties and the local organization of 
+  	  the map becomes more continuous.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Boussard"></a>
+  	  <p><b>Author:</b> Eric Boussard* and Jean-Francois Vibert</p>
+      <p>B3E, Inserm U263<br />
+      Faculte de Medecine Saint-Antoine<br />
+      27 rue Chaligny<br />
+      75571 Paris cedex 12</p>
+  	  <p><b>Title:</b> A MODEL OF RETINA INCLUDING DOPAMINERGIC NEUROMODULATION</p>
+  	  <p><b>Abstract:</b> The fovea of a mammal retina was simulated with detailed biological 
+  	  properties to study the images preprocessing. The direct pathway (photoreceptors, bipolar and 
+  	  ganglion cells), the horizontal units, and the D-amacrine cells were simulated. The computer 
+  	  program simulated particularly the gapjunctions between horizontal cells and their dopaminergic 
+  	  neuromodulation. This retina was able to reproduce biological observations, contour extraction 
+  	  with Mach effect, adaptation to brightness, progressive disappearance of non moving images, 
+  	  reversed post-image, and optic illusion (Hermann grid). The simulations showed that dopaminergic 
+  	  amacrine cells were necessary to ensure adaptation to local brightness, and to keep a good 
+  	  dynamic of brightness response.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Buonomano"></a>
+  	  <p><b>Author:</b> Dean Buonomano* and Michael Merzenich</p>
+      <p>Keck Center for Integrative Neuroscience<br />
+      University of California<br />
+      San Francisco<br />
+      P.O. Box 0732<br />
+      San Francisco, CA 94143</p>
+  	  <p><b>Title:</b> A CORTICAL MODEL OF TEMPORAL INFORMATION PROCESSING BASED ON PAIRED-PULSE 
+  	  FACILITATION AND SLOW IPSPS. </p>
+  	  <p><b>Abstract:</b> The processing of sensory information from afferent pathways relies not only 
+  	  on the spatial patterning of the inputs, but also on the temporal relationship between the 
+  	  inputs. How the nervous system processes temporal information is unclear. Various neuronal 
+  	  properties, such as paired-pulse facilitation and slow IPSPs, exhibit timedependent properties, 
+  	  but their role in neural information processing is unknown. In order to address whether such 
+  	  time-dependent properties may underlie temporal processing we have developed a continuous-time 
+  	  artificial neural network based on integrate-and-fire elements that incorporate paired-pulse 
+  	  facilitation and slow IPSPs. By incorporating these elements into a circuit inspired by 
+  	  neocortical connectivity, we demonstrate that the network is able to discriminate different 
+  	  temporal patterns. Generalization emerges spontaneously. We propose that paired-pulse 
+  	  facilitation and slow IPSPs play an important role in information processing by permitting a 
+  	  network to encode temporal and sequential information by altering the firing probability of 
+  	  neurons in a time-dependent manner.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Burgi"></a>
+  	  <p><b>Author:</b> Pierre-Yves Burgi* and Norberto M.Grzywacz</p>
+      <p>The Smith-Kettlewell Eye Research Institute,<br />
+      2232 Webster Street, San Francisco, CA 94115.</p>
+  	  <p><b>Title:</b> HEBBIAN PROCESSES AND SPONTANEOUS WAVES OF ACTIVITY COULD LEAD TO THE 
+  	  EMERGENCE OF COMPLEX RETINAL RECEPTIVE FIELDS</p>
+  	  <p><b>Abstract:</b> Center-surround and orientation selective cells can emerge from spontaneous 
+  	  (uncorrelated) activity, as previously demonstrated by Linsker's multi-layer Hebbian model. We 
+  	  wanted to test whether the spontaneous waves of activity present in a single (inner plexiform) 
+  	  layer of developing retinas could account for the emergence of such selectivities in ganglion 
+  	  cells. An eigenfunction analysis of a Linsker-like model with waves at the input indicated that 
+  	  only one synaptic layer is required for the emergence of these selectivities. The analysis also 
+  	  showed that waves favor symmetry, an effect that is reduced when the angle formed by the 
+  	  orientation of the wave and presynaptic dendrites is taken into account. Supported by the SNFSR 
+  	  (8220-37180) and NEI (EY08921).</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Carandini"></a>
+  	  <p><b>Author:</b> Matteo Carandini 1 and David J. Heeger 2</p>
+      <p>1 Center for Neural Science<br />
+      New York University<br />
+      6 Washington Place, Rm 809<br />
+      New York, New York 10003<br />
+      (212) 998 7898</p>
+      <p>2 Psychology Department<br />
+      Stanford University<br />
+      Building 420<br />
+      Stanford, California 94305<br />
+      (415) 723 4048</p>
+  	  <p><b>Title:</b> SUMMATION AND DIVISION IN V1 SIMPLE CELLS</p>
+  	  <p><b>Abstract:</b> We model simple cells in the primary visual cortex as performing a weighted 
+  	  sum of the image intensities over space and time, followed by mutual divisive suppression. The 
+  	  cell membrane performs both operations: the input currents get added and are divided by the 
+  	  overall membrane conductance. We show how current and conductance can be completely decoupled if 
+  	  the synaptic inputs are segregated in two groups, one of them showing a complementary 
+  	  arrangement of excitation and inihibition. The model accurately predicts the responses of monkey 
+  	  Vl simple cells to sinusoidal gratings varying in contrast, orientation and velocity.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Carnevale"></a>
+  	  <p><b>Author:</b> Nicholas T. Carnevale, Kenneth Y. Tsail, Brenda J. Claiborne, and<br />
+  	  Thomas H. Brown<br />
+  	  Nicholas T. Carnevale<br />
+  	  Department of Psychology<br />
+  	  Yale University<br />
+  	  P.O. Box 208205<br />
+  	  New Haven, CT 06520-8205</p>
+  	  <p><b>Title:</b> QUALITATIVE ELECTROTONIC COMPARISON OF THREE CLASSES OF HIPPOCAMPAL NEURONS IN 
+  	  THE RAT</p>
+  	  <p><b>Abstract:</b> We describe the algorithms for an efficient and rapid transformation that 
+  	  maps neuronal anatomy into electrotonic space. This transformation reveals the spatiotemporal 
+  	  dynamics of electrical signaling in nerve cells in a way that facilitates rapid intuition of the 
+  	  functional consequences of neuronal architecture. We present the results of using this 
+  	  transformation in a qualitative, preliminary investigation of the comparative electrotonic 
+  	  structure of three classes of hippocampal neurons in the rat (CAl and CA3 pyramidal cells, and 
+  	  dentate granule cells). This revealed unanticipated similarities and differences within and 
+  	  between these cell classes that may be of importance to the function of hippocampal 
+  	  circuitry.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Carr"></a>
+  	  <p><b>Author:</b> C. E. Carr</p>
+      <p>University of Maryland<br />
+      College Park, MD 20742</p>
+  	  <p><b>Title:</b> THE DEVELOPMENT OF NUCLEUS LAMINARIS IN THE BARN OWL</p>
+  	  <p><b>Abstract:</b> The barn owl uses interaural time differences to localize sound in azimuth. 
+  	  Sensitivity to these interaural time differences (ITD) arises in the brainstem nucleus 
+  	  laminaris. Maps of ITD are formed in the dorso-ventral dimension of the nucleus laminaris by 
+  	  interdigitating axons from the ipsi- and contralateral magnocellular cochlear nuclei. The amount 
+  	  of delay mapped in the nucleus laminaris depends on the length and conduction velocity of the 
+  	  magnocellular axons.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Chang"></a>
+  	  <p><b>Author:</b> Hung-Jen Chang* and Walter J. Freeman</p>
+      <p>Division of Neurobiology<br />
+      Department of Molecular &amp; Cell Biology<br />
+      University of California<br />
+      Berkeley, CA 94720-3200</p>
+  	  <p><b>Title:</b> PARAMETER OPTIMIZATION IN AN OLFACTORY NEURAL SYSTEM</p>
+  	  <p><b>Abstract:</b> We study an olfactory system that is characterized physiologically by 
+  	  spatiotemporal connections among neural ensembles and external inputs. The behavior of each 
+  	  ensemble is modeled by a 2nd order ODE relating the aggregate activation of cells to system 
+  	  parameters. Parameter optimization rules that lead to minimizing the distance between the actual 
+  	  outputs of the model and the EEG waves from experimental data are derived by either the method 
+  	  of error propagation or calculus of variations. The existence and uniqueness of the equation set 
+  	  are also proved to assure the propriety of parameter adaptation. Subsets of the entire system 
+  	  are simulated by computer programs. Numerical results support the mathematical analyses and the 
+  	  parameters are thus optimized.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Chapman"></a>
+  	  <p><b>Author:</b> Andrew Chapman and Suzanna Becker*</p>
+      <p>Department of Psychology<br />
+      McMaster University Hamilton<br />
+      Ontario, Canada, L8S 4K1</p>
+  	  <p><b>Title:</b> MODEL SYNAPSES WITH FREQUENCY POTENTIATION CHARACTERISTICS CAN COOPERATIVELY 
+  	  ENHANCE HEBBIAN LEARNING</p>
+  	  <p><b>Abstract:</b> Frequency potentiation, a short-term form of plasticity, is an enhancement 
+  	  in the amplitude of neuronal responses to each pulse in a train of stimulation pulses which 
+  	  occurs when the pulses are delivered within a certain frequency range. In the model, 
+  	  theta-frequency input from the subiculum via synapses with frequency potentiation 
+  	  characteristics cooperatively enhances Hebbian learning in pyriform (olfactory) cortex efferents 
+  	  to the entorhinal cortex, particularly when the inputs are phase-locked. This effect is further 
+  	  enhanced when inhibitory neurons are added at the entorhinal layer. This is the first report of 
+  	  a network model in which the possible computational functions of synapses with frequency 
+  	  potentiation characteristics are explored.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Clague"></a>
+  	  <p><b>Author:</b> Heather Clague*, Cooper Roddey, Frederic Theunissen and John Miller.</p>
+      <p>Dept. of Molecular and Cell Biology<br />
+      Neurobiology Division<br />
+      195 LSA. Berkeley, CA 94720.</p>
+  	  <p><b>Title:</b> THE EFFECT OF ADAPTATION ON THE QUALITY OF CODING OT STIMULI FOR AFFERENTS AND 
+  	  INTERNEURONS IN THE CRICKET SENSORY SYSTEM</p>
+  	  <p><b>Abstract:</b> We demonstrate that some neurons of the cricket cercal sensory system are 
+  	  capable o substantial adaptation; their steady state coding accuracies remains the same for a 
+  	  wide range o stimulus powers. The process of adaptation has a rapid and a slow component, and 
+  	  the accuracy of coding changes during the adaptation process. In adapting to high power levels, 
+  	  the overal accuracy measured in baud actually decreased as the spike rate decreased. However, 
+  	  the decrease in accuracy was smaller than the corresponding decrease in spike rate, resulting a 
+  	  larger net accuracy (or &quot;infonnation content&quot;) per spike in adapted cells.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Corey"></a>
+  	  <p><b>Author:</b> M. Elizabeth Corey</p>
+      <p>Department of Neurobiology and Physiology and Program in<br />
+      Computer Science<br />
+      2153 North Campus Drive<br />
+      Northwestern University<br />
+      Evanston, Illinois 60208</p>
+  	  <p><b>Title:</b> PARALLEL CONTROL MECHANISMS IN COCHLEAR MECHANICS</p>
+  	  <p><b>Abstract:</b> A cochlea contains nearly 12,000 sensory receptor cells that change shape in 
+  	  response to receptor excitation. We modeled the cell with dual inputs (mechanical and synaptic 
+  	  excitation) and used physiologically-based equations for receptor transduction, basolateral 
+  	  membrane potential, and somatic length changes to determine responses. We incorporated the 
+  	  cell's shape changes into the boundary conditions for cochlear fluid mechanics and solved using 
+  	  a finite-difference time-domain solution strategy.</p>
+  	  <p>A parameter estimation scheme is used to define unknown parameters. Estimation is guided by 
+  	  stability measures (Liaponuv exponents, sensitivity derivatives and the Gaussian curvature), the 
+  	  occurrence and location of bifurcations, and the size, fractal dimension and power spectrum of 
+  	  attractors. Some results as well as the advantages and limitations of using such a scheme are 
+  	  described.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Schutter"></a>
+  	  <p><b>Author:</b>  E. De Schutter 1 and J.M. Bower 2</p>
+      <p>1 Born Bunge Foundation<br />
+      University of Antwerp - UIA, B2610<br />
+      Antwerp, Belgium</p>
+      <p>2 Div. of Biology 216-76<br />
+      California Institute of Technology<br />
+      Pasadena, CA 91125</p>
+  	  <p><b>Title:</b> SHORT-TERM INTERACTIONS BETWEEN THE COMPLEX SPIKE AND GRANULE CELL INPUTS IN 
+  	  THE PURKINJE CELL</p>
+  	  <p><b>Abstract:</b> We used a detailed compartmental model of a Purkinje cell to investigate how 
+  	  a climbing flber input might change the response to subsequent granule cell inputs. We have 
+  	  previously shown that responses to small synchronous granule cell inputs are amplified by the 
+  	  same dendritic Ca2+ channels which are also activated by the complex spike. A complex spike 
+  	  fired up to 160 ms before the synchronous input had no effect on somatic EPSP amplitude. At 
+  	  shorter intervals, there was first a small potentiation, followed by a depression, followed by a 
+  	  large potentiation. This may explain the conflicting results reported from extracellular 
+  	  recordings in vivo.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Destexhe"></a>
+  	  <p><b>Author:</b> Alain Destexhe, Zachary F. Mainen, and Terrence J. Sejnowski</p>
+      <p>The Howard Hughes Medical Institute and<br />
+      The Salk Institute,<br />
+      Computational Neurobiology Laboratory,<br />
+      10010 North Torrey Pines Road, La Jolla, CA-92037</p>
+  	  <p><b>Title:</b> ELEMENTARY KINETICS PROVIDE EFFICIENT MODELS OF SYNAPTIC TRANSMISSION AND 
+  	  NEUROMODULATION</p>
+  	  <p><b>Abstract:</b> Markov kinetic models allow the dynamics of ionic currents to be related 
+  	  directly to changes in the conformational states of underlying channel proteins and the 
+  	  behavior of the channels to be represented in the same formalism as that used to describe 
+  	  biochemical processes. We use such an approach to explore models of both transmitter-gated and 
+  	  second messenger-gated synaptic channels. We show that elementary Markov schemes capture the 
+  	  essential properties of whole-cell recorded synaptic currents. The simplicity of these models 
+  	  makes them very efficient tools for simulating synaptic currents.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Eeckman"></a>
+  	  <p><b>Author:</b> Frank H. Eeckman* 1, Richard M. Durbin2, Jean-Thierry Mieg3, and Martin Lades 
+  	  1</p>
+  	  <p>1 Institute for Scientific Computing Researeh<br />
+  	  Lawrence Livermore National Laborator;y<br />
+  	  Livermore, CA 94551</p>
+  	  <p>2 Laboratory for Molecular Biology<br />
+  	  Medical Research Council,<br />
+  	  Cambridge, England</p>
+      <p>3 Centre de Recherehe en Biologie Moleculaire<br />
+      CNRS, Montpellier, Franee;</p>
+  	  <p><b>Title:</b> BRAINACE: A DATABASE-HYPERMEDIA TOOL FOR NEUROSCIENTISTS</p>
+  	  <p><b>Abstract:</b> BrainAce is an object-oriented database based on ACEDB, a database system 
+  	  originally developed for the C. elegans genome project (JTM and RD). Although originally written 
+  	  for Unix/X windows, a Macintosh interface is available (FE and RD) that is functionally 
+  	  identical to the Unix version.</p>
+  	  <p>ACEDB consists of a core data manager and specific application code. Data are stored in 
+  	  objects that are organized into classes. The objects have extendable structure, so that 
+  	  arbitrarily large amounts of information can be stored in them. That information may include 
+  	  annotations of various sorts, comments, and cross-references. The schema specifying data 
+  	  structures can be extended during the lifetime of a database. Brainace includes 
+  	  neuroscience-specific application code and multimedia extensions not found in the genome 
+  	  versions. There is a browser mode and a general search facility to provide maximal flexibility. 
+  	  In addition, displays can be output in Postscript for laser printing, or as plain text for 
+  	  transfer to other sources.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Elias"></a>
+  	  <p><b>Author:</b> John G. Elias and David P. M. Northmore</p>
+      <p>University of Delaware<br />
+      Newark, DE 19716</p>
+  	  <p><b>Title:</b> VLSI NEUROMORPHS: BUILDING BLOCKS FOR NEURAL CIRCUITS</p>
+  	  <p><b>Abstract:</b> Our VLSI neuromorphs consist of (a) extensive dendritic trees with 
+  	  hyperpolarizing, depolarizing, and shunting synapses which can receive large numbers of 
+  	  pulsatile inputs, and (b) integrate-and-spike somas. Programmable tree and soma dynamics and 
+  	  activity-dependent soma threshold, in addition to flexible synaptic connections enables a single 
+  	  neuromorph to perform a variety of spike processing functions, such as discriminating 
+  	  spatio-temporal patterns of input spikes. Adjustment of dendritic dynamics and soma parameters 
+  	  allows neuromorphs to be tuned over very wide temporal frequency ranges.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Fransen"></a>
+  	  <p><b>Author:</b> Erik Fransn* and Anders Lansner</p>
+      <p>SANS - Studies of Artificial Neural Systems<br />
+      Dept. of Numerical Analysis and Computing Science<br />
+      Royal Institute of Technology<br />
+      S-100 44 Stockholm, Sweden</p>
+  	  <p><b>Title:</b> LOW SPIKING RATES IN A NETWORK WITH OVERLAPPING ASSEMBLIES</p>
+  	  <p><b>Abstract:</b> In this study we show that low rate sustained after-activity can be obtained 
+  	  in a simulated network of overlapping assemblies. The low rate is achieved by assuming that the 
+  	  synapses in the network are of a saturating type. After-activity is produced when the 
+  	  application of a monoamine neuromodulator is simulated. The network gives pattern completion of 
+  	  incomplete input and shows noise tolerance. Despite the overlap, the activity of one assemby 
+  	  does not spread to others. The time to reach a full pattern, the &quot;reaction time&quot;, is 
+  	  only, 40-100 ms. When arts of two patterns are presented simultaneously a rivalry process can 
+  	  lead to full completion of one pattern and supression of the other</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Freeman"></a>
+  	  <p><b>Author:</b> Walter Freeman* 1, Richard X. Tang, 2 and David Gramham-Squires 1</p>
+      <p>1 Department of Molecular and Cell Biology<br />
+      Division of Neurobiology, 129 LSA<br />
+      University of California<br />
+      Berkeley, CA 94720</p>
+      <p>2 Biophysics Graduate Group, 129 LSA<br />
+      University of California<br />
+      Berkeley, CA 94720</p>
+  	  <p><b>Title:</b> PHASE ANALYSIS OF MULTICHANNEL EEGs FROM PREPYRIFORM CORTEX IN RABBIT</p>
+  	  <p><b>Abstract:</b> EEGs are recorded simultaneously from an 8x8 array of electrodes on the 
+  	  rabbit's prepyriform cortex. Fast Fourier Transform(FFT) and nonlinear fitting techniques yield 
+  	  64 phase values. The results show that a stable phase pattern recurs with each respiratory burst 
+  	  but not during the interburst periods. Spatial phase standard deviations are calculated before 
+  	  and after the median phase pattern is removed. A reversal in the phase standard deviation of the 
+  	  40-80Hz bandpass filtered data is found. We postulate that this reversal confirms the hypothesis 
+  	  that the cortex is driven by the olfactory bulb. No centrifugal or endogenous origin of a phase 
+  	  pattern is revealed.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Freeman1"></a>
+  	  <p><b>Author:</b> Walter J. Freeman* and John M. Barrie</p>
+      <p>Department of Molecular and Cell Biology Neurobiology Division<br />
+      129 Life Sciences Addition<br />
+      University of California at Berke1ey<br />
+      Berkeley, CA 94720</p>
+  	  <p><b>Title:</b> PERCEPTUAL TOPOGRAPHY: SPATIOTEMPORAL ANALYSIS OF PREPYRIFONN, VISUAL, 
+  	  AUDITORY, AND SOMESTHETIC EEGS IN<br />
+      PERCEPTION BY TRAINED RABBITS</p>
+  	  <p><b>Abstract:</b> We tested the hypothesis that perceptually-related spatio-temporal patterns 
+  	  would be found in the EEG of neocortex. Arrays of 64 electrodes were fixed onto the epidural 
+  	  surfaces of the prepyriform, visual, auditory, and somesthetic cortices of 18 rabbits. After 
+  	  recovery, the subjects were trained to respond to simple conditioned stimuli in a classical 
+  	  aversive paradigm. The 64 EEG traces were recorded in 6sec trials, stored on disk, segmented, 
+  	  and decomposed by FFT, PCA, or RMS analysis. Spatial pattern differences were determined by a 
+  	  Euclidean distance and assigned a probability value. Differences between CS+ and CS- segments 
+  	  were found in narrow time windows post-stimulus. We concluded that the neural processes for 
+  	  perception are similar for sensory paleo- and neocortex. In all of these systems, perceptions 
+  	  are constructed by chaotic dynamics.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Freeman2"></a>
+  	  <p><b>Author:</b> Walter J. Freeman* 1, Richard X. Tang 2, and Kouichi Sugitab 3</p>
+      <p>1 Department of Molecular and Cell Biology<br />
+      Division of Neurobiology, 129 LSA<br />
+      University of California<br />
+      Berkeley, CA 94720</p>
+      <p>2 Biophysics Graduate Group, 129 LSA<br />
+      University of California<br />
+      Berkeley, CA 94720</p>
+      <p>3 P.O.Box 11165<br />
+      University of California<br />
+      Santa Barbara, CA 93107</p>
+  	  <p><b>Title:</b> USING FICTIVE POWER AS EVENT MARKER IN EEG DATA PROCESSINGL</p>
+  	  <p><b>Abstract:</b> We are presently implementing the calculation of fictive powers and using 
+  	  the program to process our rabbits' visual cortex EEG data. We show that the fictive powers are 
+  	  useful in understanding cortex EEG recordings. They are especially useful in identifying 
+  	  oscillatory events. We postulate that they can be used as markers in EEG data processing.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Fukunishi"></a>
+  	  <p><b>Author:</b> Kohyu Fukunishi*, Nobuyuki Murai,Tsuyoshi Miyashita, and Ryo Tokiok</p>
+      <p>Advanced Research Laboratory, Hitachi, Ltd.<br />
+      Hatoyama, Saitama, 350-03, Japan</p>
+  	  <p><b>Title:</b> EMPIRICAL NEURAL NETWORKS AND DYNAMIC CHARACTERISTICS OF THE GUINEA PIG 
+  	  AUDITORY CORTEX BY OPTICAL IMAGING</p>
+  	  <p><b>Abstract:</b> We analyzed stimulus induced evoked responses obtained by optic imaging with 
+  	  dye (RH 795) in primary auditory area (A1) of the guinea pig auditory cortex. All signal 
+  	  (128-channel) were recorded with a spatial resolution of 130-217 um and with a time resolution 
+  	  of 10 kHz. Click and tone burst were applied as the sound stimuli. The dynamic spatio temporal 
+  	  response to click and the stable response to tone were observed and discussed. Neural 
+  	  oscillations about 20-50 Hz in the auditory responses were found. Cortical neural binding 
+  	  structure in the tonotopic organization was estimated by pattern time series analysis.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Gabbiani"></a>
+  	  <p><b>Author:</b> Fabrizio Gabbiani* and Christof Koch</p>
+      <p>Division of Biology, 139-74<br />
+      Caltech, Pasadena CA 91125</p>
+  	  <p><b>Title:</b> ESTIMATION OF TIME-VARYING SIGNALS ENCODED IN NEURONAL SPIKE TRAINS</p>
+  	  <p><b>Abstract:</b> We study the linear decoding of time-varying signals from neuronal spike 
+  	  trains by means of analytic and computer simulation methods. Decoding algorithms were first 
+  	  applied by Bialek et al. (Science, vol. 252, pp. 1854-1857) in experiments on the visual system 
+  	  of the fly. We consider a simple model of neurons encoding time-varying stimuli in Poisson spike 
+  	  trains. Under some general assumptions, we are able to derive an explicit formula for the 
+  	  optimal decoding filter. Our results show that it depends in a non-trivial way on the statistics 
+  	  of the stimulus (power spectral density) as well as on the firing rate of the neurons. We 
+  	  examine more complex models by means of computer simulations.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Geitz"></a>
+  	  <p><b>Author:</b> Kurt A. E. Geitz* 1 and Allan Gottschalk 2</p>
+      <p>1 M.S. Department of Bioengineering<br />
+      University of Pennsylvania<br />
+      Philadelphia, Pennsylvania 19104</p>
+      <p>2 Department of Anesthesia<br />
+      Hospital of the University of Pennsylvania<br />
+      3400 Spruce Street Philadelphia, Pennsylvania 19104</p>
+  	  <p><b>Title:</b> THE ROLE OF FEEDBACK IN RESPIRATORY AMPLITUDE AND FREQUENCY MODULATION</p>
+  	  <p><b>Abstract:</b> To establish its contribution to modulating the pattern of respirationt the 
+  	  role of sensory feedback to the central respiratory pattern generator (CRPG) is investigated 
+  	  analytically and computationally. The limit cycle behavior of the isolated CRPG allows a generic 
+  	  model of the closed system to be reduced to one that depends on the amplitude of respiration and 
+  	  the phase difference between the CRPG and the lungs We find that the hyperbolic relationship 
+  	  between respiratory volume and period seen in vivo critically depends upon the nonlinear 
+  	  threshold to mechanical feedback Computational experiments using a network of neurons model and 
+  	  a pacemaker model confirm the independence of the result from the source of the limit cycle</p></li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

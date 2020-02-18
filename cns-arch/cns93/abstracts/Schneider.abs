@@ -1,0 +1,26 @@
+
+
+Connectionist Simulation of Adaptive
+Processes in the Flight Control System of
+Migratory Locusts
+
+Achim Schneider
+Fachbereich 14 Informatik IV
+Universitat des Saarlandes
+6600 Saarbrucken 11
+Deutschland
+email: himder@cs.uni-sb.de
+
+Abstract
+The flight control system of migratory locusts is able to adapt its 
+steering behavior to changing conditions of its own body or in its 
+environment. The connectionist simulation aims at modeling the 
+flight control system and reproducing the adaptive processes with a 
+neural network approach. To serve this purpose a version of 
+Kohonen's selforganizing feature maps extended by multidimensional 
+output signals was employed. A special learning method was 
+developed to model the dynamic qualities of the locusts' steering 
+behavior. Several simulation experiments were carried out to prove 
+the appropriateness of the model.
+
+

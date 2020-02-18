@@ -1,0 +1,177 @@
+CNS92 FTP INFORMATION FILE.
+
+Welcome to the ftp host for CNS*92.   This file gives detailed instructions 
+on how you may:
+
+	Download a registration template to your local machine to register
+	electronically for CNS*92
+
+	Download the agenda for CNS*92
+
+	Download the list currently registered attendee's for CNS*92
+	
+	Download accepted abstracts for CNS*92
+
+	Get additional information about the post meeting workshops
+
+We suggest that you send this file to your local printer.   Under UNIX this
+is usually done by typing:
+
+	lpr README
+
+
+The following illustrates a session of downloading a registration template for
+CNS*92:
+>	
+>	YOURHOST 1: ftp 131.215.135.69
+>	Connected to mordor.cns.caltech.edu.
+>	220 mordor FTP server (SunOS 4.1) ready.
+>	Name (mordor.cns.caltech.edu:YOURNAME): ftp
+>	331 Guest login ok, send ident as password.
+>	Password:
+>	230 Guest login ok, access restrictions apply.
+>	ftp> cd pub
+>	250 CWD command successful.
+>	ftp> get registration_template
+>	200 PORT command successful.
+>	150 ASCII data connection for registration_template (XXX.XXX.XXX.X,3377)
+>		 (X bytes).
+>	226 ASCII Transfer complete.
+>	local: registration_template remote: registration_template
+>	8 bytes received in 0.0036 seconds (2.2 Kbytes/s)
+>	ftp> quit
+>	221 Goodbye.
+>	YOURHOST 2: more registration_template
+>	
+Once you have the registration form online you may use your favorite editor
+to edit the form, filling out your name, etc.   
+>
+
+The following illustrates a session of downloading the agenda for CNS*92:
+>	
+>	YOURHOST 1: ftp 131.215.135.69
+>	Connected to mordor.cns.caltech.edu.
+>	220 mordor FTP server (SunOS 4.1) ready.
+>	Name (mordor.cns.caltech.edu:YOURNAME): ftp
+>	331 Guest login ok, send ident as password.
+>	Password:
+>	230 Guest login ok, access restrictions apply.
+>	ftp> cd pub
+>	250 CWD command successful.
+>	ftp> get agenda
+>	200 PORT command successful.
+>	150 ASCII data connection for agenda (XXX.XXX.XXX.X,3377)
+>		 (X bytes).
+>	226 ASCII Transfer complete.
+>	local: agenda remote: agenda
+>	8 bytes received in 0.0036 seconds (2.2 Kbytes/s)
+>	ftp> quit
+>	221 Goodbye.
+>	YOURHOST 2: more agenda
+>	
+The following illustrates a session of downloading CNS*92 post meeting 
+workshop information:
+>
+>       YOURHOST 1: ftp 131.215.135.69
+>       Connected to mordor.cns.caltech.edu.
+>       220 mordor FTP server (SunOS 4.1) ready.
+>       Name (mordor.cns.caltech.edu:YOURNAME): ftp
+>       331 Guest login ok, send ident as password.
+>       Password:
+>       230 Guest login ok, access restrictions apply.
+>       ftp> cd pub
+>       250 CWD command successful.
+>       ftp> get workshops 
+>       200 PORT command successful.
+>       150 ASCII data connection for workshops (XXX.XXX.XXX.X,3377)
+>                (X bytes).
+>       226 ASCII Transfer complete.
+>       local: workshops remote: workshops 
+>       8 bytes received in 0.0036 seconds (2.2 Kbytes/s)
+>       ftp> quit
+>       221 Goodbye.
+>       YOURHOST 2: more agenda
+
+The following illustrates a session of downloading the list of registered 
+attendees to CNS*92:
+>	
+>	YOURHOST 1: ftp 131.215.135.69
+>	Connected to mordor.cns.caltech.edu.
+>	220 mordor FTP server (SunOS 4.1) ready.
+>	Name (mordor.cns.caltech.edu:YOURNAME): ftp
+>	331 Guest login ok, send ident as password.
+>	Password:
+>	230 Guest login ok, access restrictions apply.
+>	ftp> cd pub
+>	250 CWD command successful.
+>	ftp> get attendees
+>	200 PORT command successful.
+>	150 ASCII data connection for attendees (XXX.XXX.XXX.X,3377)
+>		 (X bytes).
+>	226 ASCII Transfer complete.
+>	local: attendees remote: attendees
+>	8 bytes received in 0.0036 seconds (2.2 Kbytes/s)
+>	ftp> quit
+>	221 Goodbye.
+>	YOURHOST 2: more attendees
+>	
+
+Copies of submitted abstracts are also present and available for downloading
+using ftp.   Each abstract is stored in a seperate file under the directory
+"pub/abstracts".   To get a list of abstracts ftp to our host and cd into
+this directory.   Type "ls" to get a listing of available files and use the
+"get <filename>" syntax to acquire abstracts you are interested in:
+>	
+>	YOURHOST 1: ftp 131.215.135.69
+>	Connected to mordor.cns.caltech.edu.
+>	220 mordor FTP server (SunOS 4.1) ready.
+>	Name (mordor.cns.caltech.edu:YOURNAME): ftp
+>	331 Guest login ok, send ident as password.
+>	Password:
+>	230 Guest login ok, access restrictions apply.
+>	ftp> cd pub/abstracts
+>	250 CWD command successful.
+>	ftp> ls
+>	200 PORT command successful.
+>	150 ASCII data connection for /bin/ls (XXX.XXX.XXX.X,3380) (X bytes).
+>	(LISTING FOLLOWS HERE)
+>	226 ASCII Transfer complete.
+>	ftp> get <ABSTRACT>
+>	200 PORT command successful.
+>	150 ASCII data connection for <ABSTRACT> (XXX.XXX.XXX.X,3377)
+>		 (X bytes).
+>	226 ASCII Transfer complete.
+>	local: <ABSTRACT> remote: <ABSTRACT>
+>	8 bytes received in 0.0036 seconds (2.2 Kbytes/s)
+>	ftp> quit
+>	221 Goodbye.
+>	YOURHOST 2: more <ABSTRACT>
+>	
+
+To download all the abstracts the following command sequence may be used:
+>	
+>	YOURHOST 1: ftp 131.215.135.69
+>	Connected to mordor.cns.caltech.edu.
+>	220 mordor FTP server (SunOS 4.1) ready.
+>	Name (mordor.cns.caltech.edu:YOURNAME): ftp
+>	331 Guest login ok, send ident as password.
+>	Password:
+>	230 Guest login ok, access restrictions apply.
+>	ftp> cd pub/abstracts
+>	250 CWD command successful.
+>	ftp> prmopt
+>	Interactive mode off.
+>	ftp> mget *
+>	200 PORT command successful.
+>	150 ASCII data connection for <ABSTRACTn> (XXX.XXX.XXX.X,3386) (X bytes)
+>	ASCII Transfer complete.
+>	.
+>	.
+>	.
+>	150 ASCII data connection for <ABSTRACTn> (XXX.XXX.XXX.X,3386) (X bytes)
+>	ASCII Transfer complete.
+>	ftp> quit
+>	221 Goodbye.
+>	YOURHOST 2: 
+
+All abstracts will now be present on your machine.

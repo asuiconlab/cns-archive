@@ -1,0 +1,32 @@
+Compartmental Models of Cerebellar Networks for Rabbit NMR Conditioning
+
+
+
+E.K. Blum*, P.M. Khademi,D.G. Lavond, P.K. Leung and R. F. Thompson
+
+Neural Informational and Behavioral Sciences Program
+University of Southern California, Los Angeles 90089 CA.
+*correspondence author: blum@pollux.usc.edu
+
+
+
+
+
+
+                         Abstract
+                         ________
+
+         At CNS*92 and AMNS meetings in 1991, 1990, we presented compartmental
+models of cerebellar-brain stem networks implicated in rabbit nmr conditioning.
+These models consisted of a few essential neurons and a simple synapse model.
+By computer experiments using the CAJAL simulator we were able to produce spike
+trains in rather good agreement with extracellular recordings.However, not all
+aspects of rabbit electrophysiological data recorded in training sessions were
+reproducible by these simple models. In the new models reported here, a more
+realistic network is used in conjunction with a kinetic synapse model.This
+allows us to do simulations which more accurately determine synaptic parameter
+changes that account more completely for the observed data before and after
+conditioning. In particular, we model the effects of varying the interstimulus
+interval between CS and US and recent data on LTD.
+
+

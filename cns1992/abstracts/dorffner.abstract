@@ -1,0 +1,27 @@
+Unsupervised Learning of Simple Speech Production
+Based on Soft Categorization
+
+Georg Dorffner
+Thomas Schonauer
+
+Dept.of Medical Cybernetics and Artificial Intelligence, University
+of Vienna,
+and Austrian Research Institute for Artificial Intelligence
+
+Abstract
+
+In this paper a novel approach to the self-organization of a sensory-motor loop
+is proposed. A neural network receiving spectra of stationary
+signals as input and producing the motor parameters for an articulatory
+model is trained to reproduce perceived vowels. Learning consists of two 
+components.  First, categorization in alayer that gradually learns to 
+compress inputs into more and more unitized responses (soft competitive 
+learning).
+Secondly, adaptation of the weights between this and the output
+layer, taking as learning rate a measure of goodness-of-fit easily
+computed for each response in the categorization layer. The model learns by 
+exploring the possible articulatory space - random, at first, then increasingly
+guided by the categorical repsonses - and adpating its weights when
+a signal, produced by itself, has a large goodness-of-fit
+with one of the learned categories.
+

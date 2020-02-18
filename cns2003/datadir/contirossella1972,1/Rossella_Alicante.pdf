@@ -1,0 +1,176 @@
+%PDF-1.1
+%‚„œ”
+%Created by Gymnast v3.5 (Build 149) at 00:13:24 on 02-24-2003
+1 0 obj
+<<
+/Type /Catalog
+/Pages 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /MacRomanEncoding
+>>
+endobj
+3 0 obj
+[ /PDF /Text ]
+/Font << /F1 2 0 R >>
+/Font << /F2 9 0 R >>
+endobj
+4 0 obj
+<<
+/Type /Annot
+/Subtype /Text
+/Rect [ 385 700 545 800 ]
+/Contents ()
+/T (Gymnast)
+/Open true
+>>
+endobj
+5 0 obj
+<<
+/Type /Annot
+/Subtype /Text
+/Rect [ 0 0 0 0 ]
+/Contents (reserved for future expansion)
+>>
+endobj
+6 0 obj
+<<
+/Type /Annot
+/Subtype /Text
+/Rect [ 0 0 0 0 ]
+/Contents (reserved for future expansion)
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Text
+/Rect [ 0 0 0 0 ]
+/Contents (reserved for future expansion)
+>>
+endobj
+8 0 obj
+<<
+/Title (CNS2003)
+/Author ( Rossella Conti)
+/Keywords ()
+/Subject ()
+/Producer (Gymnast)
+/CreationDate (02-24-2003)
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Bold
+/Encoding /MacRomanEncoding
+>>
+endobj
+10 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [11 0 R ]
+>>
+endobj
+11 0 obj
+<<
+/Type /Pages
+/Parent 10 0 R
+/Count 1
+/Kids [ 12 0 R ]
+>>
+endobj
+12 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 595 842 ]
+/Parent 11 0 R 
+/Rotate 0
+/Resources <</Font <</F1 2 0 R /F2 9 0 R>> /ProcSet 3 0 R>>
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<< /Length 2943 >>
+stream
+BT
+1 1 1 rg
+0 0 m
+595 0 l
+595 842 l
+0 842 l
+0 0 l
+f
+0 0 0 rg
+1 0 0 1 36 770 Tm
+/F1 12 Tf
+13.8 TL
+() '
+(Experiments were conducted on acute cerebellar slices of young \(11-16 days old\) rats. The ) '
+(calcium-sensitive fluorescent indicator fluo-4 was introduced in the basket cell interneuron through ) '
+(the patch-clamp pipette, at a concentration of 400 microM. Basket terminals were identified by co-) '
+(localization of the two-photon basal fluorescence image of the presynaptic axon with the ) '
+(transmitted light image of the Purkinje cell soma. We compared the properties of the presynaptic ) '
+(action potential \(AP\) evoked calcium transients with those of the SCaTs obtained in the presence of ) '
+(ryanodine. Calcium transients were analyzed in terms of the percentage change in fluorescence ) '
+(with respect to the pre-stimulus period \(% DF/Fo\). In eight terminals, the calcium transients ) '
+(induced by a train of 4 APs \(evoked by short intracellular depolarizations of the basket cell soma, at ) '
+(50 Hz\) had an average peak amplitude of 239 ± 153 % \(mean ± s.d.\). Their decay was ) '
+(approximated by a single exponential with average time constant of 3.6 ± 2.2 sec. In the same ) '
+(terminals, after block of APs by tetrodotoxin, ryanodine \(5-10 microM\) highly increased the ) '
+(frequency of SCaTs, suggesting that they are due to calcium release from intracellular stores, which ) '
+(is facilitated at this concentration of ryanodine \(see Llano et al., Nature Neuroscience 2000\). Single ) '
+(spontaneous events were characterized by a highly localized site of origin from which the signal ) '
+(diffused into the neighboring axonal regions. The relative change in fluorescence was measured for ) '
+(all pixels along the axonal tract and the source of the signal was identified as the site with the ) '
+(fastest rise. The amplitude and decay time were measured at the source. The average SCaT ) '
+(amplitude was 75 ± 16 %. The average decay \(through an exponential fit\) was 2.0 ± 0.8 sec. Larger ) '
+(events with a complex rise phase were often observed and could be attributed to high frequency ) '
+(bursts of summating single events. At each site of origin, SCaTs appeared to be clustered in time. ) '
+(We computed the cumulative probability for the inter-event-intervals \(IEI\) at each site, starting ) '
+(from the first event after ryanodine application. Most events \(70%\) had an IEI lower than 12 secs. ) '
+(Our data indicates that there can be spontaneous calcium transients at the very terminals of basket ) '
+(cell axons onto Purkinje cell somatas. These transients are due to intracellular store release of ) '
+(calcium, a mechanism different from the conventional calcium entry during APs invasion of the ) '
+(terminal; their amplitude can be higher than the latter and they could thus represent another form of ) '
+(vesicular release.) '
+() '
+() '
+ET
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f
+0000000081 00000 n
+0000000137 00000 n
+0000000256 00000 n
+0000000335 00000 n
+0000000457 00000 n
+0000000574 00000 n
+0000000691 00000 n
+0000000808 00000 n
+0000000954 00000 n
+0000001072 00000 n
+0000001139 00000 n
+0000001223 00000 n
+0000001396 00000 n
+trailer
+<<
+/Size 14
+/Info 8 0 R
+/Root 1 0 R
+%ID [<35672-11110>]
+>>
+startxref
+4396
+%%EOF

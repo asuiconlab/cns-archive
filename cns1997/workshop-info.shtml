@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1997 - Workshop information</title>
+<meta name="description" content="CNS Meeting Home Page 1997 - Workshop information." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1997, 
+cns, computational, neuroscience, workshop, talks, posters, Workshop information" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1997</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 6 - 10, 1997, Big Sky, Montana</h3>
+  	
+  	<h4>CNS*1997 Workshop information</h4>
+  	
+  	<p><b>Workshop Structure</b></p>
+  	
+  	<p>This year, the workshops session will consist of two types of events:</p>
+  	
+  	<p><b>* Informal workshop sessions</b></p>
+  	
+  	<p class="insprongpar">These are informal, interactive discussions among small groups of 
+  	participants with related interests. There are no scheduled talks, and slides and overheads are 
+  	not allowed. Huge paper tablets are provided in lieu of whiteboards. The organizer's role is to 
+  	define the topic and then moderate the discussion to keep it productive and on the topic.</p>
+  	
+  	<p><b>* Minisymposia</b></p>
+  	
+  	<p class="insprongpar">These are more formal sessions about a specific area of interest. The 
+  	organizers will present a short overview of the questions of interest, and will schedule a 
+  	limited number of short presentations around these questions. Interactive discussions among 
+  	participants and presenters, as well as spontaneous presentations are encouraged. The 
+  	organizer's role is to define the topic , suggest a number of presenters and then moderate the 
+  	discussion to keep it productive and on the topic.</p>
+  	
+  	<p>The workshops are afternoon-long sessions interspersed with talk and poster sessions during the 
+  	meeting. Meeting attendees can attend any workshop they want (they don't have to specifically 
+  	register) so preliminary sign-ups are only used to determine interest and assign rooms.</p>
+  	
+  	<p>There is no separate registration fee for the workshops.</p>
+  	
+  	<hr />
+  	
+  	<h4>How to propose Workshop Topics</h4>
+  	
+  	<p><b>* Informal workshop sessions</b></p>
+  	
+  	<p class="insprongpar">1) Meeting participants interested in particular subjects are encouraged 
+  	to send topics prior to the meeting to Christiane Linster, via email. Workshop proposals consist 
+  	of short blurbs describing the discussion topic; these are encouraged to be phrased as lists of 
+  	questions to be discussed. Information about these workshops will be posted on the CNS*97 web 
+  	site and at the conference.</p>
+  	
+  	<p class="insprongpar">2) Workshop topics can also be suggested during the main meeting. We are 
+  	particularly interested in topics that arise as a result of meeting presentations. A bulletin 
+  	board at the meeting will be used for participant sign-up. The bulletin board will list all 
+  	suggested workshops as well as the current list of participants.</p>
+  	
+  	<p><b>* Minisymposia</b></p>
+  	
+  	<p class="insprongpar">Meeting participants interested in organizing a more formal session should 
+  	send topics and a putative list of speakers to Christiane Linster prior to the meeting, via 
+  	email. Information about these session will be posted on the CNS*97 website and at the 
+  	conference.</p>
+  	
+  	<hr />
+  	
+  	<h4>Responsibilities of Workshop Organizers/Moderators</h4>
+  	
+  	<p>Organizing a workshop session at the CNS meeting involves:</p>
+  	
+  	<ul>
+  	  <li>writing a topic description for the proposed workshop</li>
+  	  <li>moderating the discussion during the workshop, and /or organizing presentations</li>
+  	  <li>after the meeting, writing an informal summary of the discussion and sending it back to the 
+  	  workshops coordinator for inclusion on the CNS web site.</li>
+  	</ul>
+  	
+  	<p>And that's it!</p>
+  	
+  	<p>To suggest workshop topics, send e-mail to Christiane Linster.</p>
+  	
+  	<hr />
+  	
+  	<p><b>This Years (97) Workshop Topics</b></p>
+  	
+  	<p><em>Workshops</em></p>
+  	
+  	<ul>
+  	  <li><em><a href="./workshops/peter.shtml">The Role of Chaotic Dynamics in Neural Circuitry</a></em>. 
+  	  Organizer: Peter Rowat, U. C. San Diego.</li>
+  	  <li><em><a href="./workshops/fellous.shtml">Computational Models of Neuromodulation.</a></em> 
+  	  Organizer: Jean-Marc Fellous, Brandeis University.</li>
+  	  <li><em><a href="./workshops/linster.shtml">The Traditional Olfaction Workshop or &quot;Beyond 
+  	  the Single Cell.&quot;</a></em> Organizers: Leslie Kay, Caltech, and Christiane Linster, 
+  	  Harvard University.</li>
+  	  <li><em><a href="./workshops/rogene.shtml">Neuroscience Online - Databases for Models and 
+  	  Experiments</a></em> Organizer: Rogene M. Eichler West, Caltech</li>
+  	  <li><em><a href="./workshops/claus.shtml">Quantitative Neuroanatomy</a></em>. Organizer: 
+  	  Claus C. Hilgetag, University of Newcastle upon Tyne.</li>
+  	  <li><em>On the Computational Role of Hippocampal Theta Rhythm</em>. Organizers: Bradley Wyble 
+  	  and Vikaas Sohal, Harvard University.</li>
+  	  <li><em><a href="./workshops/ole.shtml">Physiologically Realistic Memory Models</a></em>. 
+  	  Organizer: Ole Jensen, Brandeis University.</li>
+  	</ul>
+  	
+  	<p><em>Minisymposia</em></p>
+  	
+  	<ul>
+  	  <li><em><a href="./workshops/hansel.shtml">Synchrony in Neural Systems:&nbsp;can Theoreticans 
+  	  Contribute?</a></em> Organizers: D. Hansel and C. van Vreeswijk.</li>
+  	  <li><em><a href="./workshops/horn.shtml">Spiking Neurons and Fast Computation</a></em>. 
+  	  Organizer: David Horn, Tel Aviv University.</li>
+  	</ul>  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1997" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,774 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1994 - Abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1994 - Abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1994, 
+cns, computational, neuroscience, workshop, talks, posters, Abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1994</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1994, Monterey, California</h3>
+  	
+  	<h4>CNS*1994 Abstracts</h4>
+  	
+  	<ul>
+  	  <li><a name="Golomb"></a>
+  	  <p><b>Author:</b> David Golomb* l, Xiao-Jing Wang 2, and John Rinzel 3</p>
+      <p>1, 3 Mathematical Research Branch<br />
+      NIDDK, Bldg. 31, Rm. 4B-54,<br />
+      National Institutes of Health,<br />
+      Bethesda, MD 20892, U.S.A</p>
+      <p>2 Department of Mathematics<br />
+      University of Pittsburgh<br />
+      Pittsburgh, PA 15260</p>
+      <p><b>Title:</b> PARTIAL AND FULL SYNCHRONY IN THE RE DURING SPINDLE OSCILLATIONS</p>
+      <p><b>Abstract:</b> We address through modeling the hypothesis of Steriade and colleagues that 
+      the Reticular Thalamic Nucleus (RE) is the generator of spindle oscillation. Each model neuron 
+      exhibits post-inhibitory rebound and is coupled to all the other neurons via GABAA and GABAg 
+      inhibitory synapses. An isolated network of identical RE cells typically exhibits partial 
+      synchrony as it segregates itself into clusters; each neuron tends to burst only every two or 
+      more cycles of the population voltage. Blocking the GABAA synapses or increasing their reversal 
+      potential can produce a fully synchronized network. Excitation from thalamocortical cells 
+      results in synchronized oscillations that are robust to heterogeneity and noise.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Grzywacz"></a>
+  	  <p><b>Author:</b> Norberto M. Grzywacz 1 and Pierre-Yves Burgi 2</p>
+      <p>The Smith-Kettlewell Eye Research Institute<br />
+      2232 Webster Street, San Francisco, CA 94115</p>
+  	  <p><b>Title:</b> A HEBBIAN RULE CONSISTENT WITH PHYSIOLOGY AND PRODUCING SHARP REFINEMENT OF 
+  	  ORGANIZATION</p>
+      <p><b>Abstract:</b> Although the popular quadratic Hebbian rules lead to successful models of 
+      plasticity and learning, they are inconsistent with physiology. We developed a new rule based on 
+      the increase of presynaptic release following messenger feedback from the postsynaptic site. 
+      This rule was analyzed mathematically for the case of one and two synapses, and computationally 
+      for larger numbers of synapses. The results indicate its consistency with long-term potentiation 
+      and depression phenomenology, and better refinements of organization than obtained with 
+      quadratic rules. Hence, although mathematically less treatable, physiological rules might 
+      produce better organization and learning than quadratic rules. Supported by the NEI (EY08921) 
+      and SNFSR</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Gutkin"></a>
+  	  <p><b>Author:</b> Boris S. Gutkin* 1 and Charles E. Smith 2</p>
+      <p>1 Neural Processes in Cognition Program<br />
+      Department of Mathematics<br />
+      301 Thackeray Hall University of Pittsburgh<br />
+      Pittsburgh, PA 15209</p>
+      <p>2 Biomathematics Program Department of Statistics<br />
+      Campus Box 8203<br />
+      North Carolina State University<br />
+      Raleigh, NC 27695</p>
+  	  <p><b>Title:</b> ANALYSIS OF A STOCHASTIC MODEL OF SOMATOSENSORY INFORMATION PROCESSING.</p>
+      <p><b>Abstract:</b> This work analyzes a neural network model of somatosensory information 
+      processing with additive noise. The response, as measured by metabolic activity of cortical 
+      tissue(2-DG), is examined. The model is a network of aggregated neural units, governed by a 
+      system of coupled p.d.e's. The coupling coefficients are identical for all units in the network, 
+      each with a self-excitation, lateral inhibition pattern. Both the linear and non-linear models 
+      are investigated. The results of computer experiments on a difference equation version of the 
+      model are presented. The simulations agree well with previous work, showing the formation of a 
+      steady state, spatially inhomogeneous pattern in response to constant stimulus for weak lateral 
+      inhibition. The dynamics of steady state formation and its qualitative characteristics are not 
+      affected by the addition of noise. Strong inhibition leads to unstable behavior of the network. 
+      Results of computer experiments serve as a basis for the theoretical analysis of the model 
+      dynamics. A stability criterion for the connection patterns in the linear and sigmoidal network 
+      is developed, thereby extending previous work.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Harris"></a>
+  	  <p><b>Author:</b> Anthony Harris* 1 and Steven Small 2</p>
+      <p>1 Intelligent Systems Program<br />
+      University of Pittsburgh<br />
+      325 Scaife Hall<br />
+      Pittsburgh, Pa 15261</p>
+      <p>2 Dept. of Neurology<br />
+      325 Scaife Hall<br />
+      Pittsburgh, Pa 15261</p>
+  	  <p><b>Title:</b> DEVELOPMENT OF CORTICAL SEGREGATES BY THE COMPETITIVE DISTRIBUTION OF 
+  	  ACTIVATION</p>
+      <p><b>Abstract:</b> Recently, an alternative to the continuous, somatotopic representation of 
+      body surface has been proposed. In this proposal, cortical organization is described as a 
+      mosaic of discrete segregates which tile the cortical surface and encode spatiotemporal 
+      properties of the incoming sensory data. A segregate is defined by the following 
+      characteristics: all the maximal receptive fields (RFs) of the neurons comprising the segregate 
+      have a single skin region in common, termed the scgrcgatc RF ccntcr, and this center is 
+      non-overlapping with other segregates' centers. This paper presents a model of development of 
+      this organization via an adaptation of the competitive distribution of activation model. We 
+      propose a model to simulate segregate development via two learning mechanisms; the first being a 
+      Hebbian learning rule to facilitate cooperation of units within a segregate, and the second 
+      being a competitive learning rule which alters RF morphology eo discretize cortical 
+      organization.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hashemiyoon"></a>
+  	  <p><b>Author:</b> Rowshanak Hashemiyoon* and John K. Chapin</p>
+      <p>Department of Physiology and Biophysics<br />
+      Hahnemann University<br />
+      Phila., PA 19102</p>
+  	  <p><b>Title:</b> CODING FOR GLOBAL PARAMETERS MAY BE CARRIED BY SYNCHRONISED SUBCORTICAL 
+  	  OSCILLATIONS</p>
+      <p><b>Abstract:</b> Much attention has recently been given to fast oscillations in the visual 
+      system. We believe these dynamical states may carry sensory information. In order to investigate 
+      this possibility, we performed multi-site single neuron and unit cluster recordings in the 
+      subcortical visual system, specifically: the optic tract (OT), pretectal area, superficial gray 
+      layer of the superior colliculus (SGS), and the lateral geniculate (LGN) thalamic nucleus in 
+      awake and anaesthetised rats. Spontaneous, highly synchronised oscillations from single unit and 
+      unit cluster activity approximating 10, 20, and 40Hz were recorded in all of these areas, lower 
+      frequencies predominating in deeper anaesthesia. Autocorrelation histogram studies reflect very 
+      high coherence of the oscillations, in one case showing a temporal coherence for approximately 8 
+      secs.</p>
+      <p>A frequency study was performed on awake vs. anaesthetised rats via chronic implantation of a 
+      multi-wire array in the SGS of the rat. Cross correlation histograms from the multi-unit, 
+      multisite recordings in the anaesthetised paradigm reveal synchronous oscillations approximating 
+      20 Hz. Cross correlation histograms from the same multi-site recordings in the same rat under 
+      awake conditions show oscillatory frequency approximating 25 Hz. In general we noticed that 
+      while the animal was deeply anaesthetised, approximately 10 Hz frequencies were prevalent in 
+      younger rats, while 20 Hz frequencies prevailed in older ones. In all cases one, sometimes two, 
+      frequency bifurcations occurred as the effects of anaesthesia wore off. A spectrum analysis of 
+      the data shows that all of these frequencies (ie. 10, 20, and 40 Hz) may coexist within the same 
+      data set, exhibiting spontaneous bifurcations in upper harmonics of 10 Hz. Such frequency 
+      transitions are reminiscent of nonlinear dynamical systems which exhibit similar sudden 
+      bifurcations.</p>
+      <p>These oscillations were shown to be retinally derived by the following: 1) they were 
+      abolished by contralateral enucleation, 2) simultaneous recordings from similar locations across 
+      opposite colliculi revealed asynchronous activity between the two SGS, 3) multi-fiber recordings 
+      from the OT revealed oscillations</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hasselmo"></a>
+  	  <p><b>Author:</b> Michael E. Hasselmo* 1 and Eric Schnell 2</p>
+      <p>1 Dept. of Psycholog<br />
+      Harvard University<br />
+      33 Kirkland St.,<br />
+      Cambridge, MA 02138</p>
+      <p>2 Eric Schnell<br />
+      Emmanuel College<br />
+      Carnbridge University, Carnbridge,<br />
+      CB2 3AP, England</p>
+  	  <p><b>Title:</b> FEEDBACK REGULATION OF CHOLINERGIC MODULATION AND HIPPOCAMPAL MEMORY 
+  	  FUNCTION</p>
+      <p><b>Abstract:</b> Acetylcholine may set the appropriate dynamics for learning within the 
+      hippocampal formation. A model of the feedback regulation of cholinergic modulation in 
+      hippocampal regions CA 1 and CA3 was developed, focusing on the putative autoassociative and 
+      heteroassociative memory function of synapses arising from CA3 pyramidal cells. Feedback 
+      regulation of cholinergic modulation allowed the network to respond to novel patterns with 
+      strong cholinergic modulation, allowing accurate learning, and to respond to familiar patterns 
+      with a decrease in cholinergic modulation, allowing recall. This function required that 
+      suppression of synaptic transmission in region CA3 and CA1 be stronger for synapses in stratum 
+      radiatum (arising from region CA3), in contrast to synapses in stratum lacunosum-moleculare 
+      (arising from the entorhinal cortex). Experiments in brain slice preparations of the hippocampus 
+      demonstrate this laminar selectivity.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hill"></a>
+  	  <p><b>Author:</b> Hill* 1, Edwards 2, and Murphey</p>
+      <p>1 Neuroscience and Behavior Program<br />
+      Department of Biology<br />
+      Morrill Science Center (South)<br />
+      University of Massachusetts at Amherst, MA 01003-35825</p>
+      <p>2 Department of Biology<br />
+      Georgia State University<br />
+      Atlanta, GA 30302-4010</p>
+  	  <p><b>Title:</b> THE EFFECT OF NEURONAL GROWTH ON SYNAPTIC INTEGRATION</p>
+      <p><b>Abstract:</b> The way in which the dimensions of neurons change during postembryonic 
+      development has important effects on their electrotonic structures. Theoretically, only one mode 
+      of growth can conserve the electrotonic structures of growing neurons without employing changes 
+      in membrane electrical properffes. If the dendritic diameters of a neuron increase as the square 
+      of the increase in dendritic lengths, then the neuron's electrotonic structure is conserved. We 
+      call this &quot; isoelectrotonic growth. &quot; In this study we compared the developmental 
+      changes in morphology of two identiaed invertebrate neurons with theoreticsl growth curves. We 
+      found that a cricket neuron, MGI, grows isoelectrotonically and thereby preserves its 
+      electrotonic properties. The crayfish neuron, LG, grows in a nearly isometric manner that 
+      results in an increase in its electrotonic length.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hymel"></a>
+  	  <p><b>Author:</b> E.C. Hymel*, C.R. Murphey, and B.N. Christensen</p>
+      <p>Department of Physiology &amp; Biophysics<br />
+      UTMB<br />
+      Galveston, TX 77555-0641</p>
+  	  <p><b>Title:</b> A MATHEMATICAL MODEL OF RETINAL PHOTORECEPTORS.</p>
+      <p><b>Abstract:</b> Retinal photoreceptors transmit light stimuli via electrical signals 
+      generated by a change in a current, referred to here as the photocurrent. This voltage-sensitive 
+      photocurrent is gated by cGMP, and carries sodium and calcium ln a 3:1 ratio. cGMP levels are 
+      controlled by the opposing actions of guanylate cyclase and phosphodiesterase, which are in turn 
+      controlled by buffered calcium levels and photon absorption, respectively. We have used 
+      Mathematica on a SUN workstation to generate a system of nine coupled ordinary differential 
+      equations which reproduce changes in photocurrent in response to a light stimulus. In addition 
+      to the processes noted above, the actions of the Na+/K+ exchanger and the voltage- and 
+      concentration-dependent Na+/Ca++-K+ exchanger present in the photoreceptor inner and outer 
+      segments are considered. Previously published models in the literature have not incorporated all 
+      of these processes in a biologically relevant manner. The model is able to reproduce many 
+      figures available in the literature, such as photocurrents measured in response to or steady 
+      step changes in illumination and steady state levels of internal messengers. Supported by grant 
+      NEI01897 from NIH.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Idiart"></a>
+  	  <p><b>Author:</b> M. A. P. Idiart*, J. Lisman, and L.F. Abbott</p>
+      <p>Department of Biology and Center for Complex Systems<br />
+      Brandeis University<br />
+      Waltham, MA 02254</p>
+  	  <p><b>Title:</b> SHORT-TERM MEMORY AS A SINGLE CELL PHENOMENON.</p>
+      <p><b>Abstract:</b> We present a model of short-term memory based on slowly-varying intrinsic 
+      properties of single neurons. Cholinergic modulation of hippocampal and cortical neurons can 
+      induce after-depolarization following spiking. When included in a model neuron, this effect 
+      leads to memory storage and a sample-and-hold function. In a network model, memories can be 
+      retained during periods of oscillation and rapidly reset through recurrent ihnibition.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Jaeger"></a>
+  	  <p><b>Author:</b> Dieter Jaeger, Erik De Schutter, and James M. Bower</p>
+      <p>California Institute of Technology<br />
+      Div. of Biology 216-76<br />
+      Pasadena CA 91125</p>
+  	  <p><b>Title:</b> HOW ACTIVE DENDRITIC CONDUCTANCES AND SYNAPTIC INPUT CONTROL SOMATIC SPIKING IN 
+  	  THE PURKINJE CELL: A MODELING STUDY</p>
+      <p><b>Abstract:</b> The level of depolarization at the soma of a Purkinje cell is strongly 
+      dependent on the inward and outward currents distributed over the large area of its dendritic 
+      tree. Here we analyze the relative contribution of synaptic and voltage-gated currents on the 
+      spiking behavior of the soma, using a previously constructed realistic Purkinje cell model. We 
+      find that dendritic Ca++ currents tend to depolarize the cell enough such that a net outward 
+      synaptic current is necessary to produce slow somatic spiking rates. Fast somatic firing is 
+      obtained with a net inward synaptic current, however, inhibition still needs to be present to 
+      prevent bursting behavior. Spiking variability is determined by the temporal structure of both 
+      inhibitory and excitatory input.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Jensen"></a>
+  	  <p><b>Author:</b> R.V. Jensen*, G.M. Shepherd, and F. Zufall</p>
+      <p>*Department of Physics<br />
+      Wesleyan Universtiy<br />
+      Middletown, CT 06457</p>
+      <p>Department of Neurobiology<br />
+      Yale University School of Medicine<br />
+      New Haven, CT 06510</p>
+      <p><b>Title:</b> KINETIC MODELS OF TRANSIENTION CHANNEL CURRENTS IN RESPONSE TO BRIEF PULSES OF 
+      AGONIST</p>
+      <p><b>Abstract:</b> Patch clamp measurements of the response of cyclic-nucleotide-gated 
+      olfactory channels to brief (10-100 ms) pulses of cAMP provide new insights into the kinetics of 
+      sensory transduction.l The measured time-course of both the current onset and decay in response 
+      to a step-pulse oi agonist imposes new challenges for kinetic models. ln particular, our 
+      detailed analysis of the slow time-dependence of the transient olfactory channel currents 
+      induced by pulses of cAMP over a wide range of concentrations ( from 10-2 M&Ntilde; 10-6 M) 
+      suggests a novel, Monod-Wyman-Changeux type2, kinetic model in which the unbound closed state of 
+      the channel protein undergoes first a slow, k+l = 4 x 105M-1 s-1, binding step, then a slow 
+      conformational step, B=20s-1, to an open state, followed by a series of more rapid binding steps 
+      in the open state. A simplified numerical model of this kinetic scheme provides a good 
+      description of the onset, decay and saturated values of the olfactory channel currents and 
+      provides the basis for more detailed models of the full G-protein cascade describing olfactory 
+      transduction, from the receptor activation by odor molecules to channel opening. 3 A similar 
+      analysis is also applicable to recent measurements of the activation of slow NMDA currents by 
+      brief pulses of glutamate. 4 These empirically derived kinetic models serve in turn to motivate 
+      new experimental measurements to further elucidate the the non-equilibrium dynamics of 
+      ligand-gated ion channels.</p>
+      <p>1. F. Zufall, H.Natt, and S. Firestein, Proc. Natl. Acad. Sci. 90, 9335 (1993).<br />
+      2. J. Monod, J. Wyman, and J.-P. Changeux, J. Mol. Biol. 12, 88 (1965).<br />
+      3. S. Firestein, B. Darrow, G.M. Shepherd, Neuron 6, 825 (1991).<br />
+      4. J.D. Clements and G.L. Westbrook, Neuron 7, 605 (1991).</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kay"></a>
+  	  <p><b>Author:</b> Leslie Kay</p>
+      <p>Graduate Group in Biophysics<br />
+      University of California, Berkeley<br />
+      129 LSA, UCB, Berkeley, Calif. 94720</p>
+  	  <p><b>Title:</b> CORRELATED GAMMA, BETA, AND THETA OSCILLATIONS IN OLFACTORY AND LIMBIC BRAIN 
+  	  STRUCTURES DURING ODOR RECOGNITION</p>
+      <p><b>Abstract:</b> Local field potential recordings from olfactory bulb (OB), prepyriform 
+      cortex (PPC), entorhinal cortex (EC), and Dentate Gyrus (DG) of awake, behaving rats show that 
+      gamma bursts are passed from OB through PPC, EC, and DG. Lower frequency gamma activity is also 
+      passed back from EC to OB as a possible handshaking signal. Beta activity, arising in the EC and 
+      passed to the PPC and OB and to the DG, precedes bursts occuring during odor recognition and may 
+      be a reafferent signal used to tune the OB to receive an expected stimulus. Theta activity is 
+      also correlated among these structures associated with a recognition task and during the 
+      interburst period.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="K&ouml;tter"></a>
+  	  <p><b>Author:</b> Rolf K&ouml;tter</p>
+      <p>Instutute of Otago<br />
+      Dept. of Anatomy &amp; Structural Biology<br />
+      P. O. Box 913<br />
+      Dunedin, New Zealand</p>
+  	  <p><b>Title:</b> A MODEL OF BIOCHEMICAL INTERACTIONS BETWEEN GLUTAMATERGIC AND DOPAMINERGIC 
+  	  SIGNALS IN STRIATAL NEURONS</p>
+      <p><b>Abstract:</b> An equilibrium model of glutamatergic and dopaminergic biochemical pathways 
+      in striatal neurons shows that low intracellular free calcium concentrations (below 1 u M) act 
+      synergistically with dopaminergic stimulation of adenylate cyclase. Concentrations exceeding 1u 
+      M lead to inhibition of adenylate cyclase, which is not overcome by dopaminergic stimulation. 
+      Further enzymatic pathways can be characterized as either calcium-dependent (PP2B), or as 
+      sensitive to calcium and dopamine (PKA, PPl). The regulation of phosphoproteins (DARPP, MAP2) 
+      demonstrates the complexity of crosstalk between transmitter-sensitive pathways. Such mechanisms 
+      may play a role in synaptic plasticity, corhcostriatal interplay, and reinforcement learning.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Lansner"></a>
+  	  <p><b>Author:</b> Anders Lansner* and Erik Fransen</p>
+      <p>SANS - Studies of Artificial Neural Systems<br />
+      Dept. of Numerical Analysis and Computing Science<br />
+      Royal Institute of Technology<br />
+      S-100 44 Stockholm, Sweden</p>
+  	  <p><b>Title:</b> IMPROVING THE REALISM OF ATTRACTOR MODELS BY USING CORTICAL COLUMNS AS 
+  	  FUNCTIONAL UNITS</p>
+      <p><b>Abstract:</b> Attractor network models of cortical associative memory functions have 
+      developed considerably over the past few years. Here we show that we can improve them further by 
+      using cortical minicolumns instead of single neurons as functional units. The connectivity of 
+      the model then becomes more realistic, since the dense and symmetric connectivity now may be 
+      sparse and strongly asymmetric at the cell-to-cell level, thus resembling more the real cortex. 
+      Simulations show that such a network, with model neurons of the Hodgkin-Huxley type, can operate 
+      as an associative memory in much the same way as previous, simpler network models.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Lee"></a>
+  	  <p><b>Author:</b> Christopher W. Lee 1* and Bruno A. Olshausen 2</p>
+      <p>1, 2 Washington University School of Medicine<br />
+        Dept. of Anatomy and Neurobiology, Box 8108<br />
+        660 S. Euclid Avenue<br />
+        St. Louis, Missouri 63110</p>
+  	  <p><b>Title:</b> A NONLINEAR HEBBIAN NETWORK THAT LEARNS TO DETECT DISPARITY IN RANDOM-DOT 
+  	  STEREOGRAMS</p>
+      <p><b>Abstract:</b> We explore the use of a Hebb rule in a network of nonlinear neurons in order 
+      to evaluate their ability to extract higher-order statistics from an input stream. As a test of 
+      our methodology, we apply it to the problem of learning disparity in random-dot stereograms. Our 
+      model network consists of two layers, with nonlinearities in the first-layer units only. These 
+      non-linearities, inspired by those seen in neurobiology, allow the first layer to learn to 
+      transform the input layer's pixel-based representation into a representation based upon coupled 
+      pairs of left-right inputs. The second layer of the network then learns the disparities present 
+      by extracting patterns within this new representation via a standard competitive learning rule. 
+      The model demonstrates that a simple local learning rule can extract higher-order regularities 
+      which cannot be extracted by a purely linear model.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="August"></a>
+  	  <p><b>Author:</b> David A. August and David B. Levy*</p>
+      <p>Department of Neurological Surgery<br />
+      University of Virginia Health Sciences Center<br />
+      Charlottesville, VA 22908</p>
+  	  <p><b>Title:</b> INFORMATION MAINTENANCE BY RETINAL GANGLION CELL SPIKES</p>
+      <p><b>Abstract:</b> A neuron may communicate its time-varying analog states with an interspike 
+      interval (ISI) code. Using a biophysical model of a retinal ganglion cell spike generator, we 
+      studied the performance of such a code. Our main result - a relatively small difference between 
+      an injected stimulus current and an estimated signal reconstructed from the resulting spike 
+      train - indicates tl1at the spike generator maintains information in individual ISIs. We 
+      conceptualize spikes as instantaneous &quot;samples&quot; of the ncuron's analog state. 
+      Specifically, ISIs are translated into samples of the analog somatic current by a monotonic 
+      function, f (ISI).</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Levy"></a>
+  	  <p><b>Author:</b> K. L. Levy*1 and D. R. Kipke 2</p>
+      <p>1 Arizona State University<br />
+      Bioengineering Program<br />
+      Tempe, AZ 85287-6006</p>
+      <p>2 Daryl R. Kipke<br />
+      Arizina State University<br />
+      Bioengineering Program<br />
+      Tempe, AZ 85287-6006</p>
+      <p><b>Title:</b> USING MODELS TO DETERMINE THE RELATIVE IMPORTANCE OF INTRINSIC MEMBRANE 
+      PROPERTIES VERSUS SYNAPTIC ORGANIZATION IN OCTOPUS CELLS</p>
+      <p><b>Abstract:</b> Compartmental models are used to determine the relative importance of 
+      intrinsic membrane properties versus synaptic organization in producing the octopus cell's onset 
+      response Three cells are modeled: a cell with a generic membrane and optimal synaptic structure, 
+      a cell with an octopus-like membrane and randomly placed synapses, and a cell with an 
+      octopus-like membrane and optimal synaptic structure The models' responses to tones are compared 
+      to experimental data in terms of the latency and height of the onset peak of the post-stimulus 
+      time histograms The results demonstrate that both properties play a role in determining the 
+      cell's response to tones Using Models to Determine the Relative Importance of Intrinsic Membrane 
+      Properties versus Synaptic Organization in Octopus Cells.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Li"></a>
+  	  <p><b>Author:</b> Zhaoping Li* and Joseph J. Atick</p>
+      <p>The Rockefeller University<br />
+      1230 York Avenue<br />
+      New York, NY 10021</p>
+  	  <p><b>Title:</b> UNDERSTANDING OCULAR DOMINANCE DEVELOPMENT FROM BINOCULAR INPUT STATISTICS</p>
+      <p><b>Abstract:</b> We recently hypothesized that striate cells are concerned with, among other 
+      things, reducing binocular redundancy due to binocular correlations. In a multiscale 
+      representation, this leads to a distribution of monocular/binocular cells and disparity 
+      selective cells resembling what is observed in experiments. This theory is applied here to 
+      explain the different ocular dominance column formations resulting from different (normal or 
+      abnormal) developmental conditions such as strabismus and monocular deprivation. It is shown 
+      that abnormal ocular dominance column formations, such as unequal column sizes for the two eyes 
+      or increased monocularity, are consequences of decorrelation strategies applied to the altered 
+      binocular input statistics under abnormal developmental conditions.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Liaw"></a>
+  	  <p><b>Author:</b> Jim-Shih Liaw 1, Michel Baudry 1, Gilbert A. Chauvet 1, and Theodore W. 
+  	  Bergera 1</p>
+      <p>1 Neural Informational, and Behavioral Sciences<br />
+      University of Southern California<br />
+      Los Angeles, CA 90089-2520</p>
+      <p>2 Institut de Biologie Theorique, Universite d'Angers<br />
+      49100 Angers, France</p>
+  	  <p><b>Title:</b> SIMULATION OF THE MOLECULAR MECHANISMS REGULATING TRANSMITTER RELEASE</p>
+      <p><b>Abstract:</b> Simulations of presynaptic calcium dynamics and calcium interaction with 
+      molecules that play a critical role in transmitter release (e.g., synaptotagmin), in response to 
+      repetitive depolarization, led to the following conclusions: 1) the increase of single-liganded 
+      synaptotagmin after the first stimulation is critical for the facilitation of release seen with 
+      repeated stimulations, 2) a model with 2 calcium-sites for synaptotagmin generates results that 
+      best match experimental data, 3) facilitation of release persists even when calcium influx is 
+      progressively reduced, and 4) near equilibrated single-liganded synaptotagmins is responsible 
+      for the decrease in the facilitatory effect with higher extracellular calcium concentrations.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Liaw1"></a>
+  	  <p><b>Author:</b> Jim-Shih Liaw* and Micahel A. Arbib</p>
+      <p>Center for Neural Engineering<br />
+      University of Southern California<br />
+      Los Angeles, CA 90089-2520</p>
+  	  <p><b>Title:</b> TIMING A LOOMING OBJECT</p>
+      <p><b>Abstract:</b> We present a novel approach to extracting information related to the 
+      absolute speed of a looming stimulus. The method is based on two properties of looming detectors. 
+      They respond sooner to a large approaching object with lower firing rate. The curves obtained by 
+      integrating the activity of looming detectors in response to simuli of various sizes looming at 
+      the same speed intersect within a small range. After thresholding, the onset time of these 
+      integrator neurons form clusters, each corresponds to a looming speed. This mechanism offers a 
+      flexible way for timing interaction with looming objects by neural modulation.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Liljenstr&#246;m"></a>
+  	  <p><b>Author:</b> Hans Liljenstr&#246;m and Xiangbao Wu</p>
+  	  <p>SANS - Studies of Artificial Neural Systems<br />
+  	  Dept. of Numerical Analysis and Computing Science<br />
+  	  Royal Institute of Technology<br />
+  	  S-lOO 44 Stockholm, Sweden</p>
+  	  <p><b>Title:</b> NOISE AND CHAOS IN ASSOCIATIVE MEMORY</p>
+      <p><b>Abstract:</b> Using a model of the olfactory cortex we demonstrate how noise and chaos can 
+      play a role in the complex dynamics involved in learning and memory. We show that noise can 
+      speed up neural information processing and reduce recall time in associative memory tasks. Noise 
+      can also induce transitions between different memory states. Oscillations and (transient) chaos, 
+      induced by noise or by an increase in neuronal excitability, is shown to improve system 
+      performance. We discuss how these effects can be under neuromodulatory control.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Linster"></a>
+  	  <p><b>Author:</b> Christine Linster* 1 and Claudine Masson 2</p>
+      <p>1 ESPCI, Laboratorie d'Electronique<br />
+      10, Rue Vauquelin, 75005 Paris</p>
+      <p>2.Neurobiologie Comparee des Invertebres<br />
+      INRA, CNRS (URA 1190)<br />
+      911140 Bures sur Yvette, France</p>
+      <p><b>Title:</b> ODOR PROCESSING IN THE HONEY BEE'S ANTENNAL LOBE GLOMERULI: MODELING SENSORY 
+      MEMORY</p>
+      <p><b>Abstract:</b> Based on precise data collected from experiments conducted at different 
+      organizational levels (anatomy, electrophysiology and behavior), we propose an investigation of 
+      the possible mechanisms of sensory memory in the bee's olfactory system. In this goal, we have 
+      investigated the modulation and control between the two levels of olfactory information 
+      processing, the antennal lobe glomeruli and the mushroom bodies. We use simplified neurons, but 
+      realistic architecture. As a first conclusion, we postulate that sensory memory may be achieved 
+      by modulation of the inhibitory synaptic activity of antennal lobe neurons. These first results 
+      are in good accordance with behavioral and pharmacological data.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Lukashin"></a>
+  	  <p><b>Author:</b> Alexander V. Lukashin*, George L. Wilcox and Apostos P. Georgopoulos</p>
+      <p>Brain Sciences Center<br />
+      Department of Veterans Affairs Medical Center<br />
+      Minneapolis, MN 55417 and</p>
+      <p>Departments of Physiology<br />
+      Pharmacology and Neurology<br />
+      University of Minnesota Medical School<br />
+      Minneapolis, MN 55455</p>
+  	  <p><b>Title:</b> OVERLAPPING NEURAL NETWORKS FOR MULTIPLE MOTOR ENGRAMS</p>
+      <p><b>Abstract:</b> We tested the hypothesis that learned movement trajectories of different 
+      shapes can be stored in, and generated by, largely overlapping neural networks. We trained a 
+      massively interconnected neural network to generate different shapes of internally stored, 
+      dynamically evolving movement trajectories using a general-purpose, core part, common to all 
+      networks, and a special-purpose part, specific for a particular trajectory. The percentage of 
+      trajectory-specific units needed to generate a certain trajectory was small (2- 5%). The core 
+      network alone could generate externally instructed trajectories but not internally stored ones, 
+      for which both the core and the trajectory-specific part were needed. These results suggest an 
+      efficient and effective mechanism for storing learned motor patterns.(Supported by the Office of 
+      Naval Research and the Minnesota Supercomputer Institute).</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="McCandless"></a>
+  	  <p><b>Author:</b> Jeffrey W. McCandless* and Clifton M. Schor</p>
+      <p>Vision Science Group<br />
+      School of Optometry<br />
+      360 Minor Hall<br />
+      University of California<br />
+      Berkeley, CA 94720</p>
+      <p><b>Title:</b> CROSS-COUPLING OF EYE POSITION SENSlTIVE NEURONS TO MAINTAIN BINOCULAR 
+      ALIGNMENT</p>
+      <p><b>Abstract:</b> The oculomotor system maintains binocular eye alignment throughout life 
+      through an adaptive recalibration process. Empirical evidence has indicated there is a 
+      spatiotopic representation in the central nervous system to provide accurate binocular movements 
+      in situations where immediate error feedback is unavailable. We have investigated the mechanisms 
+      for this spatiotopic representation by modifying the default binocular alignment in one position 
+      of gaze, and measuring the associated eye responses in other positions. To explain the results, 
+      we have developed a computational model that cross-couples the activities of two classes of eye 
+      position sensitive neurons. </p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Miller"></a>
+  	  <p><b>Author:</b> K. Miller* 1 and P. Pennefather 2</p>
+  	  <p>AEON Software<br />
+  	  975 Lewis Ave, Suite 8<br />
+  	  Eugene, OR 97402</p>
+      <p>Nerve Cell and Synapse Group,<br />
+      U of Toronto<br />
+      Toronto, ON M5S 2S2</p>
+  	  <p><b>Title:</b> A GENERAL SIMULATOR OF CELLULAR ELECTRO-CHEMICAL DYNAMICS</p>
+      <p><b>Abstract:</b> Axon Engineer is a comprehensive, general and object-oriented simulator of 
+      cellular electrochemical dynamics underlying ionic signaling. It runs of the DOS platform The 
+      program makes the process of building a mathematical model transparent by presenting the 
+      investigator with a visual and intuitive environment for defining and linking objects critical 
+      to the generation of cellular ionic signals. The objects are: chemicals and buffers (both 
+      optionally diffusible), multi-state channels and transporters (with optional voltage and ligand 
+      dependencies), a broad range of stimuli and graphing windows. Each object has an extensive set 
+      of properties. The system of ordinary llifferential equations to describe membrane level events 
+      and partial differential equations for events mediated by buffered diffusion are solved using 
+      optimtied numerical methods (Le. Gear method for ODEs and the Crank-Nicholson method for PDE's). 
+      The strategies will be illustrated with a complex simulation of ionic signaling in neurons of 
+      bullfrog sympathetic ganglia.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Murphey"></a>
+  	  <p><b>Author:</b>  C.R. Murphey* 1 and L. E. Moore 2</p>
+      <p>1 Physiology &amp; Biophysics<br />
+      UTMB, Galveston TX 77555-0641</p>
+      <p>2 L.E. Moore. Physiology &amp; Biophysics<br />
+      UTMB, Galveston TX 77555-0641<br />
+      and CNRS, U. of Rennes, 35042<br />
+      RENNES Cedex, France</p>
+  	  <p><b>Title:</b> A HYPERTEXT COMPARTMENTAL NEURONAL SIMULATOR</p>
+      <p><b>Abstract:</b> A user interface in part determines the effectiveness of simulation software. 
+      The Hypertext Compartmental Neuronal Simulator is a software application for mathematical 
+      modeling single neurons or networks containing a small number of compartments (&lt;30). The user 
+      interface consists of windows containing text mixed with interactive graphics with both 
+      point-and-click and command line input. The user interface and simulation protocols may be 
+      modified or extended dynamically at run-time using the application's embedded Tool Command 
+      Language (TCL) interpreter. Numerical efficiency is enhanced by use of a variable step-size, 
+      variable order integration method and compilation of model equations in C or Fortran. Use of 
+      de-facto standard software toolkits such as X windows and Tcl/Tk reduce the size and complexity 
+      of the application software itself to under 2000 lines of code. Source code for demonstration 
+      software solving the Hodgkin-Huxley equations is available on request. Requires Unix, X windows 
+      and the Tcl/Tk toolkit. Supported by DHHS-R01-MH45796.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Murphy"></a>
+  	  <p><b>Author:</b> Sean D. Murphy* and Edward W. Kairiss</p>
+      <p>Yale University Department of Psychology and<br />
+      the Center for Theoretical and Applied Neuroscience (CTAN)<br />
+      Box 208205, New Haven CT 06520-8205</p>
+  	  <p><b>Title:</b> THE STEM CELL: A COMPUTATIONAL MODEL OF BIOLOGICAL NEURONS USEFUL FOR 
+  	  SPATIO-TEMPORAL PATTERN RECOGNITION</p>
+      <p><b>Abstract:</b> A biological neuron can be viewed as a match-filter that instantiates a 
+      mapping, M, from spatiotemporal (synaptic) events to one-dimensional temporal events (action 
+      potentials). An abstraction of a biological neuron called a Spatio-Temporal Event Mapping (STEM) 
+      cell has been designed to perform this mapping in a general way. We show that the STEM-cell is 
+      capable of learning M for a biophysical model of a neuron, and that it offers advantages over a 
+      biophysical model in terms of computational efficiency and analytical tractability.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Nadim"></a>
+  	  <p><b>Author:</b> Farzan Nadim* 1, Ronald L. Calabrese 2, and Erik De Schutter 3</p>
+      <p>1 Dept. of Biology<br />
+      Emory University<br />
+      1510 Clifton Rd.<br />
+      Atlanta, GA 30322</p>
+      <p>2 Dept. of Biology<br />
+      Emory University<br />
+      1510 Clifton Rd.<br />
+      Atlanta, GA 30322</p>
+      <p>3 The Born Bunge Foundation<br />
+      University of Antwerp<br />
+      B2610 Antwerp, Belgium</p>
+  	  <p><b>Title:</b> THE INTERPLAY OF INTRINSIC AND SYNAPTIC CURRENTS IN A HALF-CENTER OSCILLATOR</p>
+      <p><b>Abstract:</b> The bursting oscillations underlying the heartbeat of the medicinal leech 
+      are generated by pairs of reciprocally inhibitory heart interneurons. We provide a 
+      conductance-based model including several intrinsic ionic currents for such a pairof neurons. 
+      The model also includes a calcium-dependent graded synaptic current, in addition to 
+      spike-mediated synaptic currents. The mechanism for oscillations is a mixture of 
+      &quot;escape&quot; and &quot;release.&quot; We explore the interaction of the synaptic currents 
+      with the intrinsic currents underlying the bursting oscillations. This interaction determines 
+      whether the escape or the release aspect of the oscillation is dominant.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Nakamura"></a>
+  	  <p><b>Author:</b> Kiyohiko Nakamura</p>
+  	  <p>Graduate School of Information Systems<br />
+  	  University of Electro-Communications<br />
+  	  1-5-1 Chofugaoka, Chofu, Tokyo 182, Japan</p>
+  	  <p><b>Title:</b> CORTICAL COMPETITIVE PROCESSING PRODUCES INTERFERENCE IN WORD-COLOR NAMING 
+  	  TASKS</p>
+      <p><b>Abstract:</b> Neural processing of the millesecond time range is analyzed with the Stroop 
+      interference: the word &quot;red&quot; printed in blue delays naming its color &quot;blue&quot; 
+      by about 100 msec. The model cortex is the Broca area which is an array of cortical columns. 
+      They receive projections from the Wernick(word-processing) area and colorprocessing pathways. 
+      Model analysis shows (1) lateral inhibition between the columns restricts columns' firing to the 
+      most activated ones by surpressing the others before firing, which enables the cortical 
+      processing of a few hundred milliseconds, but (2) the inhibition delays the processing if the 
+      two projections deliver the inconguent stimuli.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Paulin"></a>
+  	  <p><b>Author:</b> Michael G. Paulin 1 and Mark E. Nelson* 2</p>
+      <p>1 Dept. of Zoology<br />
+      Univ. of Otago<br />
+      Dunedin, New Zealand</p>
+      <p>2 Beckman Institute Univ. of Illinois<br />
+      405 N. Mathews, Urbana, IL 61801</p>
+      <p><b>Title:</b> MODELS OF ADAPTIVE SELF-NOISE CANCELLATION IN THE ELASMOBRANCH ELECTROSENSORY 
+      SYSTEM</p>
+      <p><b>Abstract:</b> Marine elasmobranchs (sharks, skates, and rays) possess a specialized 
+      sensory system that is extremely sensitive to weak electric fields, with behavioral thresholds 
+      having been reported at field strengths as low as 5 nV/cm. This system is faced with a 
+      challenging signal processing problem in that elasmobranchs themselves generate relatively 
+      large bioelectric fields of the same general frequency characteristics as those they are trying 
+      to detect. We present and analyze alternative models of adaptive filtering in the dorsal 
+      octavolateral nucleus (DON), a region of the medulla that is responsible for cancelling out this 
+      self-generated background noise.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Ding"></a>
+  	  <p><b>Author:</b> Zhimin Ding and Mark E. Nelson*</p>
+      <p>*Beckman Institute<br />
+      Univ. of lllinois<br />
+      405 N. Mathews, Urbana, IL 61801</p>
+  	  <p><b>Title:</b> SENSORY FEEDBACK AND CONTROL OF LEG-SUBSTRATE INTERACTIONS FOR AGILE LOCOMOTION 
+  	  IN INSECTS AND ROBOTS</p>
+      <p><b>Abstract:</b> Most research on the neural control of multilegged locomotion has focused on 
+      the problem of pattern generation, namely on how to produce appropriately phased patterns of 
+      bursting activity in leg motor neurons so as to generate stable walking gaits. Fixed pattern 
+      generation alone, however, is not sufficient to achieve agile locomotion over irregular terrain. 
+      Agile locomotion requires the incorporation of sensory feedback signals which convey information 
+      about leg-substrate interactions. We present a biologically-plausible model of a single-leg 
+      controller for substratefinding and compliance control, discuss its relevance to insect 
+      neurobiology, and evaluate its performance in controlling a multijoint robotic leg.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Nicolaus"></a>
+  	  <p><b>Author:</b> Jill M. Nicolaus* and Philip S. Ulinski</p>
+      <p>Dept. Organismal Biology and Anatomy<br />
+      University of Chicago<br />
+      1025 E. 57th St. Chicago, IL 60637</p>
+  	  <p><b>Title:</b> FUNCTIONAL INTERACTIONS BETWEEN INWARDLY RECTIFYING CONDUCTANCES AND 
+  	  GABA-MEDIATED INHIBITION.</p>
+      <p><b>Abstract:</b> We are studying interactions of inwardly rectifying (IR) conductances and 
+      inhibitory inputs in pyramidal cells in turtle visual cortex, using a two-neuron model. Kinetic 
+      parameters for fast and slow IR conductances were estimated from intracellular data. Trains of G 
+      A B A A -mediated IPSPs effectively activate fast IR conductances, while GABAB-mediated IPSPs 
+      activate slow IR conductances. Fitting activation kinetics to physiological data on a specific 
+      cell type is critical to modeling conductances that activate in appropriate voltage ranges. The 
+      fast and slow IR conductances may help to control levels of cortical excitability under 
+      different stimulus conditions. Supported by PHS grant EY 68352.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Nicolelis"></a>
+  	  <p><b>Author:</b> Miguel A. L. Nicolelis* and John K. Chapin</p>
+      <p>Department of Physiology and Eiophysics<br />
+      Hahnemann University<br />
+      Philadelphia, PA 19102.</p>
+  	  <p><b>Title:</b> NEURAL NETWORK MECHANISMS OF DYNAMIC AND DISTRIBUTED SENSORY PROCESSING: 
+  	  CHARACTERIZATION USING SIMULTANEOUS MULTI- SINGLE NEURON RECORDINGS</p>
+      <p><b>Abstract:</b> To characterize sensory information processing at the network level we have 
+      developed techniques for chronic simultaneous recording of large numbers of single neurons 
+      within multiple connected areas of the brain of awake, behaving animals. Here, 48 single neurons 
+      were simultaneously recorded in the facial whisker representations of the trigeminal ganglion 
+      (Vg), principal (PrV) and spinal (SpV) trigeminal nuclei, ventral posteromedial thalamus (VPM) 
+      and primary somatosensory (Sl) cortex. Multivariate statistical analysis and 3D graphics 
+      techniques were used to analyze responses to discrete whisker stimulation through these 
+      different levels. Whereas at lower levels of this system whisker location was directly coded by 
+      discrete short latency responses, at higher levels this code was successively more broadly 
+      distributed over the neuronal population and over post-stimulus time. In addition, spontaneous 
+      8-30 Hz oscillatory (mu-type) discharge was ubiquitous in these recordings in awake animals. 
+      Occuring mainly during immobile motor expectancy, these were uncorrelated with whisker movements, 
+      but interacted complexly with responses to whisker stimulation. To conclude, sensory processing 
+      in this system involves spatiotemporally distributed coding and is also subject to dynamical 
+      state transitions.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Usher"></a>
+  	  <p><b>Author:</b> Marius Usher 1 and Ernst Niebur*2</p>
+      <p>1 Department of Psychology<br />
+      Carnegie-Mellon University<br />
+      Pittsburgh, PA 15213</p>
+      <p>2 Computation and Neural Systems, 139-74<br />
+      California Institute of Technology<br />
+      Pasadena, CA 91125</p>
+      <p><b>Title:</b> STIMULUS-DEPENDENT SYNCHRONIZATION IN A MODEL OF ORIENTATION-TUNED SPIKING 
+      NEURONS</p>
+      <p><b>Abstract:</b> We investigate a model for neural activity in the primary visual cortex. 
+      Cells are organized in a two-dimensional layer with an embedded orientation preference map and 
+      are modeled as leaky integrate-and-fire neurons. The connectivity consists of local excitation, 
+      surround inhibition and long-range clustered connections, where the latter are only between 
+      cells with similar orientation preference. Due to the centersurround connectivity, the system 
+      generates irregular spike trains with broad inter-spike interval distribution as found in 
+      cortical data (Softky and Koch, 1993). Neighboring cells show a large arnount of synchronization 
+      while more distant cells show stimulus dependent synchronization similar to that observed 
+      experimentally (Gray and Singer, 1989) the cross-correlation peaks are larger for cells 
+      stimulated with the same orientation (vs. different orientation) even if they don't have the 
+      same orientation preference.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Olshausenl"></a>
+  	  <p><b>Author:</b> Bruno A. Olshausenl 1 and Charles H. Anderson 2</p>
+      <p>1 Dept. of Anatomy and Neurobiology, Box 8108<br />
+      Washington University School of Medicine<br />
+      660 S. Euclid Avenue<br />
+      St. Louis, MO 63110</p>
+      <p>2 Computation and Neural Systems Program<br />
+      California Institute of Technology<br />
+      Pasadena, California 91125</p>
+  	  <p><b>Title:</b> A MODEL OF THE SPATIAL-FREQUENCY ORGANIZATION IN PRIMATE STRIATE CORTEX</p>
+      <p><b>Abstract:</b> Despite much existing data on the spatial-frequency tuning properties of 
+      retinal and early cortical cells, there still exists no coherent model of the spatial-frequency 
+      organization in striate cortex and how it relates to visual function. Here, we present a revised 
+      Koenderink &quot;stack model&quot; for cortical spatial-frequency organization that fits 
+      quantitatively with existing neurobiological data. The model makes a number of predictions that 
+      may be tested in future experiments.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Opara"></a>
+  	  <p><b>Author:</b> Ralf Opara* 1 and Florentin Wrgtter 2</p>
+      <p>1 Institute of Physiology<br />
+      Dept. of Neurophysiology<br />
+      Ruhr-Universit&#228;t Bochum<br />
+      D-44780 Bochum, FRG</p>
+      <p>2 Institute of Physiology<br />
+      Dept. of Neurophysiology<br />
+      Ruhr-Universit&#228;t Bochum<br />
+      D-44780 BOCHUM, FRG</p>
+  	  <p><b>Title:</b> A MULTI MODULAR HARDWARE-SOFTWARE DEVELOPMENT FOR VISUAL SCENE ANALYSIS</p>
+      <p><b>Abstract:</b> We present a specialized multi-modular hardware-software development for 
+      real time analysis of visual scenes, where cortical structure is taken as a guideline. The goal 
+      was not to compete with fast supercomputers but rather to focus on the aspect of cortical task 
+      splitting and communication between the tasks. With this system, complex visual scenes are 
+      segregated in parallel into different very simple low-performance tasks (orientation, 
+      endstopping, velocity, disparity) while the complete scene analysis is strongly enhanced by the 
+      interactions between the tasks.</p></li>
+    </ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1994" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

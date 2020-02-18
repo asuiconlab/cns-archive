@@ -1,0 +1,25 @@
+A Network Model of Automatic Gain Control in the Electrosensory 
+System
+
+Jeremy R. Payne (jrpayne@uiuc.edu)
+Zhian Xu     (xu@wildcat.npa.uiuc.edu)
+Mark E. Nelson* (m-nelson@uiuc.edu)
+
+Beckman Institute
+Univ. of Illinois
+405 N. Mathews
+Urbana, IL 61801
+
+In the electrosensory system of weakly electric fish, descending 
+pathways to a first-order sensory nucleus have been shown to 
+influence the gain of its output neurons. To explain this gain control 
+capability, we have previously proposed a neural mechanism 
+involving the regulation of total membrane conductance via synaptic 
+background activity. We have now incorporated this proposed neuron-level mechanism into a network-level model of automatic gain 
+control. The model is based on the known circuitry of the 
+electrosensory lateral line lobe (E~LL) and associated 
+brain regions in the brown ghost knife fish.
+
+*To whom correspondence should be addressed
+Category: (B) Modeling and Simulation
+

@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Neuro-IT workshop on Interoperability of Simulators</title>
+<meta name="description" content="CNS Meeting Home Page 2006." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, neuroscience, cns, 2006, 
+computational, neuroscience, meeting, workshop " />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>CNS*2006.</h1>
+  	
+  	<h2>Neuro-IT workshop on Interoperability of Simulators<br />
+    Edinburgh, United Kingdom, July 19-20 2006</h2>
+  	
+  	<p>For quite some time interoperability of neural simulators has been considered an important 
+  	goal of the community.  But is this more than a buzz word?  Is it possible/easy to transfer models 
+  	from one simulator program to another?  And how should this be solved?  By making simulators 
+  	interact with each other, which may be useful anyway to simulate multi-scale models by combining 
+  	different specialized simulators, or by defining models in a simulator-independent way? This 
+  	workshop brings together several outstanding simulator developers to present and discuss their 
+  	views on the following 3 questions:</p>
+  	
+  	<ul>
+  	  <li>one big simulator versus specialized simulators</li>
+  	  <li>interoperability of specialized simulators</li>
+  	  <li>simulator independent model specification</li>
+  	</ul>
+  	
+  	<p>Most speakers will touch on several issues but they have been grouped by which topic they will 
+  	emphasize.</p>
+
+	<h3>PRELIMINARY PROGRAM</h3>
+	
+	<h4>Wednesday July 19:</h4>
+	
+	<p>Morning Session:</p>
+	<p>09.00 - 09.05: E. De Schutter (University of Antwerp, Belgium):<br />
+	<span class="insprong"><em>Introduction</em></span></p>
+	<p><strong>1. One big simulator versus or together with specialized simulators?</strong></p>
+	<p>09.05 - 09.30: Joel R. Stiles (University Pittsburgh, USA):<br />
+	<span class="insprong"><em>"Spatial Realism and Multiscale Issues for Physiological 
+	Simulations"</em></span><br />
+	<span class="insprong">Discussion</span></p>
+	<p>09.40 - 10.05: Upinder S. Bhalla (National Centre for Biological Sciences, Bangalore, India):<br />
+	<span class="insprong"><em>"MOOSE/GENESIS 3: A general simulator with specialized, optimized 
+	solvers"</em></span><br />
+	<span class="insprong">Discussion</span></p>
+	<p>10.15 - 10.40: Stefan WIls (University of Antwerp, BE):<br />
+	<span class="insprong"><em>"Bridging the gap between STEPS and electrophysiology"</em></span><br />
+	<span class="insprong">Discussion</span></p>
+	<p>10.50 - 11.10: Coffee break</p>
+	<p>11.10 - 11.35: Marc-Oliver Gewaltig (Honda Research Institute, Germany):<br />
+	<span class="insprong"><em>"Simulator Interoperability from the perspective of NEST?"</em></span><br />
+	<span class="insprong">Discussion</span></p>
+	
+	<p><strong>2. Interoperability of specialized simulators</strong></p>
+	<p>11.45 - 12.10: Fred Howell (University of Edinburgh, UK):<br />
+	<span class="insprong"><em>"Pattern machines and spikes"</em></span><br />
+	<span class="insprong">Discussion</span></p>
+	<p>12.30 - 14.00: Lunch break</p>
+  	
+  	<p>Afternoon Session:</p>
+  	<p>14.00 - 14.25: Eilif Muller (University Heidelberg, Germany):<br />
+  	<span class="insprong"><em>"A better interpreter for computational neuroscience"</em></span><br />
+  	<span class="insprong">Discussion</span></p>
+  	<p>14.35 - 15.00: Hugo Cornelis (University Texas San Antonio, USA):<br />
+  	<span class="insprong"><em>"Accessibility of Neuronal Models using the Neurospaces Studio"</em></span><br />
+  	<span class="insprong">Discussion</span></p>
+  	
+  	<p><strong>3. Simulator independent model specification</strong></p>
+  	<p>15.10 - 15.35: Padraig Gleeson (University College London, UK):<br />
+  	<span class="insprong"><em>"NeuroML for simulator independent model specification"</em></span><br />
+  	<span class="insprong">Discussion</span></p>
+  	<p>15.45 - 16.00: Coffee break</p>
+  	<p>16.00 - 16.25: Mike Hines (Yale University, USA):<br />
+  	<span class="insprong"><em>"NEURON CellBuilder descriptions of inhomogenous channel density"</em></span><br />
+  	<span class="insprong">Discussion</span></p>
+  	<p>16.35 - 17.00: Robert Cannon (University of Edinburgh, UK):<br />
+  	<span class="insprong"><em>"Case studies in component specialization and model specification"</em></span><br />
+  	<span class="insprong">Discussion</span></p>
+  	<p>17.30: Closure</p>
+
+  	<h4>Thursday July 20:</h4>
+  	
+  	<p>Morning Session:</p>
+  	<p>09.00 - 10.00: Short recapitulation of main points + response to reactions by speakers<br />
+  	<span class="insprong">(5 min each)</span></p>
+	<p>10.00 - 10.50:  Open discussion</p>
+	<p>10.50 - 11.10: Coffe Break</p>
+	<p>11.10 -12.00:   Open discussion and conclusions</p>
+
+    <hr />
+    <p>Supported by the European Commission (FP5-IST NeuroIT.net)</p>
+    <p><a href="http://www.cnsorg.org">More info about CNS*2006 and the organizing committee</a></p>
+
+    <h4>Information and administration :</h4>
+    
+    <p>Christiane Linster <a href="mailto:CL243@cornell.edu">CL243@cornell.edu</a><br />
+    or <a href="mailto:cns@cnsorg.org">cns@cnsorg.org</a></p>
+    
+    <p><a href="../past-meetings.shtml">Previous CNS meetings</a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2006" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Maciej Lazarewicz" <mlazarew@seas.upenn.edu>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Thu 22/4/2004 14:11:55
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Maciej Lazarewicz,
+
+We're happy to inform you that your paper 'Recognition of Temporal Event Sequences by a Network of Cortical Neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+This paper presents an idea for how a pattern of events defined by
+multiple time intervals, on the scale of a 100 ms per interval, could
+be transformed into a compressed version of the pattern, where each
+event is represented by an action potential and the action potentials
+are separated on the scale of a few ms.
+
+
+The method is closely reminiscent of time-compression ideas described
+by Mehta and Wilson (Nature); the current paper should cite them. The
+difference is that in the Mehta & Wilson version, the oscillation that
+leads to time-compression os spikes is externally driven, whereas here
+it is generated through internal mutually inhibitory connections. But
+other than that, the root concepts are very similar. 
+Minor comments 
+
+(1) The authors should make sure to show, in Fig. 2, that it is not
+the first packet of spikes that they are showing  presumably, it is
+packets of spikes once the neurons have become quasi-synchronized. Is
+there any difference between packets of spikes at the beginning of the
+input ramps (yet after synchronization onset) to those compared to the
+very end of the input ramps? How about RS firing rates, do they change
+at all and how? 
+
+(2) What are the time constants and strengths of the synapses you are
+using? This is absolutely crucial information, and we should not have
+to go fish Destexhe et al to get it. How about properties of the
+cells? A short sentence or two will do.
+
+(3) Noise experiments  this seems like *extremely* small noise! But we
+can't really tell-- what you should report is not the rms if the
+injected noise current, but the rms of the resulting membrane voltage
+noise, compared to the difference between the post-spike reset
+potential, leak reversal potential, and the spiking threshold
+potential  that is what is going to tell us whether the noise was
+large enough to be realistic and an interesting issue, or whether (as
+you yourself suggest) you in fact injected so low noise that after
+filtering by the membrane time-constant it is like no noise at all and
+Fig. 4 is therefore a pointless non-experiment-- right now, we can't
+tell whether Fig. 4 convers any real information or not.
+
+(4) Fig. 5  Could you please use the exact same time pattern of input
+events as used in Fig. 2A, for easiest comparison?
+
+(5) How precise do the input ramps have to be in order to preserve
+order? If there is any noise in the slope of the input ramps, how does
+it affect your results?
+
+
+Reviewer 2 :
+I am sorry to say, but the present manuscript is a bit of a mess. First of all -- what is the issue here, gates in waling, sequence generation or motion detection?
+
+Second of all how likely is the connectivity structure proposed?
+
+Third, how likely is the ramping input currents that seem to be the key to the proposed mechanism. Related issue -- here a precise timing is assumed for the onset of the inputs, what would happen is such timings were distored, woudl the mechanism still work?
+
+It is somemwhat puzzling that the neurons in the circtuit respond at a steady firing rate, when the inputs are increasing. The authors allude to the role of inhibition, but then do not explain exactly what is the mechanism.
+
+Some of the paragraph describing figures (e.g. fig3) are nearly incomprehensible, at least for such a short paper. Figure 2 is nearly unreadable.
+
+Perhaps there is a good idea here, but the presentation of the paper makes it very hard to see.
+

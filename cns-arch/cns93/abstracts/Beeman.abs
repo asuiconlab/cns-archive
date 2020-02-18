@@ -1,0 +1,25 @@
+Simulation-based tutorials for education in computational neuroscience
+
+David Beeman
+Department of Electrical and Computer Engineering, CB 425
+University of Colorado, Boulder, CO 80309
+
+
+
+
+
+
+
+                  ABSTRACT
+
+A series of interactive computer tutorials has been created to teach basic
+neuroscience concepts as well as the use of modeling as a tool for
+understanding neural systems.  By implementing them within the environment
+of a general purpose neural simulator (GENESIS), it was possible to base
+them on simulations which are typical of those used in current research.  The
+sequence covers cable theory, the Hodgkin-Huxley model, temporal and spatial
+summation of synaptic inputs, the effect of different types of ion channels
+on burst firing, CPGs, and the dynamics of large networks.  Each tutorial
+has on-line help and is accompanied by a number of suggested exercises or
+"experiments" which may be either assigned as homework or used for
+self-study.

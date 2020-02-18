@@ -1,0 +1,27 @@
+Temporal Correlation of Neural Signals and
+
+The Neuronal Basis of Attention
+
+Ernst Niebur* and Christof Koch
+Computation and Neural Systems Program
+California Institute of Technology, Pasadena CA 91125, USA
+
+January 25, 1993
+
+Abstract
+We propose a model for the neuronal implementation of selective 
+visual attention based on the temporal structure of neuronal activity. 
+In particular, we set out to explain the electrophysiological data from 
+areas V4 and IT in monkey cortex of Moran and Desimone (Science 
+229, 1985: 782-784) using the "temporal tagging" hypothesis of Crick 
+and Koch (SINS, 1990: 1-36). According to this hypothesis, the 
+average firing rate of a given neuron is determined by the properties 
+of the stimuli in its receptive field while the temporal structure of 
+the neuron's spike train depends on whether the receptive field is 
+inside or outside the focus of attention. Using very simple single-cell 
+models, we obtain quantitative agreement with the data from Moran 
+and Desimone's experiments.
+
+*To whom correspondence should be addressed at Caltech 216-76, 
+Pasadena CA 91125, USA. e-mail: ernst@cns.caltech.edu.
+

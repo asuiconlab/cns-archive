@@ -1,0 +1,52 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"gideon gradwohl" <gidig@nace.ac.il>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:8:51
+-----------------------DATA----------------------
+
+Dear gideon gradwohl,
+
+We're happy to inform you that your paper 'A THEORETICAL COMPUTER MODEL OF CELLULAR MODIFICATION ASSOCIATED WITH OLFACTORY LEARNING 
+IN THE RAT PIRIFORM CORTEX' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper addresses data from slice preparations obtained from rats which were either trained in an operant task (not operand) or pseudotrained or untrained.  Consistent results from Saar et al have shown reductions in AHP associated with training, and this paper focuses on the somewhat paradoxical effect that though the AHP is reduced it actually somehow has a stronger effect on reducing EPSPs.  The authors provide various options, including the possibility that the effective distance of the synapse from the soma changes (this initially seemed rather implausible, but when they mention evidence for remodeling of dendritic spines it seemed more plausible that it could change the effective distnace of synapses from soma).  The paper should be modified to correct language problems.
+
+Reviewer 2 :
+The paper needs to be edited extensively for correct English usage.
+
+minor--Rm has units of ohms-cm2 not ohms/cm2
+
+Methods--Are the voltage dependent conductance values given constant values or maximum values?  If maximum values, then describe the kinetics used.  How is the calcium dependent potassium conductance modeled?  How is calcium concentration incorporated into the model?  Please provide these essential modeling details or at least provide a reference to the kinetic equations used.
+
+When evaluating the percentage inhibition, it is not clear what the comparison is.  Is the comparison EPSP peak or EPSP time course or EPSP decay time constant?  Please state the somaprison explicitly.
+
+Model 3.  The text says model 3 has x=6.1 but Fig 2 shows that this value must be much larger.  Please correct.
+
+What is the mechanism that would support a distal shift of the input location?  THere is a hint that it has to do with changes in spine density, but such a shift would have to be MUCH bigger than observed.  Please present arguments to support how a shift in input location might take place.
+

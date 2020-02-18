@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Michael Herrmann" <michael@chaos.gwdg.de>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:8:20
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Michael Herrmann,
+
+We're happy to inform you that your paper 'Localized Activations in a Simple Neural Field Model' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The  work tries to prove that two dimensional activation fields (like those used to explain short-term memory as a network phenomenon) are radially symetric when the activation function is radially symetric. However, the activation function used is quite special and the technique used quite particular to this special case. I do not think that the subject is general enough to be of interest
+for many people. Moreover, the subject is quite technical (the author proposes a general review of
+pattern formation in neural fields but I think that if this is desired this should be asked to other people who have contributed more significantly to the field0. I believe a poster presentation is much more appropriate for this work. The manuscript 
+is technical but clearly written. I think it can be published in the CNS proceedings.
+
+Reviewer 2 :
+I think this is a very interesting mathematical result.  How interesting it may be for neuroscience maybe limited since the results are likely to be sensitive to disorder.  However, my main complaint is that given the short length imposed it is not easily understandable.  My suggestion is to give a brief outline of the strategy of the proof.  For those who do not understand the contraction map technique, this paper would be completely opaque.  If space is a concern, they can sacrifice the details of the computation.  After all, the crucial step of deriving the mapping function couldn't be included anyway.  Finally, the phrase allows to' is not proper English.  I know it should be but unfortunately it is not.  We are thus stuck with the more awkward phraseallows us to'.
+
+They may also wish to reference Laing and Troy in SIAM J of Applied Dynamical Systems Vol 2, No. 3, which shows non-radially symmetric multi-bump solutions in a similar equation.
+

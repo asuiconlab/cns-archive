@@ -1,0 +1,42 @@
+ACTUATOR:	mail
+FROM:	"Hidetoshi Ikeno" <ikeno@shse.u-hyogo.ac.jp>
+TO:	"David Touretzky" <dst@cs.cmu.edu>
+REPLY:	"Hidetoshi Ikeno" <ikeno@shse.u-hyogo.ac.jp>
+SENDER:	webmaster@neuroinf.org
+TIME:	Wed 31/3/2004 14:9:24
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear David Touretzky,
+
+We're happy to inform you that your paper 'Path Integrator Contributions to Hippocampal Map Formation' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Hidetoshi Ikeno
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Hidetoshi Ikeno and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The followings should be revised Abstract -Define PI before using the abbreviation. -Describe main results. Structure of the Model -Quantitative descriptions are required for (1), (2), and (3). Use equation if appropriate. Result -Make a line break or two between figure legends and text body. 
+
+Reviewer 2 :
+Only minor revision is required. There are several typos such as 'upen' at line 8 on page 2, and 'whle' at line 7 on page 8.
+

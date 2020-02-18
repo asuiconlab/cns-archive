@@ -1,0 +1,15 @@
+Assembly Formation and Segregation by a Self-organizing Neuronal Oscillator Model
+
+Peter Konig, Bernd Janosch, and Thomas B. Schillen
+
+Max-Planck-Institut fur Hirnforschung
+Deutschordenstrasse 46, 6000 Frankfurt 71, FRG
+
+
+
+
+
+Abstract
+
+Experimental evidence demonstrates the stimulus-dependent formation and segregation of neuronal assemblies defined by coherent oscillatory response patterns. In this paper, we investigate whether the self-organization of synchronizing and desynchronizing connections can establish a corresponding temporal response structure using local learning rules. Motivated by recent experimental observations, synchronizing connections are modified according to a two-threshold Hebb-like learning rule, while we generalize this rule to analogous Anti-Hebb-like weight changes for the desynchronizing connections. We show that the resulting network exhibits synchronization and segregation of oscillatory activity in agreement with the experiment.
+

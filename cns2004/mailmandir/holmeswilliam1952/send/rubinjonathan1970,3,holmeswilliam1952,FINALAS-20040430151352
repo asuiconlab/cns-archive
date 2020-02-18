@@ -1,0 +1,53 @@
+ACTUATOR:	mail
+FROM:	"William Holmes" <holmes@ohio.edu>
+TO:	"Jonathan Rubin" <rubin@math.pitt.edu>
+REPLY:	"William Holmes" <holmes@ohio.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 30/4/2004 15:13:52
+-----------------------DATA----------------------
+Dear Jonathan Rubin,
+
+We're happy to inform you that your paper 'Spike-timing dependent plasticity as a mechanism for ocular dominance shift' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor William Holmes
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+William Holmes and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Nice paper.
+Minor comments 
+
+1) the relation of the phase oscillators
+to quadratic or leaky integrate-and-fire neurons
+should be explained for the computational neuroscience audience
+
+2) Earlier work on additive STDP 
+by Gerstner et al (1996) and Kempter et al (1999)
+should be mentioned.
+
+3) The relation to the approach and results
+ of  Song and Abbott (reference [20]) should be discussed in more length
+
+Reviewer 2 :
+Although the paper is interesting and it seems soundly executed, there are a few assumptions that are questionable. 1) It is not clear that at the age in which monocular deprivation is induced by ref 16 that there is no plasticity in layer 4.  It might be demished, but even this is not clear.  2) Cells in layer 4 of Cat (unlike primate) are binocular.  Deprivation will therefore not have a very different effect of the inputs from the 'deprived' and 'non-deprived' layer 4 column.
+Instead of trying to make a model with a single set of parameters (which are unknown) to account for experimental results it is interesting to see how the different parameters effect these results. For example changing the spontaneous (in layer 4 or LGN) by changeing w, can have a profound impace on the rate of deprivation.  Instead of having one w for MI and one for MS, it would be more informative to say how the parameter w effects the deprivation rate. 
+

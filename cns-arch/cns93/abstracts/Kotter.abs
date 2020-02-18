@@ -1,0 +1,42 @@
+Effects of asymmetrical neuronal connectivity and dopamine on
+striatal function: Simulation and analysis of a model for
+Huntington's disease
+
+
+
+
+
+Rolf Kotter, (1), kotter@otago.ac.nz
+Murray E. Alexander, (2), murray@otago.ac.nz
+Jeffery R. Wickens, (1), anatjrw@otago.ac.nz
+
+(1) Dept. of Anatomy and Structural Biology,
+University of Otago, P.O. Box 913, Dunedin, New Zealand
+(2) Dept. of Computer Science,
+University of Otago, P.O. Box 56, Dunedin, New Zealand
+
+
+Correspondence to Dr. R. Kotter
+
+
+Categories:
+-  B. Modeling and Simulation;
+-  A. Theory and Analysis
+Themes:
+-  F. Motor Systems and Sensory Motor Integration
+-  I. Disease
+
+
+Summary
+The character of burst firing in a simulated network of striatal
+medium-sized spiny neurons is critically influenced by the
+symmetry of radial inhibitory interactions and by the amount of
+afterhyperpolarisation accumulating in a dopamine-dependent way
+with prolonged spiking activity. Asymmetric connectivity
+transformed the normal pattern of stationary burst activity and
+depending on its type, gave rise to a picture of traveling waves
+and of irregular sequences of activity centres respectively.
+Decreasing the dopamine-dependent after-hyperpolarisation led to
+prolonged burst duration. The implications of this model for
+explaining the symptom of chorea in Huntington's disease are
+discussed.

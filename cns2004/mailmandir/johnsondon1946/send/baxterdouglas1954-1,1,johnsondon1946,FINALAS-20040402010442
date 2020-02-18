@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Douglas Baxter" <douglas.baxter@uth.tmc.edu>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:42
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Douglas Baxter,
+
+We're happy to inform you that your paper 'Estimation of Single-Neuron Model Parameters from Spike Train Data' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+The authors remark about the common problem of local minima.  Some recent work by Paninski and Pillow (maybe Neural Computation) shows that local minima are not a problem for reconstuction using a restricted class of models to reproduce spike train data.
+
+minor commnets 
+1. strange notation in Eqn 3   please define flag and the strange dummy variables in the double integral
+2. pg 4  "place clamped" 
+3. pg 5 ... are you sure 6.8 deg C not 6.3deg C?
+

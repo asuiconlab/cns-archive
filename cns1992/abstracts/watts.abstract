@@ -1,0 +1,37 @@
+     Designing Networks of Spiking Silicon Neurons and Synapses
+       ----------------------------------------------------------
+
+                                 Lloyd Watts
+                               Mail Stop 116-81
+                      Physics of Computation Laboratory
+                      California Institute of Technology
+                              Pasadena, CA 91125
+
+                        lloyd@hobiecat.cs.caltech.edu
+                                818-440-9493 (h)
+                                818-356-6973 (w)
+
+
+
+                              ABSTRACT
+
+      Carver Mead has pioneered the use of analog VLSI for building
+      silicon systems based on neurobiological principles.  As the
+      computational and communication benefits of spiking neurons become
+      more appreciated, there is a growing interest in increasingly
+      realistic "silicon neuron" circuits.
+
+      Many groups are developing silicon synapses, which, combined with
+      the silicon neurons, will allow the creation of large biologically
+      realistic networks of spiking neurons on a single piece of silicon.
+      As these networks become more and more sophisticated, there will be
+      a need for simulation tools that are appropriate for the circuit
+      primitives.
+
+      This paper describes simple but realistic silicon neurons, synapses,
+      and a fast event-driven simulator optimized for networks of these
+      analog silicon neurons and synapses.  The silicon neuron and synapse
+      circuits have been fabricated and successfully tested, both individually
+      and in small networks.  Examples are presented from working chips
+      and compared to results from the simulator.
+

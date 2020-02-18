@@ -1,0 +1,58 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Erich Schulzke" <erich@neuro.uni-bremen.de>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 3/5/2004 23:43:47
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Erich Schulzke,
+
+We're happy to inform you that your paper 'Encoding of Dynamic Visual Stimuli by Primate Area MT Neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+
+
+Reviewer 2 :
+The topic is interesting, the study was performed well, but the paper is confusing.
+
+Abstract  The final phrase makes no sense. Tunings changed unpredictably. This is more like utterly random, not optimal, signal processing.
+
+Intro  p. 2, lines 10-12, the sentence This motion trajectory approach... seems vague and unsupported. And the last two sentences apparently refer to Figs. 1 and 2, but in the wrong order. Switch the order of these sentences.
+
+Methods  The two stimulus types should be diagramed in a figure. It took me a long time to realize that the dots always moved en masse (100% coherence). Saying that they underwent constant movement suggests that the perceived motion was constant, not that the dots moved together. What were the sizes, densities, lifetimes, and speeds of the dots? How long was a sequence? Were directions selected from the set with or without replacement? What was the width of the Gaussian?  
+Late in the paper (p. 6) it is stated that the first paradigm is perceived as not globally moving while the second appears to be an object moving along a motion trajectory. Mention this earlier, in the Methods or better yet in the Introduction.
+Regarding the linear filters, what is x? I guess it is direction. State this explicitly.
+
+Results  The results shown in Fig. 1 are not compelling.  Why might the small, haphazard changes in tuning be important? Regarding Fig. 2  are these data from the random movement or the random walk paradigm? The Fig. 2 graphs are too qualitative  which grayscale levels are significant? In general, Fig. 2 seems to illustrate typical rebound effects. From 50-100 ms, nice tuning activity is shown which then reverses (excitations are followed by inhibitions, and vice-versa). This is not original, and the analysis and presentation seem overly complicated. Instead, one might show rasters of spikes arrayed as a function of direction.  But if I am overlooking the importance of Fig. 2, then the authors need to (1) more clearly stress this importance, (2) explain why the linear filter method is crucial, and (3) describe which grayscale levels in Fig. 2 are significant.  Finally, the last two sentences of the Results were inscrutable.
+
+Discussion  This just describes what was found and hints at future research. The authors should use the Discussion to interpret their data in a more scholarly way, leaving the reader with a broader take-home message as to what the results demonstrate about MT neurons that is new and exciting.
+

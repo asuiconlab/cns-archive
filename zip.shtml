@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Instructions for creating a flat zip-file.</title>
+</head>
+
+<BODY TEXT="#464646" BGCOLOR="#FFFFFF" LINK="#336699" VLINK="#999999" ALINK="#999999">
+
+<blockquote>
+
+
+
+<br>
+
+<TABLE WIDTH="480" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+  <tr align=top> 
+    <td> <FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#336699"> 
+      <H4>Instructions for creating a flat zip-file.</H4>
+      </FONT> <H4><font face="ARIAL,HELVETICA,HELV"><strong>Windows:</strong></font><font face="ARIAL,HELVETICA,HELV"><strong></strong></font></H4>
+      <p><font size="2" face="Arial, Helvetica, sans-serif">In case WinZip is 
+        not installed on your PC you can download the <br>
+        program from <a href="http://www.winzip.com">http://www.winzip.com</a></font></p>
+      <ul>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> Start WinZip and 
+          choose &quot;WinZip Classic&quot; from the startup-screen.</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> Press &quot;New&quot; 
+          to create a new zip-file (archive).</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> In the &quot;New&quot; 
+          window that appears you can select a directory (&quot;My <br>
+          Documents&quot; for example) to store the zip-file.</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> In the field &quot;File 
+          name&quot; you provide the name of the new zip-file <br>
+          (you do not need to provide the file-extension zip, the program <br>
+          will do this for you).</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> Press then the 
+          &quot;OK&quot; button<br>
+          In the &quot;Add&quot; window that now appears you select the files 
+          you want <br>
+          to put in the zip-file (you can make multiple selections if you <br>
+          wish)</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> Make sure the 
+          following is set to:<br>
+          Action : Add (and replace) files<br>
+          Compression : Normal<br>
+          Store filenames in 8.3 format : unchecked<br>
+          Save full path info : unchecked</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> The press the 
+          &quot;Add&quot; button.</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> In the main window 
+          you see a list of the files which are added to <br>
+          the zip-file, if needed you can always press the Add button to add <br>
+          more files.</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> Select &quot;Exit&quot; 
+          from the menu item &quot;File&quot; to close the zipfile and <br>
+          exit the program.</font></li>
+      </ul>
+      <p><font face="Arial, Helvetica, sans-serif"><strong>Unix / Linux</strong></font><font size="2" face="Arial, Helvetica, sans-serif">:</font></p>
+      <P><font size="2" face="Arial, Helvetica, sans-serif"> It's a good idea 
+        to move/copy all the files for the zip-file to one <br>
+        directory.</font> 
+      <ul>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> cd to that directory</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> type : zip name_of_the_zip 
+          *<br>
+          This command will create the zip-file &quot;name_of_the_zip.zip&quot; 
+          in the <br>
+          current directory and adds all the files (except the file <br>
+          &quot;name_of_the_zip.zip&quot;) in found the current directory to the 
+          <br>
+          zip-file.</font></li>
+        <li><font size="2" face="Arial, Helvetica, sans-serif"> or type : zip 
+          name_of_the_zip file1 file2 file3 ...<br>
+          This command will create the zip-file &quot;name_of_the_zip.zip&quot; 
+          in the <br>
+          current directory and adds only file1 file2 file3 ... to the <br>
+          zip-file.</font></li>
+      </ul></TD>
+</TR>
+
+</table>
+
+
+<BR>&#160;
+
+<!-- copyright table -->
+<TABLE WIDTH="480" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR ALIGN=CENTER VALIGN=TOP>
+        <TD WIDTH="50">&#160;</TD>
+        <TD WIDTH="430">
+        <HR ALIGN=CENTER SIZE="1" COLOR="#999999">
+        <FONT SIZE="1" FACE="arial,helvetica,helv" COLOR="#999999">
+        Page last updated on Friday, 26-Oct-2001 16:35:09 CEST
+        &#169; BBF 1998 all rights reserved
+        </TD>
+</TR>
+</TABLE>
+
+<FONT SIZE="1" FACE="arial,helvetica,helv" COLOR="#FFFFFF">
+1669
+
+</body>
+</html>
+
+
+
+
+
+
+

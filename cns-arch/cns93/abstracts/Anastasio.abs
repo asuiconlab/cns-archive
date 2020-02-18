@@ -1,0 +1,26 @@
+
+DISTRBUTED PARALLEL DYNAMICS
+IN A SENSORIMOTOR TRANSFORMATION
+
+Thomas J. Anastasio
+University of Illinois
+Beckman Institute
+405 North Mathews Ave.
+Urbana, IL 61801
+tstasio@uiuc.edu
+
+Abstract
+Vertebrate nervous systems are highly parallel in their organization. 
+Parallelism has long been thought to enhance the fidelity of 
+transmission of signals by neurons. Beyond this, parallelism may also 
+be crucial for dynamic processing in sensorimotor systems. In the 
+vestibulo-ocular reflex (VOR) transformation, eye muscle 
+motoneurons and premotoneurons have complex dynamics that 
+deviate from simple first-order models. However, their dynamic 
+properties can be reproduced in a neural model that makes use both 
+of the parallelism and of the dynamic diversity of vestibular sensory 
+afferents and VOR interneurons. The model suggests that distributed 
+parallel dynamics is critical for VOR control of eye movement, 
+because eye-ball mechanics may be governed by a complementary 
+but similarly complex dynamics.
+

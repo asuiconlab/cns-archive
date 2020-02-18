@@ -1,0 +1,68 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Michela Chiappalone" <michela@dibe.unige.it>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:38
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Michela Chiappalone,
+
+We're happy to inform you that your paper 'Burst detection algorithms for the analysis of spatio-temporal patterns in cortical networks of neurons' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The paper deals with algorithms for burst detection in single neurons and collective populations. The idea is interesting and valuable.
+
+The authors claim one should analyze the network bursts in addition to single cell bursts, and also present such an analysis. However, it is not obvious what is the contribution of such an analysis in the example presented.  Most of the conclusions based on figure 4 are implied by Figure 3. 
+ 
+It is not clear why the authors present equations 6 and 7, since they are not used in the analysis, and not demonstrated in the results.
+
+The authors should relate to the case where only a partial group (relatively small) within the network may be "bursty", the algorithms presented detect or single cell bursts or general network bursts,  in such a way that a small sub-network which is very active may not be detected. The authors presumably present the criterion level threshold for this problem, and should elaborate on its calculation and significance.
+ 
+Figures and type errors 
+Figure 4  the top region of the figure should have an identical scale over all developmental stages. This is important so one can compare to Figure 3. 
+Type errors 
+Page 3 par 2 " from more thank one source"
+Page 5 sec 3.3  "  its maximal value is further be used "
+
+Reviewer 2 :
+The paper addresses the problem of detecting synchronized activity bursts during the spontaneous activity of cultured cells grown over
+embedded electrodes. The authors describe a heuristic procedure for detecting a burst, which basically amounts to counting spikes in a
+fixed length window multiplied by the number of active sites. Using their measure, they show how bursting activity changes along development of their culture, both in terms of bursts frequency and
+shape.
+                                                                                            
+While the results are interesting, the methodology is naive. The authors do not provide any theoretical justification for the procedure, neither any comparison of its performance with any other method. They do not discuss any estimation issues  It is not clear how they fixed several parameters of their procedure (min 10 spikes, ISI<100ms) (they do say that the chosen bin width of 25ms worked well, but supply no evidence or description of how this was tested). Also, the issue of normalization by the firing rates of individual cells must be discussed.
+                                                                                            
+Finally, additional previous works about detecting and analyzing network bursts worth mentioning. e.g. a CNS2001 paper by Segev et al in CNS 2001 (Modeling of Synchronized Bursting in 2D Neural Networks).
+
+In summary, I believe that the paper will be interesting for the audience of CNS. However, a paper about the burst detection should rigorously define of the detection problem in a proper statistical context, clearly explain why this statistical problem deserves a dedicated paper and provide systematic comparison to existing
+methods. I recommend that the focus of the paper changes to the neuroscientific results, which can clearly be extended in many directions, rather than on the statistical procedure whose novelty and
+usefulness is in doubt.
+                                                                                            
+

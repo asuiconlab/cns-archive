@@ -1,0 +1,64 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Narihisa Matsumoto" <xmatumo@brain.riken.go.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 18:10:52
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Narihisa Matsumoto,
+
+We're happy to inform you that your paper 'Synaptic Depression Enlarges Basin of Attraction' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This work follows the trail blazed by a few others (refs 4,8,11) in investigating simplified models of associative memory networks with synaptic depression.  New results are obtained by a combination of analytical and numerical calculations.  By systematically varying the load, the depression parameters and the threshold, it is found that the maximum storage capacity obtainable at a given load is not changed by the presence of depression.
+
+However, I do not understand the discussion of Fig. 2. Panel (a) shows the basins of attraction for some threshold values.  The right-hand end of the train of symbols for a given threshold marks the capacity for that threshold.  As the authors remark, a lower threshold gives a larger basin of attraction but a lower capacity.  In (b), corresponding m_C's are marked for networks with depression (at the same set of thresholds). It looks to me as if the only difference is that the capacities are increased (the strings of symbols are longer, but their left-hand ends appear to coincide).  This seems to be the opposite of what is said in the text.  
+
+In summary, the results are interesting, but the discussion has to be corrected (or, if I am just misunderstanding something, at least made clearer).
+
+Reviewer 2 :
+The paper presents some numerical evidence for phenomena in the dynamics of networks of formal neurons. An explanation of the observed phenomenon is not given and the relation to earlier work is not well worked out  Refs. [4], [8], and [11] explicitely address basins of attraction. Basins of attractions are a static property of the phase space of the system, which of course has an influence on the dynamics (also the existence of attractor states has dynamical consequences). Thus the last sentenses of the introduction are strongly misleading. In the introduction the authors should write instead
+
+(1) what assumptions exactly are made (in contrast to [4], [8], and [11]) in order to obtain the results.
+
+(2) that the basins are studied merely numerically (unlike [4], [8], and [11] where analytical results were given as well for the basins of attraction) and
+
+(3) in what sense the present results are relevant for biological neural systems.
+
+It is clear that some restrictions are implied by the lack of space. But it should be made clear what exactly is different in the present model and the derivation and the final form of the mean field equations, and what is the main result of the paper and what is simply a repetition of [4], [8], and [11].
+
+Further it needs to be discussed whether
+
+(4) t=100 refers already to the stationary state,
+
+(5) the solutions are perhaps oscillatory (and thus not really indicative for basins of attraction), and
+
+(6) meaningful results can be expected in the first place at a network size of N=? and a statistics of 11 trials used in the simulations
+
+The paper contains many errors in English language, which need to be corrected before publication.
+

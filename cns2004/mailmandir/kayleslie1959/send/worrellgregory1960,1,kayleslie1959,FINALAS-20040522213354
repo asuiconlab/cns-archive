@@ -1,0 +1,46 @@
+ACTUATOR:	mail
+FROM:	"Leslie Kay" <lkay@uchicago.edu>
+TO:	"gregory worrell" <worrell.gregory@mayo.edu>
+REPLY:	"Leslie Kay" <lkay@uchicago.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sat 22/5/2004 21:33:54
+-----------------------DATA----------------------
+Dear gregory worrell,
+
+We're sorry to inform you that your paper 'Frequency dependence in the long-range temporal correlation human hippocampus energy fluctuations' is NOT accepted for
+publication in the CNS proceedings.  The comments of the reviewers
+which led to this rejection can be found below.  Notice that you are
+still invited to present your paper as a poster at the CNS*04 meeting
+and hope that the comments will help you in improving your
+presentation.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Leslie Kay and Erik De Schutter
+
+COMMENTS FROM REVIEWERS
+
+Reviewer 1:
+The reviewer appreciates the attempt to elucidate the scaling properties of hippocampal EEG.  However there are several issues that limit enthusiasm for its publication.
+
+In equation (3), it appears there is a technical error on in the calculation of F(tau).  Usually the squared deviation from the mean is averaged across windows, and the square root is taken only at the end.  This probably makes little difference, but still one should be careful to use the same technique as those referenced, otherwise the differences should be pointed out.
+
+Two scaling regions were found.  One was dismissed (see below).  The temporal range of the scaling regions were not reported.  That information is essential to their interpretation.
+
+The major difficulty with this paper is the finding that the
+scaling exponents are the same for all EEG frequency bands, and for conditions awake, asleep, preseizure near and far.  The only possible interpretation of this finding is that the scaling exponents, as computed here, carry absolutely no physiological information.  While is it conceivable that this reflects a profound property of hippocampus, it seems much more likely that either 1) there is a mistake in the methodology, or 2) this methodology is not useful for the problem at hand.
+
+The paper has no clearly stated objective.  If the objective
+was to show that scaling properties are useful for helping
+to understand differences in brain function in different
+states, then the null results do not support this attempt.
+This severely limits the impact of the paper.
+
+
+Reviewer 2 :
+This paper reports on the use of a time series scaling method applied to human hippocampal electrocorticographic recordings.  The motivation for using the method of detrended fluctuation analysis (DFA) is never clearly articulated.  In the absence of any clear hypotheses or theory the use of such phenomenological techniques is difficult to justify.  In what way would results from this study help resolve mechanisms or functional correlates of EEG.  This is never made clear and represents the principle flaw in this current study.  The fact that there is a significant difference between scaling exponents between low and high EEG is probably not surprising given that most ofthe spectral energy in the EEG will be confined to frequencies less than 30 Hz.  PSDs of actual data would have helped in this regard.
+
+I believe equation 3 defining the DFA is incorrect.  As written it implies that it is the average of the square root fluctuations that defines F(n).  It is my understanding that it is the square root of the average fluctuations that defines F(n).

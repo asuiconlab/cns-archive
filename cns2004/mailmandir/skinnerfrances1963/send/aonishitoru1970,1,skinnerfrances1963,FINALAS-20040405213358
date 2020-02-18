@@ -1,0 +1,59 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Toru Aonishi" <aonishi@brain.riken.go.jp>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:33:58
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Toru Aonishi,
+
+We're happy to inform you that your paper 'Effect of Dendritic Backpropagating Action Potential on Neural Interaction' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+1. The SL model is not appropriate here. The interpretation of the complex state variable as membrane potential causes problems in defining reasonable coupling between the compartments and neural units. As defined here, the coupling between both the real and imaginary parts of the state variables is awkward and could yield un-physiological results. 
+It is important to work with a reasonable model, because the phase-locking for a given coupling can be qualitatively different for different oscillators. The result that back-propagation promotes bistability may not hold in other models that are more specific to neurons. 
+I would strongly suggest using the two-compartment integrate-and-fire model instead of the SL model (Rodriguez & Lansky). It is easier to interpret the variables, define coupling, and extend results to more detailed models. 
+
+2. For the multi-compartmental model, it is not clear that the A-current facilitates bistability. Moreover, it is not clear how this connects with back-propagation. Shouldnt blocking the A-current facilitate back-propagation? If so, the claim that the A-current facilitates bistability contradicts the claim that back-propagation promotes bistability.
+Because this is a short paper and the connections between results for the idealized and the detailed model are not clear, I would strongly suggest omitting the work on one of the models.  
+
+3. 1-2 sentences in the conclusions discussing the potential implications of the work to temporal coding/information processing and spike-timing synaptic modifications may be appropriate, but drop all other references to these aspects. They are not being studied here. 
+In fact, even the effects of back-propagation are not adequately being studied here. When the authors cut off the effects of the action potential in the soma on the dendrites, the subthreshold effects of the soma on the dendrites are cut off too. Furthermore, back-propagating action potentials usually involve Na- or Ca- conductances. The effects of active dendrites are really never addressed. 
+The work really seems to be addressing the effects of passive dendrites on phase-locking, specifically separating effects of dendritic filtering of synaptic input (i.e. what the authors call no back-propagation) from overall dendritic effects. These are interesting and important issues, and I strongly encourage the authors to reframe and rework their study to take this into account.
+
+4. Add sections; increase figure size.
+
+Reviewer 2 :
+It is not clear that this work represents something physiological since CA1 neurons are not coupled to each other with inhibitory synapses. 
+
+Minor comment 
+Is "CR" in the middle of page 3 supposed to be "RC"?
+Otherwise, "CR" is not defined anywhere.
+

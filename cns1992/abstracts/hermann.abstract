@@ -1,0 +1,27 @@
+A network for semantic and episodic associations revealing thought disturbances due to neural loss
+
+
+
+Michael Herrmann
+Dept. of Computer Science,
+Leipzig University, 0-7010 Leipzig, F.R.G.
+
+Eytan Ruppin
+Department of Computer Science,
+Raymond and Beverly Sac~;ler Faculty of Exact Sciences,
+Tel Aviv University, Tel Aviv 6997O, Israel
+
+Marius Usher
+CNS program, Div. of Biology 216-76,
+Caltech, Pasadena, CA91125
+
+
+
+ M. Usher e-mail: marius@cns.caltech.edu
+
+
+
+
+Abstract
+We study an Attractor Neural Network that stores natural concepts, organized in semantic classes. The concepts are represented by distributed patterns over a space of attributes, and are related by both semantic and episodic associations. While semantic relations are expressed through an hierarchical coding over the attribute space, episodic links are realized via specific synaptic projections. Due to dynamic thresholds expressing neuronal fatigue, the network's behavior is characterized by convergence toward the concept patterns on a short time scale, and by transitions between the various patterns on a longer time scale. The network manifests semantic, episodic, and random transitions. Modeling pathological memory disturbances, we studied the influence of several parameters on the frequency of semantic and episodic transitions. W'hen neurons characterized by a large synaptic connectivity are deleted, semantic transitions deteriorate before the episodic ones, in accordance with the findings in patients with Alzheimer's disease.
+

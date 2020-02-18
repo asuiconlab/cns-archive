@@ -1,0 +1,717 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2004</title>
+<meta name="description" content="CNS Meeting Home Page 2004." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2004, 
+cns, computational, neuroscience" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>CNS*2004</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 18-20 2004, Baltimore, MD, USA</h3>
+  	
+  	<h4>CNS*2004 meeting program</h4>
+  	
+  	<h4>SUNDAY, JULY 18, 2004</h4>
+  	
+  	<p class="marginboven">09.00 : Announcements</p>
+  	<p>09.10 : Invited talk: M. Kennedy</p>
+  	
+  	<p class="marginboven"><b>ORAL SESSION 1: Ion channels dynamics</b></p>
+  	<p>10.00 : James B. Maciokas, Philip Goodman, John Kenyon, Maria Toledo-Rodriguez, Henry Markram<br />
+  	<em>Accurate Dynamical Models of Interneuronal GABAergic Channel 
+  	Physiologies</em></p>
+  	<p>10.20 : Gergo Orban, Tamas Kiss, Peter Erdi<br />
+	<em>Theta-frequency synchronization of hippocampal CA1 populations by 
+	hyperpolarization-activated currents</em></p>
+	<p>10.40 - 11.10 : break</p>
+	<p>11.10 : Jeremy R. Edgerton, J.E. Hanson, Dieter Jaeger<br />
+	<em>Effects of dendritic spiking on synaptic integration in globus pallidus 
+	neurons</em></p>
+	
+	<p class="marginboven"><b>ORAL SESSION 2: Morphology and connectivity</b></p>
+	
+	<p>11.30 : Beth L. Chen, Dmitri B. Chklovskii<br />
+	<em>Why are most neurons in the head?</em></p>
+	<p>11.50 : Dmitri B. Chklovskii<br />
+	<em>Synaptic connectivity and neuronal morphology: two sides of the same 
+	coin</em></p>
+	<p>12.10 : Ruggero Scorcioni, Giorgio A. Ascoli<br />
+	<em>Algorithmic reconstruction of complete axonal arborizations in rat 
+	hippocampal neurons</em></p>
+	<p>12.30 - 14.00 : Lunch</p>
+	<p>14.00 : Announcements</p>
+	<p>14.10 : Featured contributed talk: Nathaniel N. Urban, Vikrant Kapoor, Jason Castro<br />
+	<em>Dendritic integration in accessory olfactory bulb mitral cells (featured 
+	contributed talk)</em></p>
+	
+	<p class="marginboven"><b>ORAL SESSION 3: Learning</b></p>
+	
+	<p>14.50 : Robert Kozma, Derek Wong, Walter J Freeman<br />
+	<em>Learning intentional behavior in the k-model of the amygdala and the  cortico-hippocampal 
+	formation</em></p>
+	<p>15.10 : Yael Niv, Michael Duff and Peter Dayan<br />
+	<em>Dopamine, Uncertainty and TD Learning</em></p>
+	<p>15.30 - 16.10 : break</p>
+	
+	<p class="marginboven"><b>ORAL SESSION 4: Synaptic plasticity</b></p>
+	
+	<p>16.10 : Anat Elhalal, David Horn<br />
+	<em>In-vitro neuronal networks evidence for synaptic plasticity</em></p>
+	<p>16.30 : Erik Fransen Lars Zanden<br />
+	<em>A synapse which can switch from inhibitory to excitatory and back</em></p>
+	<p>16.50 : Jonathan Rubin, Richard Gerkin, Guoqiang Bi, Carson Chow<br />
+	<em>Calcium dynamics as a signal for spike-timing dependent plasticity</em></p>
+	<p>17.10 : Announcements</p>
+	<p><b>19.00 : <a href="#poster1">Poster I</a> (cashbar)</b></p>
+	
+	<h4>MONDAY, JULY 19, 2004</h4>
+	
+	<p class="marginboven">09.00 : Announcements</p>
+	<p>09.10 : Invited talk: T. Sejnowski</p>
+	
+	<p class="marginboven"><b>ORAL SESSION 5: Large scale interactions</b></p>
+	
+	<p>10.00 : Alexander Grushin, James A. Reggia<br />
+	<em>Evolving processing speed asymmetries and hemispheric interactions in a neural network 
+	model</em></p>
+	<p>10.20 : Carol Whitney, Michal Lavidor<br />
+	<em>The source of hemifield asymmetries in visual word recognition</em></p>
+	<p>10.40 - 11.10 : break</p>
+	
+	<p class="marginboven"><b>ORAL SESSION 6: Network dynamics</b></p>
+	
+	<p>11.10 : Featured contributed talk: Brent Doiron, Maurice J. Chacron, 
+	Benjamin Lindner, Leonard Maler, Andre Longtin, Joseph Bastian<br />
+	<em>Network dynamics and information transfer of natural stimuli in electric fish</em></p>
+	<p>11.50 : Zuzanna Piwkowska, Michael Rudolph, Mathilde Badoual, Alain Destexhe, Thierry Bal<br />
+	<em>Recreating active states in vitro with a dynamic clamp protocol</em></p>
+	<p>12.10 : K.D. Harris, P. Bartho, M.B. Zugaro, L. Monconduit, S. Marguet, G. Buzsaki<br />
+	<em>Disintegration of neocortical cell assemblies under general anesthesia</em></p>
+	<p>12.30 : Scott A. Hill, Melissa A. Borla, Jorge V. Jos, Donald M. O'Malley<br />
+	<em>Neurokinematic modeling of complex swimming patterns of the larval zebrafish</em></p>
+	<p>12.50 : Announcements</p>
+	<p>13.00 - 14.30 :  Lunch</p>
+	<p><b>14.30 - 18.30 : <a href="#poster2">Poster II</a> (snacks, cashbar)</b></p>
+	<p><b>Banquet</b></p>
+	
+	<h4>TUESDAY, JULY 20, 2004</h4>
+	
+	<p class="marginboven">08.50 : Announcements</p>
+	<p>09.00 : Featured contributed talk: Eugene M. Izhikevich<br />
+	<em>Which Model to Use for Cortical Spiking Neurons?</em></p>
+	
+	<p class="marginboven"><b>ORAL SESSION 7: Visual system</b></p>
+	
+	<p>09.40 : Jim Bednar, Judah De Paula, Risto Miikkulainen<br />
+	<em>Self-organization of color opponent receptive fields and laterally connected orientation 
+	maps</em></p>
+	<p>10.00 : Rama Ratnam, Jozien B. M. Goense<br />
+	<em>Variance stabilization of spike trains via non-renewal mechanisms - The impact on the speed 
+	and reliability of signal detection</em></p>
+	<p>10.20 : Ko Sakai, Ogiya Mitsuharu<br />
+	<em>The role of early vision in the determination of depth and motion from ambiguous binocular 
+	information</em></p>
+	<p>10.40 - 11.10 : break</p>
+	
+	<p class="marginboven"><b>ORAL SESSION 8: Single-neuron and population coding</b></p>
+	
+	<p>11.10 : Peng Xu and Pamela Abshire<br />
+	<em>Threshold detection of intensity flashes in the blowfly photoreceptor by an ideal 
+	observer</em></p>
+	<p>11.30 : Katja Karmeier, Holger G. Krapp, Martin Egelhaaf<br />
+	<em>Population coding of rapid changes in self-motion by the blowfly visual system</em></p>
+	<p>11.50 : A-M. M. Oswald, M.J. Chacron, B. Doiron, J. Bastian, L. Maler<br />
+	<em>Processing sensory input with bursts and isolated spikes</em></p>
+	<p>12.10 : Rachel M. Berquist, Remus M. Osan &#38; Michael G. Paulin<br />
+	<em>Prey electric field estimation in dogfish: A neuronal population coding model</em></p>
+	<p>12.30 : Lauren M. Jones, Asaf Keller<br />
+	<em>Temporal coding in whisker primary afferents</em></p>
+	<p>12.50 : Announcements</p>
+	<p>13.00 - 15.00 : Lunch</p>
+	<p>15.00 : Announcements</p>
+	<p>15.10 : Invited talk: M. Nicolelis<br />
+	<em>Computing with Neural Ensembles</em></p>
+	<p><b>16.00 - 20.00: <a href="#poster3">Poster III</a> (snacks, cashbar)</b></p>
+	<p><b>Party</b></p>
+	
+	<p class="marginboven"><a name="poster1" id="poster1"></a><b>POSTER SESSION I: Visual system 1</b></p>
+	
+	<p>Timothy Sweeney and Philip Ulinski<br />
+	<em>Spatial Distribution of Inhibitory Interneurons Expressing Calcium Binding Proteins in Turtle 
+	Visual Cortex</em></p>
+	<p>Peter Kalocsai<br />
+	<em>Human sensitivity to face statistics computed on V1 similarity</em></p>
+	<p>Haruka Nishimura, Ko Sakai<br />
+	<em>The computational model for border-ownership determination consisting of surrounding 
+	suppression and facilitation in early vision</em></p>
+	<p>Mona Mathur and Basabi Bhaumik<br />
+	<em>Study of spatial frequency selectivity and its spatial organization in the visual cortex 
+	through a feedforward model</em></p>
+	<p>M.A. Giese, D.A Leopold<br />
+	<em>Physiologically inspired neural model for the encoding of face spaces</em></p>
+	<p>Botond Szatmary, Barnabas Poczos and Andras Lorincz<br />
+	<em>Finding structure by entropy minimization in coupled reconstruction networks</em></p>
+	<p>Axel Etzold, Christian W. Eurich<br />
+	<em>A direct, interval-based method for reconstructing stimuli from noise-robust tuning 
+	curves</em></p>
+	<p>Yuguo Yu, Ph.D Tai Sing Lee, Ph.D<br />
+	<em>Adaptive contrast gain control and information maximization</em></p>
+	<p>ortega, guillermo bongard, markus louis, enrique fernandez, eduardo<br />
+	<em>Rate synchronization as a deterministic signal in neural spike trains</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: Sensory systems</b></p>
+	
+	<p>Evan Haskell  Gary J. Rose<br />
+	<em>Parallel Processing of Multi-Modal Information in Single Neuron Computation</em></p>
+	<p>Niklas Ludtke, Mark E. Nelson<br />
+	<em>Electrolocation of prey-like stimuli  a detection-theoretic approach</em></p>
+	<p>Don H. Johnson Jyotirmai Uppuluri<br />
+	<em>Finding Likely Models that Describe Population Responses</em></p>
+	<p>Jonathan L House, Rdiger Krahe, Mark E Nelson<br />
+	<em>Primary Afferent Responses to Naturalistic Signals and Backgrounds in Weakly Electric 
+	Fish</em></p>
+	<p>Patrick D. Roberts<br />
+	<em>Recurrent Neural Network Generates a Basis for Sensory Image Cancellation</em></p>
+	<p>Kazuhisa Fujita,Yoshiki Kashimori,Takeshi Kambara<br />
+	<em>Dynamic population coding for detecting the distance and size of an object in 
+	electrolocation</em></p>
+	<p>Enrico Rossoni, Gareth Leng, Jianfeng Feng<br />
+	<em>Modeling the milk-ejection reflex</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: Hippocampus 1</b></p>
+	
+	<p>Alexei V. Samsonovich, Giorgio A. Ascoli<br />
+	<em>Algorithmic Description of Hippocampal Granule Cell Dendritic Morphology</em></p>
+	<p>Duncan E. Donohue and Giorgio A. Ascoli<br />
+	<em>Morphological Noise in a Computational Model of Dendritic Branching</em></p>
+	<p>Michael E. Hasselmo<br />
+	<em>Hippocampal and prefrontal cortical mechanisms in goal-directed and memory-guided 
+	behavior</em></p>
+	<p>F. Saraga, J.J. Lawrence, J.M. Statland, C.J. McBain and F.K. Skinner<br />
+	<em>Modeling IM Channels in Hippocampal CA1 Oriens/Alveus Interneurons</em></p>
+	<p>M. Stead, G.A. Worrell, and B. Litt<br />
+	<em>Frequency dependence in the long-range temporal correlation human hippocampus energy 
+	fluctuations</em></p>
+	<p>Alan H. Bond<br />
+	<em>Representing episodic memory in a system-level model of the brain</em></p>
+	<p>A. Madany Mamlouk, H. Sharp, K. M. L. Menne, U. G. Hofmann, T. Martinetz<br />
+	<em>Unsupervised spike sorting with ICA and its evaluation using GENESIS simulations</em></p>
+	<p>Xiangbao Wu, William B Levy<br />
+	<em>Increasing CS and US longevity increases the learnable trace interval</em></p>
+	<p>David S. Touretzky<br />
+	<em>Path Integrator Contributions to Hippocampal Map Formation</em></p>
+	<p>Ashlie B. Hocking and William B Levy<br />
+	<em>Computing Conditional Probabilities in a Minimal CA3 Pyramidal Neuron</em></p>
+	<p>Maria Markaki, Stelios Orphanoudakis and Panayiota Poirazi<br />
+	<em>Modelling reduced excitability in aged CA1 neurons as a calcium-dependent process</em></p>
+	<p>Pawel Kudela, Piotr J Franaszczuk, Gregory K Bergey<br />
+	<em>Modeling of intracellular Ca2+ during epileptic seizures</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: Information coding 1</b></p>
+	
+	<p>Dileep George<br />
+	<em>Inter-spike-interval Coding and Computation with Integrate and Fire Neurons</em></p>
+	<p>Thomas Hoch, Gregor Wenning and Klaus Obermayer<br />
+	<em>Correlations in the background activity allow the use of single  neuron learning rules in 
+	populations</em></p>
+	<p>V Del Prete and ACC Coolen<br />
+	<em>Population dynamics of excitatory and inhibitory spiking neurons  quantifying the 
+	contribution of spike timing to coding</em></p>
+	<p>Andras Lorincz<br />
+	<em>Is neocortical encoding of sensory information intelligent?</em></p>
+	<p>Patrick Crotty and William B Levy<br />
+	<em>Energy-Efficient Interspike Interval Codes</em></p>
+	<p>Liam Paninski, Jonathan Pillow, Eero Simoncelli<br />
+	<em>Comparing integrate-and-fire-like models estimated using intracellular and extracellular 
+	data</em></p>
+	<p>Thomas Wennekers and Nihat Ay<br />
+	<em>Stochastic Interaction in Associative Nets</em></p>
+	<p>Aaron P. Shon Rajesh P. N. Rao<br />
+	<em>Implementing belief propagation in neural circuits</em></p>
+	<p>Aurel A. Lazar<br />
+	<em>Time Encoding with Integrate-and-Fire Neurons</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: System dynamics</b></p>
+	
+	<p>Kosuke Hamaguchi Masato Okada Michiko Yamana Kazuyuki Aihara<br />
+	<em>Stochasticity in Localized Synfire Chain</em></p>
+	<p>Rubn Moreno-Bote Nstor Parga<br />
+	<em>Simple model neurons with AMPA and NMDA filters. The role of the synaptic time scales</em></p>
+	<p>Friedrich T. Sommer Thomas Wennekers<br />
+	<em>Synfire chains with conductance-based neurons internal timing and coordination with timed 
+	input</em></p>
+	<p>Benjamin Lindner, Jan Benda, and Andre Longtin<br />
+	<em>Effect of spike-driven feedback on the firing statistics of noisy spike generators</em></p>
+	<p>Joanna R. Pressley, Todd W. Troyer<br />
+	<em>A-Currents Reduce Spike Synchrony Driven by Input Transients</em></p>
+	<p>Sean Carver, Tim Kiemel, Herman van der Kooij, John Jeka<br />
+	<em>Comparing Internal Models of the Dynamics of the Visual Environment</em></p>
+	<p>Robert L. Fry<br />
+	<em>Neural Statics and Dynamics</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: EEG/MEG</b></p>
+	
+	<p>Yoichi Miyawaki, Masato Okada<br />
+	<em>Mechanisms of spike inhibition in a cortical network induced by transcranial magnetic 
+	stimulation</em></p>
+	<p>Murielle Hsu David Hsu<br />
+	<em>A piece-wise harmonic Langevin model of EEG dynamics Theory and application to EEG seizure 
+	detection</em></p>
+	<p>Zoltn Somogyvri, Gbor Borbth, Lszl Zalnyi, Istvn Ulbert, Pter rdi<br />
+	<em>Electrode-cell distance estimation method, based on spatial potential patterns of spiking 
+	cells</em></p>
+	<p>Freeman, Walter J<br />
+	<em>Self Organized Criticality in Scale-Free Neocortical Dynamics</em></p>
+	<p>Yuqiao Gu, Bjrn Wahlund, Hans Liljenstrm, Dietrich von Rosen and Hualou Liang<br />
+	<em>Analysis of Phase Shifts in Clinical EEG Evoked by ECT</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: Cellular mechanisms</b></p>
+	
+	<p>Renaud Jolivet, Alexander Rauch, Hans-Rudolf Lscher, Wulfram Gerstner<br />
+	<em>Reduced models of neuronal activity have spike timing predictive power</em></p>
+	<p>Clay Campaigne and Philip Ulinski<br />
+	<em>Temporal Dynamics of Three Populations of Inhibitory  Interneurons in Turtle Visual 
+	Cortex</em></p>
+	<p>Peter Roper<br />
+	<em>Frequency-dependent depletion of secretory vesicle pools modulates bursting in vasopressin 
+	neurones of the rat supraoptic nucleus</em></p>
+	<p>Mandana Ahmadi, Timothy J. Lewis, John Rinzel<br />
+	<em>Bistability in a Two-Compartment Leaky Integrate-and-Fire Neuron</em></p>
+	<p>Gutkin, B.; Stiefel, K; Sejnowski, T.<br />
+	<em>Cholinergic modulation of phase response curves of cortical pyramidal neurons</em></p>
+	<p>Mathilde Badoual, Michael Rudolph, Zuzanna Piwkowska, Alain Destexhe, Thierry Bal<br />
+	<em>High discharge variability in neurons driven by current noise</em></p>
+	<p>Luk Chong Yeung, Harel Z. Shouval and Leon N Cooper<br />
+	<em>A Biophysical Model of Metaplasticity Can Account for Homeostatic Synaptic-Scaling</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: Thalamus and brainstem</b></p>
+	
+	<p>Eric Brown, Jeff Moehlis, Mark Gilzenrat, Philip Holmes, Ed Clayton, Gary 
+	Aston-Jones, and Jonathan Cohen<br />
+	<em>A neural mechanism for optimizing task performance</em></p>
+	<p>C.M. Weaver, R. Baker, and S.L. Wearne<br />
+	<em>Morphologic contributions to velocity storage neural integration</em></p>
+	<p>P. Achard, R. Rodriguez, G. Hilaire<br />
+	<em>Model of maturation of the respiratory rhythm generator</em></p>
+	<p>William Lytton, Michael O'Laughlin and Daniel Uhlrich<br />
+	<em>Paroxysm potentiation synaptic potentiation enhances repetitive epileptiform discharge 
+	without enhancing evoked response</em></p>
+	<p>Marco A. Huertas, Jeffrey R. Groff, Gregory D. Smith<br />
+	<em>The effect of feedback inhibition on throughput properties of the dLGN/PGN</em></p>
+	<p>Young-Ah Rho, Jaeseung Jeong, and Kyoung J. Lee<br />
+	<em>A possible synchronization mechanism of the suprachiasmatic nucleus based on the 
+	phase-response curve</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION I: Invertebrates:</b></p>
+	
+	<p>Z. N. Aldworth A. G. Dimitrov  J. P. Miller<br />
+	<em>Driving Neuronal Responses Using Stimulus Feedback in the Cricket Cercal Sensory 
+	System</em></p>
+	<p>Yikun Huang John P. Miller<br />
+	<em>Phased Array Processing for Spike Discrimination</em></p>
+	<p>Randall D. Hayes, John H. Byrne, Steven J. Cox and Douglas A. Baxter<br />
+	<em>Estimation of Single-Neuron Model Parameters from Spike Train Data</em></p>
+	<p>Victoria Booth, Amitabha Bose<br />
+	<em>Multistability in inhibitory networks with depressing synapses</em></p>
+	<p>Andrey Shilnikov, Ronald L. Calabrese, and Gennady Cymbalyuk<br />
+	<em>Transition between tonic spiking and bursting in a neuron model</em></p>
+	<p>Peter Andras<br />
+	<em>Neural activity pattern systems</em></p>
+	
+	<p class="marginboven"><a name="poster2" id="poster2"></a><b>POSTER SESSION II: Olfactory system</b></p>
+	
+	<p>Thomas A. Cleland Praveen Sethupathy<br />
+	<em>Non-topographical contrast enhancement enables disambiguation of high-dimensional neural 
+	representations</em></p>
+	<p>HUGUES Etienne, MARTINEZ Dominique<br />
+	<em>Encoding in a network of sparsely connected spiking neurons application to locust 
+	olfaction</em></p>
+	<p>Jason Castro Vikrant Kapoor Nathan Urban<br />
+	<em>Analysis of the mitral cell-granule cell reciprocal synapse adaptation and divisive 
+	scaling</em></p>
+	<p>Orit Kliper, David Horn, Brigitte Quenet<br />
+	<em>The inertial-DNF Model Spatiotemporal Patterns with Two Time-Scales</em></p>
+	<p>Christiane Linster, Silke Sachse, Giovanni Galizia<br />
+	<em>Olfactory contrast enhancement by functional inhibition in the honeybee antennal lobe</em></p>
+	<p>G. Gradwohl and Y. Grossman<br />
+	<em>A THEORETICAL COMPUTER MODEL OF CELLULAR MODIFICATION ASSOCIATED WITH OLFACTORY LEARNING IN 
+	THE RAT PIRIFORM CORTEX</em></p>
+	<p>Blejec Andrej<br />
+	<em>Statistical method for detection of firing rate changes in spontaneously active 
+	neurons</em></p>
+	<p>Catherine A. Lowry Leslie M. Kay<br />
+	<em>OSCILLATORY DYNAMICS OF OLFACTORY STRUCTURES IN RESPONSE TO PREDATOR AND NON-PREDATOR 
+	ODORS</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Visual system 2</b></p>
+	
+	<p>Rodrigo F. Oliveira, Luciano da Fontoura Costa, Antonio C. Roque<br />
+	<em>A Possible Mechanism of Curvature Coding in Early Vision</em></p>
+	<p>Charles Raliff, Peter Sterling, Vijay Balasubramanian<br />
+	<em>More dark information in natural scenes requires denser mosaics of OFF ganglion cells</em></p>
+	<p>Subramonia Sarma, Yoonsuck Choe<br />
+	<em>Salience of Orientation-Filter Responses as Suspicious Coincidence in Natural Images</em></p>
+	<p>Neil D. B. Bruce<br />
+	<em>Features That Draw Visual Attention   An Information Theoretic Perspective</em></p>
+	<p>Heiko Stemmann, Winrich A. Freiwald, Aurel Wannig, Erich L. Schulzke, Christian W. Eurich<br />
+	<em>Encoding of Dynamic Visual Stimuli by Primate Area MT Neurons</em></p>
+	<p>Wenxue Wang Bijoy K. Ghosh<br />
+	<em>Detection of Video Inputs Using the WUNG Model</em></p>
+	<p>Maciej T. Lazarewicz, Sandhitsu Das, Leif H. Finkel<br />
+	<em>Recognition of Temporal Event Sequences by a Network of Cortical Neurons</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Hippocampus 2</b></p>
+	
+	<p>David W. Sullivan and William B Levy<br />
+	<em>Activity Affects Trace Conditioning Performance in a Minimal Hippocampal Model</em></p>
+	<p>Peter A. Murray and Frances K. Skinner<br />
+	<em>Reduced Kinetic Schemes of Short-term Synaptic Plasticity in Inhibitory Network 
+	Models</em></p>
+	<p>Theoden I. Netoff, Jonh A. White<br />
+	<em>Bridging single cell and network dynamics</em></p>
+	<p>W.R. Holmes S. Zeng<br />
+	<em>Stochastic model of calcium initiated reactions in a dendritic spine</em></p>
+	<p>Leslie M. Kay<br />
+	<em>Performance and olfactory-hippocampal theta band coherence</em></p>
+	<p>Zsofia Huhn, Gergo Orban, Mate Lengyel, Peter Erdi<br />
+	<em>Dendritic spiking accounts for rate and phase coding in a biophysical model of a hippocampal 
+	place cell</em></p>
+	<p>Jonghan Shin, Daesoo Kim, and Hee-Sup Shin<br />
+	<em>Theta rhythm during passive whole body rotation is absent in phospholipase1 knockout 
+	mice</em></p>
+	<p>J. Ziburkus J.R. Cressman E. Barreto S.J. Schiff<br />
+	<em>Dynamical evolution of neuronal interactions during in vitro seizures</em></p>
+	<p>Toru Aonishi Hiroyoshi Miyakawa Masashi Inoue Masato Okada<br />
+	<em>Effect of Dendritic Backpropagating Action Potential on Neural Interaction</em></p>
+	<p>Gabor Szirtes, Barnabas Poczos and Andras Lorincz<br />
+	<em>Neural Kalman-filter</em></p>
+	<p>J.A. Gillis; W.P. Luk; L. Zhang; F.K. Skinner<br />
+	<em>Characterizing in vitro Hippocampal Ripples using Time-Frequency Analysis</em></p>
+	<p>Theoden I. Netoff, Robert Clewley, Scott Arno, Tara Keck, John A. White<br />
+	<em>Epilepsy in Small-World Networks</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Memory</b></p>
+	
+	<p>Kabaso, D.M., Luebke, J.I., Hof, P.R. and Wearne, S.L.<br />
+	<em>Modeling Morphologic Contributions to Age-Related Alterations in Neuronal 
+	Excitability</em></p>
+	<p>Mauktik Kulkarni, Kechen Zhang<br />
+	<em>A biophysical model of graded persistent activity in a single neuron</em></p>
+	<p>John A. Wolf, Jason T. Moyer, Leif H. Finkel<br />
+	<em>The Role of NMDA Currents in State Transitions of the Medium Spiny Neuron in a Network Model 
+	of the Nucleus Accumbens</em></p>
+	<p>Jeremy B. Caplan, Mackenzie Glaholt, Terence W. Picton and Anthony R. McIntosh<br />
+	<em>Unifying memory for associations and lists using cognitive theory, behavioural testing and 
+	brain activity</em></p>
+	<p>Narihisa Matsumoto, Daisuke Ide, Masataka Watanabe, Masato Okada<br />
+	<em>Synaptic Depression Enlarges Basin of Attraction</em></p>
+	<p>Koki Yamashita, Shoji Tanaka<br />
+	<em>Parametric study of dopaminergic neuromodulatory  effect in a reduced model of the prefrontal 
+	cortex</em></p>
+	<p>Algis Garliauskas<br />
+	<em>ESTIMATION OF NONLINEARITIES TO STORAGE CAPACITY OF NN BY ALTERNATIVE MFT</em></p>
+	<p>Shoji Tanaka<br />
+	<em>State-dependent alteration of dopamine and glutamate transmission in the prefrontal cortex by 
+	psychostimulants</em></p>
+	<p>Yoshihisa Kubota, Tara R. Gaertner, John A. Putkey and M. Neal Waxham<br />
+	<em>A Novel Monte-Carlo Simulation of Molecular Interaction and Diffusion in Postsynaptic 
+	Spine</em></p>
+	<p>Anders Sandberg, Erik Fransen<br />
+	<em>An Autocatalytic Model of STDP Timing from Slow Calcium Signals</em></p>
+	<p>Tetsuto Minami Toshio Inui<br />
+	<em>Roles of the prefrontal neurons in delayed matching-to-category task A modeling study</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Information coding 2</b></p>
+	
+	<p>Volker Steuber and R. Angus Silver<br />
+	<em>Multiplicative gain modulation for linear and non-linear inputs</em></p>
+	<p>Sheng Li Si Wu<br />
+	<em>On the Variability of Cortical Neural Responses  A Statistical Interpretation</em></p>
+	<p>Dileep George, Friedrich T. Sommer<br />
+	<em>Computing with Inter-spike Interval Codes in Networks of Integrate and Fire Neurons</em></p>
+	<p>Bjrn Naundorf, Theo Geisel, Fred Wolf<br />
+	<em>Dynamical Response Properties of a Canonical Model for Type-I Membranes</em></p>
+	<p>Christopher J. Rozell and Don H. Johnson<br />
+	<em>Examining methods for estimating mutual information in spiking neural systems</em></p>
+	<p>Go ASHIDA<br />
+	<em>Signal Size Detection by Noisy Neurons</em></p>
+	<p>Gregor Wenning, Thomas Hoch, Klaus Obermayer<br />
+	<em>The Role of Colored Noise in Pulse Detection, a leaky Integrate-and-Fire Model Study</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Network properties 1</b></p>
+	
+	<p>Kousuke Abe<br />
+	<em>Existence of stable states of stochastic dynamics in a model of neocortex</em></p>
+	<p>Michael Stich and Manuel G. Velarde<br />
+	<em>Dynamics of a small network of spiking neurons</em></p>
+	<p>Thomas P. Trappenberg and Dominic I. Standage<br />
+	<em>Multi-packet regions in stabilized continuous attractor networks</em></p>
+	<p>Christina Ambrosio, Amitabha Bose, Farzan Nadim<br />
+	<em>The Effect of Modulatory Neuronal Input on Gastric Mill Frequency</em></p>
+	<p>Hamish Meffin, Anthony N. Burkitt, David B. Grayden<br />
+	<em>Dynamically Adjustable Contrast Enhancement from Cortical Background Activity</em></p>
+	<p>Gabor Szirtes, Zsolt Palotai and Andras Lorincz<br />
+	<em>Noise induced structures in STDP networks</em></p>
+	<p>David C. Tam, Ph.D.<br />
+	<em>Motion Detection in Hexagonal Arrays of Insect Ommatidia</em></p>
+	<p>Eugene M. Izhikevich, Joseph A. Gally, Gerald M. Edelman<br />
+	<em>Spike-Timing Patterns in Cortical Neural Networks With Axonal Conduction Delays</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Motor system 1</b></p>
+	
+	<p>M.R.Berends, R. Maex, E. De Schutter<br />
+	<em>The effect of NMDA receptors on gain modulation in cerebellar granule cells</em></p>
+	<p>Yutaka Hirata, Akimasa Yoshikawa, Pablo M. Blazquez, Stephen M. Highstein<br />
+	<em>Evaluation of the inverse dynamic model in cerebellum during visual-vestibular interactions 
+	at different VOR gains in squirrel monkeys</em></p>
+	<p>A. Fishbach, S.A. Roy, C. Bastianen, L.E. Miller, J.C. Houk<br />
+	<em>Discrete Corrective Submovements in the Monkey Predictive Control under Uncertainty</em></p>
+	<p>Joe Graham Victoria Booth Ranu Jung<br />
+	<em>Modeling Motoneurons after Spinal Cord Injury  Persistent Inward Currents and Plateau 
+	Potentials</em></p>
+	<p>Jeanette Hellgren Kotaleski Dietmar Plenz Kim T Blackwell<br />
+	<em>The role of background synaptic noise in striatal fast spiking interneurons</em></p>
+	<p>Wei Wu, Wilson Truccolo, Maryam Saleh,  David Mumford, John P. Donoghue<br />
+	<em>Movement Direction Decoding using Fast Oscillation in Local Field Potential and Neural Firing 
+	during Instructed Delay in a Center-Out Reaching Task</em></p>
+	<p>Uri T. Eden Emery N. Brown<br />
+	<em>Adaptive Decoding of Hand Movement Trajectories from Simulated Spike Train Observations from 
+	a Dynamic Ensemble of Motor Cortical Neurons</em></p>
+	<p>S. A. Oprisan, and C. C. Canavier<br />
+	<em>Stability criterion for a two-neuron reciprocally coupled network based on the phase and 
+	burst resetting curves</em></p>
+	<p>Leonid L. Rubchinsky, Nancy Kopell, Karen A. Sigvardt<br />
+	<em>Normal and Parkinsonian Control of Motor Programs in Pallidal and Subthalamic Networks of 
+	Basal Ganglia</em></p>
+	<p>Rafael Rodriguez-Rojas1, Lazaro Alvarez, Rolando Palmero, Raul Macias, Maylen Carballo, Mario 
+	Alvarez<br />
+	<em>Neural activity changes in Supplementary Motor Area induced by dopaminergic treatment in 
+	parkinsonian patients</em></p>
+	<p>Amitabha Bose, Timothy J. Lewis, Richard J. A. Wilson<br />
+	<em>Two-oscillator model of ventilatory rhythmogenesis in the frog</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION II: Robots and silicon neurons</b></p>
+	
+	<p>L. Cozzi, P. D'Angelo, M. Chiappalone, A.N. Ide, A. Novellino, S. 
+	Martinoia, V. Sanguineti<br />
+	<em>Coding and decoding  of information in a bi-directional neural interface</em></p>
+	<p>Chiara Bartolozzi Giacomo Indiveri<br />
+	<em>A Selective Attention Chip for implementing multi-chip sensory systems</em></p>
+	<p>D.P. Tsakiris, A. Menciassi, M. Sfakiotakis, G. La Spina and P. Dario<br />
+	<em>Undulatory locomotion of polychaete annelids mechanics, neural control and robotic 
+	prototypes</em></p>
+	
+	<p class="marginboven"><a name="poster3" id="poster3"></a><b>POSTER SESSION III: Visual system 3</b></p>
+	
+	<p>Christoph Rasche<br />
+	<em>Signaling Contours by Retinal Wave Propagation</em></p>
+	<p>Timothy Melano and Charles M. Higgins<br />
+	<em>The Neuronal Basis of Direction Selectivity in Lobula Plate Tangential Cells</em></p>
+	<p>Emilio Salinas<br />
+	<em>A model of target selection based on goal-dependent modulation</em></p>
+	<p>Baran Curuklu, Anders Lansner<br />
+	<em>A Model of the Summation Pools within the Layer 4 (Area 17)</em></p>
+	<p>Zuley Rivera-Alvidrez Charles M. Higgins<br />
+	<em>Contrast Saturation in a Neuronally-Based Model of Elementary Motion Detection</em></p>
+	<p>B.A. Siegler, M. Ritchey, J.E. Rubin<br />
+	<em>Spike-timing dependent plasticity as a mechanism for ocular dominance shift</em></p>
+	<p>Ruediger Kupper, Marc-Oliver Gewaltig, Edgar Koerner<br />
+	<em>Spike-latency codes and the effect of saccades</em></p>
+	<p>M. Szabo, R. Almeida, G. Deco, M. Stetter<br />
+	<em>A neuronal model for the shaping of feature selectivity in IT by visual categorization</em></p>
+	<p>Benoit Gaillard Jianfeng Feng<br />
+	<em>Modelling a Visual Discrimination Task</em></p>
+	<p>Nadja Schinkel Klaus R. Pawelzik Udo A. Ernst<br />
+	<em>Robust integration and detection of noisy contours in a probabilistic neural model</em></p>
+	<p>Yoshiki Kashimori, Nobuyuki Suzuki, Kazuhisa Fujita, Meihong Zheng, Takeshi Kambara<br />
+	<em>A functional role of multiple spatial resolution maps in form perception along the ventral 
+	visual pathway</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Auditory system</b></p>
+	
+	<p>Kaushik Ghose &#38; Cynthia F. Moss<br />
+	<em>The bat's head aim governs flight, simplifying computation during interception</em></p>
+	<p>Ruben Tikidji  Hamburyan, Sofia Polevaya<br />
+	<em>Sound-Source Localization by Neural Network Based on Modified Integrate-and Fire Neuron Model 
+	with Autopolarization</em></p>
+	<p>Taesu Kim and Soo-Young Lee<br />
+	<em>Learning self-organized topology-preserving complex speech features at primary auditory 
+	cortex</em></p>
+	<p>Rajiv Narayan, Kamal Sen<br />
+	<em>A computational model for discrimination of natural sounds</em></p>
+	<p>William Tam and Kechen Zhang<br />
+	<em>A Recurrent Network Model of Eye-Position Effect on Auditory Receptive Field</em></p>
+	<p>Rock Z. Shi and Timothy Horiuchi<br />
+	<em>Excitation and Inhibition in Bat Azimuthal Echolocation</em></p>
+	<p>Ramana Dodla John Rinzel<br />
+	<em>Phasic, tonic, and mixed mode firing of an auditory neuron model -- bifurcation 
+	analysis</em></p>
+	<p>Kazuhisa Fujita, ShungQuang Huang, Yoshiki Kashimori, Takeshi Kambara<br />
+	<em>Neural mechanism of detecting interaural intensity differences in the owl's auditory 
+	brainstem for sound location</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Attention</b></p>
+	
+	<p>Hualou Liang, Steven L. Bressler, Robert Desimone, Pascal Fries<br />
+	<em>Empirical Mode Decomposition  A Method for Analyzing Neural Data</em></p>
+	<p>Calin I. Buia, Paul H. E. Tiesinga<br />
+	<em>Rapid temporal modulation of synchrony in cortical interneuron networks with synaptic 
+	depression</em></p>
+	<p>Andras Lorincz<br />
+	<em>Attentional filtering in neocortical areas  A top-down model</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Speech and language</b></p>
+	
+	<p>Karl Magnus Petersson<br />
+	<em>ON THE RELEVANCE OF THE NEUROBIOLOGICAL ANALOGUE OF THE FINITE STATE ARCHITECTURE</em></p>
+	<p>Peter Grenholm Karl Magnus Petersson<br />
+	<em>ARTIFICIAL GRAMMAR LEARNING A CASE STUDY OF THE REBER GRAMMAR</em></p>
+	<p>Alan H. Bond<br />
+	<em>A psycholinguistically and neurolinguistically plausible system-level model of 
+	natural-language syntax processing</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Network properties 2</b></p>
+	
+	<p>Michael Rudolph and Alain Destexhe<br />
+	<em>Multi-channel shot noise and characterization of cortical network activity</em></p>
+	<p>Christopher P. Fall, John Rinzel<br />
+	<em>An Intracellular Ca2+ Subsystem as a Biologically Plausible Source of Intrinsic Bistability 
+	in a Network Model of Working Memory</em></p>
+	<p>Andreas Knoblauch<br />
+	<em>Statistical implications of clipped Hebbian learning of cell assemblies</em></p>
+	<p>Michela Chiappalone, Antonio Novellino, Ildiko Vajda, Alessandro Vato, Sergio Martinoia and 
+	Jaap van Pelt<br />
+	<em>Burst detection algorithms for the analysis of spatio-temporal patterns in cortical networks 
+	of neurons</em></p>
+	<p>Carter Wendelken Lokendra Shastri<br />
+	<em>Connectionist Mechanisms for Cognitive Control</em></p>
+	<p>Jonathan Rubin Amitabha Bose<br />
+	<em>Localized activity patterns in excitatory neuronal networks</em></p>
+	<p>Q.Zou, M.Rudolph, N.Roy, M.Sanchez-Vives, D.Contreras, A.Destexhe<br />
+	<em>Reconstructing synaptic background activity from conductance measurements in vivo</em></p>
+	<p>J. Michael Herrmann, Hecke Schrobsdorff, Theo Geisel<br />
+	<em>Localized Activations in a Simple Neural Field Model</em></p>
+	<p>Charles H. Anderson and Brian Fischer<br />
+	<em>Large Scale Networks for Contextual Inference, Routing and Motor Control</em></p>
+	<p>Ofer Melamed, Gilad Silberberg, Henry Markram, Wulfram Gerstner and Magnus J.E. Richardson<br />
+	<em>Subthreshold cross-correlations between cortical neurons  A reference model with static 
+	synapses</em></p>
+	<p>M. Kubo, K. Abe, G. Ashida<br />
+	<em>New Technique for analyzing stationary global activity in neural networks</em></p>
+	<p>Jan Karbowski and G.B. Ermentrout<br />
+	<em>Modeling genetic control of thalamo-cortical connections and area patterning</em></p>
+	<p>John Matthew Beggs<br />
+	<em>Living cortical networks at the critical point may optimize information transmission and 
+	storage simultaneously</em></p>
+	<p>Mauro Copelli Rodrigo F. Oliveira Antonio Carlos Roque Osame Kinouchi<br />
+	<em>Signal Compression in the Sensory Periphery</em></p>
+	<p>Armen B. Stepanyants, Judith A. Hirsch, Luis M. Martinez, Zoltan F. Kisvarday, Alex S. 
+	Ferecsk, and Dmitri B. Chklovskii<br />
+	<em>POTENTIAL CONNECTIVITY IN LOCAL CORTICAL CIRCUITS</em></p>
+	<p>Kenji Morita, Kazuyuki Aihara<br />
+	<em>A network model with pyramidal cells and GABAergic non-FS cells in the cerebral 
+	cortex</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Synchronization and oscillation</b></p>
+	
+	<p>Steve Bellinger<br />
+	<em>Modeling Astrocyte Communication</em></p>
+	<p>Hiroshi Okamoto, Yoshikazu Isomura, Masahiko Takada, Tomoki Fukai<br />
+	<em>Investigating the time course of single-trial activity of neurons that show gradual increase 
+	or decrease in histograms</em></p>
+	<p>Kenneth P. Eaton and Craig S. Henriquez<br />
+	<em>Confounded spikes generated by synchrony within neural tissue models</em></p>
+	<p>Paul Tiesinga<br />
+	<em>Reliability resonance boosts activity in downstream cortical areas</em></p>
+	<p>Ho Young Jeong &#38; Boris Gutkin<br />
+	<em>Study on the role of GABAergic synapses for synchronization</em></p>
+	<p>Andrey Shilnikov, Ronald L. Calabrese, and Gennady Cymbalyuk<br />
+	<em>How a neuron model can demonstrate co-existence of tonic spiking and bursting?</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Motor system 2</b></p>
+	
+	<p>Xiuxia Du, Bijoy K. Ghosh<br />
+	<em>Modelling of the Basal Ganglia Affected by Huntington's Disease</em></p>
+	<p>Carmen C. Canavier<br />
+	<em>The effect of interspike waveform on phase resetting and its impact on the regularity of the 
+	firing pattern</em></p>
+	<p>Boothe, D.L., Cohen, A.H.  Neuro. &#38; Cog. Sci. Program, Univ. of Maryland, College Park, MD, 
+	USA<br />
+	<em>A STOCHASTIC NEURAL NETWORK MODEL OF LIMBED LOCOMOTION</em></p>
+	<p>A. Kuznetsov, C Wilson, and N. Kopell<br />
+	<em>Modeling of the transient firing of the nigral dopamine neuron in vivo and in slices</em></p>
+	<p>Christian Hauptmann, Oleksandr Popovych, Peter Tass<br />
+	<em>Delayed feedback control of synchronization in locally coupled and stimulated 
+	networks</em></p>
+	<p>Mark Shelhamer<br />
+	<em>Phase transition between reactive and predictive eye movements is confirmed with nonlinear 
+	prediction and surrogates</em></p>
+	<p>Wilsaan M. Joiner  Mark Shelhamer<br />
+	<em>An Investigation of the Relative Stability of Reactive and Predictive Oculomotor 
+	Tracking</em></p>
+	<p>Alexander Lerchner, John Rinzel<br />
+	<em>Synaptic Model for Spontaneous Activity in Developing Networks</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Learning and Plasticity</b></p>
+	
+	<p>Naoki Masuda, Kazuyuki Aihara<br />
+	<em>Encoding Multiple Temporal Waveforms by Neural Population with Spike-time-dependent 
+	Plasticity</em></p>
+	<p>Chris L. Baker, Aaron P. Shon, Rajesh P.N. Rao<br />
+	<em>Learning Temporal Clusters with Synaptic Facilitation and Lateral Inhibition</em></p>
+	<p>Neel Shah, Luk Chong Yeung, Harel Z. Shouval and Leon N Cooper<br />
+	<em>A biophysical basis for the inter-spike interaction of Spike-Timing-Dependent 
+	Plasticity</em></p>
+	<p>Anatoli Gorchetchnikov and Michael E. Hasselmo<br />
+	<em>A simple rule for spike-timing-dependent plasticity local influence of AHP current</em></p>
+	<p>Jean-Pascal Pfister David Barber Wulfram Gerstner<br />
+	<em>Optimal Spike-Timing Dependent Plasticity for Precise Action Potential Firing</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Synaptic mechanisms and signal transduction</b></p>
+	
+	<p>Joanna Tyrcha and William B Levy<br />
+	<em>Synaptic Failures and a Gaussian Excitation Distribution</em></p>
+	<p>Alain Destexhe and Michael Rudolph<br />
+	<em>Extracting information from the power spectrum of voltage noise</em></p>
+	<p>Thomas Sangrey and William B Levy<br />
+	<em>Conduction Velocity Costs Energy</em></p>
+	<p>Aviv Mezer, Esther Nachliel1 Menachem Gutman and Uri Ashery<br />
+	<em>MODELING OF THE EXOCYTOTIC PROCESS BY CHEMICAL KINETIC FORMALISM</em></p>
+	<p>Petr Marsalek and Eduard Kuriscak<br />
+	<em>Cortical microcircuit with adapting synapses</em></p>
+	
+	<p class="marginboven"><b>POSTER SESSION III: Databases and software</b></p>
+	
+	<p>Kay A. Robbins, Igor Grinshpan, Kevin Allen, David M. Senseman<br />
+	<em>Synchronized Views for Exploring Populations of Neurons</em></p>
+	<p>William Lytton and Michael Hines<br />
+	<em>No event left behind  adapting variable timestep integration to networks</em></p>
+	<p>Thomas Frster, Andreas VM Herz, and Raphael Ritz<br />
+	<em>NIPClassificator - Toward an evolvable neuroinformatics ontology</em></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2004" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

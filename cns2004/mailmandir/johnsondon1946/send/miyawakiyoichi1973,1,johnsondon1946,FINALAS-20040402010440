@@ -1,0 +1,54 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Yoichi Miyawaki" <yoichi_miyawaki@brain.riken.jp>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:40
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Yoichi Miyawaki,
+
+We're happy to inform you that your paper 'Mechanisms of spike inhibition in a cortical network induced by transcranial magnetic stimulation' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+There's alot in this brief paper.  I cannot confirm the reasonableness of the model formulation, regarding  TMS effects.  For me, it's a parametric study of perturbing effects on osicllations in  a network or single cell...  based on underlying bistability.  A reasonable set of modeling tricks are brought together with nice illustrations.  I would urge the authors to expand on background of how other modelers have chosen to formulate the effects of TMS into biophysical mechanisms.
+
+Reviewer 2 :
+This presents a model of TMS on both single cells and neural networks, and claims to present a mechanism whereby TMS-induced supression of cortical activity is possible without a network consisting of and adapting ion channel (such as KCa).
+
+It is quite possible this paper shows such a possible mechanism, but several lacking details of the model and/or its interpretation make it difficult to interpret the results.
+
+1) Model formulation.  The model considers inhibitory synapses as negative conductances of an inward channel.  While mathematically convenient, such an assumption is nevertheless wrong.  Consider a neuron receiving a balanced amount of excitatory and inhibitory input.  In the authors model, the net input current would be zero, and an additional stimulus in the presence of such balanced input would perturb the cell with similar properties as if the cell was at rest.  However, in reality, a neuron receiving a balanced amount of excitatory and inhibitory input may still be at rest, but the neuron's effective input conductance would be significantly increased (all conductance increases are additive), which in turn would diminish the neuron's response to an additional external stimuli.
+
+2) Others have modeled such stimulation in much more detail (ex. ref 4 of the submitted paper), and consider the effects of an imposed E-field on the cell.  While I believe the net results of such E-field stimulation can be adequately approximated stimulus current pulse to the membrane equation, the authors should explain why such an assumption is valid.
+
+3) The results in Fig. 2 do not look like a transience response - it looks like the "sustained spike inhibition" is long-term (i.e. permanent) which does not correspond to what happens in the clinical case.  I suspect that the results in Fig. 2 are due to the bistability in Fig. 1 - the network is bistable, and the pulse perturbs the network (permanently) to the silent state.  I am not quite sure how likely such bistability is to exist in vivo.  Furthermore, I do not know if such bistability is merely a biproduct of how synapses were modeled (see comment 1).
+
+It appears that the authors intentionally designed their model to be bistable (page 3), and that this provides the mechanism for their result (unstated). If this is the case, state so - models are most useful when providing mechanistic explanations!
+
+4) Finally, what kind of afferent inputs have an intensity of 1000-2000 Hz?
+

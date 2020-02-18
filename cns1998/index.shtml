@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1998</title>
+<meta name="description" content="CNS Meeting Home Page 1998." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1998, 
+cns, computational, neuroscience, workshop, talks, posters" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1998</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 26 - 30, 1998 Santa Barbara, California</h3>
+  	
+  	<ul>
+  	  <li><a href="./general_info.shtml">General information</a></li>
+  	  <li><a href="./call_for_papers.shtml">Call For Papers!</a></li>
+  	  <li><a href="./schedule.shtml">Schedule</a></li>
+  	  <li><a href="./agenda.shtml">Agenda</a></li>
+  	  <li><a href="./workshop-info.shtml">About Workshops</a></li>
+  	  <li><a href="./organizers.shtml">Organizing Committee</a></li>
+  	  <li><a href="./travel.shtml">Travel, food and lodging</a></li>
+  	  <li><a href="./grants.shtml">Travel Grants</a></li>
+  	  <li><a href="./attendees.shtml">Attendees</a></li>
+  	  <li><a href="./poster.shtml">Poster dimensions</a></li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1998" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

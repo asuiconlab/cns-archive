@@ -1,0 +1,63 @@
+ACTUATOR:	mail
+FROM:	"Alain Destexhe" <destexhe@iaf.cnrs-gif.fr>
+TO:	"Anatoli Gorchetchnikov" <anatoli@cns.bu.edu>
+REPLY:	"Alain Destexhe" <destexhe@iaf.cnrs-gif.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 22:31:3
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Anatoli Gorchetchnikov,
+
+We're happy to inform you that your paper 'A simple rule for spike-timing-dependent plasticity  local influence of AHP current' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Alain Destexhe
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Alain Destexhe and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+There isn't too much to say about this paper.  It is fine, but Fig 2 is of poor quality and should be redone.
+
+Reviewer 2 :
+The effect the authors use to get STDP is easy
+to understand  if the somatic membrane potential
+is above threshold (i.e. during a spike)
+the value of the synaptic conductance 
+is used to trigger LTP.
+If the somatic membrane potential is below
+rest (i.e., during spike-afterhyperpolarization)
+the inverse process occurs.
+
+It therefore seems that (given a spike
+with AHP)  the model is formally
+equivalent to a four-factor model
+first proposed by Gerstner et al. 
+(see review in SPIKING NEURON MODELS')
+and popularized by Buonomano.
+A related factor model has 
+also been proposed by Abarbanel
+
+The relation to these and other
+models of STDP should be discussed in more
+detail (only the relation to 
+the model of Porr is discussed so far).
+

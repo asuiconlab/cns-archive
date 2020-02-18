@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>The Second Annual Neural Coding Workshop</title>
+<meta name="description" content="The Second Annual Neural Coding Workshop." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2002, 
+neural, coding, cerebral, cortex, information" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<h1>The Committee on Computational Neuroscience at the University of Chicago presents</h1>
+  	
+  	<h2>The Second Annual Neural Coding Workshop:<br />
+  	How Does the Cerebral Cortex Code Information ?</h2>
+  	
+  	<h3>Saturday, July 20, 2002, Congress Plaza Hotel, Chicago, Illinois, USA</h3>
+  	
+  	<p class="marginboven"><b>Introduction</b></p>
+  	
+  	<p>09:00 : Philip Ulinski (University of Chicago)<br />
+  	<em>Concepts of Cortical Function: A Brief Historical Overview</em></p>
+  	
+  	<p class="marginboven"><b>Single Neurons:</b> Moderated by Erik DeSchutter (University of 
+  	Antwerp)</p>
+  	
+  	<p>09:30 : Alain Desthexe (CNRS, France)<br />
+  	<em>Correlation Detection and Stochastic Integration in Neocortical Pyramidal Neurons</em></p>
+  	<p>10:00 : Nelson Spruston (Northwestern University)<br />
+  	<em>Dendritic Excitability andSynaptic Plasticity in the Hippocampus</em></p>
+  	<p>10:30 : Break</p>
+  	<p>11:00 : Larry Abbott (Brandeis University)<br />
+  	<em>Gain Modulation and Non-SynapticLearning</em></p>
+  	<p>11:30 : Bard Ermentrout (University of Pittsburgh)<br />
+  	<em>The Link Between Spike Generation Mechanisms and Cortical Spike Train Statistics</em></p>
+  	<p>Lunch</p>
+  	
+  	<p class="marginboven"><b>Populations of Neurons:</b> Moderated by Daniel Margoliash (University 
+  	of Chicago)</p>
+  	
+  	<p>13:30 : Clay Reid (Harvard University)<br />
+  	<em>Spike Timing and the Thalamic Input to Visual Cortex: Convergence, Synchrony, and Synergy</em></p>
+  	<p>14:00 : Jack Cowan (University of Chicago)<br />
+  	<em>Neural Networks as Forest Fires</em></p>
+  	<p>14:30 : Break</p>
+  	<p>15:00 : Steven Schiff (George Mason University)<br />
+  	<em>Beyond Synchrony: The Possible Role of Desynchronization in Epilepsy and Working Memory</em></p>
+  	<p>15:30 : Martin Sereno (University of California at San Diego)<br />
+  	<em>Mapping  Higher Level Cortical Areas in Humans with fMRI</em></p>
+  	
+  	<p class="marginboven"><b>Group Discussion and Cash Bar</b></p>
+  	
+  	<p>Registration for the meeting is $ 50 per person, which covers the cost of breaks and lunch. 
+  	You can register at <a href="http://epayment.uchicago.edu/cns">http://epayment.uchicago.edu/cns</a> 
+  	until July 1. The Congress Plaza Hotel is at 520 South Michigan Avenue.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2002" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+Self-organising ion channel densities: the rationale for Anti-Hebb
+
+Anthony J. Bell
+
+AI-lab, Vrije Universiteit Brussel
+Pleinlaan 2, B-1050 Brussels 
+BELGIUM, 
+(tony@arti.vub.ac.be) 
+
+
+
+
+Although neural communication and integration are determined by the
+distribution of ion channels in the membrane, the role of voltage-dependent
+channels in neural integration is poorly understood.
+Here, an argument is presented for an `anti-Hebbian' rule which changes the
+distribution of intrinsic conductances in order to flatten voltage
+curvatures in dendrites. Simulations show that this rule can account for
+the self-organisation of dynamical receptive field properties such as
+resonance and direction selectivity, and also for faithful conduction
+of a signal in a cable. Various cellular mechanisms are proposed
+including activity-dependent migration of channel proteins in the plane of
+the membrane.
+
+

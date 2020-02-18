@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1997 - Workshops</title>
+<meta name="description" content="CNS Meeting Home Page 1997 - Workshops." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1997, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1997</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 6 - 10, 1997, Big Sky, Montana</h3>
+  	
+  	<h4>CNS*1997 Workshops</h4>
+  	
+  	<h4>Quantitative Neuroanatomy.</h4>
+  	
+  	<p><b>Claus C. Hilgetag</b></p>
+  	
+  	<p>Knowledge of neural structure is essential to understanding neural function. The workshop will 
+  	look at (i) the current state of data that can bear on the organization of neural systems and 
+  	(ii) the computational approaches that exist to analyze these data to produce reliable knowledge. 
+  	The seminar should attract people working on any species and all levels of nervous systems: at 
+  	the cellular, circuit or area level.</p>
+  	
+  	<p><b>Problems that could be addressed during the workshop include:</b></p>
+  	
+  	<p>* Which data are most urgently required to describe the structure of different neural systems? 
+  	(For example, progress at the systems level relies on compilations of area-to-area connections, 
+  	preferably including some information about connection densities and about sites of cell origins 
+  	and terminations.)</p>
+  	
+  	<p>* Which principles of simplification can be chosen for describing the structure of brains, 
+  	despite their overwhelming complexity? Are systems level (i.e. grey box) neuroanatomical or 
+  	circuitry models good starting points?</p>
+  	
+  	<p>* How great is the variability of neural structures between different individuals of a species? 
+  	How does variability effect the study of brain organization on different system levels? (For 
+  	instance, individual variability may suggests a probabilistic approach to circuitry studies, 
+  	whereas area level organization may be analyzed in a deterministic way?) How can descriptive 
+  	approaches take into account brain development and neural plasticity?</p>
+  	
+  	<p>* What quantitative data can be obtained from new (immuno-) histochemical methods studying 
+  	receptors and transmitter systems? Is there hope for unraveling the anatomy of the human brain in 
+  	the foreseeable future?</p>
+  	
+  	<p>* How can anatomical data be formalized, exchanged between different groups, and compiled into 
+  	databases that are easy for everyone to search and to update?</p>
+  	
+  	<p>* Once quantitative data are assembled, which computational methods are available to represent 
+  	and to analyze the data?</p>
+  	
+  	<p><a href="../workshop-info.shtml">Back to workshops</a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1997" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

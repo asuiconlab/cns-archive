@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2001 - General Information</title>
+<meta name="description" content="CNS Meeting Home Page 2001 - General Information." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2001, 
+cns, computational, neuroscience, workshop, talks, posters, General Information" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2001</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>June 30 - July 5, 2001, San Francisco and Pacific Grove, California</h3>
+  	
+  	<h4>CNS*01 General Information</h4>
+  	
+  	<p>CNS*2001 will be held in San Francisco and Pacific Grove, California from June 30 to July 5, 
+  	2001. This is the tenth in a series of annual inter-disciplinary conferences intended to address 
+  	the broad range of research approaches and issues involved in the general field of computational 
+  	neuroscience. As in the previous years, this meeting will bring together experimental and 
+  	theoretical neurobiologists along with engineers, computer scientists, cognitive scientists, 
+  	physicists, and mathematicians interested in understanding how biological neural systems compute. 
+  	The meeting will equally emphasize experimental, model-based, and theoretical approaches to 
+  	understanding neurobiological computation. All accepted papers must demonstrate a clear and 
+  	direct relationship to biological neural computation.</p>
+  	
+  	<p><img src="./images/asilpic2.jpg" alt="picture of Asilomar Conference Grounds" /></p>
+  	
+  	<p>The meeting in 2001 will take place on the Central West Coast of the United States. The 
+  	meeting will officially convene in San Francisco on the evening of June 30th with an opening 
+  	reception. Then on the morning of Sunday July 1st, meeting participants will board busses for the 
+  	Monterey Peninsula where the formal scientific sessions will start at 5:00 p.m. at the Asilomar 
+  	Conference Grounds in Pacific Grove. The last meeting event will be the traditional banquet on 
+  	Thursday evening, July 5th at the 
+  	<a href="http://www.montereybayaquarium.org">Monterey Bay Aquarium</a>. Transportation will not 
+  	be provided from the Asilomar Conference center to the airport.</p>
+  	
+  	<p>Housing accommodations will be available for the evening of June 30th at the 
+  	<a href="http://www.ramadaplazasf.com">Ramada Plaza Hotel</a> in the Market Street area of San 
+  	Francisco and at the <a href="http://www.visitasilomar.com">Asilomar Conference Grounds</a> for 
+  	the duration of the meeting. Click <a href="./asilomar.pdf">here</a> for the reservation form for 
+  	the Asilomar Conference Grounds in PDF format and 
+  	<a href="./ramada.pdf">here</a> for the reservation form for the Ramada Plaza Hotel in 
+  	PDF format.</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2001" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

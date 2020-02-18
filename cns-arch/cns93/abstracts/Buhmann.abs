@@ -1,0 +1,20 @@
+A silicon retina for face recognition
+
+J. Buhmann
+University of Bonn
+
+M. Lades
+University of Bochum
+
+F. Eeckman
+LLNL
+
+We report face recognition results under drastically changing lighting 
+conditions.  The face recognition system uses a silicon retina as input
+device and employs an elastic matching algorithm to classify unknown faces.
+All recognition results are compared to control experiments using a 
+conventional, gain controlled CCS camera.  The silicon retina wiht its
+ability to adjust sensitivity increases the recognition rate up to 50 percent.
+These comparative experiments demonstrate that preprocessing with an analog
+VLSI silicon retina generates image data enriched with object-constant 
+features.

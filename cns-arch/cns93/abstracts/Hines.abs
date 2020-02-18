@@ -1,0 +1,25 @@
+Michael Hines and John W. Moore
+Dept of Neurobiology
+Duke University Medical Center
+Durham, NC 27710
+hines@neuro.duke.edu
+moore@neuro.duke.edu
+
+Address correspondence to Michael Hines (hines@neuro.duke.edu)
+
+
+     We will demonstrate the latest version of "NEURON",a simulation
+program designed to expedite modeling of realistic neuron morphology and
+complex membrane properties, involving many ion-specific channels and
+ion accumulation.
+
+     In order to reduce programming effort and errors, we have added a
+graphical user interface with an unusual degree of versatility due to
+its close coupling with the interpreter.  With it the user can easily
+create and dismiss a variety of windows to display parameter panels,
+state graphs, browsers for variables, and views of morphology on the
+screen.  This interface has also made a significant contribution to the
+persistent problem of maintaining conceptual control over large
+simulations, ie.  a match between what the user thinks is inside the
+computer and what is actually there.
+

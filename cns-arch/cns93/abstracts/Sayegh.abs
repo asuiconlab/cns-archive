@@ -1,0 +1,26 @@
+
+       Facilitation and Unblocking:  A Quantitative Model
+
+S. Sayegh, Department of Physics
+R. Manalis, Department of Biology
+P. Sampat, Department of Computer Science
+Purdue University
+Fort Wayne, In 46805
+
+
+
+
+
+                            Abstract
+
+
+This paper develops a realistic computational model of facilitation,
+ presynaptic and postsynaptic unblocking at the neuromuscular junction.
+The approach followed is to acknowledge a "threshold" at the postsynaptic End
+ Plate Potential (EPP) level.  The basic model is then developed in terms of
+ that threshold, without explicit reference to the mechanism underlying it.
+ In a second step, the threshold at the EPP level is itself explicitated and
+ modeled.  The model has been mapped out to a GENESIS implementation.
+The results are consistent with the experimental observations and further
+experiments are suggested to test the finer aspects of the model.
+

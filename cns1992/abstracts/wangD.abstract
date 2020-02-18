@@ -1,0 +1,22 @@
+Modeling Stimulus Specific Habituation:
+The Role of the Primordial Hippocampus
+
+
+DeLiang Wang
+
+Department of Computer and Information Science
+and Center for Cognitive Science
+Ohio State University
+2036 Neil Avenue
+Columbus, OH 43210-1277, USA
+
+
+
+
+
+Abstract
+
+
+
+We present a neural model for the organization and neural dynamics of the medial pallium, the toad's homolog of mammalian hippocampus. A neural mechanism, called cumulative shrinking, is proposed for mapping temporal responses into a form of population coding referenced by spatial positions. Synaptic plasticity is modeled as an interaction of two dynamic processes which simulates both short-term and long-term memory. Successful modeling allows us to provide an account of the neural mechanisms of stimulus specific habituation. A set of model predictions is presented, conceming mechanisms of habituation and cellular organization of the medial pallium.
+

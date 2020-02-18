@@ -1,0 +1,58 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Calin Buia" <buia@physics.unc.edu>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 9/4/2004 17:45:32
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Calin Buia,
+
+We're happy to inform you that your paper 'Rapid temporal modulation of synchrony in cortical
+  interneuron networks with synaptic depression' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+In this paper the authors intend to analyze the rapid change of synchrony in
+inhibitory networks of Hodgkin-Huxley type models of cortical neurons. Their main
+concern is how the synchrony can be modulated even in absence of change in the
+firing rates. They propose a mechanisms called synchrony by competition.
+They simulate a network of 1000 neurons and study the change in synchronization when one
+subpopulation of the network receives an additional external current. They compare
+two situations   in the first the inhibition is constant in time and in the second
+it includes synaptic depression.
+
+I think this is an interesting problem, but the results shown in this paper are neither
+complete nor original enough to qualify for publication. There is no theoretical analysis
+at all of the phenomenon they study. The change of synchrony for a given change in
+the firing rate is not quantified. It  said that the phenomenon of synchrony by
+competition becomes more robust  when synaptic depression is present, but no evidence
+is shown about that.
+For these reasons I suggest not to publish this paper.
+
+Reviewer 2 :
+Well written paper. Seems to me like this is amenable to a more analytic approach beyond simulations.
+

@@ -1,0 +1,58 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"William Levy" <wbl@virginia.edu>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 11/4/2004 18:27:30
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear William Levy,
+
+We're happy to inform you that your paper 'Synaptic Failures and a Gaussian Excitation Distribution' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer Comments :
+It is not clear to me why the authors are interested in obtaining a Gaussian distribution for their inputs.  In the abstract, the authors state,  . . . the failure process . . . moves a neurons input excitation distribution closer to a gaussian, which then helps a neuron more precisely achieve an energetically desirable firing rate.  I understand that reducing the firing rate is energetically favorable, but I do not understand how the gaussian distribution helps.  This reasoning should be stated clearly in the introduction.
+
+Section 2, par 1.  A synapse can release several vesicles, not just one.  
+
+On p. 2, par. 2, The summed excitation the neuron receives is a random variable . . . , and as the crudest approximation it supposes that its inputs are binomially distributed (Bin(n,p)).  There is little reason to believe that a neurons inputs are directly summed, and this assumption should be explained.
+
+P.3 par. 2 using the mean and variance of the simulation.  Which simulation?  The one for the true distribution?  Clarify.
+
+Define n and p.  p is the most unclearpresumably it is the probability that a vesicle is released, but over what time period?
+
+Section 3.  Again, it is not clear to me why you want to approximate the binomial distribution as a gaussian when you can obtain the correct value.  The motivation needs to be more clearly stated.
+
+How are you obtaining firing rates?  What are the units? 
+
+Section 4.  Define skewness and kurtosis here, rather than in sections 5 and 6.  Having both formal and intuitive definitions here would help the discussion.
+
+Section 5.  Why is a mixture of two binomials any better than one binomial?  Remove the sentence about hidden Markov models.
+
+Section 6.  This section is very hard to understand.  State the reasons for the cases in words.  Also, the notation changed herebefore mean and variation were denoted by a m and a sigma.  Remove descriptions of leptokurtosis and platykurtosis, and instead reference the figures.
+
+Section 7.  It is easy for a neuron to set an energy-efficient firing rate.  It is only difficult to compute what that threshold is for a human.  Consequently, I do not understand the first sentence.

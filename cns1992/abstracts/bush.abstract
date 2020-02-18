@@ -1,0 +1,28 @@
+Simulations of Synaptic Integration in Neocortical Pyramidal Cells
+
+
+Paul C. Bush*
+
+Terrence J. Sejnowski
+
+
+Howard Hughes Medical Institute and Computational Neurobiology Laboratory, Salk
+Institute, La Jolla, CA 92037, USA and University of California at San Diego, La Jolla,
+CA 92093, USA.
+
+*Corresponding author
+
+
+Abstract
+
+Despite their electrotonic compactness, neocortical pyramidal cells cannot be
+considered as point neurons because of nonlinear interactions between inputs
+on the same dendritic branch. Using compartmental simulations, we have
+shown that dendritic saturation is significant for physiological levels of
+synaptic activation. We have also confirmed earlier results showing that
+inhibition strong enough to produce a significant reduction in the input
+resistance of a cell does not prevent the firing of the cell if it is receiving
+strong excitatory input. Finally, we present a reduced pyramidal cell model (9
+compartments) that runs significantly faster yet faithfully reproduces the
+behavior of the full 400 compartment model. The reduced model will be used
+for future physiological network simulations.

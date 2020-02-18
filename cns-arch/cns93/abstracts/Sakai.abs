@@ -1,0 +1,30 @@
+
+
+A Cortical Mechanism for Shape-from-Texture
+Based on Dynamic Changes in Complex Cell Receptive Fields
+
+Ko Sakai and Leif H. Finkel
+
+Department of Bioengineering and
+Institute of Neurological Science,
+University of Pennsylvania
+220 South 33rd st.,
+Philadelphia, PA 19104-6392
+ko@ ganymede. seas .upenn.edu
+finkel@ganymede.seas.upenn.edu
+
+ABSTRACT
+
+We propose a cortical mechanism for the determination of shape and 
+depth from texture based on the change in spatial frequency 
+components across an image. Frequency components are extracted by 
+a unit which models complex cells in Vl. The unit reproduces the 
+receptive field properties of complex cells including spatial phase 
+insensitivity and response to multiple-bars. In our model, these 
+properties arise from dynamic receptive fields: similar functional 
+changes have been discovered in Vl in the size and the position of 
+receptive fields over very short time scales. Several stimuli including 
+real images have been simulated and show reasonable agreement 
+with human perception.
+
+

@@ -1,0 +1,72 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Robert Fry" <robert_fry@jhuapl.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:39
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Robert Fry,
+
+We're happy to inform you that your paper 'Neural Statics and Dynamics' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper presents an abstract model of a neuron which preserves in its output as much information as possible from its inputs. The dynamics of the various parameters influencing the neurons were defined and explored, and new results, concerning the model's realization of probabilistic bayesian decisioning and its capacity in the presence of noise.
+While I thoroughly enjoyed the elegance of these formulations, I feel that pointing out the connections between your results and real-life neurons may positively contribute to the paper. Is the proposition that a neuron attempts to 'compress' the information in its inputs well-founded? Where can such neurons be found? Do the abstract parameters map to some neurophysiological mechanisms? Even just hinting at possible answers for these questions may greatly enhance the paper.
+
+Reviewer 2 :
+The paper proposes an approach to neural systems based on
+'cybernetic systems' (what cybernetic systems are remains unclear
+to me to this moment). The paper uses many terms in a very loose
+and imprecise fashion. I found it almost impossible to understand
+what is the message the author wishes to convey. Statements like
+"just as all statistical mechanics can be built from information
+theory, the mechanics of neural computation may be based on
+similar principles" are at best misleading. Even for
+statistical mechanics, the vast literature on non-equilibrium
+statistical mechanics is clearly NOT derivable from information
+theory. Another bomber is "Furthermore, through axioms of logical
+consistency (?!?) and universality (?!?), all systems must use
+these principles" - I really haven't the faintest idea what the
+author wants to say here. Another example, a statement is made
+concerning the law of large numbers. But this law is not
+universally applicable - why should it hold in the present
+context?
+
+In addition to the above problems, it is really unclear to me how
+this paper relates to models of real biological neurons (after
+all, this a conference on Computational Neuroscience). Besides
+some simplified models of linear threshold elements, I did not see
+any real discussion of this issue.
+
+In summary, while I have seen many familiar terms and definitions
+in this paper, the presentation is so opaque that I really cannot
+understand what is the message I should be left with after reading
+this paper.
+

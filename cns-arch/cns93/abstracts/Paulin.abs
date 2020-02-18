@@ -1,0 +1,15 @@
+Neural system identification using LN-IPFM models : application to
+modelling electrosensory neurons in the carpet shark.
+
+M. Paulin
+University of Otago, New Zealand
+
+The Wiener-Bose model, an array of linear filters followed by a static
+nonlinear transformation, can approximate an arbitrary nonlinear system.
+Placing an integrate-and-fire element at the output of a Wiener-Bose model
+produces a simple general class of models suitable for identifying spiking 
+neurons.  This paper describes the application of a system identification 
+technique based on such models, to predicting spike trains produced by 
+electrosensory primaty afferent neurons in the New Zealand Carpet Shark.
+I suggest that this and related techniques may be invaluable tools for
+rapid prototyping and testing of detailed realistic neural network models.

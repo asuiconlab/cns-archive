@@ -1,0 +1,71 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Gregor Wenning" <gregor.wenning@gmx.de>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:11:59
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Gregor Wenning,
+
+We're happy to inform you that your paper 'The Role of Colored Noise in Pulse Detection,
+a leaky Integrate-and-Fire Model Study' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+Authors, please, check carefully spelling, figure captions, and dimensions
+of all quantities. 
+
+1) It is twice stated in the text that the pulses are added directly
+to the membrane potential; the pulse height is accordingly given in
+mV.  This stands in contrast to the eq.(3) (which is biophysically
+correct) and to the physical dimension of the spike train in this
+eq. (which is [dV/dt]). Of course, a current pulse leads to a step in
+voltage and not to a spike. If the authors have really added the
+spikes directly to the voltage, this would be a severe error! If not,
+correct the statements and dimensions mentioned above.
+
+2) Why is the input noise (resulting from spike trains) filtered
+whereas the input process is not? Mention fast/slow synapses in intro
+and conclusions.
+
+3) Any explanation for the decrease of false detection with increasing
+correlation time? Does the firing rate at fixed voltage variance and
+without pulse stimulation depend on the correlation time of the noise?
+
+4) If 10000ms are simulated with a 50ms-period pulse train, I get 200
+pulses. How can Q (being a pulse difference) be possibly larger than
+200 (e.g. 8000 as in Fig.2B)? Repeated stimulation for 10000ms? What
+am I supposed to think about numbers like 8000 (Fig.2B), 10000,2000,
+or 3000 (Fig.3)? Use Q divided by the total number of pulses that were
+used, replot the respective figures.
+   
+5) Fig.4  What does "90% performance" mean? "In subfigures (C) and (D)
+..."  there is no figure (D).
+
+Reviewer 2 :
+The authors find that the quality of the detection of pulses increases as the value of tau_X increases (Fig 2). No explanation is provided for this. I think that the explanation is that for large tau_x a positive fluctuation originated by the pulse plus X(t) lives for a longer time than a similar fluctuation when tau_x is shorter. Then, for larger tau_x, it will be easier for the neuron to reach theshold when a pulse arrives and before the fluctuation X(t) decays. This increases the number of correctly detected pulses. A recent study by Moreno-Bote et al (Phys Rev Let vol 92,028102,2004) could help to understand the behavior of the model as tau_x increases. Which is the value of tau_v ?
+

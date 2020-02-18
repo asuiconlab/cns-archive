@@ -1,0 +1,128 @@
+<HTML>
+<HEAD>
+<TITLE>HELP</TITLE>
+<META NAME="description" CONTENT=" show help">
+<META NAME="author" CONTENT="auto-page generator dev by mike">
+<LINK REL="stylesheet" TYPE="text/css" HREF="style.css" />
+</HEAD>
+<BODY TEXT="#464646" BGCOLOR="#FFFFFF" LINK="#336699" VLINK="#999999" ALINK="#999999">
+<table width="480" border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD WIDTH="50"></TD>
+<TD WIDTH="430">
+<FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#336699">
+<H2>Conference submission guidelines and instructions</H2>
+</FONT><FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#464646">
+
+<FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#FF8900">
+<H2>DEADLINE : JANUARY 26, 2004 midnight</H2>
+</FONT>
+
+<FONT FACE="ARIAL,HELVETICA,HELV" COLOR="RED">
+  Notice: New paper submission procedure!<BR>
+</font><FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#464646">
+As in the years before papers presented at the CNS*04 meeting can be 
+  published as a paper in a special issue of the journal Neurocomputing. Authors who would like to see their 
+  CNS*04 presentation published have to submit a <B>complete</B> paper for 
+  review now.  You also have the option to instead submit an extended 
+  summary but this cannot be included in the journal.  Both types of 
+  submissions will be reviewed but full manuscripts will get back 
+  reviewers' comments and will have to be revised with final submission 
+  shortly after the meeting. The decision of who gets to speak at the 
+  conference is independent of the type of submission, both full papers 
+  and extended summaries qualify. More details on the review process 
+  can be found below.
+
+<FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#336699">
+<H4>Paper submission</H4>
+</FONT><FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#464646">
+<u>Submission is done on 2 web pages:</u><BR>
+  A first page which asks for general info on your paper including the 
+  abstract (as text), press <B>Submit</B> when you are done.<BR>
+  A second page which allows you to specify the pdf file containing 
+  your full paper or extended summary. Prepare the paper or extended summary as a pdf file. <FONT COLOR="RED">The pdf file contains max 6 typeset pages or 
+max 10 double-space pages plus max 4 illustrations and have a filename of 
+max 32 characters without blanks</FONT>. Press <B>Submit</B> when you 
+  are done. You will receive a page telling you whether the file was 
+  successfully uploaded.
+<P>
+  <u>You can submit multiple papers:</u><br> 
+After you completed submission of the 
+  first paper (see above) you follow the link "Go back to my first record";
+ go to the bottom and press <B>Add new record</B> to create a 
+  (blank) record for the next paper. Provide the required information 
+  on 2 pages as before (press <B>Submit</B> twice). When you return to the 
+  paper submission form you can see on the top of the form how many 
+  papers you have uploaded and use <B>Show Prev/Next record</B> buttons at the 
+  bottom to scroll trough your records.</P>
+
+<P><u>You can withdraw a paper:</u><br>
+  Select the <B>Withdraw</B> option <B>followed by a Submit</B> if you want  to 
+  withdraw the current paper (we will remove the record before the 
+  review process).</P>
+
+<FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#336699">
+<H4>The review process</H4>
+</FONT><FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#464646">
+All submitted papers will be first reviewed by the program committee. 
+  Papers will be judged and accepted for the meeting based on the 
+  clarity with which the work is described and the biological relevance 
+  of the research.  For this reason authors should be careful to make 
+  the connection to biology clear.  We reject only a small fraction of 
+  the papers (~ 5%) and this usually based on absence of biological 
+  relevance (e.g. pure machine learning). We will notify authors of 
+  meeting acceptance before begin March.
+
+  The second stage of review involves evaluation by two independent 
+  reviewers of full papers submitted to the journal Neurocomputing 
+  (all) and those extended summaries which requested an oral 
+  presentation.
+
+  Full papers will be reviewed as real journal publications: each paper 
+  will have an action editor and two independent reviewers. The paper 
+  may be rejected for publication if it contains no novel content or is 
+  considered to contain grave errors.  We hope that this will apply to 
+  a small number of papers only but we also need to respect a limit of 
+  maximum 200 published papers which may enforce more strict criteria. 
+  Paper rejection at this stage does not exclude poster presentation at 
+  the meeting itself as we assume that these authors will benefit from 
+  the feedback they can receive at the meeting. Accepted papers will 
+  receive comments for improvements and corrections from the reviewers. 
+  Submissions of the revised papers will be due in August.
+
+  Criteria for selection as an oral presentation include perceived 
+  quality, the novelty of the research and the diversity and coherence 
+  of the overall program.  To ensure diversity, those who have given 
+  talks in the recent past will not be selected and multiple oral 
+  presentations from the same lab will be discouraged. All accepted 
+  papers not selected for oral talks as well as papers explicitly 
+  submitted as poster presentations will be included in one of three 
+  evening poster sessions.  Authors will be notified of the 
+  presentation format of their papers by begin of May.
+
+
+<FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#336699">
+<H4>Conference proceedings</H4>
+</FONT><FONT FACE="ARIAL,HELVETICA,HELV" COLOR="#464646">
+
+The proceedings volume is published each year as a special supplement 
+  to the journal Neurocomputing. Only 200 papers 
+  will be published in the proceedings volume. For reference, papers 
+  presented at CNS*02 can be found in volumes 52-54  of Neurocomputing 
+  (2003).
+</TD>
+</TR>
+
+</TABLE>
+
+<BR>&#160;
+
+<!--#include virtual="/includes/top.shtml" -->
+<!--#include virtual="/includes/neuroinf-links-table" -->
+<!--#include virtual="/includes/copyright-table.shtml" -->
+
+<FONT SIZE="1" FACE="arial,helvetica,helv" COLOR="#FFFFFF">
+<!--#include virtual="/cgi-bin/stats.cgi?neuroinf_home"-->
+
+</BODY>
+</HTML>

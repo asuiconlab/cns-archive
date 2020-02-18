@@ -1,0 +1,53 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"William Levy" <wbl@virginia.edu>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 2/4/2004 1:4:39
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear William Levy,
+
+We're happy to inform you that your paper 'Energy-Efficient Interspike Interval Codes' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Don Johnson
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The paper addresses optimality of neural coding in the presence of metabolic constraints. It is written well and presents solid arguments. I found minor formatting and techincal points that may improve the presentation. Points follow 
+
+p.4, construction of 5a and 5b  Why not use the energy distribution, as before with the information? Each time interval t incurs an energy expenditure e(t) = c_o(t/t_o -1 + r) and has a probability density p(t), so the expected energy (per spike) is the expectation E_p(t) e(t). This provides exactly the expression in 5b, but why not be consistent with the notation and estimation?
+
+p.5 eq. 9  The expressions are slightly misleading, since x >= to because of the construction. It would help if the authors have an explicit Heaviside function in equation 7-9, showing the positivity constraints.
+
+ibid., reference to Fig.1  The limiting case of v >> m would help as well, to illustrate the situation when the noise is not comparable to the signal.
+
+p.7, comparison to the binary code (par 1 and 2)  The authors claim that the interval code can have capacity higher than the binary code. Well, yea, since for small \nu the intervals can be read with precision higher than the binary code. They need not restrict the bin size for the binary code to t0; this is just the refractory period, does not mean spikes cannot be more precise than that. Then the binary code should be identical to the ISI code...
+
+p.9, caption of Fig.2  The labeling of the curves could be improved. It makes more sense to have a-c correspond to v= .1 - 10, d and e - to previous
+cases. Now the reader needs to remember the order as well...
+
+Reviewer 2 :
+I think it obvious that exponential interval distribution and the Bernoulli model agree. Also, mutual information/unit time is not "the mean information transmitted per spike." Why have ANY jitter? Then MI equals the entropy of X, and that certainly is not information/spike.
+

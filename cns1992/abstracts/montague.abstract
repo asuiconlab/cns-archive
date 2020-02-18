@@ -1,0 +1,23 @@
+Signaling Local Synaptic Covariance through Space
+
+Read Montague  Peter Dayan Terrence J. Sejnowski
+Computational Neurobiology Laboratory
+The Salk Institute 
+P.O.Box 85800 
+San Diego, CA 92186-5800
+
+Please direct correspondence to the first author 
+read@helmholtz.sdsc.edu
+
+Recent experimental evidence suggests that a rapidly diffusing signal
+produced at active synapses may be a determiner of Hebbian plasticity.
+We have analysed this new mechanism and have considered examples of
+the different predictions such a local signaling mechanism forces: (1)
+explicit normalisation is not required for the development of ocular
+dominance columns; (2) there is a critical minimum column width; (3)
+the diffusible signal produced at active synapses could be expected to
+modulate the efficacy of other synaptic terminals in the region
+containing different neurotransmitters; and (4) if the mechanism can
+act over short time-scales, then it can boost the signal/noise ratio
+through local contrast enhancement. We demonstrate these conclusions
+through simulations performed on an MIMD hypercube.

@@ -1,0 +1,83 @@
+ACTUATOR:	mail
+FROM:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+TO:	"Gennady Cymbalyuk" <gcym@phy-astr.gsu.edu>
+REPLY:	"Frances Skinner" <fskinner@uhnres.utoronto.ca>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 21:37:50
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Gennady Cymbalyuk,
+
+We're happy to inform you that your paper 'Transition between tonic spiking and bursting in a neuron model' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Frances Skinner
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+Frances Skinner and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+In this paper, the authors describe the dynamics and bifurcation structure
+of a generic, neural-based system of ODE's consisting of both fast and slowly evolving
+variables that can exhibit bistability between a tonic spiking solution
+and a bursting solution.  The generic model is presumably derived from
+biophysical models of oscillating interneurons in the leech heartbeat
+central pattern generator, but this is not made explicitly clear in the
+text (see Major Points 2&3 below).  The bifurcation analysis is sound and
+the bistable solution is interesting, but the paper needs to be
+revised to better motivate the analysis and to make clearer the significance of
+bistability between bursting and tonic spiking.
+
+Major Points 
+
+1) The paper does not address the transition between bursting and tonic
+spiking as proposed by the title and the first sentence of the Conclusions.
+There is no description of transitioning - or jumping - from tonic spiking
+to bursting in the bistable regime.  And there is no description of the
+transition between a model regime where only tonic spiking is observed to
+a regime where only bursting is observed.  Either the title of the paper
+needs to be changed, or text needs to be included to discuss the
+transitions between spiking and bursting.
+
+2) Last 2 sentences on pg.2, 1st and 3rd sentences on pg.3   None of these
+claims are substantiated in the text.  There is no explanation of a smooth
+transition between spiking and bursting.  There is no identification of
+physiologically plausible parameters that can control the burst profile.
+No feasible predictions for experimental studies are given.  Either remove
+claims or provide text.  The authors do not show in the paper that the
+bifurcations in the biophysical models are analogous to those in the
+generic model.  This comparison could be done briefly with text
+dedicated to directly comparing the numerical results of Fig 1 
+with the bifurcation diagrams in Fig 2.
+
+3) Three models are described in the paper - the canonical model in [6],
+the simplified model in [4] and the generic model given in Eq (1) -
+but it is not clearly explained what the connection is between the generic
+model and the biophysical models, and which biophysical model shows the
+bistability.  The model whose numerical solutions are shown in Fig 1 
+should be named. Also, in the Fig 1 caption, explain what m_K2 and
+V_h_1/2 are.
+
+Reviewer 2 :
+This is an excellent paper. The authors are experts in the field, and the results, though not surprizing, are novel, interesting and important. I recomend to accept it as is. The authors may increase the readability of the paper by shortening the introduction, and explaining better the dynamics and bifurcation part. Keep in mind that most biologists wish to understand the results, but do not have enough mathematical background to do so. It might be good to have a more extended version published elsewhere, so that interested reader can be referred to it. 
+

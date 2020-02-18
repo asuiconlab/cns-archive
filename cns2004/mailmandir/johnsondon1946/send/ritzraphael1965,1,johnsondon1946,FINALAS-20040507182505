@@ -1,0 +1,44 @@
+ACTUATOR:	mail
+FROM:	"Don Johnson" <dhj@rice.edu>
+TO:	"Raphael Ritz" <ritz@itb.biologie.hu-berlin.de>
+REPLY:	"Don Johnson" <dhj@rice.edu>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 7/5/2004 18:25:5
+-----------------------DATA----------------------
+Dear Raphael Ritz,
+
+We're sorry to inform you that your paper 'NIPClassificator - 
+Toward an evolvable neuroinformatics ontology' is NOT accepted for
+publication in the CNS proceedings.  The comments of the reviewers
+which led to this rejection can be found below.  Notice that you are
+still invited to present your paper as a poster at the CNS*04 meeting
+and hope that the comments will help you in improving your
+presentation.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Don Johnson and Erik De Schutter
+
+COMMENTS FROM REVIEWERS
+
+Reviewer 1:
+This manuscript describes one small aspect of the Neuroinformatics Portal Pilot. While this project itself is important, there are some major weaknesses in this manuscript. 
+
+The abstract should more closely address the topics covered in this worknamely what does the classification system do and how is it important to the portal overall. Although the rationale and objectives for the portal are described in other references, it would be appropriate to provide a brief summary here in order to provide a context for this work. 
+
+In the discussion of controlled vocabularies there are no references  to previous work in this area. I find the examples of relationships to be lacking. I suggest providing a more extensive example (in a figure) demonstrating a tree-structured relationship showing specifics to general concepts as you move up the tree and giving specific examples of the complex structures listed here. It would be most instructive if this example came from neuroscience. You could build on this example by adding new words and relationships as an example of user-defined additions to the vocabulary.
+
+There is a reference on page 4 to an algorithm of Ratcliff and Obershelp with no citation. 
+
+Under the heading of inference, there is a description of a quantitative assignment of relationships among keywords. This requires more details as well as a concrete example from neuroscience that demonstrates this technique. Also, how are shortest possible paths determined? Again references  must be provided here. The authors state that this is an area of ongoing research in machine learning and artificial intelligence so references are in order.
+
+Under interoperability, are there other neuroscience applications that are currently being used that define their own vocabularies? If so, those should be listed here. Are any of them also using OWL so that this idea would be of use. I think more detail should be given in this section concerning how the portal application makes use of this ontology support.
+
+
+
+
+Reviewer 2 :
+This paper seems premature, with little insight into the particular problems confronting building an information base for neuroscience. It is fine for the conference, but as a publication it needs maturation and more technical detail.

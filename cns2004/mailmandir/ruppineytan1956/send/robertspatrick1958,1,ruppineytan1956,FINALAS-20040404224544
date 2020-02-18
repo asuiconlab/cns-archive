@@ -1,0 +1,47 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Patrick Roberts" <robertpa@ohsu.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:44
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Patrick Roberts,
+
+We're happy to inform you that your paper 'Recurrent Neural Network Generates a Basis for Sensory Image Cancellation' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper aim is to show that the recurrent architecture, in the layer of granule cells of the electrosensory lateral line lobe (ELL) of mormyrid electric fish, can lead to the cancellation of the predictable sensory image. The paper discusses briefly some results of a model based on the dynamics of a recurrent layer. 
+
+I agree with the author that recurrent networks play a fundamental roll in many architectures of the nervous system. An effort to understand the recurrent dynamics is, certainly, vital. On the other hand, a vast work has been performed on this matter and an extensive literature, disregarded by the authors, is available. Furthermore, the analysis results lack some very important informative details, for example  
+How the level of recurrence influences the performance of the model? What does the model predict? Are these predications testable?
+
+Reviewer 2 :
+
+

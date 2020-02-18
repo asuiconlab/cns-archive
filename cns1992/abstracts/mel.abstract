@@ -1,0 +1,32 @@
+Large Nonlinear Pattern Discrimination in Dendritic Trees
+
+Bartlett W. Mel
+ Computation and Neural Systems Program
+ Division of Biology, 216-76
+ California Institute of Technology
+ Pasadena, California 91125
+ mel@cns.caltech.edu
+
+
+A recent compartmental modeling study showed that a dendritic tree
+rich in NMDA-type synaptic channels is selectively responsive to
+spatially clustered, as opposed to diffuse, pattens of synaptic
+activation \cite{mel:neuralcomp}.  This ``cluster-sensitivity''
+property was shown to be a sufficient mechanism to underlie true
+nonlinear pattern discrimination at the single cell level.  The
+effects of other physiologically-characterized nonlinear membrane
+mechanisms have now been tested with respect to dendritic
+cluster-sensitivity, including voltage-dependent sodium and calcium
+channels of various kinetics and in various spatial distributions.
+Under loose assumptions, the capacity for nonlinear pattern
+discrimination can be greatly enhanced by the presence of excitatory
+voltage-dependent membrane channels.  An abstract model neuron, called
+a {\sl clusteron}, is shown to capture important aspects of the
+cluster-sensitive input-output behavior of a full
+biophysically-modeled dendritic tree.  An
+analysis of the storage capacity of the {\sl clusteron} is presented,
+and empirical results with a cluster-sensitive Hebb-type learning rule
+are shown to lead to a large storage capacity for
+nonlinearly-separable pattern sets.
+
+

@@ -1,0 +1,29 @@
+Multi-Layer Bidirectional Auto-Associative Memories
+
+
+All correspondence should be addressed to Dr. D.Bairaktaris
+
+Dimitrios Bairaktaris
+Medical Research Council (UK) Fellow,
+Human Communication Research Centre,
+University of Edinburgh, 
+2 Buccleuch Place, Edinburgh EH8 9LW, Scotland
+tel. (+44) 31 6504450, e-mail dimitris@uk.ac.ed.cogsci
+
+
+
+This paper describes an auto-associative memory system, which is
+based on a combination of the Bidirectional Associative Memory
+(BAM) architecture and the use of randomly generated hidden
+representations called Randomized Internal Representations.  The
+capacity and recall performance of the proposed system have been
+investigated under reduced connectivity and noise conditions.
+Analytical and simulation results suggested that the proposed system
+has an overall improved performance over other auto-associator
+networks.  A multi-layer version of the basic system allows for storage
+and recall of non-random patterns.  The system is capable of detecting
+novelty in the input when augmented with a plasticity-stability control
+mechanism.  There is a number of functional and anatomical
+similarities between the proposed multi-layer system and the
+hippocampal formation in the brain.
+

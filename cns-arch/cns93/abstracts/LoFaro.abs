@@ -1,0 +1,21 @@
+ Subharmonic Coordination in Networks of Neurons with Slow
+Conductances
+Thomas LoFaro, Nancy Kopell, Eve Marder, and Scott L. Hooper
+
+Thomas LoFaro\\
+Department of Mathematics\\
+Boston University\\
+Boston, MA 02215\\
+toml@math.bu.edu
+
+We study the properties of a network consisting of two model neurons
+that are coupled by reciprocal inhibition.  One of the model neurons
+is an endogenous burster; the other is excitable but not bursting in
+the absence of phasic input.  We show that the presence of a
+hyperpolarization activated inward current ($i_h$) in the excitable
+neuron allows that neuron to fire once for every several
+bursts of the oscillator, depending on the amount of hyperpolarizing
+current injected into that neuron.  The mechanism of this work
+provides a potential means of coordinating subnetworks acting on
+different time scales but maintaining fixed relationships between
+characteristic points in the cycles of the model neurons.

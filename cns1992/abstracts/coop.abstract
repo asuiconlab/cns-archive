@@ -1,0 +1,13 @@
+CNS*92 Abstract
+(50-100 words - For publication)
+
+
+A Model of the Peristaltic Reflex.
+
+A. D. Coop and S. J. Redman.
+Division of Neuroscience, John Curtin School of Medical Research,
+The Australian National University, GPO Box 334, 2601, Canberra, Australia.
+
+
+A computational model of the peristaltic reflex containing ascending excitatory and descending inhibitory projections replicated much of the behaviour observed experimentally after reflex activation, including: i. orally directed contraction and anally directed relaxation of the circular muscle, ii. the induction of a propagating circular muscle contraction associated with bolus movement. Simulation results showed bolus movement to be: i. restricted by limiting the number of times sensory neurones could generate an action potential, ii. sensitive to its size and asymmetric weight distributions biased in favour of excitatory pathways, iii. maintained with overlapping projections only when the excitatory projections extended anally.
+

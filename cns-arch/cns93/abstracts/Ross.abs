@@ -1,0 +1,27 @@
+  Computer Simulations of Neurocomputation by the Vestibular Macula:
+                        A Prototypic Neural System
+
+
+           1Muriel D. Ross, 2David G. Doshay, 2Thomas C. Chimento
+        1NASA Ames Biocomputation Center, Moffett Field, CA 94035-1000
+                       e-mail ross@neuron.arc.nasa.gov
+                   2Sterling Software, Palo Alto, CA 94303
+        e-mail chimento@pioneer.arc.nasa.gov   doshay@soma.arc.nasa.gov
+
+
+
+
+Vestibular maculas are prototypic neuronal networks having many of the
+attributes of more advanced systems. Basic macular organization is
+characterized by highly channeled and distributed modifying circuits that are
+integrated through feedforward-feedback loops. A third circuit may provide
+a bias to maintain intrinsic activity. This architecture is under study by
+one-, two- and three-dimensional computer simulations based on data from
+electron microscopy and experimentation. Results suggest that synaptic
+activity in the highly channeled circuit is enhanced by morphological
+specializations. The distributed modifying circuit is the more adaptive and
+may function to focus output to certain bipolar neurons through lateral
+inhibition.
+
+Supported by NASA and by NIMH Grant # MH47305-02.
+

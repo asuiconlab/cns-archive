@@ -1,0 +1,682 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1992 - Abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1992 - Abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1992, 
+cns, computational, neuroscience, workshop, talks, posters, Abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1992</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1992, San Francisco, California</h3>
+  	
+  	<h4>CNS*1992 Abstracts</h4>
+  	
+  	<ul>
+  	  <li><a name="Ahmad"></a>
+  	  <p><b>Author:</b> Subutai Ahmad<br />
+  	  International Computer Science Institute<br />
+  	  and<br />
+  	  Siemens Corporate Research<br />
+  	  Siemens AG, ZFE ST SN6<br />
+  	  Otto-Hahn Ring 6,<br />
+  	  8000 Munich 83, Germany</p>
+  	  <p><b>Title:</b> A Model of Human Visual Attention</p>
+  	  <p><b>Abstract:</b> Visual attention is the ability to dynamically restrict processing to a 
+  	  subset of the visual field. Such a mechanism is necessary to efficiently perform many 
+  	  intermediate level visual tasks. This presentation describes VISIT a novel neural network model 
+  	  of covert visual attention. The current system models the search for target objects in scenes 
+  	  containing multiple distractors. This is a natural task for people, it is studied extensively by 
+  	  psychologists, and it requires attention. The network's behavior closely matches the known 
+  	  psychophysical data on visual search and visual attention. VISIT also matches much of the 
+  	  physiological data on attention and provides a novel view of the functionality of a number of 
+  	  visual areas.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Aitken"></a>
+  	  <p><b>Author:</b> Ashley M. Aitken<br />
+      Artificial Intelligence Laboratory, Schools of Electrical Engineering and Computer Science 
+      &amp; Engineering,<br />
+      The University of New South Wales,<br />
+      Box 1, PO Kensington, N.S.W. 2033, AUSTRALIA.</p>
+  	  <p><b>Title:</b> Overview of the Valentino Computational Neuroscience Workbench for Simulation 
+  	  of Neural Systems</p>
+  	  <p><b>Abstract:</b> We present an innovative simulator system designed to facilitate research in 
+  	  computational neuroscience. The Valentino Computational Neuroscience Workbench (CNW) 
+  	  incorporates an object-oriented design and a neuroscience workbench metaphor wherein a number of 
+  	  independent tools manipulate a shared persistent simulation structure. Central to the system is 
+  	  a novel tool for configuring structured neural networks using a graphical user-interface and 
+  	  powerful interconnection selection criteria and schema. Together these make the Valentino CNW 
+  	  powerful, flexible, extendible and, yet, still easy-to-use - unlike some other presently 
+  	  available simulators.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Anastasio"></a>
+  	  <p><b>Author:</b> Thomas J. Anastasio<br />
+      University of Illinois<br />
+      Beckman Institute</p>
+  	  <p><b>Title:</b> Recurrent backpropagation 
+      models of the Vestibulo-Ocular Reflex provide experimentally testable predictions</p>
+  	  <p><b>Abstract:</b> Previous, static backpropagation 
+      models of the vestibulo-<br />
+      oculomotor system were able to capture the distributed aspects of <br />
+      eye-movement command representation by brainstem neurons.<br />
+      However, these models do not readily offer testable predictions.<br />
+      More recently, recurrent backpropagation models have been used to <br />
+      study the dynamic and nonlinear features of the vestibulo-ocular<br />
+      reflex (VOR). The dynamic models make clear predictions concern-<br />
+      ing the behavior of VOR neurons following lesions. Some of the<br />
+      predictions from the recurrent backpropagation models differ in<br />
+      critical ways from those derived from analytical models of VOR.<br />
+      The testability of the recurrent models encourages a continued<br />
+      dialog between theory and experiment.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Anderson"></a>
+  	  <p><b>Author:</b> Charles H. Anderson~. Bruno Olshausen2, David Van Essen3<br />
+      Jet Propulsion Laboratory1<br />
+      Computation and Neural Systems Program2<br />
+      Division of Biology3<br />
+      California Institute of Technology<br />
+      Pasadena, CA 91125</p>
+  	  <p><b>Title:</b> Neural Routing Circuits in Primate Visual Cortex</p>
+  	  <p><b>Abstract:</b> Directed visual attention can be modeled by neural routing circuits that 
+  	  provide high-level areas of the visual cortex with dynamic access to retinal sensory inputs. 
+  	  This approach has many computational advantages over the more static, feedforward models of 
+  	  vision which construct increasingly more complex receptive fields as one moves upward through 
+  	  the hierarchy of cortical areas. Here, we provide details on the structure of neural routing 
+  	  circuits and their control as illustrated by interactive computer programs. Neural substrates 
+  	  for routing and control are proposed and physiological support for the model is discussed.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Arad"></a>
+  	  <p><b>Author:</b> N. Arad &amp; E. Ruppin &amp; Y. Yeshurun<br />
+      School of Mathematical Sciences<br />
+      Sackler Faculty of Exact Sciences<br />
+      Tel Aviv University<br />
+      69978, Tel Aviv, Israel</p>
+  	  <p><b>Title:</b> Dopaminergic Induced Multi-stable States in Neural Networks </p>
+  	  <p><b>Abstract:</b> The dynamical behaviour of neural networks is typically considered to be 
+  	  controlled by the synaptic weights and by the neurons' thresholds. Recently, it was suggested 
+  	  that the network's activity can be modified by solely modulating the neuronal activation 
+  	  function. We examine the effect of modulatory neurotransmitter on the behavior of a simple 
+  	  excitatory neural network model by varying the neuronal gain. The network passes through several 
+  	  qualitatively distinct regions of activity, traversing from a uni-steady state to a multi-steady 
+  	  state region, and back to a region of a small number of steady states. Our results may shed 
+  	  light on the possible regulatory role of dopamine in the cortico-striato-pallido-thalamic loop, 
+  	  and the effects of its malfunction in the pathogenesis of movement related disorders.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Assad"></a>
+  	  <p><b>Author:</b> Christopher Assad, Brian Rasnow, James M. Bower</p>
+  	  <p><b>Title:</b> Numerical simulations of the electric organ discharge of weakly electric 
+  	  fish.</p>
+  	  <p><b>Abstract:</b> A model of a weakly electric fish was constructed with data taken from 
+  	  Apteronotus leptorhynchus, and the electric organ discharge was simulated using boundary 
+  	  element and finite element methods. Maps of the electric potential measured around a live fish 
+  	  were used to calibrate the model parameters and test the results. Initial results suggest the 
+  	  fish's body position has a significant effect on the electrical images detected by the fish. Our 
+  	  goal is to quantitatively simulate various sequences of electrosensory input being sent to the 
+  	  central nervous system as the result of the fish's exploratory behavior.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Axelrad"></a>
+  	  <p><b>Author:</b> H. Axelrad<br />
+      Lab. of Neurophysiology- Fac. Medecine Pitie- Paris13 - France<br />
+      Dept. of Theoretical Physics - CEA - Saclay - France</p>
+  	  <p><b>Title:</b> A study of computation in a simple Neuronal Network: experimental recording and 
+  	  theoretical simulation of the immature rat cerebellar cortex</p>
+  	  <p><b>Abstract:</b> Experimental and theoretical analysis of the 5-7 days old rat cerebellar 
+  	  cortex (Cbcx) was undertaken to get some insight on the role of inhibition in modulating the 
+  	  ongoing activity and the spatial distribution of functionally correlated neurons. Pairs of 
+  	  Purkinje cells (PC) were recorded in vivo before and after uncoupling the inhibitory links 
+  	  (mediated by their recurrent collaterals) via superfusion of biccuculin. Statistical techniques 
+  	  were used to assess the characteristics and correlation of the spike trains. A new tool is 
+  	  presented which computes an index of informational entropy. Experimental results are compared 
+  	  with simulation results from a biologically accurate model of this structure. It appears that 
+  	  inhibition: 1- significantly changes the spike trains data; 2- it restricts the space of states 
+  	  in which the network can evolve and 3-it leads to a spatio-functional segregation of correlated 
+  	  PCs. The limitations of CNS models will be discussed.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bair"></a>
+  	  <p><b>Author:</b> Wyeth Bair<br />
+      Computation and Neural Systems Program,<br />
+      California Institute of Technology, Pasadena,CA.</p>
+  	  <p><b>Title:</b> Power Spectrum Analysis of MT Neurons from the Awake Monkey</p>
+  	  <p><b>Abstract:</b> We analyzed extracellular spike trains recorded from single cells in area MT 
+  	  in rhesus monkeys which performed a demanding motion discrimination task (Newsome, Britten &amp; 
+  	  Movshon, 1989). In particular, we computed the power spectra of spike trains from 2 sec long 
+  	  trials of visual stimulation during which the monkey held fixation. Most cells have a relatively 
+  	  flat spectrum with a dip at low frequencies, indicative of a Poisson process with a refractory 
+  	  period. 10% of cells have a substantial peak in the spectrum between 25-50~z, but the presence 
+  	  and strength of this peak does not correlate in any way with the know behavior of the monkey 
+  	  (e.g. correct or incorrect decision). However, there exists a very strong correlation between 
+  	  cells that discharge 2-4 spikes within 37msec (burst cells) and cells that have a peak in the 
+  	  power spectrum. The simplest interpretation of this data is that a small fraction of cells 
+  	  randomly and independently of the stimulus fire in bursts followed by a refractory period, 
+  	  giving rise to a peak near 40Hz in the power spectrum</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bairaktaris"></a>
+  	  <p><b>Author:</b> Dimitrios Bairaktaris<br />
+      Medical Research Council (UK) Fellow,<br />
+      Human Communication Research Centre,<br />
+      University of Edinburgh, <br />
+      2 Buccleuch Place, Edinburgh EH8 9LW, Scotland</p>
+  	  <p><b>Title:</b> Multi-Layer Bidirectional Auto-Associative Memories</p>
+  	  <p><b>Abstract:</b> This paper describes an auto-associative memory system, which is based on a 
+  	  combination of the Bidirectional Associative Memory (BAM) architecture and the use of randomly 
+  	  generated hidden representations called Randomized Internal Representations. The capacity and 
+  	  recall performance of the proposed system have been investigated under reduced connectivity and 
+  	  noise conditions. Analytical and simulation results suggested that the proposed system has an 
+  	  overall improved performance over other auto-associator networks. A multi-layer version of the 
+  	  basic system allows for storage and recall of non-random patterns. The system is capable of 
+  	  detecting novelty in the input when augmented with a plasticity-stability control mechanism. 
+  	  There is a number of functional and anatomical similarities between the proposed multi-layer 
+  	  system and the hippocampal formation in the brain.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Barrow"></a>
+  	  <p><b>Author:</b> Harry Barrow and Alistair Bray<br />
+  	  School of Cognitive and Computing Sciences<br />
+  	  University of Sussex<br />
+  	  Brighton, BN1 9QH, UK</p>
+  	  <p><b>Title:</b> An Adaptive Neural Model of Early Visual Processing</p>
+  	  <p><b>Abstract:</b> We describe an adaptive computer model of processing in the mammalian visual 
+  	  system, from retina to primary visual cortex, which incorporates: processing in retina and LGN; 
+  	  Non-negative neuron outputs and connection strengths; On-center and off-center channels; 
+  	  Excitatory and inhibitory cortical populations (3750 neurons); Non-linear cortical neurons, 
+  	  based on membrane potential and relaxation oscillator equations; Adaptive cortical connections. 
+  	  With images of the real world as input, the model robustly and simultaneously develops: oriented 
+  	  receptive field patterns, Gabor function-like fields, smoothly-varying orientation preference, 
+  	  and retinotopic mapping. Experiments with this and related models suggest the same mechanism may 
+  	  produce ocular dominance, and possibly color blobs</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bell"></a>
+  	  <p><b>Author:</b> Anthony J. Bell<br />
+  	  AI-lab, Vrije Universiteit Brussel<br />
+  	  Pleinlaan 2, B-1050 Brussels <br />
+  	  BELGIUM</p>
+  	  <p><b>Title:</b> Self-organising ion channel densities: the rationale for Anti-Hebb</p>
+  	  <p><b>Abstract:</b> Although neural communication and integration are determined by the 
+  	  distribution of ion channels in the membrane, the role of voltage-dependent channels in neural 
+  	  integration is poorly understood. Here, an argument is presented for an `anti-Hebbian' rule 
+  	  which changes the distribution of intrinsic conductances in order to flatten voltage curvatures 
+  	  in dendrites. Simulations show that this rule can account for the self-organisation of dynamical 
+  	  receptive field properties such as resonance and direction selectivity, and also for faithful 
+  	  conduction of a signal in a cable. Various cellular mechanisms are proposed including 
+  	  activity-dependent migration of channel proteins in the plane of the membrane.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Berns"></a>
+  	  <p><b>Author:</b> Gregory S. Berns, Peter Dayan, Terrence J. Sejnowski<br />
+      CNL, Salk Institute for Biological Studies,<br />
+      PO Box 85800, San Diego, CA 92186-5800 USA</p>
+  	  <p><b>Title:</b> Correlational-Based Development of Disparity Sensitivity</p>
+  	  <p><b>Abstract:</b> A correlational-based model of development of disparity sensitivity is 
+  	  proposed. Two input layers are fully connected to a single cortical layer with fixed 
+  	  intra-cortical connections, and the weights modified by an unsupervised linear Hebb rule. A 
+  	  small amount of between-eye correlation (approximately 5% the amplitude of the same-eye 
+  	  correlation) leads to the development of binocular cortical cells with the left and right 
+  	  receptive fields aligned, i.e. zero disparity. Several cells which become monocularly dominated 
+  	  tend to have non-zero disparity preferences. The same relationship between ocular dominance and 
+  	  disparity has been experimentally observed in the visual cortex.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Blum"></a>
+  	  <p><b>Author:</b> E. K. Blum,<br />
+  	  P. M. Khademi, D. G. Lavond, P. K. Leung &amp; R. F. Thompson<br />
+  	  Neural, Informational and Behavioral Sciences Program<br />
+  	  University of Southem California, Los Angeles, 90089 CA.</p>
+  	  <p><b>Title:</b> Modeling and Simulation of Cerebellar Networks Implicated in Classical 
+  	  Conditioning of the Rabbit Eyeblink Response</p>
+  	  <p><b>Abstract:</b> Continuing previous research, several new detailed compartment models of 
+  	  cerebellar networks were developed based on new data from extra-cellular recordings in rabbit 
+  	  during conditioning of the eyeblink response. New sites of synaptic plasticity were postulated, 
+  	  as suggested by recent cooling-probe experiments, and these were incorporated into the models. 
+  	  The models were tested by simulation using the CAJAL simulator, which produces action potential 
+  	  spike trains that can be compared against the experimental time-trace data. Effects of 
+  	  cooling-induced lesions are simulated by varying certain parameters in the model neurons 
+  	  implicated by the lesion experiments. Conditioning is simulated by varying parameters in the 
+  	  model synapses of neurons implicated by these same experiments in a series of computer runs 
+  	  simulating training trials. Results provide further evidence that these cerebellar circuits may 
+  	  be the main neural substrates of this conditioning paradigm.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Borg"></a>
+  	  <p><b>Author:</b> Lyle J Borg-Graham and Norberto Grzywacz<br />
+  	  Center for Biological Information Processing E25-201<br />
+  	  Department of Brain and Cognitive Sciences<br />
+  	  Massachusetts Institute of Technology<br />
+  	  Cambridge, Massachusetts, 02139</p>
+  	  <p><b>Title:</b> Non-Linear Spatio-Temporal Filtering in Dendrites: Directional Selectivity and 
+  	  Beyond</p>
+  	  <p><b>Abstract:</b> We consider the non-linear spatio-temporal computation of directional 
+  	  selectivity (DS), and describe a model of retinal DS whose key elements are contained within the 
+  	  dendritic branches of amacrine cells. Interaction between excitatory and inhibitory synaptic 
+  	  input provides the non-linearity crucial for DS. Distal outputs, cable properties and synaptic 
+  	  kinetics underly spatial asymmetry, discrimination, and temporal delay, respectively. The model 
+  	  is supported by simulations of retinal cells and is consistent with recent electrophysiological 
+  	  data. Similar conditions may occur elsewhere in the brain, and simulations of hippocampal 
+  	  pyramidal cells suggest that dendritic filtering that is selective for synaptic activation 
+  	  sequence may be a more general phenomenon.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bower"></a>
+  	  <p><b>Author:</b> James M. Bower and John H. Thompson</p>
+  	  <p><b>Title:</b> A Silicon-based multi-single neuron probe designed for use in the cerebellum</p>
+  	  <p><b>Abstract:</b> We have developed a silicon-based multichannel recording system for 
+  	  monitoring the single-unit activity of multiple neurons in the cerebellum. The system consists 
+  	  of a 15 channel multielectrode array, supporting electronics, and computers for data acquisition 
+  	  and analysis. The probe is a comb-like structure with 5 teeth and 3 recording sites per tooth. 
+  	  The geometry of the recording sites has been tailored to the anatomy of cerebellar cortex. Each 
+  	  tooth is very sharp and enters the brain with little or no dimpling. Recording sites, connecting 
+  	  leads, and wire-bonding pads are fabricated on a silicon substrate using thin-film technology. 
+  	  These probes have been used to record spontaneous granule cell, simple spike and complex spike 
+  	  responses in crus lla of the rat cerebellar hemisphere with excellent signal to noise 
+  	  characteristics.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bressler"></a>
+  	  <p><b>Author:</b> S.L. Bressler<br />
+      Center for Complex Systems, Florida Atlantic U., Boca Raton, FL 33431<br />
+      R.K. Nakamura<br />
+      NIMH, Bethesda, MD 20892</p>
+  	  <p><b>Title:</b> Inter-areal synchronization in rhesus macaque neocortex during a visual pattern 
+  	  discrimination task</p>
+  	  <p><b>Abstract:</b> Functional relations between cortical sites were investigated in the 
+  	  behaving monkey. Transcortical field potentials were recorded from chronically implanted 
+  	  electrodes in macaques responding to one stimulus by lifting their hand from a lever within 500 
+  	  msec (GO task), and to another by holding the lever (NO-GO task). FFTs of single-trial 
+  	  potentials were computed in a sliding window. Broad-band power increased during the response in 
+  	  the GO condition timelocked across cortical sites, and broad-band coherence between sites also 
+  	  increased. In individual trials, high-frequency oscillations briefly synchronized at the 
+  	  low-frequency amplitude peak.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Bush"></a>
+  	  <p><b>Author:</b> Paul C. Bush<br />
+  	  Terrence J. Sejnowski<br />
+  	  Howard Hughes<br />
+  	  Medical Institute and Computational Neurobiology<br />
+  	  Laboratory, Salk Institute, La Jolla, CA 92037, USA and University of<br />
+  	  California at San Diego, La Jolla, CA 92093, USA.</p>
+  	  <p><b>Title:</b> Simulations of Synaptic Integration in Neocortical Pyramidal Cells</p>
+  	  <p><b>Abstract:</b> Despite their electrotonic compactness, neocortical pyramidal cells cannot 
+  	  be considered as point neurons because of nonlinear interactions between inputs on the same 
+  	  dendritic branch. Using compartmental simulations, we have shown that dendritic saturation is 
+  	  significant for physiological levels of synaptic activation. We have also confirmed earlier 
+  	  results showing that inhibition strong enough to produce a significant reduction in the input 
+  	  resistance of a cell does not prevent the firing of the cell if it is receiving strong 
+  	  excitatory input. Finally, we present a reduced pyramidal cell model (9 compartments) that runs 
+  	  significantly faster yet faithfully reproduces the behavior of the full 400 compartment model. 
+  	  The reduced model will be used for future physiological network simulations.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Chimento"></a>
+  	  <p><b>Author:</b> Thomas C. Chimento,<br />
+      David G. Doshayl, Muriel D. Ross<br />
+      NASA-Ames, Biocomputation Center,<br />
+      MS-239-11, Moffett Field, CA 94035<br />
+      Steling Software, Palo Alto CA 94303</p>
+  	  <p><b>Title:</b> Compartmental modeling of vestibular primary afferents: Ultrastructural 
+  	  morphology matters.</p>
+  	  <p><b>Abstract:</b> Compartmental models were used to determine whether ultrastructural details 
+  	  of primary afferent neurons in the vestibular macula provide salient information for 
+  	  understanding cell function. Precise dimensions of primary afferent endings and the location of 
+  	  synapses were used as pararneters in computer simulations of passive current spread through the 
+  	  distal endings and action potential (AP) generation at the spike initiation zone (SIZ). It was 
+  	  demonstrated that synapse location and number, the morphology of the entire primary afferent and 
+  	  the morphology of collateral like processes had significant effects on depolarization magnitude 
+  	  and latency at the SIZ, thus deterrnining AP generation and latency. CNS*92 Abstract (50-100 
+  	  words - For publication)</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Coop"></a>
+  	  <p><b>Author:</b> A. D. Coop and S. J. Redman.<br />
+  	  Division of Neuroscience, John Curtin School of Medical Research,<br />
+  	  The Australian National University, GPO Box 334, 2601, Canberra, Australia.</p>
+  	  <p><b>Title:</b> A Model of the Peristaltic Reflex</p>
+  	  <p><b>Abstract:</b> A computational model of the peristaltic reflex containing ascending 
+  	  excitatory and descending inhibitory projections replicated much of the behaviour observed 
+  	  experimentally after reflex activation, including: i. orally directed contraction and anally 
+  	  directed relaxation of the circular muscle, ii. the induction of a propagating circular muscle 
+  	  contraction associated with bolus movement. Simulation results showed bolus movement to be: i. 
+  	  restricted by limiting the number of times sensory neurones could generate an action potential, 
+  	  ii. sensitive to its size and asymmetric weight distributions biased in favour of excitatory 
+  	  pathways, iii. maintained with overlapping projections only when the excitatory projections 
+  	  extended anally.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Schutter"></a>
+  	  <p><b>Author:</b> Erik De Schutter and James M. Bower,<br />
+  	  Div. of Biology 216-76, California<br />
+  	  Institute of Technology, Pasadena CA 91125.</p>
+  	  <p><b>Title:</b> Integration of synchronous and asynchronous synaptic inputs in a detailed<br />
+      compartmental model of the cerebellar Purkinje cell.</p>
+  	  <p><b>Abstract:</b> A detailed compartmental model of the Purkinje cell was used to examine 
+  	  integration of synchronous granule cell synaptic inputs during background asynchronous 
+  	  excitatory and inhibitory synaptic inputs. For a synchronous input on about 1% of the dendritic 
+  	  spines, the cell will fire on average one spike within 10 ms after the stimulus. This response 
+  	  is similar for inputs on proximal dendritic spines compared to inputs on distal spines. This 
+  	  insensitivity to the spatial location of synchronous inputs is caused by the P-type calcium 
+  	  channels in the dendritic membrane and by the branching pattern of the dendritic arbor.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Sat"></a>
+  	  <p><b>Author:</b> Virginia de Sat<br />
+  	  desaQcs . rochester . edu<br />
+  	  Computer Science Department<br />
+  	  University of Rochester<br />
+  	  Rochester, NY 14627-0226</p>
+  	  <p><b>Title:</b> Self-teaching through correlated input</p>
+  	  <p><b>Abstract:</b> How do cells in higher order sensory areas develop their invariant 
+  	  properties? In previous work we have shown that competitive learning coupled with a top-down 
+  	  teaching signal can produce compact invariant representations. In this paper we show that such a 
+  	  teaching signal can be derived internally from correlations between input patterns to two or 
+  	  more networks. Such correlations arise naturally from the structure present in natural 
+  	  environments. We demonstrate this process on two small but computationally difficult problems. 
+  	  We hypothesize that the correlations between and within sensory systems enable the learning of 
+  	  invariant properties.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Dominey"></a>
+  	  <p><b>Author:</b> Peter F. Dominey<br />
+  	  Hedco Neurosciences Building<br />
+  	  University of Southern California<br />
+  	  Los Angeles, CA, 90089-2520</p>
+  	  <p><b>Title:</b> A Model of Cortex, Basal Ganglia and Thalamus in Stimulus-Response</p>
+  	  <p><b>Abstract:</b> Novel visual stimuli are associated with saccadic eye movements. During 
+  	  learning, a visual stimulus is presented with a saccade target. Following a correct saccade, 
+  	  reward-related activation of the nigrostriatal dopamine system incrementally reinforces 
+  	  currently active visuo-striatal synapses. Striatum also receives input from FEF, and inhibits 
+  	  substantia nigra pars reticulata (SNr). SNr inhibits thalamic nuclei that project to FEF. 
+  	  Striatum assists activation of FEF via disinhibition of cortico-thalamic circuits. Presentation 
+  	  of a learned visual stimulus results in disinhibition of the thalamo-cortical circuit for the 
+  	  associated saccade. Background FEF activity is enhanced by the disinhibited thalamo-cortical 
+  	  circuit, resulting in the correct saccade.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Dong"></a>
+  	  <p><b>Author:</b> Dawei Dong<br />
+        Lawrence Berkeley Laboratory,<br />
+        University of California MS 70A-3307,<br />
+        1 Cyclotron Road, Berkeley, California 94720</p>
+  	  <p><b>Title:</b> Dynamics of hebbian learning in feedback networks and development of 
+  	  interconnection within visual cortex</p>
+  	  <p><b>Abstract:</b> Two kinds of dynamic processes take place in neural networks. One involves 
+  	  the change with time of the activity of each neuron. The other involves the change in strength 
+  	  of the connections (synapses) between neurons. When a neural network is learning or developing, 
+  	  both processes simultaneously take place, and their dynamics interact. This interaction is 
+  	  particularly important in feedback networks. Theoretical framework is developed to help 
+  	  understand the combined activity and synapse dynamics for a class of such adaptive networks. The 
+  	  methods and viewpoint are illustrated by using them to describe the development of orientation 
+  	  selective cells in cat primary visual cortex. Within this model, orientation selectivity 
+  	  originates from feedback pathways within an area of cortex, rather than feedforward pathways 
+  	  between areas.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Dorffner"></a>
+  	  <p><b>Author:</b> Georg Dorffner<br />
+  	  Thomas Schonauer<br />
+  	  Dept.of Medical Cybernetics and Artificial Intelligence,<br />
+  	  University of Vienna,<br />
+  	  and Austrian Research Institute for Artificial Intelligence</p>
+  	  <p><b>Title:</b> Unsupervised Learning of Simple Speech Production Based on Soft 
+  	  Categorization</p>
+  	  <p><b>Abstract:</b> In this paper a novel approach to the self-organization of a sensory-motor 
+  	  loop is proposed. A neural network receiving spectra of stationary signals as input and 
+  	  producing the motor parameters for an articulatory model is trained to reproduce perceived 
+  	  vowels. Learning consists of two components. First, categorization in alayer that gradually 
+  	  learns to compress inputs into more and more unitized responses (soft competitive learning). 
+  	  Secondly, adaptation of the weights between this and the output layer, taking as learning rate a 
+  	  measure of goodness-of-fit easily computed for each response in the categorization layer. The 
+  	  model learns by exploring the possible articulatory space - random, at first, then increasingly 
+  	  guided by the categorical repsonses - and adpating its weights when a signal, produced by 
+  	  itself, has a large goodness-of-fit with one of the learned categories.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Egert"></a>
+  	  <p><b>Author:</b> David Egert,<br />
+  	  U.C. Berkeley/U.C. San Francisco<br />
+  	  Graduate Group in Bioengineering</p>
+  	  <p><b>Title:</b> Hair-Cell Modelling to Explore the Physiological Basis of Tuning in the Lower 
+  	  Vertebrate Ear</p>
+  	  <p><b>Abstract:</b> The network modeling program SPICE was used to realize a model of hair-cell 
+  	  membrane dynamics and their role in the tuning processes of lower vertebrates. Driving the 
+  	  modeled system with sinusoidal strain, we observed the transfer relationship between strain and 
+  	  membrane potential. The observed transfer relation was of low dynamic order and was not 
+  	  consistent with the transfer relations we have seen in intact end-organs of the bullfrog. Hence 
+  	  we suspect the tuning involves interactions between several hair-cells, perhaps facilitated by 
+  	  mechanical linkages. (Work supported by NIH grant DC00112.)</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Erdi"></a>
+  	  <p><b>Author:</b>  P. Erdi,<br />
+        Biophysics Group,<br />
+        Central Research<br />
+        Institute for Physics,<br />
+        Hungarian Academy of Sciences,<br />
+        H-1525 Budapest P.O. Box 49, Hungary</p>
+  	  <p><b>Title:</b> Dynamic phenomenia in the olfactory bulb</p>
+  	  <p><b>Abstract:</b> A mathematical model of the olfactory bulb is presented to study the 
+  	  dynamics of the bulbar information processing. A two level model is adopted to describe both 
+  	  neural activity and synaptic modifiability. The model takes explicitly into account the 
+  	  existence of lateral interactions in the mitral layer, and the synaptic modifiability of these 
+  	  connections. A series of bifurcation phenomena among fix points, limit cycle and strange 
+  	  attractors have been demonstrated. Chaos occurred only in the case of excitatory lateral 
+  	  conncetions. Coexistence between oscillation and chaos, and synaptic modification induced 
+  	  transition have also been found.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Erwin"></a>
+  	  <p><b>Author:</b> E. Erwin,<br />
+        K. Obermayer and K. Schulten<br />
+        Beckman Institute and Department of Physics<br />
+        University of Illinois at Urbana-Champaign<br />
+        Urbana, IL61801,U.S.A.</p>
+  	  <p><b>Title:</b> A Critical Comparison of Models of Cortical Visual Map Formation</p>
+  	  <p><b>Abstract:</b> High-resolution images of orientation and ocular dominance columns in monkey 
+  	  striate cortex have recently been obtained by optical techniques, allowing a quantitative 
+  	  description of the spatial patterns on the local and global scales. The new data has provided 
+  	  strong evidence that the patterns of orientation and ocular dominance in monkey striate cortex 
+  	  are not independent, but rather correlated locally. In our contribution we compare the 
+  	  predictions of several models of cortical map formation, in light of the new data. The 
+  	  comparison is made in terms of Fourier transforms, auto-correlation functions, Gabor transforms, 
+  	  and the gradients of the spatial patterns. Our investigation includes topology-preserving maps 
+  	  and elastic-net models, models of correlation-based learning, and non-developmental pattern 
+  	  models. When possible, the models are also extended to account for the simultaneous formation of 
+  	  orientation and ocular dominance columns, and hence to allow predictions about correlations 
+  	  between the two maps.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Feinswog"></a>
+  	  <p><b>Author:</b> L. J. Feinswog,<br />
+  	  R. K. Hutson, G. T. Kenyon and D. C. Tam<br />
+  	  Division of Neuroscience<br />
+  	  Baylor College of Medicine<br />
+  	  Houston, TX 77030</p>
+  	  <p><b>Title:</b> An Object-Oriented Paradigm for the Design of Realistic Neural Simulators</p>
+  	  <p><b>Abstract:</b> We implement a detailed, realistic neural simulation using an objectoriented 
+  	  programming paradigm incorporating the known properties of biological neurons. The 
+  	  object-oriented design eliminates many of the complexities typical of a conventional modeling 
+  	  approach. Our model allows implementation of multiple integration algorithms which can be 
+  	  selected interchangeably by the user. Descriptions of physiological objects are supported at 
+  	  several hierarchical levels, from networks to neurons, membrane compartments, and ionic 
+  	  channels. Our design provides the flexibility to incorporate new physiological features and 
+  	  numerical algorithms with fault-tolerant capabilities.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Finkel"></a>
+  	  <p><b>Author:</b> Leif H. Finkel and Paul Sajda<br />
+  	  Department of Bioengineering and<br />
+  	  Institute of Neurological Sciences<br />
+  	  University of Pennsylvania<br />
+  	  220 South 33rd Street<br />
+  	  Philadelphia, PA 19104-6392</p>
+  	  <p><b>Title:</b> Computer Simulations of Object Discrimination by Visual Cortex</p>
+  	  <p><b>Abstract:</b> We present computer simulations of how the visual cortex may discriminate 
+  	  objects based on depth-from-occlusion. We propose neural mechanisms for how the visual system 
+  	  binds edges into contours, and binds contours and surfaces into objects. The model is simulated 
+  	  by a system of physiologically-based neural networks which feature feedback connections from 
+  	  higher to lower cortical areas, a distributed representation of depth, and phase-locked cortical 
+  	  neuronal firing. The system demonstrates psychophysical properties consistent with human 
+  	  perception of real and illusory visual scenes. The model addresses both the binding problem and 
+  	  the problem of object segmentation.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Foldiak"></a>
+  	  <p><b>Author:</b> Peter Foldiak<br />
+  	  MRC Research Centre In Brain and Behaviour,<br />
+  	  Department of Experimental Psychology,<br />
+  	  University of Oxford,<br />
+  	  South Parks Road,<br />
+  	  Oxford OX1 3UD, U.K.</p>
+  	  <p><b>Title:</b> The 'Ideal Homunculus': statistical inference from neural population 
+  	  responses</p>
+  	  <p><b>Abstract:</b> An 'ideal homunculus' makes inference about the stimulus based on the 
+  	  responses of a group of neurons. The tuning curves of individual neurons can be interpreted as a 
+  	  conditional probability distribution (response | stimulus). The Bayes rule can be used to 
+  	  calculate the distribution of possible stimuli given the recorded response, (stimulus | response). 
+  	  Combining responses from more than one neuron 'sharpens' the distribution, and the information 
+  	  content of the individual contributions can be calculated. The homunculus can be looking at 
+  	  groups of neurons at different levels; an example is given where orientation is inferred from 
+  	  responses of V1 neurons.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Foster"></a>
+  	  <p><b>Author:</b> William R. Foster, J.F.R. Paton, James S. Schwaber, Lyle H. Ungar<br />
+  	  Department of Chemical Engineering, 311A Towne Bldg.,<br />
+  	  University of Pennsylvania,<br />
+  	  Philadelphia, Pa 19104, U.S.A.</p>
+  	  <p><b>Title:</b> Matching neural models to experiment</p>
+  	  <p><b>Abstract:</b> Methods of quantitatively fitting single compartment neuron models to 
+  	  experimentally observed neuron behavior in current clamp are investigated. Standard minimization 
+  	  techniques relying on gradient information are not useful for matching Hodgkin and Huxley style 
+  	  models to current clamp data. It is, however, possible to fit current clamp data with minimal 
+  	  experimental information by making use of channel kinetics descriptions taken from the 
+  	  literature. The fitting procedure uses random search and an appropriately defined metric. This 
+  	  approach eases the task of creating neuron models for use in network simulations. Random search 
+  	  may also be used to operate on simplified channel kinetics in order to create accurate matches 
+  	  with experimental data. The resulting fits to experiment are not unique and therefore the 
+  	  utility of the models must be judged in terms of their ability to represent important aspects of 
+  	  observed neuronal behavior over wide ranges of inputs.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Fransen"></a>
+  	  <p><b>Author:</b> Erik Fransen,<br />
+  	  Anders Lansner and Hans Liljenstrom<br />
+  	  SANS - Studies of Artificial Neural Systems<br />
+  	  Dept. of Numerical Analysis and Computing Science<br />
+  	  Royal Institute of Technology,<br />
+  	  S-100 44 Stockholm, Sweden</p>
+  	  <p><b>Title:</b> A Model of Cortical Associative Memory based on Hebbian Cell Assemblies</p>
+  	  <p><b>Abstract:</b> A model of cortical associative memory, based on Hebb's theory of cell 
+  	  assemblies, has been developed and simulated. The network is comprised of realistically modelled 
+  	  pyramidal-type cells and inhibitory fast spiking interneurons and its connectivity is adopted 
+  	  from a trained recurrent artificial neural network. After-activity, pattern completion and 
+  	  competition between cell assemblies is readily produced. If, instead of pyramidal cells, motor 
+  	  neurons are used, spike synchronization can be observed but after-activity is hard to produce. 
+  	  After-activity is facilitated by increased levels of serotonin and disrupted by low levels. Our 
+  	  results support the biological plausibility of Hebb's cell assembly theory.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Garliauskas"></a>
+  	  <p><b>Author:</b> Algis Garliauskas, Algirdas SHIMOLIUNAS<br />
+  	  Institute of Mathematics and Informatics,<br />
+  	  Lithuanian Academy of Sciences,<br />
+  	  2600, Vilnius, Akademijos St.4, Lithuania</p>
+  	  <p><b>Title:</b> Logic functions realized on a stationary nonlinear dendrite</p>
+  	  <p><b>Abstract:</b> The binary logic functions &quot;AND&quot; and &quot;AND/OR&quot; are 
+  	  realized by the model of a nonlinear stationary dendritic branch. The neuron with such dendrites 
+  	  is a complex logic system performing a great number of elementary logicoperations.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Graham"></a>
+  	  <p><b>Author:</b> B.P. Graham,<br />
+  	  Centre for Information Science Research<br />
+  	  Prof. S.J. Redman, Division of Neuroscience,<br />
+  	  The John Curtin School of Medical Research<br />
+  	  The Australian National University, Canberra</p>
+  	  <p><b>Title:</b> Simulation of the Muscle Stretch Reflex by a Neuronal Network</p>
+  	  <p><b>Abstract:</b> The roles that a variety of different neuronal types play in the muscle 
+  	  stretch reflex have been investigated by means of a dynamic computer simulation. The simulated 
+  	  reflex circuit controlled two antagonistic muscles acting on a load. Simulation results revealed 
+  	  that while the dynamic component of the Group 1a afferent firing rate was important for good 
+  	  dynamic response, it also caused oscillations in the load position at a frequency similar to the 
+  	  condition known as clonus. If Group II afferents also excited the motoneurones, these 
+  	  oscillations were reduced. Inhibition from Renshaw cells and Group 1b afferents greatly 
+  	  increased the stability of the circuit.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Graves"></a>
+  	  <p><b>Author:</b> By E.B. Graves, D.W. RICHTER* AND J.S.SCHWABERl<br />
+  	  Neural Computation Group, DuPont Experimental Station E352,<br />
+  	  Dupont Company,<br />
+  	  Wilmington, DE 19880-0352,<br />
+  	  U.S.A. and *Physiology Institute,<br />
+  	  Georg-August-University of Goettingen,<br />
+  	  Humboldtallee 23, Goettingen, FRG</p>
+  	  <p><b>Title:</b> Network Model of the Respiratory Rhythm</p>
+  	  <p><b>Abstract:</b> We propose a model for the generation of the respiratory rhythm. The model 
+  	  is composed of four distinct neuron types recorded in vivo in the cat, defined by their phase 
+  	  relationship to the respiratory cycle as seen in the phrenic neurogram. It is proposed that the 
+  	  respiratory rhythm emerges from the connectivity and membrane dynamics of these neurons. 
+  	  Computational models are created of the four cell types using Hodgkin-Huxley form kinetics to 
+  	  describe active membrane properties that are then tuned to reproduce the recorded patterns of 
+  	  neuronal behavior. The neurons are reciprocally connected with inhibitory synapses. Simulation 
+  	  results accurately reproduce the three-phased respiratory cycle, and demonstrate the way in 
+  	  which this activity may arise from intrinsic membrane, as well as network, properties.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Gray"></a>
+  	  <p><b>Author:</b> Richard A. Gray<br />
+  	  Department of Biology Gilmer Hall<br />
+  	  University of Virginia,<br />
+  	  Charlottesville, VA 22901<br />
+  	  second author:<br />
+  	  W. Otto Friesen<br />
+  	  Department of Biology<br />
+  	  Gilmer Hall</p>
+  	  <p><b>Title:</b>&nbsp;</p>
+  	  <p><b>Abstract:</b> We have developed a technique to determine the natural frequencies of 
+  	  biological oscillators and have shown that these frequencies have physiological significance. We 
+  	  passed both sub-threshold and supra-threshold sinusoidal current of several frequencies into the 
+  	  Hodgkin-Huxley mathematical model of the squid axon (Hodgkin and Huxley 1952). The resonance 
+  	  peaks for the resulting membrane potential associated with these two experiments occurred at 68 
+  	  Hz and 174 Hz. These frequencies compare favorably to the range of firing frequencies (68 Hz to 
+  	  169 Hz) of the Hodgkin-Huxley model response to constant current. We have also used this 
+  	  resonance technique to find a resonance peak at approximately 1 Hz in the membrane potential of 
+  	  a leech motor neuron which agrees with the normal swimming frequency of the leech (Pearce and 
+  	  Friesen 1985, Kristan et al. 1974). correspondence should be addressed to:</p></li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1992" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

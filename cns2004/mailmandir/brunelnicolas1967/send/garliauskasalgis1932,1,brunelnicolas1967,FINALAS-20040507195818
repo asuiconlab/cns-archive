@@ -1,0 +1,34 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Algis Garliauskas" <galgis@ktl.mii.lt>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 7/5/2004 19:58:18
+-----------------------DATA----------------------
+Dear Algis Garliauskas,
+
+We're sorry to inform you that your paper 'ESTIMATION OF NONLINEARITIES TO STORAGE CAPACITY 
+            OF NN BY ALTERNATIVE MFT ' is NOT accepted for
+publication in the CNS proceedings.  The comments of the reviewers
+which led to this rejection can be found below.  Notice that you are
+still invited to present your paper as a poster at the CNS*04 meeting
+and hope that the comments will help you in improving your
+presentation.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+COMMENTS FROM REVIEWERS
+
+Reviewer 1:
+This paper cannot be accepted   the author seems to confuse a theoretical analysis (the mean field analysis), with the algorithmic aspects (such as finding the minimum of a cost function).
+Equation (17) is nothing but the naive mean field approximation, which is known not to provide the correct description of the model. As an algorithm, it has been used under the (inappropriate) name of MF algorithm for solving optimization problems (and it does not provide in general good solutions).
+A saddle point equation is meaningful with an integral with a SMALL number of variables, and a parameter going to infinity in the exponential. Such conditions are not fulfilled in the author's analysis.
+
+Reviewer 2 :
+The author claims in the introduction that he will study the strorage capacity of attractor networks that incorporate nonlinearities such as found in real neurons. This program is not implemented in what follows, which is just a short and quite classical study of retrieval dynamics bringing little new to the field .
+The review of neurons is very naive and contains mistakes (gamma motoneurons, for instance). The nonlinearities mentionned there are not used in the sequel. Results are poorly presented. Discussion is not very enlightening. The paper as a whole is badly organized with lengthy introductory parts and little space devoted to presenting and discussing results. In addition, the english is quite poor. I cannot see how the paper could be susbtantially improved and recommend that it be rejected.

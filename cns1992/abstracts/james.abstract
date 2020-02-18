@@ -1,0 +1,23 @@
+Outline of a Theory of Isocortex
+
+
+Mark James and Doan Hoang
+Basser Department of Computer Science, F09
+The University of Sydney NSW 2006
+AUSTRALIA
+
+
+Address correspondence to: Mark James (mrj@cs.su.oz.au)
+
+
+
+We outline a theory of six-layered, homeotypic cortex that includes mechanisms for pattern selec-
+tivity, hierarchical category recognition and sequence learning. Learnable inhibitory feedback
+between layers of cortex acts to shift the activation threshold for pattern-recognizing cells, caus-
+ing them to become tuned to specific patterns of afferents. The final amount of inhibition will be a
+function of the "size" of the pattern recognized by the cell. The inhibition can therefore be applied
+to other pattern-recognizing cells to implement a "masking field" (Grossberg, 1985).
+
+Grossberg, S., The adaptive self-organization of serial order in behavior: Speech, language, and motor control. In
+Schwab, E.C. and Nusbaum, H.C. (Eds.), Perception of speech and visual form: Theoretical issues, models, and
+research, Academic Press, NY, 1985.

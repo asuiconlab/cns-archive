@@ -1,0 +1,593 @@
+%%%
+%%% cns95.tex (1.2)
+%%%
+%%% This is a macro package to format papers for the CNS*95 proceedings.
+%%% Original versions are available via anonymous ftp at
+%%% ftp.bbb.caltech.edu:/pub/cns95/cns95.tex.
+%%%
+%%% For usage, see the (commented-out) sample paper at the end of this file.
+%%%
+%%% J. S. Pezaris
+%%% Caltech 216-76
+%%% Pasadena, CA 91125
+%%%
+%%% pz@caltech.edu, 7/95.
+
+
+%%% History
+%%%
+%%% 09/07/95 1.0 Initial Release
+%%%
+%%% 09/11/95 1.1 Fixed \author, \authors bug as pointed out by Markus Diesmann;
+%%%              made similar changes to \email, \emails.  Also changed inter-
+%%%              major section skip from 1cm to 1cm plus 0.1cm minus 0.1cm.
+%%%
+%%% 09/14/95 1.2 Fixed problem with LaTeX bibliography usage which depended
+%%%	         on the native \section being around.  This clashed with the
+%%%	         \section defined here.  Thus \section was renamed to
+%%%              \minorsection, and under LaTeX, calls to \section* are
+%%%              routed to \majorsection, and calls to \section are routed
+%%%              to \minorsection.  Under TeX, things work as before.  This
+%%%              is not an ideal solution, but provides consistency in the
+%%%              interface until next year when a better package can be
+%%%              released. 
+
+
+%%% Are we running under TeX or LaTeX?
+%%%
+
+\newif\ifTeX
+\newif\ifLaTeX
+\ifx\newcommand\undefined
+  %% TeX!
+  \TeXtrue
+  \LaTeXfalse
+\else
+  %% LaTeX!
+  \TeXfalse
+  \LaTeXtrue
+\fi
+
+
+%%% Set the basic parameters
+%%%
+
+\ifTeX
+  \parindent     = 0pt
+  \parskip       = \medskipamount
+  \topskip       = 0truein
+  \magnification = \magstep0
+  \hoffset       = 0.875truein
+  \voffset       = 0.50truein
+  \hsize         = 4.75truein
+  \vsize         = 7.25truein
+  \leftskip      = 0pt
+  \nopagenumbers
+\else
+  \parindent     = 0pt
+  \parskip       = \medskipamount
+  \topskip       = 0.0truein
+  \topmargin     = 0.5truein
+  \headheight    = 0.0truein
+  \headsep       = 0.0truein
+  \textwidth     = 4.75truein
+  \textheight    = 7.25truein
+  \pagestyle{empty}
+  \flushbottom
+  \def\it{\em}
+\fi
+
+
+%%% Define the various fonts used
+%%%
+
+\font\thetitlefont        = cmbx12 at 17pt
+\font\theauthorfont       = cmbx12 at 15pt
+\font\theextrafont        = cmbx12	     % used only for big LaTeX logo
+\font\theemailfont        = cmtt12
+\font\theinstitutionfont  = cmti12
+\font\themajorsectionfont = cmcsc10 at 12pt
+\font\thesectionfont      = cmti10
+
+
+%%% And little macros to invoke them, insuring that the
+%%% appropriate \baselineskip is set
+
+\def\titlefont{\thetitlefont\baselineskip=19pt}
+\def\authorfont{\theauthorfont\baselineskip=17pt}
+\def\emailfont{\theemailfont\baselineskip=14pt}
+\def\institutionfont{\theinstitutionfont\baselineskip=14pt}
+\def\majorsectionfont{\themajorsectionfont\baselineskip=14pt}
+\def\sectionfont{\thesectionfont\baselineskip=12pt}
+
+
+%%% \titleskip
+%%%
+%%% Creates a blank area between items in the tite.
+
+\def\titleskip{\vskip 19pt}
+
+
+%%% \raggedleft
+%%%
+%%% An equivalent to \raggedright: creates right (but not left)
+%%% justified text.
+
+\def\raggedleft{\leftskip 0pt plus 1fill
+  \spaceskip=0.333em \xspaceskip=0.5em 
+  \rightskip 0pt
+  \let\par=\break}
+
+
+%%% \beginlinemode and \endmode
+%%%
+%%% This wierd stuff is used to insure line breaks in the source are
+%%% reflected in the typeset document.  \beginlinemode is called before 
+%%% the arguments to \title, etc, are parsed, and \endmode is called
+%%% when switching from one section to another.  To insure robustness,
+%%% \bye is modified to call \endmode.  Once the title areas have been
+%%% parsed, \endmode is made back into a benign \par.
+
+\def\beginlinemode{\endmode
+  \begingroup\parskip 0pt\obeylines\def\endmode{\par\endgroup}}
+\let\endmode=\par
+\outer\def\bye{\endmode\vfill\supereject\end}	% slight modification
+
+
+%%% \title
+%%%
+%%% Use this to start the paper.
+
+\newif\iftitle \titlefalse
+\newbox\thetitle
+\def\title{\titletrue\beginlinemode\gettitle}
+{\obeylines\gdef\gettitle #1
+  {\global\setbox\thetitle=\vbox\bgroup\titlefont\raggedleft%
+   #1
+   \def\endmode{\egroup\endgroup\strut\vskip 0.5truein%
+                \copy\thetitle \titleskip\titlefalse}}}
+
+
+%%% \authors
+%%%
+%%% Use this to set the author list. (\author is a synonym)
+
+\newbox\theauthors
+\def\authors{\beginlinemode\frenchspacing\getauthors}
+\def\author{\authors}
+{\obeylines\gdef\getauthors #1
+  {\global\setbox\theauthors=\vbox\bgroup\authorfont\raggedleft%
+   #1
+   \def\endmode{\egroup\endgroup \copy\theauthors \titleskip}}}
+\def\authortag#1{\raise3pt\hbox{\rlap{$^{#1}$}}}
+  
+
+%%% \emails
+%%%
+%%% Use this to set the author email address list. (\email is a synonym)
+
+\newbox\theemails
+\def\emails{\beginlinemode\getemails}
+\def\email{\emails}
+{\obeylines\gdef\getemails #1
+  {\global\setbox\theemails=\vbox\bgroup\emailfont\raggedleft%
+   #1
+   \def\endmode{\egroup\endgroup \copy\theemails \titleskip}}}
+  
+
+%%% \institution
+%%%
+%%% Use this to set an institution address.
+
+\newbox\theinstitution
+\def\institution{\beginlinemode\getinstitution}
+{\obeylines\gdef\getinstitution #1
+  {\global\setbox\theinstitution=\vbox\bgroup\institutionfont\raggedleft%
+   #1
+   \def\endmode{\egroup\endgroup \copy\theinstitution \titleskip}}}
+\def\institutiontag#1{~\raise2pt\hbox{$^{#1}$}}
+
+  
+%%% \abstract, \introduction, \methods, \results, \summary, \references
+%%%
+%%% Use these to delimit the major sections.  They take no arguments.
+
+\def\majorsection#1{\endmode\vskip 1cm plus 0.1cm minus 0.1cm\goodbreak%
+  {\def\endmode{\par}}			           % make it passive
+  \leftline{\majorsectionfont{#1}}\par\nobreak}
+
+\def\abstract{\majorsection{Abstract}}
+
+\def\introduction{\majorsection{Introduction}}
+
+\def\methods{\majorsection{Methods}}
+
+\def\results{\majorsection{Results}}
+
+\def\summary{\majorsection{Summary and Conclusions}}
+
+\def\references{\majorsection{References}\frenchspacing}
+
+
+%%% \minorsection
+%%%
+%%% Use this to demark a minor section.  This command takes one paragraph-
+%%% delimited argument.  See the LaTeX kludge below!! This function is
+%%% really intended only as a helper function, and the proper interface to
+%%% it should be made through \section.
+
+\def\minorsection#1\par{\bigbreak\leftline{\sectionfont{#1}}\par\nobreak}
+
+
+%%% LaTeX kludge for \section
+%%%
+
+\ifLaTeX
+  \makeatletter
+  \def\section{\@ifstar{\majorsection}{\minorsection}}
+  \makeatother
+\else
+  \def\section{\minorsection}
+\fi
+
+
+%%% \CNS, \TeX, and \LaTeX
+%%%
+%%% These are provided really only for the sample paper.  Note that the \TeX
+%%% definition overrides the LaTeX version, restoring it to match Don Knuth's
+%%% version in manmac.tex.  The \LaTeX macros work around a bug in Leslie
+%%% Lamport's version in latex.ltx.
+
+\def\CNS#1{CNS\lower0.4ex\hbox{*}#1}
+\def\TeX{T\kern-.2em\lower.5ex\hbox{E}\kern-.06emX}
+\def\LATEX{L\kern-.3em {\setbox0\hbox{T}%
+                        \vbox to\ht0{\hbox{\theextrafont A}\vss}}%
+            \kern-.15em%
+            \TeX}
+\def\LaTeX{L\kern-.3em {\setbox0\hbox{T}%
+                        \vbox to\ht0{\hbox{\the\scriptfont0 A}\vss}}%
+            \kern-.15em%
+            \TeX}
+\def\LaTeXi{L\kern-.3em {\setbox0\hbox{T}%
+                         \vbox to\ht0{\hbox{\the\scriptfont1 A}\vss}}%
+            \kern-.25em%
+            \TeX}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%% Sample paper
+%%%
+%%% The following sample paper was written to exercise these macros and
+%%% provide a clean example of what to do and how to use the macros.  This
+%%% paper is written for TeX.  To get the same results in LaTeX, there are
+%%% three lines that need to be changed, two at the start, and one at the
+%%% end; these lines are commented out and marked with an "enable for
+%%% LaTeX" message (and the one to be disabled at the end marked "disable
+%%% for LaTeX").  
+
+% %%%
+% %%% sample.tex
+% %%%
+% %%% This is a sample paper for the CNS*95 proceedings which describes the 
+% %%% usage of the TeX macro set.  It is extensively self-referential, so 
+% %%% having a typeset copy to read while perusing the source code would be
+% %%% useful. 
+% %%%
+% %%% pz, 7/95.
+% 
+% 
+% % \documentclass{article}[10pt]         % enable for LaTeX
+% \input cns95
+% % \begin{document}                      % enable for LaTeX
+% 
+% \title
+% A SET OF \TeX\ AND \LATEX\ MACROS
+% FOR FORMATTING \CNS95 PAPERS
+% 
+% \authors
+% John S. Pezaris\authortag{*}
+% Richard A. Andersen\authortag{*,\dagger}
+% 
+% \emails
+% pz@caltech.edu
+% andersen@vis.caltech.edu
+% 
+% \institution
+% \institutiontag{*}Computation and Neural Systems
+% California Institute of Technology, Pasadena, CA 91125, U.S.A.
+% 
+% \institution
+% \institutiontag{\dagger}Division of Biology
+% California Institute of Technology, Pasadena, CA 91125, U.S.A.
+% 
+% \abstract
+% 
+% A set of macros for formatting papers to the \CNS95 specification using
+% \TeX\ and \LaTeX\ is presented.  Each user-level macro is described, using
+% this paper, typeset with the macro set, as a running example.  The macros
+% are available anonymously as {\tt
+% ftp.bbb.caltech.edu:/pub/cns95/cns95.tex}, which also contains the  
+% source code to this paper.  The macro set is being placed in the
+% public domain so that it may be used freely by authors who wish to
+% submit their paper for inclusion in the \CNS95 proceedings.
+% 
+% 
+% \introduction
+% 
+% The primary contribution of this paper is the description of a set of
+% \TeX$^1$ and \LaTeX$^2$ macros which meet the specifications for papers
+% submitted for inclusion in the \CNS95 proceedings.$^3$  The macro package is
+% quickly introduced in the Methods section, followed by a description of the
+% user-level macros, each with usage and a brief example taken from the
+% typesetting of this paper.
+% 
+% The authors' intention is to provide this macro set for public use.  There
+% are no restrictions placed on distributing this macro set, however, common
+% courtesy would dictate that only the original set be distributed, and that
+% any modifications and improvements be sent to the authors for inclusion in
+% subsequent versions.  Any bug reports, similarly, should go to the authors,
+% and not to the organizers of \CNS95.
+% 
+% The software is provided free of charge, with the hope that it will be
+% useful, but without any warranty, including the implied warranty of
+% merchantability or fitness for a particular purpose.  All responsibility for
+% any results, whether positive or negative, rests with the reader.
+% 
+% 
+% \section \TeX\ and \LaTeXi
+% 
+% The same macro set should work with both \TeX\ and \LaTeX, however, as the
+% code was written with the \TeX\ user in mind, the \LaTeX\ user will have to
+% slightly adapt his or her normal usage.  The macro package is simple enough
+% that there should be no major difficulty in doing so.  Throughout this
+% paper, the instances where there are specific differences in the two usages
+% are pointed out.  Where no difference is noted, the reader may safely assume
+% that the described feature works identically in \TeX\ and \LaTeX.  This
+% paper was typeset using \TeX; to correctly typeset under \LaTeX, the
+% addition of two lines at the start of the document, and the change of a
+% third at the end was all that was necessary.
+% 
+% 
+% \methods
+% 
+% The macro set has been designed to be easy to use, and yet provide an
+% attractive layout for the \CNS95 proceedings.  Where possible, the macros
+% have been written to produce a source file which mirrors the structure of
+% the printed page.  Standard \TeX\ fonts were used throughout, so that the
+% macro set {\tt cns95.tex} should be stand-alone.
+% 
+% A few words about the major parameters.  In \TeX, the magnification is fixed
+% at 0 (\LaTeX does not allow the user access to magnification).  Paragraph
+% indenting is set to 0~pt, the inter-paragraph spacing to {\tt
+% \char92medskipamount}.  The \TeX\ {\tt \char92hsize} and {\tt \char92vsize}
+% parameters (\LaTeX\ {\tt \char92textwidth} and {\tt \char92textheight}) are
+% set to 4.75~and 7.25~inches, respectively.  In \TeX, the {\tt
+% \char92hoffset} parameter is set at 0.875~inches to center the page, and
+% {\tt \char92voffset} set at 0.5~inches to start the text 1.5~inches below
+% the top of the page; in \LaTeX, the same is effected by {\tt
+% \char92topmargin} at 0.5~inches, {\tt \char92headheight} at 0~inches, and
+% {\tt \char92headsep} at 0~inches.  Page numbering is turned off.
+% 
+% 
+% %%% \example
+% %%%
+% %%% A quick little macro to assist in displaying source code.
+% 
+% \def\example{\bigskip\begingroup\obeylines\advance\leftskip0.5cm
+%   \parskip=0pt\par\tt\advance\baselineskip -1pt%
+%   \def\\{\char92{}}
+%   \def\{{\char123{}}
+%   \def\}{\char125{}} 
+%   }
+% \def\endexample{\par\endgroup\medskip}
+% 
+% 
+% 
+% \section Starting the paper
+% 
+% To get started, a copy of the macro set should be placed the reader's
+% current working directory (or in macro library subdirectory, as
+% appropriate), and a new file created to write the paper.  If the reader is
+% using \TeX, the first line in this new file, after any opening comments,
+% should be
+% 
+% \example
+% \\input cns95
+% \endexample
+% 
+% which will load the macros.  If the reader is using \LaTeX, the first few
+% lines should be
+% 
+% \example
+% \\documentclass\{article\}[10pt]
+% \\input cns95
+% \\begin\{document\}
+% \endexample
+% 
+% which will load \LaTeX's article macros and the \CNS95 macro set, and then
+% start the document.
+% 
+% Following this, under both systems, the reader should define the title,
+% author list, an optional list of email addresses, the institution list, and
+% then start the body of the paper.  The corresponding macros are described
+% below.
+% 
+% 
+% \section Defining the title
+%  
+% To define the title, the {\tt \char92title} macro is used, followed by any
+% number of lines of title, in capital letters.  The title for this paper was
+% typeset using the \TeX\ code
+% 
+% \example
+% \\title
+% A SET OF \\TeX\\ AND \\LaTeX\\ MACROS
+% FOR FORMATTING \\CNS95 PAPERS
+% \endexample
+% 
+% Line breaks in the title definition will be reproduced in the typeset
+% document. 
+% 
+% 
+% \section Defining the author list
+%  
+% Next, the author list is defined using a similar mechanism.  Continuing the
+% current example, this paper's author list was typeset via
+% 
+% \example
+% \\authors
+% John S. Pezaris\\authortag\{*\}
+% Richard A. Andersen\char92authortag\{*,\\dagger\}
+% \endexample
+% 
+% As with the title definition, line breaks are reproduced in the typeset
+% document.  The {\tt \char92authortag} macro at the end of each line
+% is used to denote association with particular institutions, as we will
+% see shortly.  If all authors belong to the same institution, the {\tt
+% \char92authortag} calls should be omitted.
+% 
+% 
+% \section Defining the optional email address list
+%  
+% Some authors will wish to publicize their email addresses.  To do this, the
+% {\tt \char92emails} macro is used; it is similar to the {\tt
+% \char92authors} macro.  The email address list for this paper was typeset
+% with
+% 
+% \example
+% \\emails
+% pz@caltech.edu
+% andersen@vis.caltech.edu
+% \endexample
+% 
+% The teletype font is automatically selected for email addresses, and,
+% again, line breaks in the source are reflected in the typeset document.
+% Although hopefully, each email address is uniquely associated with one
+% author, the {\tt \char92authortag} macro can be used here as well.
+% 
+% 
+% \section Defining the institution list
+%  
+% The institution list is defined using the {\tt \char92institution} macro,
+% once for each institution.  The {\tt \char92institutiontag} macro allows
+% symbols to be placed in front of each institute name as footnote
+% characters, (ideally) matching the symbols used with {\tt
+% \char92authortag} above.  The institution list for this paper consists of
+% two departments within Caltech, so two institutions were defined, one for
+% each department, and each with a different tag.  In the example below, the
+% two definitions are separated by a blank line to increase readability, and
+% the institution tags placed {\it before\/} the institution names so that the
+% raised symbol appears to the left of the first word in the line.
+% 
+% \example
+% \\institution
+% \\institutiontag\{*\}Computation and Neural Systems
+% California Institute of Technology, Pasadena, CA 91125, U.S.A.
+% \hfill
+% \\institution
+% \\institutiontag\{\\dagger\}Division of Biology
+% California Institute of Technology, Pasadena, CA 91125, U.S.A.
+% \endexample
+% 
+% Again, line breaks in the source code are reflected as line breaks in the
+% typeset document (excessively long lines, typical in addresses, will cause
+% additional, unplanned, line breaks to be inserted).
+% 
+% 
+% \section The major sections
+% 
+% The five major section headings as described in the \CNS95 submission
+% guidelines are produced via the {\tt \char92abstract}, {\tt
+% \char92introduction}, {\tt \char92methods}, {\tt \char92results}, and {\tt
+% \char92summary} macros.  An additional sixth major section heading is
+% available through the {\tt \char92references} macro.  These six macros take
+% no arguments and typeset the major section title in small caps set off
+% by clean space.  For example, the beginning of the abstract from this paper
+% was typeset as
+% 
+% \example
+% \\abstract
+% A set of macros for formatting papers to the \\CNS95
+% specification using \\TeX\\ and \\LaTeX\\ is presented.  
+% \endexample
+% 
+% The rest of the major section macros are used in an analogous way.  If you
+% want to create your own major section use the {\tt \char92majorsection}
+% macro which takes one argument.
+% 
+% 
+% \section Optional minor sections
+% 
+% For cases where each major section needs to be broken into smaller sections
+% (such as this section, entitled ``Optional minor sections''), the {\tt
+% \char92section} macro provides just the right typography.  Unlike the major
+% section macros which take no arguments, the {\tt \char92section} macro takes one
+% argument which runs through to the end of the paragraph.  The argument is
+% typeset in italics, and a small break is provided before and after.
+% Continuing our example, the first few lines of this section were typeset
+% with the source
+% 
+% \example
+% \\section Optional minor sections
+% \hfill
+% For cases where each major section needs to be broken into
+% smaller sections (such as this section, entitled ``Optional
+% minor sections''), the \{\\tt \\char92section\} macro provides
+% just the right typography.  
+% \endexample
+% 
+% The blank line appearing after the {\tt \char92section} usage is
+% important: it is used to delimit the argument to the macro.  \LaTeX\ users
+% should note that this redefines the native {\tt \char92section} macro, and
+% the various {\tt \char92subsection}, {\tt \char92subsubsection}, 
+% etc.~macros will not work properly with this format, so should be avoided.
+%  
+% 
+% \results
+% 
+% The results of this effort are embodied in the production of this sample
+% paper.  This was written using plain \TeX\ and the macro file {\tt
+% cns95.tex}.  By making only very minor modifications, the same code will
+% produce virtually identical results in \LaTeX; the necessary changes are
+% restricted to the two additional lines described above in {\it Starting the
+% paper}, and modifying the last line to read {\tt
+% \char92end\char123document\char125} instead of {\tt \char92bye}.  To
+% provide a ready example, the source code to this paper is included as a
+% long comment at the end of the macro file.
+% 
+% 
+% \summary
+% 
+% A macro set for typesetting papers for inclusion in the \CNS95 proceedings
+% has been written and made publicly available.  The macro package was
+% designed to meet the specifications given in {\it Guidelines for
+% Camera-Ready Manuscript Preparation for CNS$\!$\lower0.5ex\hbox{*}95\/}.$^3$
+% The macros are available via anonymous ftp from {\tt
+% ftp.bbb.caltech.edu:/pub/cns95/cns95.tex}.  Questions and bugs should be
+% directed via email to the corresponding author (JSP) at {\tt pz@caltech.edu}.
+% 
+%  
+% \references
+%  
+% 1. Knuth, D. E., {\it The \TeX Book}, Addison Wesley (1993).
+% 
+% 2. Lamport, L., {\it \LaTeXi}, Addison Wesley (1994).
+% 
+% 3. {\it Guidelines for Camera-Ready Manuscript Preparation for
+% CNS$\!$\lower0.5ex\hbox{*}95}, available from Judy Macias, Division of
+% Biology 216-76, Caltech, Pasadena, CA 91125.
+% 
+% % \end{document}                % enable for LaTeX
+% \bye                          % disable for LaTeX
+% 
+% %%%
+% %%% End
+
+%%%
+%%% End of cns95.tex
+

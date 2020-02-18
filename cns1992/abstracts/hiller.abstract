@@ -1,0 +1,25 @@
+
+
+
+
+
+
+A Model of the Combined Effects of Chemical and Activity-Dependent
+Mechanisms in Topographic Map Formation
+
+Marty Hiller
+MIT Artificial Intelligence Laboratory
+545 Technology Square, NE43-825
+Cambridge, MA 02139
+
+
+Abstract
+
+A simulated model of the effects of chemical and activity-dependent mechanisms in to-
+pographic map formation is presented. These mechanisms work together to allow rapid
+development of detailed maps. The model matches experimental results on the ability to
+form rough, but not refined, maps in the absence of electrical activity, expansion of heav-
+ily stimulated areas, and formation of ocular dominance columns. This work explains and
+resolves problems with previous models, including the need to use non-biological input
+representations, slow convergence rates, and problems with orientation and formation of
+discontinous sub-maps.

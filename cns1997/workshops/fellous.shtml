@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1997 - Workshops</title>
+<meta name="description" content="CNS Meeting Home Page 1997 - Workshops." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1997, 
+cns, computational, neuroscience, workshop, talks, posters, Workshops" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1997</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 6 - 10, 1997, Big Sky, Montana</h3>
+  	
+  	<h4>CNS*1997 Workshops</h4>
+  	
+  	<h4>What are the Computational Roles of Neuromodulation?</h4>
+  	
+  	<p><b>Jean-Marc Fellous</b></p>
+  	
+  	<p>In this workshop we will try to build a working definition of what many experimentalists refer 
+  	to as 'neuromodulation'. We will first address its spatio-temporal characteristics. Through a 
+  	review of the modeling work that has addressed neuromodulation in some details, we will then 
+  	attempt to classify neuromodulations according to their computational aspects (rather than their 
+  	neurochemical or anatomical aspects). We will finally try to identify theoretical and 
+  	experimental frameworks suitable for future studies that will further our understanding of the 
+  	computational roles of neuromodulation. Experimentalists and theoretician are both strongly 
+  	encouraged to attend and participate. For further infos and suggestions contact Jean-Marc.</p>
+  	
+  	<p><a href="../workshop-info.shtml">Back to workshops</a></p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1997" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2002</title>
+<meta name="description" content="CNS Meeting Home Page 2002." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2002, 
+cns, computational, neuroscience" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+<script type="text/javascript">
+	<!--
+	function makeMail(deel1, deel2, naam){
+		var name = deel1;
+		var domain = deel2;
+		document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+		document.write(naam + '</a>');
+	}
+	-->
+</script>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<a href="./posterCNS02.shtml"><img class="floatright" src="./images/pic02.jpg" alt="Poster of the Annual Computational Neuroscience Meeting 2002" title="Annual Computational Neuroscience Meeting, poster of 2002. Click the poster to enlarge." /></a>
+  	
+  	<h1>CNS*2002</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 21-25 2002, Chicago, Illinois, USA</h3>
+  	
+  	<h4>Proceedings CNS*02</h4>
+  	
+  	<p>All authors should either have received an e-mail with final instructions for submission of 
+  	their papers for the proceedings book and Neurocomputing journal or why their papers are not 
+  	selected for the proceedings. Electronic paper submission should be done no later than October 
+  	20, 2002. Please contact the editor 
+  	<script type="text/javascript">makeMail("erik","tnb.ua.ac.be", "Erik De Schutter");</script> if 
+  	you have questions.</p>
+  	
+  	<p><a href="programme29may.shtml">View Program CNS Meeting</a></p>
+  	
+  	<p><a href="registration.shtml">Registration</a></p>
+  	
+  	<p><a href="second_neural_coding_workshop_2.shtml">View Program Neural Coding Workshop</a></p>
+  	
+  	<p><a href="http://www.gatsby.ucl.ac.uk/~maneesh/cns2002workshops/index.html">
+  	View Workshop Program</a></p>
+  	
+  	<p><a href="http://www.computersciencepreprints.com">
+  	View papers submitted to CNS*02 on Computer Science Preprint Server</a> (and search for "cns")</p>
+  	
+  	<p>CNS 2002 will be held in Chicago from Sunday, July 21, 2002 to Thursday, July 25 in the 
+  	Congress Plaza Hotel &#38; Convention Center. Plenary oral sessions and evening poster sessions will 
+  	be held from Sunday to Wednesday. Thursday will be a full day of workshops. Conference dinner 
+  	will be Wednesday night, followed by the rock-n-roll jam session.</p>
+  	
+  	<p><a href="./read-more.shtml">Read more about CNS meetings</a></p>
+  	
+  	<p><a href="./roommates.shtml">Roommates</a></p>
+  	
+  	<p><b>Program chair:</b> Erik De Schutter (University of Antwerp, Belgium)</p>
+  	<p><b>Local organizer:</b> Philip Ulinski (University of Chicago, USA)</p>
+  	<p><b>Workshop organizer:</b> Maneesh Sahani (Gatsby Computational Neuroscience Unit, UK)</p>
+  	<p><b>Government Liaison:</b> Dennis Glanzman (NIMH/NIH, USA)</p>
+  	<p><b>Program Committee:</b></p>
+  	<ul>
+  	  <li>Upinder Bhalla (National Centre for Biological Sciences, India)</li>
+  	  <li>Avrama Blackwell (George Mason University, USA)</li>
+  	  <li>Victoria Booth (New Jersey Institute of Technology, USA)</li>
+  	  <li>Alain Destexhe (CNRS Gif-sur-Yvette, France)</li>
+  	  <li>John Hertz (Nordita, Denmark)</li>
+  	  <li>David Horn (University of Tel Aviv, Israel)</li>
+  	  <li>Barry Richmond (NIMH, USA)</li>
+  	  <li>Steven Schiff (George Mason University, USA)</li>
+  	  <li>Todd Troyer (University of Maryland, USA)</li>
+  	</ul>
+  	
+  	<h4>Information and administration:</h4>
+  	
+  	<p><script type="text/javascript">makeMail("chris","tnb.ua.ac.be", "chris(at)tnb(dot)ua(dot)ac(dot)be");</script>)</p>
+  	
+  	<h4>Invited speakers:</h4>
+  	
+  	<ul>
+  	  <li>Ad Aertsen (Albert-Ludwigs-University, Germany)</li>
+  	  <li>Leah Keshet (University British Columbia, Canada)</li>
+  	  <li>Alex Thomson (University College London, UK)</li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2002" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

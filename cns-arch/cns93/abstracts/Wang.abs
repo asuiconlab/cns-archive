@@ -1,0 +1,23 @@
+Modeling Global Synchrony in the Visual Cortex
+by Locally Coupled Neural Oscillators
+
+DeLiang Wang
+
+Laboratory of AI Research, Department of Computer and Information 
+Science
+and Center for Cognitive Science, The Ohio State University
+Columbus, OH 43210-1277, USA
+Email: dwang@cis.ohio-state.edu
+
+Abstract
+It has been demonstrated that the nervous system exhibits stimulus-
+dependent oscillations, and synchronization exists in spatially remote 
+sites which reflects global stimulus properties. This paper addresses 
+the neural mechanisms that underlie this phenomenon. We find that 
+locally coupled neural oscillators can yield global phase synchrony. 
+The model assumes that the efficacy of the connections can be 
+modified on a fast time scale. Based on the known connectivity of the 
+visual cortex, the model outputs closely resemble the experimental 
+findings of neural oscillations. This model lays a computational 
+foundation for Gestalt perceptual grouping.
+

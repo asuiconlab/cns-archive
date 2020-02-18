@@ -1,0 +1,86 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Robert Kozma" <rkozma@memphis.edu>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:40
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Robert Kozma,
+
+We're happy to inform you that your paper 'LEARNING INTENTIONAL BEHAVIOR IN THE K-MODEL
+OF THE AMYGDALA AND THE CORTICO-HYPPOCAMPAL FORMATION' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+A more extensive review of K sets models and their validity should have been included. 
+Further details of the experimental model could have dramatically improve the clarity of the paper. 
+Most importantly, it seems that the relatively small set of experiments and experimental results reported in the paper is hardly extensive enough to allow for the suggested conclusions.
+
+Reviewer 2 :
+The overall idea of the paper is interesting. 
+
+The authors should, however, for the sake of the uninitiated reader,
+give a very brief intro into the general principles and mechanisms of
+the K models. It would be helpful to have a diagram giving an overview
+of how (and on which levels of abstraction, connections or connection
+bundles, short/long timescales) the models interact with each other.
+
+Page 4  third paragraph 'emergence of chaotic behaviour' inspires
+interest, but is not entirely clear. What do you mean by 'capture'?
+
+In fourth line  'The KIV dynamics it is not the result' - remove the
+word 'it'.
+
+Fourth paragraph, how is the percentage of variance be measured to be
+covariant? Is that a proportion of the correlation coefficient or
+something else?
+
+Page 5  bottom paragraph - is the reinforcement with respect to the
+goal measured purely internally, or by external (supervised) methods.
+
+You should probably motivate why positive reinforcement is performed
+in the hippocampus while negative reinforcement is sent into cortical
+KIII. If that is motivated by biology, please state so.
+
+Page 6  Does the robot itself determine whether it hits an obstacle or
+is trapped, or is this an explicit external stimulus?
+
+The two sentences 'During the labeling... Instead, the robot
+collects...' are not clear. Please rephrase.
+
+Paragraph 2  the 153 steps it took the robot from start to goal - was
+that measuring an experiment for a pre-trained robot or from a
+complete tabula rasa network?
+
+Page 7  can you construct analogies to similar experiments, e.g. in
+animals?
+
+You might want to mention briefly why the sparsity of the projections
+are important in your model (you mention that several times).
+

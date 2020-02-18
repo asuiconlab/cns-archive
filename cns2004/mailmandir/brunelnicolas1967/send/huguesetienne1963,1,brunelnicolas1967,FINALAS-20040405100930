@@ -1,0 +1,51 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Etienne HUGUES" <hugues@loria.fr>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Mon 5/4/2004 10:9:30
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Etienne HUGUES,
+
+We're happy to inform you that your paper 'Encoding in a network of  sparsely connected spiking 
+neurons   application to locust olfaction' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+The manuscript is interesting and can be published in the CNS proceedings. However, the authors should try to correct several misprints. Also from reading the manuscript, what the authors have achieved is not always entirely clear (at least for the present referee) and it would be good if the authors could clarify it before publication  
+- is there a particular reason to choose QIF neurons?
+-gEI, gIE and gII are not defined so it is difficult to see what their value really mean.
+-on p.4,it is written that the successive firing clusters are stimulus specific. Since the network is noisy, this is presumably true only to a certain extent and up to a certain time. Can the authors clarify what they mean?
+-on page 5, I believe that by 'width', the authors
+really mean 'size'.
+-Is fig.3 supposed to be an analytic calculation corresponding to fig.1? Is this the order in which
+the E-cells fire during one period of the oscillation?
+
+Reviewer 2 :
+The paper is not clear written. For example, what
+is the role of the KCs? The percentage of the connections has to be a control parameter, but not a fixed value. What is the goal of the calculation?
+

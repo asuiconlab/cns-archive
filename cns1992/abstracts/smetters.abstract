@@ -1,0 +1,20 @@
+A Model of a Thalamic Relay Cell Incorporating Voltage-Clamp Data on
+Ionic Conductances
+
+Diana Smetters
+dks~ai.mit.edu
+Department of Brain and Cognitive Science
+43 Carleton St., E25-618
+MIT
+Cambridge, MA 02139
+
+
+Abstract
+
+We have constructed a model of a thalamic relay cell based on voltage clamp data obtained
+in thalamic slices and isolated relay cells. This model replicates most, but not all, of the
+behavior found in current-clamp recordings from these cells. Analysis of the model provides
+insight into the role of the various voltage-dependent conductances in the response of these
+cells to current injection and synaptic input. Additionally, the model provides insight into
+the insufficiency of traditional methods of measuring passive parameters, and may provide
+a tool for better understanding of voltage-clamp results.

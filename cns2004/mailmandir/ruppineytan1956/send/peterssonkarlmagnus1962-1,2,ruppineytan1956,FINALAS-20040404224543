@@ -1,0 +1,46 @@
+ACTUATOR:	mail
+FROM:	"eytan ruppin" <ruppin@math.tau.ac.il>
+TO:	"Karl Magnus Petersson" <karl.magnus.petersson@fcdonders.kun.nl>
+REPLY:	"eytan ruppin" <ruppin@math.tau.ac.il>
+SENDER:	webmaster@neuroinf.org
+TIME:	Sun 4/4/2004 22:45:43
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Karl Magnus Petersson,
+
+We're happy to inform you that your paper 'ON THE RELEVANCE OF THE NEUROBIOLOGICAL ANALOGUE OF THE FINITE STATE ARCHITECTURE' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor eytan ruppin
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+eytan ruppin and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper attempts to give justifications to viewing the brain as a finite state machine. The first is a functional justification - the language faculty seems suited to learning the same sort of languages accepted by the FSA. However, the FSA is compared to computational models that most certainly are not good descriptors of the brain, as they require inifnite memory, and hence it is not clear why one should focus on a FSA-like description and not other, perhaps computationally equivalent ones.
+The second justification seems to be the similarity between a certain class of SRNs and FSAs. While this similarity is undoubtedly present, it's unclear why one should take discrete-time SRNs as good models for the brain (let alone as high-level descriptions of it). 
+I was rather disappointed to see that the author did not choose to tackle the representation issue head-on, but instead took it for granted (in his discussion of "representational structures", for example). Since the FSA assumes representational states, it may only be relevant for neurobiology if analogues of such states can be found in the real brain. This is, in my eyes, the major stumbling-block before deciding that the FSA is indeed relevant, and yet it was not addressed in the paper.
+
+Reviewer 2 :
+Interesting position paper on cognition and language.  Can you make explicit what is new here?  Excessively lengthy relative to content; should be shortened.  On p. 5, calling the learning "unsupervised" is confusing in that feedback is provided (success or failure, etc) and use of forward model. Define SRN (p. 6)
+

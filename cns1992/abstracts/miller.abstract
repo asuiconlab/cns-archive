@@ -1,0 +1,17 @@
+Linearization by Noise and Shunting Current of a Modified
+Hodgkin-Huxley Spiking Model.
+J.P. Miller, F. H. Eeckman and F.E. Theunissen. Dept of Mol. and
+Cell Biology. University of California, Berkeley. CA 94720.
+
+        ABSTRACT
+
+        We have developed a detailed description of voltage
+dependent ion channels to model the currents involved in spike
+generation in complex neuron models. The model consists of a
+reduced Hodgkin-Huxley formalism with added noise and shunting
+terms. Phase plane analysis was introduced to study the behavior of
+this model under various parameter settings. We used this model to
+reproduce the spike shape and spiking statistics of one particular type
+of interneuron in the cricket cercal sensory system, for which a large
+amount of electrophysiological and morphological data is available.
+

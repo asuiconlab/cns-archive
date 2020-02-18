@@ -1,0 +1,84 @@
+ACTUATOR:	mail
+FROM:	"barry richmond" <bjr@ln.nimh.nih.gov>
+TO:	"Benoit Gaillard" <bg22@sussex.ac.uk>
+REPLY:	"barry richmond" <bjr@ln.nimh.nih.gov>
+SENDER:	webmaster@neuroinf.org
+TIME:	Tue 4/5/2004 20:5:23
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Benoit Gaillard,
+
+We're happy to inform you that your paper 'Modelling a Visual Discrimination Task' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made and you present your paper at the CNS*04 meeting.
+
+Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor barry richmond
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+If you requested an oral presentation: we're still finalizing the review process of other papers.  You can expect a decision early May. 
+
+
+Best regards,
+
+
+barry richmond and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This is an interesting paper.  However, the meaning of the results is unnecessarily obscured by your (ab)use of the term "firing rate".  In analyzing the results, you talk about a "firing rate distribution."  What you are really talking about is a distribution of (single-trial) spike counts.  The firing rate is a NONRANDOM number which you can estimate by averaging these spike counts over (many) trials.  It does not have a distribution.   
+ 
+In addition to correcting this, you should then be explicit in Fig 1 (and in the text about it) about how long an interval was used to collect the spikes, since that will affect the results.
+
+It seems to me that what is behind the effect you see can be understood in terms of the analysis by Gabbiani and Koch (Ch 9 in the Koch-Segev book; see, in particular, eqn (9.18)).  There you see that if the measurement time is very short compared to the correlation time, the integral will go to zero and the measured Fano factor will be 1.  This is essentially what you do in your "population rate" measurement. If you measure over a time long compared to the correlation time, on the other hand, you pick up the whole integral of the correlation function and, therefore, a Fano factor different from 1.  If the correlations are predominantly positive), you get a Fano factor > 1, i.e. bigger variability in single-trial spike count that for a Poisson process, which is the effect you see.  On the other hand, this whole effect depends on the correlation function  if it is predominantly negative, the effect will have the opposite sign  prolonged observation of a single neuron will show smaller trial-to-trial variability in the spike count than the short-time "population measurement".
+
+Thus, the interesting effect depends on the firing correlations (or, equivalently for your model, on the ISI distribution), which you do not report.  They only appear in the results you do report in a rather indirect way.  It would therefore by very interesting if you could also show (or at least say something about) the firing correlations or ISI distributions.
+
+Reviewer 2 :
+This paper uses a simple model for the random dot visual discrimination task, in which dots move with both a coherent and a random component. The question addressed in the paper is  if the input firing rate to a set of cells is a function of the speed and direction of the random dots, can a population of those cells correctly predict the direction of coherent motion?
+
+The model thus depended on two main parameters  r, the ratio of inhibitory to excitatory firing rate, and c, the correlation coefficient. The authors looked at two aspects of the network  percent correct and reaction time. They found the following 
+
+a. When the prediction of the direction of motion
+   was based on the population of neurons,
+   increasing r at first lead to a small decrease in
+   the percent correct, but for large enough r lead
+   to almost perfect classification.
+b. When the prediction of the direction of motion
+   was based on a single neuron (but the same number
+   of spikes), the dependence on r was more complex,
+   but for very large r there was a slight
+   improvement in percent correct.
+c. increasing r increased the reaction time.
+
+These are potentially interesting findings. However, I have two main problems with the manuscript.
+
+1. The model does not seem very realistic, in the sense that long-range projections are almost always excitatory in the cortex, whereas the authors used inhibitory feedforward connections.
+
+2. There is not enough information in the paper to really evaluate it. In particular 
+ i.   What was the exact relation between the
+      firing rates and the velocity?
+ ii.  Was the threshold, b, chosen optimally for  
+      each parameter?
+ iii. How was coherence defined? n_c/N_cells?
+  iv. In Fig. 1, left panel, what was the coherence?
+   v. I didn't really understand the explanation of
+      why 100 spikes from 1 cell performed worse
+      than than the first 100 spikes from 100
+      different cells.
+
+The problem is, without these details it is impossible to judge how general their result is. If it turns out to be general, that makes the finding interesting. If not, then it becomes less interesting. In addition, the authors should motivate their model a little more.
+

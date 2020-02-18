@@ -1,0 +1,20 @@
+Hyperpolarizing Sag Currents in Inhibitory Neurons in Turtle Visual Cortex
+
+Jill M. Nicolaus and Philip S. Ulinski
+Dept. Organismal Biology and Anatomy
+University of Chicago
+1025 E. 57th St.
+Chicago, IL  60637
+ email: jmni@quads.uchicago.edu
+
+Inhibitory neurons of turtle visual cortex demonstrate an inward "sag"
+current at hyperpolarized membrane potentials.  The current was analysed by a
+new method for estimating kinetic parameters from digitized data from
+intracellular current clamp experiments.  We modeled the sag conductance as
+g(v,t) = gmax(n^4) and found that it has two components: a larger,
+rapidly-activating conductance, and a smaller, slower conductance.  The
+estimated kinetic parameters are sufficient to completely specify the
+conductances needed to model the sag currents in a compartmental model of the
+inhibitory neurons using the Genesis neurosimulation package.
+Supported by PHS grant EY 68352 and by an NSF graduate fellowship.
+

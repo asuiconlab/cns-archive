@@ -1,0 +1,20 @@
+System identification and modeling of primary electrosensory afferent
+response dynamics
+
+Z. Xu
+J. Payne
+M. Nelson
+
+Beckman Institute 
+University of Illinois
+
+The first stage of information processing in the electrosensory system of
+weakly electric fish involves teh encoding of electrical stimuli into trains
+of action potentials in primary afferent nerve fibers.  Based on experimental
+data collected in our laboratory, we have developed a linear-nonlinear
+cascade model that accurately describes this transformation in the brown
+ghost knife fish.  We use both parametric and non-parametric system 
+identification techniques for model determination and parameter estimation.
+to validate our methods, we have implemented a "virtual experiment"
+simulation environment that allows us to carry out simulated experiments
+using protocols identical to those that we use in the laboratory.

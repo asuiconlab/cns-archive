@@ -1,0 +1,29 @@
+Correspondence to: P. Erdi,  Biophysics  Group,  Central  Research
+     Institute for Physics, Hungarian Academy of Sciences,  H-1525
+     Budapest P.O. Box 49, Hungary
+
+
+            DYNAMIC PHENOMENA IN THE OLFACTORY BULB:
+           II. MODEL FOR A SIMPLE ASSOCIATIVE MEMORY
+
+                  Gro"bler, T. & E'rdi, P. (*)
+
+(Biophysics  Group,  Central  Research  Institute   for   Physics,
+Hungarian Academy  of  Sciences,  H-1525  Budapest  P.O.  Box  49,
+Hungary)
+
+    (*) This work has  been  done  on  leave  at  Microelectronics
+Laboratory, Tampere University of Technology, Finland)
+
+
+A mathematical model has been given to demonstrate the associative
+memory character of the olfactory bulb. Odor qualities  are  coded
+in distributed spatial amplitude patterns. Differential  equations
+for the mitral and granule cell activities have been  supplemented
+by a continuous-time local learning rule. A  nonlinear  forgetting
+term and a selective decreasing  term  is  added  to  the  Hebbian
+learning rule. A learned odor can be recalled by a subset  of  the
+pattern. There is a strict restriction  on  the  parameters:  only
+those  values  can  be  admitted  which  generate  physiologically
+justified activity signals.
+

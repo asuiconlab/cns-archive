@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2001 - Organizing Committee</title>
+<meta name="description" content="CNS Meeting Home Page 2001 - Organizing Committee." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2001, 
+cns, computational, neuroscience, workshop, talks, posters, Organizing Committee" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2001</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>June 30 - July 5, 2001, San Francisco and Pacific Grove, California</h3>
+  	
+  	<h4>CNS*01 Organizing Committee</h4>
+  	
+  	<p>Meeting Chair: Jim Bower, Caltech</p>
+  	<p>Government Liaison:Dennis Glanzman, NIMH/NIH</p>
+  	<p>Workshop Organizer:Maneesh Sahani, University College, London</p>
+  	
+  	<h4>Program Committee</h4>
+  	
+  	<p>Avrama Blackwell, George Mason University</p>
+  	<p>Upinder Bhalla, National Centre for Biological Sciences</p>
+  	<p>Victoria Booth, New Jersey Institute of Technology</p>
+  	<p> Erik De Schutter, University of Antwerp</p>
+  	<p>John Hertz, Nordita</p>
+  	<p>Chip Levy, University of Virginia</p>
+  	<p>Ray Glantz, Rice University</p>
+  	<p>David Horn, University of Tel Aviv</p>
+  	<p>Steven J. Schiff, George Mason University</p>
+  	
+  	<h4>Conference Support</h4>
+  	
+  	<p>Conference Administrator: Judy Macias, Caltech</p>
+  	<p>Webmaster: Iljie Kim, Caltech and Numedeon</p>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2001" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

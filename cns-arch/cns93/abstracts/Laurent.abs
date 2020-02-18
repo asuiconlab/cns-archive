@@ -1,0 +1,25 @@
+Abstract
+
+Hysteresis reduction in proprioception using presynaptic shunting 
+inhibition
+
+Nicho Hatsopoulos & Gilles Laurent
+
+California Institute of Technology Biology Division CNS Program MS 
+139-74 Pasadena, CA 91125 hatsop@tatiana.caltech.edu 
+laurent@delphi.caltech.edu
+
+We have tested the hypothesis that shunting inhibition between 
+locust proprioceptive afferents acts to reduce the hysteretic 
+responses of post-synaptic spiking local interneurons. We developed 
+an abstract neural model with leaky-integrator and shunting 
+dynamics. The results demonstrated clearly that hysteresis was 
+reduced substantially (about 30 percent) with the introduction of 
+shunting. These simulations also suggest a particular weighting 
+scheme between the afferents and the post-synaptic spiking local 
+interneuron. Results from a more realistic compartmental model 
+demonstrated that shunting inhibition acts as an automatic gain 
+control mechanism that can be used to reduce hysteresis. Finally, we 
+are conducting a physiological experiment to test this hypothesis.
+
+

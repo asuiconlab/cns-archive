@@ -1,0 +1,20 @@
+Compartmental modeling of vestibular primary afferents: Ultrastructural morphology matters.
+
+
+Thomas C. Chimento, David G. Doshayl, Muriel D. Ross
+NASA-Ames, Biocomputation Center, MS-239-11, Moffett Field, CA 94035
+Steling Software, Palo Alto CA 94303
+-Address coorespondence to Dr. Thomas Chimento
+
+
+
+ABSTRACT
+
+Compartmental models were used to determine whether ultrastructural details of primary afferent
+neurons in the vestibular macula provide salient information for understanding cell function.
+Precise dimensions of primary afferent endings and the location of synapses were used as
+pararneters in computer simulations of passive current spread through the distal endings and action
+potential (AP) generation at the spike initiation zone (SIZ). It was demonstrated that synapse
+location and number, the morphology of the entire primary afferent and the morphology of
+collateral like processes had significant effects on depolarization magnitude and latency at the SIZ,
+thus deterrnining AP generation and latency.

@@ -1,0 +1,20 @@
+Compartmental model response function for dendritic trees
+
+Paul C. Bressloff
+
+GEC-Marconi Ltd, Hirst Research Cen, East lane,
+Wembley, Middlesex, HA9 7PP, UK
+
+John G. Taylor (corresponding author)
+
+Dept of Mathematics, King's College, Strand, London, WC2R 22LS, UK
+UDAH 057@UK.AC.KCL.CC.ASH
+
+The response function of a dendritic tree is determined using a 
+compartmental model. After obtaining the general matrix expression, 
+various special cases (infinite or semiinfinite, chain, single branching 
+node) are discussed. The response of a general neuron is presented, 
+and the effect of neuronal geometry on different spatio-temporal 
+distributions of inputs determined quantitatively. Shunting effects 
+are also considered briefly.  
+

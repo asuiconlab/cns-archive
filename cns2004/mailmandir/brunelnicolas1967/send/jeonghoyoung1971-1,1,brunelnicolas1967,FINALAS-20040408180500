@@ -1,0 +1,88 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Ho Young Jeong" <jeonghy@gatsby.ucl.ac.uk>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Thu 8/4/2004 18:5:0
+-----------------------DATA----------------------
+Template accept with revisions
+
+Dear Ho Young Jeong,
+
+We're happy to inform you that your paper 'Study on the role of GABAergic synapses for synchronization' may be accepted for
+publication in the CNS proceedings provided the required revisions are
+made.  Instructions for the revisions can be found below.  Please note
+that you get only one chance to resubmit, if the Action Editor Nicolas Brunel
+deems that the revisions are insufficient the paper may be rejected
+without appeal.  We therefore encourage you to contact the Action
+Editor by e-mail soon if you have any questions or concerns about the
+required revisions.
+
+The revised paper and a short description of changes made can be
+uploaded at http://www.neuroinf.org between July 1 and August 22.  The
+Action Editor will decide within one month of paper submission.  You
+will receive a separate e-mail with instructions on how to upload
+revised papers in June.  The CNS proceedings will appear as a special
+issue of the journal Neurocomputing.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+INSTRUCTIONS FOR REVISIONS
+
+Reviewer 1 :
+This paper deals with the influence of the reversal potential of 
+GABAergic synapses on the synchronizing properties of neural
+networks. Since it has shown that the reversal potential of these
+synapses can change appreceably during developement, this
+is an interesting question. The paper is fairly clearly written, but
+the description of the state of the art can be improved. For 
+example [18] is, in so far as it is correct,  purely derivative work
+and not the best reference for the need for inhibition. Also, as 
+has been recognized from the beginning, excitation can lead to
+near synchrony, provided that the rates are low. This should be 
+improved. 
+
+Specific comments 
+
+  To characterise the synchronization in a network the authors
+  use the mean phase difference, \bar\phi(t), given by
+  equation 7. This is a stupid measure for the synchrony. 
+  In fig 4a the peaks in the difference curve are simply due
+  to the fact that all neurons have nearly the same phase, but
+  for half of them it is just above 0, for the other hals just below
+  2\pi, leading to an average difference of approximately 
+  \pi. There should be peaks after t=5, which will show up if 
+  difference is sampled with smaller time steps. This feature is 
+  due to the fact that the average difference is not a good 
+  measure on the circle, the authors should use the old stand by
+  r_n defined by 
+
+        r_n=\frac1N  \sum_i e^i n \theta_i ,
+ 
+  which has r_n=1 for a synchronous state, and r_n=0 for 
+  complete asynchrony. In a two cluster state with equal size 
+  clusters, r_1=0, but r_2=1. 
+  By the way, in a large network the average phase-difference 
+  \phi is also constant, any fluctuation the authors find are due 
+  to the (severely) limited precision of XPPAUT.
+ 
+  What happened to the numbering of reference [3]?
+
+  The authors should check the spelling of their keywords.
+
+Reviewer 2 :
+In this paper the authors analyze the collective dynamics of a system of neurons connected via GABA-ergic interactions. They study the synchronization properties as a function of the reversal potential of the synapses, the time scale and the presence of adaptation currents. They use the formalism of the phase reduction method and numerical simulations. The main motivation is to understand the influence of GABA interaction during development.
+I think the paper addresses an important problem and that the  results are interesting. However there are some corrections that should be made before publication 
+1. In fig 1B it should be explained the difference beween the solid line and the squares.
+2. In fig 2 (left panel) the name of the variable is missing in the y-axis label
+3. In page 3 it should be explained why are the simulations done for 5 neurons. Is there any result that cannot be obtained for 2 neurons?
+4. Typo in page 4 "...the the neuron model..."
+5. I do not understand the meaning of "...two phase model can be successfully applied...". The phase reduction method is valid for any number of neurons (see Eq. 6).
+6. In fig. 4 (left panel) it is not clear the difference between the solid line and the dotted line. The caption is confusing. Is one of them obtained from the fourier truncation of the other?
+  
+

@@ -1,0 +1,53 @@
+ACTUATOR:	mail
+FROM:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+TO:	"Masayoshi Kubo" <kubo@acs.i.kyoto-u.ac.jp>
+REPLY:	"Nicolas Brunel" <nicolas.brunel@univ-paris5.fr>
+SENDER:	webmaster@neuroinf.org
+TIME:	Fri 7/5/2004 19:58:52
+-----------------------DATA----------------------
+Dear Masayoshi Kubo,
+
+We're sorry to inform you that your paper 'New Technique for analyzing stationary global activity
+in neural networks' is NOT accepted for
+publication in the CNS proceedings.  The comments of the reviewers
+which led to this rejection can be found below.  Notice that you are
+still invited to present your paper as a poster at the CNS*04 meeting
+and hope that the comments will help you in improving your
+presentation.
+
+Don't forget to register for the meeting at http://www.cnsorg.org
+
+Best regards,
+
+
+Nicolas Brunel and Erik De Schutter
+
+COMMENTS FROM REVIEWERS
+
+Reviewer 1:
+The analysis of the paper is based on the assumption
+that if a nonleaky IF neuron receives an input with
+fluctuations of amplitude Qn, then the fluctuations in its output spike train can be approximated by Qn/theta. This assumption does not receive
+any justification. In absence of such justification, the paper cannot be published.
+
+Reviewer 2 :
+There are a number of points which are unclear or appear unjustified. Overall
+I think the paper does not keep the aims stated in the abstract, and I suspect the formal 
+steps are incorrect in several places.
+As a minor technical remark, the authors repeatedly make a strong point about the Poisson statistics
+assumption for the spike train fom each neuron, supposedly needed for the diffusion approach
+(pag. 1, 3). It is known, and it is also well explained in one of papers quoted by the authors, 
+as well as a few others missed by the authors, that as long as the independence assumption holds
+for the input spike trains to a neuron, together with a few additional mild hypotheses, standard 
+theorems in queueing theory assure that the cumulated point process 'seen' by each neuron is 
+indeed a Poisson process, with no need of assuming Poisson statistics for each contributing
+spike train.
+However, the main points concern the confusion the authors make when deriving the 'network' properties 
+apart from the very poorly explained, and totally obscure to me, formulation of the input currents 
+at page 4, it is really unclear to me how the average statistics of the input currents is related to supposed 
+'global stationary states', in the absence of any consideration of the network feedback producing 
+self-reproducing collective states, and of some assumed relation between the input current and
+the firing statistics, implementing such feedback.
+Also, the paper is somewhat carelessly written; since the authors declare they want to submit a full paper
+for the proceedings, I would point out that a major revision of the manuscript should be considered
+in case the contribution would be accepted.

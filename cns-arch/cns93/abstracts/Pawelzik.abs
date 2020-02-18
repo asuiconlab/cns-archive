@@ -1,0 +1,26 @@
+Identifying the Assembly Dynamics Underlying Correlated	'
+Neuronal Responses
+
+K. Pawelzik, J.Deppisch, and T. Geisel
+Institut fur Theoretische Physik and SFB 185 Nichtlineare Dynamik
+Universitat Frankfurt, Robert-Mayer-Str. 8, D-6000 Frankfurt/Main 
+11, Germany
+
+Correspondence to K. Pawelzik, e-mail: klaus@chaos.uni-
+frankfurt.dbp.de
+
+Abstract
+
+Oscillatory neuronal responses have been suspected to reveal 
+assembly formation by synchronization. We analyse these data in 
+terms of a phenomenological hidden-state model, the parameters of 
+which are estimated directly from experimental spike trains. In this 
+model the network dynamics is hidden in the sense that the 
+observed neuron is coupled only stochastically to an underlying 
+assembly state. Our approach reproduces the observed spike 
+dynamics and predicts the cross-correlations of units which belong to 
+the same network. The application of our method to multi-unit 
+activities from cat visual cortex reveals that for certain stimuli the 
+recorded neurons indeed participate in a common burst dynamics, 
+i.e. belong to the same assembly.
+

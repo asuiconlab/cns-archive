@@ -1,0 +1,28 @@
+Chain-Reaction of Spike Firing in Excitable Dendritic Trees
+
+Idan Segev and Wilfrid Rall
+
+Department of Neurobiology, Institute of Life Sciences, Hebrew University,
+Jerusalem 91904 and Mathematical Research Branch, NIDDK, NIH, Bethesda,
+MD 20892
+
+ABSTRACT
+A computer model was used to explore the spread of chain-reaction of spike
+firing in excitable dendritic trees.  Only 2% of the tree membrane surface
+was equipped with excitable channels, either on dendritic spines or on
+the dendritic shaft. The computations show that the size of the subtree
+that was recruited by the chain reaction depends critically on input location
+and input timing.  A chain reaction can be initiated with weak local excitation
+at distal arbors but it usually will spread (and fire) only neighboring
+distal arbors and will fail to invade more proximal regions. A more powerfull
+excitation is required in order to initiate a chain reaction at proximal
+sites; but then it usually succeeds to recruit regions that are more distal.
+The less-secure spread from individual distal arbors towards proximal
+regions can be augmented by a well-timed excitatory input at proximal
+sites.  Distal-to-proximal spread of chain reaction can also be assisted
+(with the consequence of a larger somatic depolarization) when many distal
+arbors of the same tree are activated within a narrow time-window. We
+conclude that excitable dendrites can be fractionated into many subtrees
+that fire almost independently and that each of these subtrees can function
+as a coincidence detector in the sub-millisecond range.
+

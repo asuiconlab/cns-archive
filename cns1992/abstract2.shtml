@@ -1,0 +1,702 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 1992 - Abstracts</title>
+<meta name="description" content="CNS Meeting Home Page 1992 - Abstracts." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 1992, 
+cns, computational, neuroscience, workshop, talks, posters, Abstracts" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*1992</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>July 1992, San Francisco, California</h3>
+  	
+  	<h4>CNS*1992 Abstracts</h4>
+  	
+  	<ul>
+  	  <li><a name="Gr&ouml;bler"></a>
+  	  <p><b>Author:</b> Gr&ouml;bler, T.<br />
+  	  Biophysics Group,<br />
+  	  Central Research Institute for Physics,<br />
+  	  Hungarian Academy of Sciences, H-1525<br />
+  	  Budapest P.O. Box 49, Hungary</p>
+  	  <p><b>Title:</b> Dynamic phenomenia in the olfactory bulb II</p>
+  	  <p><b>Abstract:</b> A mathematical model has been given to demonstrate the associative memory 
+  	  character of the olfactory bulb. Odor qualities are coded in distributed spatial amplitude 
+  	  patterns. Differential equations for the mitral and granule cell activities have been 
+  	  supplemented by a continuous-time local learning rule. A nonlinear forgetting term and a 
+  	  selective decreasing term is added to the Hebbian learning rule. A learned odor can be recalled 
+  	  by a subset of the pattern. There is a strict restriction on the parameters: only those values 
+  	  can be admitted which generate physiologically justified activity signals.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Grzywacz"></a>
+  	  <p><b>Author:</b> Norberto M. Grzywacz,<br />
+  	  Smith--Kettlewell Eye Research Institute,<br />
+  	  2232 Webster Street, San Francisco, CA 94115<br />
+  	  Franklin R. Amthor,<br />
+  	  Department of Psychology and Neurobiology<br />
+  	  Research Center, University of Alabama at Birmingham,<br />
+  	  Birmingham, AL 3529</p>
+  	  <p><b>Title:</b> Gated--Enhancer Model for Motion Facilitation in Retinal Directional 
+  	  Selectivity</p>
+  	  <p><b>Abstract:</b> Directionally selective ganglion cells respond to preferred--direction 
+  	  motions more strongly than predicted by the sum of the responses to stationary stimuli covering 
+  	  the same area as the motion. The spatial, temporal, and contrast properties of this motion 
+  	  facilitation were recently investigated in rabbit by apparent--motion protocols. These 
+  	  properties are inconsistent with facilitation models based either on threshold or 
+  	  membrane--conductance modulation. However, these properties are consistent with models in which 
+  	  an enhancer agent induced by motion facilitates responses evoked later along the motion 
+  	  trajectory. The data indicate that the enhancer would itself not produce excitation until gated 
+  	  by the later excitation. Simulations using Surf--Hippo, a new retinal simulator, support a 
+  	  dendritic implementation of this ``gated--enhancer&quot; model.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hasselmo"></a>
+  	  <p><b>Author:</b> Michael E. Hasselmo, Michael Vanier Ross Bergman and James M. Bower<br />
+  	  M.E.H., R.B.<br />
+  	  Dept. of Psychology, Harvard Universtiy<br />
+  	  33 Kirkland St., Cambridge, MA 02138<br />
+  	  (617) 495-3875<br />
+  	  M.V., J.M.B.<br />
+  	  Div. of Biology 216-76, Caltech<br />
+  	  Pasadena, CA 91125</p>
+  	  <p><b>Title:</b> Cholinergic modulation of assoclative memory function in a realistic 
+  	  computational model of piriform cortex</p>
+  	  <p><b>Abstract:</b> A detailed model of piriform cortex developed with the GENESIS simulation 
+  	  package shows associative memory properties such as completion. This model allows analysis of 
+  	  the role of acetylcholine in cortical associative memory function. Experiments demonstrate that 
+  	  acetylcholine causes selective suppression of synaptic transmission at excitatory intrinsic 
+  	  fiber synapses in piriform cortex (Hasselmo and Bower, 1992). When applied during learning in 
+  	  the model, this selective cholinergic suppression prevents interference between overlapping 
+  	  input patterns, allowing separate and distinct learning of input stimuli. This selective 
+  	  suppression may act in concert with the cholinergic increase in excitability to modulate 
+  	  piriform cortex associative memory function.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hearne"></a>
+  	  <p><b>Author:</b> P.G.Hearne, J.Wray, E.Agar, D.J.Sanders and G.G.R.Green<br />
+  	  Department of Physiological Sciences,<br />
+  	  The Medical School,<br />
+  	  Newcastle upon Tyne, NE2 4HH. UK</p>
+  	  <p><b>Title:</b> The Neurone Describing function : A Single Compartment Study</p>
+  	  <p><b>Abstract:</b> In artificial neural networks, units usually perform a sigmoid function of 
+  	  the weighted sum of their inputs. By Taylor series expansion, it can be shown that these 
+  	  networks compute a constrained Volterra series of their inputs. As a descriptor of real neurone 
+  	  behaviour this approach fails because neurones have dynamic properties and do not have a 
+  	  separate linear stage. Using compartmental modelling, describing functions of neurones can be 
+  	  approximated. This approach demonstrates a frequency dependent non-linearity not represented by 
+  	  a fixed Volterra Kernel. The simulation of real neurones leads to the proposal of alternative 
+  	  describing functions for artificial nets.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Herrmann"></a>
+  	  <p><b>Author:</b> Michael Herrmann<br />
+  	  Dept. of Computer Science,<br />
+  	  Leipzig University, 0-7010 Leipzig, F.R.G.<br />
+  	  Eytan Ruppin<br />
+  	  Department of Computer Science,<br />
+  	  Raymond and Beverly Sac~;ler Faculty of Exact Sciences,<br />
+  	  Tel Aviv University, Tel Aviv 6997O, Israel<br />
+  	  Marius Usher<br />
+  	  CNS program, Div. of Biology 216-76,<br />
+  	  Caltech, Pasadena, CA91125</p>
+  	  <p><b>Title:</b> A network for semantic and episodic associations revealing thought disturbances 
+  	  due to neural loss</p>
+  	  <p><b>Abstract:</b> We study an Attractor Neural Network that stores natural concepts, organized 
+  	  in semantic classes. The concepts are represented by distributed patterns over a space of 
+  	  attributes, and are related by both semantic and episodic associations. While semantic relations 
+  	  are expressed through an hierarchical coding over the attribute space, episodic links are 
+  	  realized via specific synaptic projections. Due to dynamic thresholds expressing neuronal 
+  	  fatigue, the network's behavior is characterized by convergence toward the concept patterns on a 
+  	  short time scale, and by transitions between the various patterns on a longer time scale. The 
+  	  network manifests semantic, episodic, and random transitions. Modeling pathological memory 
+  	  disturbances, we studied the influence of several parameters on the frequency of semantic and 
+  	  episodic transitions. W'hen neurons characterized by a large synaptic connectivity are deleted, 
+  	  semantic transitions deteriorate before the episodic ones, in accordance with the findings in 
+  	  patients with Alzheimer's disease.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Hiller"></a>
+  	  <p><b>Author:</b> Marty Hiller<br />
+  	  MIT Artificial Intelligence Laboratory<br />
+  	  545 Technology Square, NE43-825<br />
+  	  Cambridge, MA 02139</p>
+  	  <p><b>Title:</b> A Model of the Combined Effects of Chemical and Activity-Dependent Mechanisms 
+  	  in Topographic Map Formation</p>
+  	  <p><b>Abstract:</b> A simulated model of the effects of chemical and activity-dependent 
+  	  mechanisms in to- pographic map formation is presented. These mechanisms work together to allow 
+  	  rapid development of detailed maps. The model matches experimental results on the ability to 
+  	  form rough, but not refined, maps in the absence of electrical activity, expansion of heavily 
+  	  stimulated areas, and formation of ocular dominance columns. This work explains and resolves 
+  	  problems with previous models, including the need to use non-biological input representations, 
+  	  slow convergence rates, and problems with orientation and formation of discontinous sub-maps.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Ruppin"></a>
+  	  <p><b>Author:</b> D. Horn &amp; E. Ruppin<br />
+  	  Raymond and Beverly Sackler Faculty of Exact Sciences,<br />
+  	  Tel Aviv University, Tel Aviv 69978, Israel<br />
+  	  M. Usher<br />
+  	  CNS program, Div. of Biology 216-76,<br />
+  	  Caltech, Pasadena, CA91125<br />
+  	  M. Herrmann<br />
+  	  Dept. of Computer Science,<br />
+  	  Leipzig University, 0-7010 Leipzig, F.R.G.</p>
+  	  <p><b>Title:</b> Synaptic deletion and compensation in Alzheimer disease: A neural model</p>
+  	  <p><b>Abstract:</b> Recent experimental evidence testifies to the possible role of synaptic 
+  	  deletion and compensation in the pathogenesis of Alzheimer's disease (AD). As a clinical 
+  	  hallmark of AD is memory degradation, these processes are examined in the framework of a neural 
+  	  network model of associative memory. Using a network with fixed memory load we vary two 
+  	  parameters, the deletion of synapses and the total synaptic strength, and observe the 
+  	  characteristic turnover from a memory-retrieval phase to total memory loss. Several synaptic 
+  	  compensation strategies, that patients may employ depending on their synaptic regenerative 
+  	  potential, are specified and examined. Reviewing the neuroanatomical and clinical data, we show 
+  	  that our model can account for the variation in the severity and progression rate of AD.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Jacobs"></a>
+  	  <p><b>Author:</b> Gwen Jacobs, Frederic Theunissen, Jay Levin and Michael Landolfa,<br />
+  	  Department of Molecular and Cell Biology,<br />
+  	  University of California, Berkeley, CA 94720.</p>
+  	  <p><b>Title:</b> Morphological basis of wind stimulus discrimination in the cricket cercal 
+  	  sensory system</p>
+  	  <p><b>Abstract:</b> The functional organization of a sensory map in a simple insect sensory 
+  	  system was studied using a combination of anatomical and electrophysiological techniques. 
+  	  Analysis of the map indicates that air current direction is represented in a continuous fashion 
+  	  within the map. Directionally selective primary sensory interneurons extract directional 
+  	  information from the map by virtue of the position of their dendritic arbors within the map. To 
+  	  test this structure-function hypothesis we have modeled the directional tuning curves of 
+  	  primary sensory interneurons based on the anatomical relationships between the interneurons and 
+  	  the map. The predicted tuning curves are very similar to the experimentally observed curves.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Jaeger"></a>
+  	  <p><b>Author:</b> Dieter Jaeger, Erik De Schutter and James M. Bower,<br />
+  	  California Institute of Technology,<br />
+  	  Div. of Biology 216-76, Pasadena CA 91125</p>
+  	  <p><b>Title:</b> Prolonged depolarizations following brief synaptic stimulations in the 
+  	  cerebellar Purkinje cell: Intracellular recordings and compartmental modelling</p>
+  	  <p><b>Abstract:</b> Intracellular recordings were obtained from Purkinje cells in the guinea pig 
+  	  slice preparation. Electrical stimulation pulses of 0.1 ms duration delivered to the granule 
+  	  cell layer resulted in 100 to 300 ms lasting depolarizations in Purkinje cells. During these 
+  	  depolarizations the cells often showed an increase of spiking frequency. Pulses of synchronous 
+  	  synaptic activation in a compartmental model of the Purkinje cell resulted in similar prolonged 
+  	  depolarizations. In the model, prolonged depolarizations are due to the opening of voltage 
+  	  dependent calcium channels. Increases of spiking frequency with a similar time course can be 
+  	  observed in vivo with brief (5ms) tactile stimulation, suggesting that the active membrane 
+  	  properties of individual Purkinje cells observed in vitro and in the model contribute to the 
+  	  modulatiGn of Purkinje cell activity via the parallel fiber system in the functioning network.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="James"></a>
+  	  <p><b>Author:</b> Mark James and Doan Hoang<br />
+  	  Basser Department of Computer Science, F09<br />
+  	  The University of Sydney NSW 2006<br />
+  	  AUSTRALIA</p>
+  	  <p><b>Title:</b> Outline of a Theory of Isocortex</p>
+  	  <p><b>Abstract:</b> We outline a theory of six-layered, homeotypic cortex that includes 
+  	  mechanisms for pattern selec- tivity, hierarchical category recognition and sequence learning. 
+  	  Learnable inhibitory feedback between layers of cortex acts to shift the activation threshold 
+  	  for pattern-recognizing cells, causing them to become tuned to specific patterns of afferents. 
+  	  The final amount of inhibition will be a function of the &quot;size&quot; of the pattern 
+  	  recognized by the cell. The inhibition can therefore be applied to other pattern-recognizing 
+  	  cells to implement a &quot;masking field&quot; (Grossberg, 1985). Grossberg, S., The adaptive 
+  	  self-organization of serial order in behavior: Speech, language, and motor control. In Schwab, 
+  	  E.C. and Nusbaum, H.C. (Eds.), Perception of speech and visual form: Theoretical issues, models, 
+  	  and research, Academic Press, NY, 1985. </p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Janakiraman"></a>
+  	  <p><b>Author:</b> Janani Janakiraman K.P.UnniKrishnan<br />
+  	  Advanced Technology Laboratories Computer Science Department<br />
+  	  The University of Michigan GM Research Laboratories<br />
+  	  1101 Beal Avenue, Ann Arbor, MI 48109 Warren, MI 48109-9055</p>
+  	  <p><b>Title:</b> A model for dynamical aspects of visual attention</p>
+  	  <p><b>Abstract:</b> A model is presented to investigate the role of feedback pathways from 
+  	  association cortical areas to Vl and LGN in attentional mechanisms. In the model,these pathways 
+  	  are shown to be capable of modifying the tuning properties of lower level neurons, hence 
+  	  quickening their convergence. Model simulations use an algorithm (Alopex) that is implementable 
+  	  by known neural circuitry. The change in tuning properties of V4 and IT neurons in the monkey 
+  	  has lead to the hypothesis that these changes play a role in the static aspects of attention. 
+  	  Our results show that this may instead be a dynamic phenomenon,helping the visual system to 
+  	  focus attention rapidly.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Jensen"></a>
+  	  <p><b>Author:</b> R.V. Jensen* and G.M. Shepherd<br />
+  	  Department of Neurobiology,<br />
+  	  Yale University School of Medicine New Haven,<br />
+  	  CT 06510 and Department of Physics,<br />
+  	  Wesleyan University Middletown, CT 06457</p>
+  	  <p><b>Title:</b> NMDA-Activated Conductances Provide Short-Term Memory for Dendritic Spine Logic 
+  	  Computations</p>
+  	  <p><b>Abstract:</b> Active conductances in dendritic spines may permit elaborate computational 
+  	  processing of multiple synaptic inputs long before these signals reach the soma. Numerical 
+  	  models of dendritic trees indicate that the interactions of postsynaptic potentials in active 
+  	  spines can generate simple logic operations such as AND, OR and NAND gates. However, because the 
+  	  spine head EPSP's closely follow the underlying, short-duration (1-3 ms), synaptic conductances, 
+  	  previous studies concluded that the precise timing of synaptic inputs is critical for these 
+  	  logic operations. We show that this severe temporal limitation on dendritic computation can be 
+  	  overcome by the inclusion of slow (100-300 ms), voltage-dependent, NMDA-receptor mediated 
+  	  conductances$^5$ in the spine heads. Our numerical simulations show that this simple mechanism 
+  	  provides a short term memory ($\sim$ 100 ms) for logical AND gates with time-delayed inputs on 
+  	  one or more spines.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Jensen2"></a>
+  	  <p><b>Author:</b> R.V. Jensen, A. Williamson, D. Berkowicz, G.M. Shepherd<br />
+  	  Department of Neurobiology,<br />
+  	  Yale University School of Medicine<br />
+  	  New Haven, CT 06510</p>
+  	  <p><b>Title:</b> NMDA Receptors and Hyperexcitability in Human Hippocampal Granule Cells</p>
+  	  <p><b>Abstract:</b> Hippocampal granule cells from patients with certain types of temporal lobe 
+  	  epilepsy have been found to exhibit abnormal electrophysiological and pathological properties. 
+  	  In particular, intracellular recordings in slice preparations from human patients with medial 
+  	  temporal lobe sclerosis show an enhacement of the NMDA component of the EPSP relative to normal 
+  	  human or rodent tissues.1 In addition, the axons of the granule cells in the diseased tissue 
+  	  have been observed to sprout recurrent fibers back to the proximal dendritic layers of the 
+  	  granule cells.2 A comparison of the results of the experimental measurements with the analysis 
+  	  of numerical multi-compartmental models incorporating the electrophysiological properties of 
+  	  these abnormal cells indicates a possible mechanism by which the enhanced NMDA mediated 
+  	  conductance and the axonal feed-back can lead to the observed hyperexcitability of these cells 
+  	  that may be responsible for epileptic activity.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kamiyama"></a>
+  	  <p><b>Author:</b> Yoshimi Kamiyama, Hiroyuki ISHII and Shiro USUI<br />
+  	  Department of Information and Computer Sciences<br />
+  	  Toyohashi University of Technology<br />
+  	  Toyohashi 441, JAPAN</p>
+  	  <p><b>Title:</b> A Method for Estimating the Neural Input to a Neuron using the Ionic Current 
+  	  Model </p>
+  	  <p><b>Abstract:</b> The ionic current properties of a neuron play a key role in information 
+  	  processing in neural systems. These ionic currents can be described mathematically similar to 
+  	  Hodgkin-Huxley equations based on voltage clamp experiments. Such an ionic current model 
+  	  provides a basis for understanding the neuronal function and for calculating the individual 
+  	  ionic currents from experimentally recorded voltage responses. Here, we propose a method to 
+  	  estimate the total input current to the neuron which produces the voltage response by using the 
+  	  model. We first applied the method to Hodgkin-Huxley model and confirmed that the input current 
+  	  is estimated correctly. Secondly, we applied the method to retinal horizontal cell response and 
+  	  analyzed the estimated total input current for the voltage responses with various light stimuli. 
+  	  Finally we discussed the role of individual ionic current in the horizontal cell membrane and 
+  	  the underlying mechanisms of the nonlinear dynamical voltage response.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kentridge"></a>
+  	  <p><b>Author:</b> R.W. Kentridge,<br />
+  	  Department of Psychology,<br />
+  	  University of Durham,<br />
+  	  Durham DH1 3LE,<br />
+  	  U.K.</p>
+  	  <p><b>Title:</b> Dissipative Structures and Self-Organizing Criticality in Neural Networks with 
+  	  Spatially Localized Connections.</p>
+  	  <p><b>Abstract:</b> Neural networks with asymmetric random connections may converge to simple 
+  	  attractors or they may behave chaotically. If, however, the probability of neu- ral 
+  	  interconnection in a network is related to the distance between neurons, as it is in the brain, 
+  	  then a third class of behavior (which could be used in coding representation), dissipative 
+  	  structure formation, becomes possible. Simulations of such networks showed that dissipative 
+  	  structures could form, however, this required biologically implausible fine-tuning of the 
+  	  networks' parameters. Further studies showed that conditions in which dissipative structure 
+  	  formation was likely could be produced by uniform low intensity stimulation of these networks 
+  	  through a process of self-organizing criticality. This mechanism eliminates the requirement for 
+  	  biologically implausible fine-tuning of networks thereby increasing the probability that 
+  	  dissipative structures may play a functional role in processing information in the brain.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kenyon"></a>
+  	  <p><b>Author:</b> Garrett T. Kenyon and David C. Tam<br />
+  	  Division of Neuroscience, Baylor College of Medicine,<br />
+  	  One Baylor Plaza, Houston, TX 77030</p>
+  	  <p><b>Title:</b> Deterministic Entropy Measures for Investigating Complex SpatioTemporal Order 
+  	  in Multi-Unit Spike Train Data</p>
+  	  <p><b>Abstract:</b> We consider the hypothesis that within a neural population, the distribution 
+  	  of cell firing times is chaotic, characterized by a finite Kolmogorov entropy. We contrast this 
+  	  with the alternative rate code hypothesis, which asserts that the distribution of cell firing 
+  	  times is ergodic, possessing an infinite Kolmogorov entropy. Starting from an explicit 
+  	  expression for the entropy of a train of uncorrelated events, characteristic features for the 
+  	  entropy of any ergodic process are inferred. Entropy growth that is slower than logarithmic at 
+  	  increased temporal resolutions, as well as anomalous renormalization flow, is argued to be a 
+  	  sufficient indicator of an underlying chaotic order. Stereotypical results are illustrated 
+  	  through the analysis of computer generated spike train data. A parallel algorithm for extracting 
+  	  the spike train entropy is provided.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kipke"></a>
+  	  <p><b>Author:</b> Daryl R. Kipke, Erik Herzog, and Robert B. Barlow, Jr.<br />
+  	  Institute for Sensory Research, Syracuse University</p>
+  	  <p><b>Title:</b> A Computational Model of the Limulus Lateral Eye on a Parallel Computer</p>
+  	  <p><b>Abstract:</b> The lateral eye of Limulus provides an unique opportunity to investigate 
+  	  retinal function and the neural code of vision. We have integrated computational, physiological, 
+  	  and behavioral experimental methods to investigate the information the eye sends to the brain 
+  	  and the efferent modulation of the eye by the brain. We developed a cell-based computational 
+  	  model of the eye on a parallel computer (Connection Machine). The model structure is related 
+  	  closely to the anatomical structure of the eye and the parameters are estimated from 
+  	  experimental data. Model computations are combined with behavioral data to investigate the 
+  	  neural representation of the animal's visual world.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Konig"></a>
+  	  <p><b>Author:</b> Peter Konig, Bernd Janosch, and Thomas B. Schillen<br />
+  	  Max-Planck-Institut fur Hirnforschung<br />
+  	  Deutschordenstrasse 46,<br />
+  	  6000 Frankfurt 71, FRG</p>
+  	  <p><b>Title:</b> Assembly Formation and Segregation by a Self-organizing Neuronal Oscillator 
+  	  Model</p>
+  	  <p><b>Abstract:</b> Experimental evidence demonstrates the stimulus-dependent formation and 
+  	  segregation of neuronal assemblies defined by coherent oscillatory response patterns. In this 
+  	  paper, we investigate whether the self-organization of synchronizing and desynchronizing 
+  	  connections can establish a corresponding temporal response structure using local learning rules. 
+  	  Motivated by recent experimental observations, synchronizing connections are modified according 
+  	  to a two-threshold Hebb-like learning rule, while we generalize this rule to analogous 
+  	  Anti-Hebb-like weight changes for the desynchronizing connections. We show that the resulting 
+  	  network exhibits synchronization and segregation of oscillatory activity in agreement with the 
+  	  experiment.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kumar"></a>
+  	  <p><b>Author:</b> T. Kumar,<br />
+  	  Department of Molecular and Cell Biology*<br />
+  	  D. A. Glaser,<br />
+  	  Departments of Physics and of Molecular and Cell Biology<br />
+  	  337 Stanley Hall,<br />
+  	  University of California, Berkeley, CA 94720</p>
+  	  <p><b>Title:</b> Absence of Learning in Hyperacuity</p>
+  	  <p><b>Abstract:</b> Human observers with previous experience in psychophysical methods were 
+  	  tested on 34 different non-stereo and 33 stereo hyperacuity tasks. None of the observers had any 
+  	  previous experience with non-stereo hyperacuity task. The preliminary results showed no learning 
+  	  for the non-stereo tasks. The initial performancesQdefined by pooling the first five responses 
+  	  for each of the 34 stimuliQwere well within hyperacuity range. All observers had experience in 
+  	  stereo discrimination; their pooled initial five to ten responses indicated no initial practice 
+  	  effects for stereo discrimination in the fixation plane, but quite a rapid learning rate for 
+  	  stereo discrimination 5' off the fixation plane. Mechanisms of visual hyperacuity do not appear 
+  	  to require learning or other processes to improve performance with practice.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Kupfermann"></a>
+  	  <p><b>Author:</b> I Kupfermann, D. Deodhar, S.R. Rosen, and K.R. Weiss*.<br />
+  	  Center for Neurobiology and Behavior,<br />
+  	  Columbia University, 722 W. 168<br />
+  	  St. New York, NY 10032<br />
+  	  and * Fishberg Center, Mt. Sinai<br />
+  	  School of Medicine, 1 Gustave Levy Plaza,<br />
+  	  New York, NY 10029.</p>
+  	  <p><b>Title:</b> The use of genetic algorithms to explore neural mechanisms that optimize 
+  	  rhythmic behaviors: Quasi-realistic models of feeding behavior in Aplysia</p>
+  	  <p><b>Abstract:</b> Using simple neural models, we have been studying how behavior (feeding) can 
+  	  be optimized. The effects of circuit parameters are studied by exhaustive search or genetic 
+  	  algorithms. The findings indicate: 1) A defined two neuron-two muscle system can generate 
+  	  rhythmic behavior that can result in a net gain of energy. 2) In the absence of modulatory 
+  	  inputs, the efficiency of the system sharply degrades when individual parameters are varied only 
+  	  a small percentage from those used to evolve the system. It is postulated that various forms of 
+  	  circuit modulation will improve the functioning of the system over a wide range of external and 
+  	  internal parameters.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Masson"></a>
+  	  <p><b>Author:</b> Gwendal Le Masson, Eve Marder and L.F. Abbott<br />
+  	  Department of Biology and Physics and Center for Complex Systems<br />
+  	  Brandeis University Waltham, MA 02254</p>
+  	  <p><b>Title:</b> A model for self-regulation of Neuronal activity</p>
+  	  <p><b>Abstract:</b> We constructed a conductance-based model from biophysical data of a 
+  	  stomatogastric ganglion neuron. Using this model, we address the question of stability of 
+  	  neuronal activity despite changes in both the internal and external environment. We propose that 
+  	  calcium could act as a regulatory signal to adjust the ratio of conductances expressed by a 
+  	  neuron. We show that the internal calcium concentration is highly correlated with electrical 
+  	  properties and we build a feedback mechanism to link calcium to the maximal conductance of each 
+  	  current. Models with dynamical maximal conductances can self-assemble the currents they need to 
+  	  produce a given target activity pattern from an arbitrary initial state and can recover from 
+  	  drastic changes in extracellular ionic concentration. This mechanism allows increased robustness 
+  	  and activity-dependent stabilization of network function.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Li"></a>
+  	  <p><b>Author:</b> Zhaoping Li<br />
+  	  School of Natural Science, Institute for Advanced Study<br />
+  	  Princeton, NJ 08540, USA</p>
+  	  <p><b>Title:</b> Understanding the Functional Goals of Retinal Ganglion Cells</p>
+  	  <p><b>Abstract:</b> In mammalian retina, the Y (or M) ganglion cells are significantly more 
+  	  transient in response, more selective to stimuli of low spatial and high temporal frequencies, 
+  	  and less selective to spectral information than the X (or P) cells. It is shown that these 
+  	  differences in cell properties can be explained by a model that assigns different functional 
+  	  goals to the different ganglion cell types. In this model, the goal of the Y cells is to extract 
+  	  as fast as possible the minimum amount of information necessary for quick responses. In contrast, 
+  	  the goal of the X cells is to extract as much information as possible. Temporal characteristics 
+  	  of the information extraction by the two cell groups are also derived.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Liljenstrom"></a>
+  	  <p><b>Author:</b> Hans Liljenstrom and Michael E. Hasselmo<br />
+  	  SANS&Ntilde;Studies of Artificial Neural Systems<br />
+  	  Dept. of Numerical Analysis and Computing Science<br />
+  	  Royal Institute of Technology, S-100 44 Stockholm, Sweden<br />
+  	  Dept. of Psychology<br />
+  	  Harvard University<br />
+  	  Cambridge, MA 02138, USA</p>
+  	  <p><b>Title:</b> Acetylcholine and cortical oscillatory dynamics</p>
+  	  <p><b>Abstract:</b> Acetylcholine appears to regulate the oscillatory properties of cortical 
+  	  structures. Application of cholinergic agonists induces theta rhythm oscilla- tory patterns in 
+  	  the piriform (olfactory) cortex (Biedenbach, 1966) and the hippocampus (Konopacki et al., 1987). 
+  	  These effects appear due to alter- ation of the intrinsic oscillatory characteristics of 
+  	  cortical structures. In a simulation of the oscillatory dynamics of piriform cortex (Liljenstrom, 
+  	  1991), we show that the neuromodulatory effects of acetylcholine can induce theta rhythm 
+  	  oscillatory characteristics. The cholinergic increase in excitability causes increased 
+  	  oscillatory activity while the cholinergic suppression of ex- citatory intrinsic synaptic 
+  	  transmission prevents gamma rhythm oscillatory dynamics from predominating.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Linster"></a>
+  	  <p><b>Author:</b> C. Linster*, C. Masson**, M. Kerszberg***, L. Personnaz*, G. Dreyfus*<br />
+  	  * Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris,<br />
+  	  Laboratoirc d'Eleclronique<br />
+  	  10, rue Vauquelin<br />
+  	  75005 PARIS - FRANCE<br />
+  	  ** Laboratoire dc Neurobiologie Comparee des Invertebres<br />
+  	  INRA/CNRS<br />
+  	  91140 BURES SUR YVETTE - FRANCE<br />
+  	  ***Institut Pasteur<br />
+  	  25, rue du Docteur Roux<br />
+  	  75015 PARIS</p>
+  	  <p><b>Title:</b> Formal Model of the Insect Olfactory Macroglomerulus</p>
+  	  <p><b>Abstract:</b> An original model of the specialist olfactory system of insects, built in a 
+  	  semi-random fashion constrained by biological data is presented. A classification of the 
+  	  response patterns of individual neurons, based on the temporal aspects of the observed response, 
+  	  allows to analyze the behavior of the model with respect to he qualitative and the temporal 
+  	  variations of the stimulus. Among the results, a number are related to data about olfactory 
+  	  information processing reported in the literature, others may serve as guidelines for further 
+  	  investigations. We show how the model computes the information relevant as a basis for further 
+  	  processing in higher centers.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Lockery"></a>
+  	  <p><b>Author:</b> S. R. Lockery, S. J. Nowlan and T. J. Sejnowski<br />
+  	  Computational Neurobiology Laboratory<br />
+  	  The Salk Institute for Biological Studies<br />
+  	  P. O. Box 85800<br />
+  	  San Diego, CA 92186-5800<br />
+  	  and The Howard Hughes Medical Institute</p>
+  	  <p><b>Title:</b> Modeling Chemotaxis in Simple Nervous Systems</p>
+  	  <p><b>Abstract:</b> Parameters in network models can be adjusted using algorithms that optimize 
+  	  the fit between the response of neurons in the model and biological system. Often, however, more 
+  	  is known about behavior than neuronal responses. Using chemotaxis in the nematode C. elegans as 
+  	  a model system, we adapted a recurrent backpropagation algorithm to optimize parameters using 
+  	  behavioral data alone. In this form, backpropagation successfully optimized a dynamical network 
+  	  to chemotax in a simple environment. This sets the stage for the use of optimization techniques 
+  	  in more realistic models of the anatomically well-defined nervous system of C. elegans.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Lytton"></a>
+  	  <p><b>Author:</b> William W. Lytton Terrence J. Sejnowski<br />
+  	  Computational Neurobiology Laboratory<br />
+  	  The Salk Institute<br />
+  	  10010 N. Torrey Pines Rd.<br />
+  	  La Jolla, CA 92037</p>
+  	  <p><b>Title:</b> Intrinsic oscillations in simulated thalamocortical relay cells</p>
+  	  <p><b>Abstract:</b> Thalamocortical relay cells show a rich repertoire of oscillatory behaviors 
+  	  depending on membrane voltage: 1- 3 Hz slow wave oscillations, 8-10 Hz spindle oscillations and 
+  	  100 Hz repetitive spiking. We have looked at the intrinsic dynamics of a model relay cell with 
+  	  realistic geometry and 9 voltage-sensitive channels. Spindling and slow wave oscillation could 
+  	  be reproduced in the model but were just two points along a spectrum of oscillation rate that 
+  	  varied with degree of hyperpolarization. Simulated cortical stimulation was effective ln phase 
+  	  resetting of either rhythm and could entrain the slower rhythm to higher frequencies.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Matias"></a>
+  	  <p><b>Author:</b> Y. Matias<br />
+  	  Tel Aviv University &amp; University of Maryland<br />
+  	  Address: UMIACS, University of Maryland,<br />
+  	  College Park, MD 20742, USA.<br />
+  	  E. Ruppin<br />
+  	  Department of Computer Science,<br />
+  	  Raymond and Beverly Sackler Faculty of Exact Sciences,<br />
+  	  Tel Aviv University, Tel Aviv 69978, Israel</p>
+  	  <p><b>Title:</b> A Neural Model for a Randomized Frequency-Spatial Transformation</p>
+  	  <p><b>Abstract:</b> This work addresses the question whether information encoded in the neuronal 
+  	  firing frequency can be transformed into spatial encoding. If neurons with a broad spectrum of 
+  	  membrane time constants (MTC) exist, or a precisely wired circuitry incorporating delay lines is 
+  	  assumed, a frequency-spatial transformation (FST) is clearly possible. However, various cortical 
+  	  regions are composed of neurons with short MTCs, which are randomly connected with each other. 
+  	  Introducing a stochastic component into the neurons' dynamics, we present a FST scheme which 
+  	  incorporates random connections and requires memory in a limited sense. Our scheme is presented 
+  	  and analyzed for a feed-forward network. We also discuss its applicability for a random network, 
+  	  and present some supporting simulation results.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Mel"></a>
+  	  <p><b>Author:</b> Bartlett W. Mel<br />
+  	  Computation and Neural Systems Program<br />
+  	  Division of Biology, 216-76<br />
+  	  California Institute of Technology<br />
+  	  Pasadena, California 91125</p>
+  	  <p><b>Title:</b> Large Nonlinear Pattern Discrimination in Dendritic Trees</p>
+  	  <p><b>Abstract:</b> A recent compartmental modeling study showed that a dendritic tree rich in 
+  	  NMDA-type synaptic channels is selectively responsive to spatially clustered, as opposed to 
+  	  diffuse, pattens of synaptic activation \cite{mel:neuralcomp}. This ``cluster-sensitivity'' 
+  	  property was shown to be a sufficient mechanism to underlie true nonlinear pattern 
+  	  discrimination at the single cell level. The effects of other physiologically-characterized 
+  	  nonlinear membrane mechanisms have now been tested with respect to dendritic cluster-sensitivity, 
+  	  including voltage-dependent sodium and calcium channels of various kinetics and in various 
+  	  spatial distributions. Under loose assumptions, the capacity for nonlinear pattern 
+  	  discrimination can be greatly enhanced by the presence of excitatory voltage-dependent membrane 
+  	  channels. An abstract model neuron, called a {\sl clusteron}, is shown to capture important 
+  	  aspects of the cluster-sensitive input-output behavior of a full biophysically-modeled dendritic 
+  	  tree. An analysis of the storage capacity of the {\sl clusteron} is presented, and empirical 
+  	  results with a cluster-sensitive Hebb-type learning rule are shown to lead to a large storage 
+  	  capacity for nonlinearly-separable pattern sets.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Mesrobian"></a>
+  	  <p><b>Author:</b> Edmond Mesrobian and Josef Skrzypek<br />
+  	  Machine Perception Laboratory<br />
+  	  Computer Science Department<br />
+  	  University of California<br />
+  	  Los Angeles, CA 90024</p>
+  	  <p><b>Title:</b> Adaptive Receptive Fields for Textural Segmentation</p>
+  	  <p><b>Abstract:</b> Textural segmentation plays an important role in the figure-ground 
+  	  discrimination process. Many current models of mechanisms underlying textural segmentation 
+  	  assume that texture &quot;contrast&quot; information, captured at the border of two abutting 
+  	  textured regions, is sufficient to reconstruct the original surfaces of the textures. These 
+  	  approaches are based on the additional assumption that center-surround receptive fields of 
+  	  visual neurons are perfectly balanced; a uniform stimulus pattern, covering both the center and 
+  	  the surround, produces a zero response. We argue that such models would produce incorrect 
+  	  reconstructions of textural surfaces, and describe a neural network architecture for textural 
+  	  segmentation that can adaptively delimit the boundaries of uniformly textured regions. 
+  	  Simulation results are presented to demonstrate the segmentation capabilities of the 
+  	  architecture.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Miller"></a>
+  	  <p><b>Author:</b> J.P. Miller, F. H. Eeckman and F.E. Theunissen.<br />
+  	  Dept of Mol. and Cell Biology.<br />
+  	  University of California, Berkeley. CA 94720</p>
+  	  <p><b>Title:</b> Linearization by Noise and Shunting Current of a Modified Hodgkin-Huxley 
+  	  Spiking Model.</p>
+  	  <p><b>Abstract:</b> We have developed a detailed description of voltage dependent ion channels 
+  	  to model the currents involved in spike generation in complex neuron models. The model consists 
+  	  of a reduced Hodgkin-Huxley formalism with added noise and shunting terms. Phase plane analysis 
+  	  was introduced to study the behavior of this model under various parameter settings. We used 
+  	  this model to reproduce the spike shape and spiking statistics of one particular type of 
+  	  interneuron in the cricket cercal sensory system, for which a large amount of 
+  	  electrophysiological and morphological data is available.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Montague"></a>
+  	  <p><b>Author:</b> Read Montague Peter Dayan Terrence J. Sejnowski<br />
+  	  Computational Neurobiology Laboratory<br />
+  	  The Salk Institute<br />
+  	  P.O.Box 85800<br />
+  	  San Diego, CA 92186-5800</p>
+  	  <p><b>Title:</b> Signaling Local Synaptic Covariance through Space</p>
+  	  <p><b>Abstract:</b> Recent experimental evidence suggests that a rapidly diffusing signal 
+  	  produced at active synapses may be a determiner of Hebbian plasticity. We have analysed this new 
+  	  mechanism and have considered examples of the different predictions such a local signaling 
+  	  mechanism forces: (1) explicit normalisation is not required for the development of ocular 
+  	  dominance columns; (2) there is a critical minimum column width; (3) the diffusible signal 
+  	  produced at active synapses could be expected to modulate the efficacy of other synaptic 
+  	  terminals in the region containing different neurotransmitters; and (4) if the mechanism can act 
+  	  over short time-scales, then it can boost the signal/noise ratio through local contrast 
+  	  enhancement. We demonstrate these conclusions through simulations performed on an MIMD 
+  	  hypercube.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Murthy"></a>
+  	  <p><b>Author:</b> Venkatesh N. Murthy and Eberhard E. Fetz<br />
+  	  Dept. of Physiology &amp; Biophysics,<br />
+  	  SJ-40, University of Washington,<br />
+  	  Seattle, Wa 98195</p>
+  	  <p><b>Title:</b> Effect of input synchrony on the response of a model neuron</p>
+  	  <p><b>Abstract:</b> We studied the dependence of the average spike frequency (f-out) of a 
+  	  biophysically realistic model neuron on the degree of synchrony (s, varied from 0 to 100%) in 
+  	  its excitatory synaptic inputs. The following independent parameters were systematically varied: 
+  	  (1) N, the number of inputs to the neuron, (2) f-in, the average frequency of the inputs, and 
+  	  (3) w, the strength of the input connection. The goal was to empirically determine the relation: 
+  	  f-out = F(N, fin, w, s). The results indicate that for parameter values in the range found in 
+  	  neocortical cells, input synchrony can affect output significantly.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Niebur"></a>
+  	  <p><b>Author:</b> Ernst Niebur<br />
+  	  Computation and Neural Systems Program<br />
+  	  California Institute of Technology<br />
+  	  Pasadena CA 91125, USA<br />
+  	  Florentin Worgotter<br />
+  	  Institut fur Physiologie, Ruhr-Universitat Bochum<br />
+  	  D-4630 Bochum, Germany</p>
+  	  <p><b>Title:</b> The architecture of visual cortical orientation columns</p>
+  	  <p><b>Abstract:</b> The dimension reduction from the multi-dimensional feature space to the 
+  	  two-dimensional cortical plane is realized by complex maps which so far have evaded intuitive 
+  	  understanding. We show that the most salient features of these maps can be understood from a few 
+  	  basic design principles: local correlation, isotropy and homogeneity. We define these principles 
+  	  in a mathematically exact sense and we show that they are sufficient to generate realistic 
+  	  column structures. We suggest that the reason why most of the previously proposed models of 
+  	  orientation columns are capable of generating realistically looking orientation column 
+  	  structures is simply that any model which is consistent with the aforementioned principles is 
+  	  capable of doing so.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Nine"></a>
+  	  <p><b>Author:</b> Harmon S. Nine K.P. Unnikrishnan2<br />
+  	  Advanced Technologies Laboratories Computer Science Department<br />
+  	  The University of Michigan GM Research Laboratories<br />
+  	  1101 Beal Ave. 30500 Mound Rd.<br />
+  	  Ann Arbor, MI 48109 Warren, MI 48090-9055</p>
+  	  <p><b>Title:</b> The role of subplate feedback in the development ocular dominance columns</p>
+  	  <p><b>Abstract:</b> A model is presented to investigate the role of the feedback in the 
+  	  development of ocular dominance columns (ODC's) in V1. In the model, the the subplate locally 
+  	  integrates the activity of cortical layer IV is feeds it back to the same. Anatomical evidence 
+  	  indicates that this is possible. Modification of geniculocortical synaptic strengths is 
+  	  accomplished by the Alopex algorithm, which utilizes temporal correlations between changes in 
+  	  the feedback activity and changes in geniculocortical input activity. Alopex could be 
+  	  implemented by geniculocortical NMDA receptors in conjunction with subplate feedback. Computer 
+  	  simulations of the model resulted in robust formation of ODC's.</p>
+  	  <hr /></li>
+  	  
+  	  <li><a name="Miller2"></a>
+  	  <p><b>Author:</b> Michael I. Miller<br />
+  	  The Institute for Biomedical Computing and<br />
+  	  The Department of Electrical Engineering<br />
+  	  Washington University at St. Louis<br />
+  	  Campus Box 1161<br />
+  	  St. Louis, Missouri 63130<br />
+  	  Andrew T. Ogielski<br />
+  	  Bell Communication Research<br />
+  	  445 South St.<br />
+  	  Morristown, New Jersey 07960</p>
+  	  <p><b>Title:</b> A model for synaptic transmission in the auditory nerve: randomness, 
+  	  plasticity and signal estimation</p>
+  	  <p><b>Abstract:</b> In the cochlea of the cat and other mammals each afferent auditory neuron 
+  	  receives all its input from a single synapse on its target inner hair cell. The randomness and 
+  	  plasticity of synaptic transmission therefore profoundly influence the encoding of sound by 
+  	  action potentials in the auditory nerve. We present a mathematical model of continuous signal 
+  	  transmission by a synapse that can account for the observed history dependence and statistics of 
+  	  auditory nerve firing. The operation of a synapse is described in terms of interacting 
+  	  stochastic processes - stimulus driven vesicle exocytosis, vesicle recirculation, and 
+  	  postsynaptic potential generation.</p></li>
+  	</ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns1992" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

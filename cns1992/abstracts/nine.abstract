@@ -1,0 +1,14 @@
+   THE ROLE OF SUBPLATE FEEDBACK IN THE
+DEVELOPMENT OCULAR DOMINANCE COLUMNS
+
+Harmon S. Nine						K.P. Unnikrishnan2
+Advanced Technologies Laboratories Computer Science Department
+The University of Michigan			GM Research Laboratories
+1101 Beal Ave.						30500 Mound Rd.
+Ann Arbor, MI 48109				Warren, MI 48090-9055
+
+
+
+ABSTRACT
+A model is presented to investigate the role of the feedback in the development of ocular dominance columns (ODC's) in V1. In the model, the the subplate locally integrates the activity of cortical layer IV is feeds it back to the same. Anatomical evidence indicates that this is possible. Modification of geniculocortical synaptic strengths is accomplished by the Alopex algorithm, which utilizes temporal correlations between changes in the feedback activity and changes in geniculocortical input activity. Alopex could be implemented by geniculocortical NMDA receptors in conjunction with subplate feedback. Computer simulations of the model resulted in robust formation of ODC's.
+

@@ -1,0 +1,32 @@
+
+
+Possible mechanisms for the various types of membrane
+potential oscillations in thalamocortical cells.
+
+A. Destexhe 11, A. Babloyantz (t) & T.J. Sejnowski ()
+
+(): The Salk Institute, Computational Neurobiology Laboratory,
+10010 North Torrey Pines Road, La Jolla, CA-92037
+alain@helmholtz.sdsc.edu, terry@helmholtz.sdsc.edu
+
+(t): Universite Libre de Bruxelles, CP 231 Campus Plaine,
+Boulevard du Triomphe, B-1050 Bruxelles, Belgium
+ababloy@ulb.ac.be
+
+(11) to whom correspondance should be addressed
+
+Abstract
+
+The intrinsic membrane properties underlying the oscillatory modes 
+of thalamocortical (TC) neurons are investigated using computational 
+modeling techniques. We introduce a Hodgkin-Huxley type model of 
+the inward current Ih, which is adjusted such as to fit closely the 
+time course of the currents obtained from voltage-clamp 
+experiments. From the basis of this model, we analyze oscillatory 
+modes of TC cells, such as spindle-like and slow oscillations. We 
+include other currents and a dependence of Ih on intracellular 
+calcium. Indentically to in vitro experiments, Ih confers to the 
+membrane the ability to produce various patterns of oscillatory and 
+resting activity.
+ 
+

@@ -1,0 +1,26 @@
+A MULTI-NEURONAL VECTORIAL PHASE-SPACE ANALYSIS
+FOR DETECTING DYNAMICAL INTERACTIONS
+IN FIRING PATTERNS
+OF BIOLOGICAL NEURAL NETWORKS
+David C. Tam
+Division of Neuroscience
+Baylor College of Medicine
+Houston, TX 77030
+E-mail: dtam@next-cns.neusc.bcm.tmc.edu
+
+
+
+
+Abstract
+
+A novel vectorial statistic is introduced to detect temporally correlated firing
+patterns in a network of n neurons. A "cross-interval" vector is used to establish
+the temporal relationship of cross-intervals between firings in neurons. The
+resultant vectorial sum of these vectors provides a statistical measure of an n-tuple
+correlation among all n neurons in the network in contrast to the pair-wise
+correlation limitation in cross-correlation analysis. The normalized resultant
+vectors not only capture and reduce an O(n3) combinatorial correlation to an O(n)
+vectorial statistic but also provide quantitative descriptions of dynamical
+interactions from the trajectories and clusters of these vectors in the phase-plane. It
+provides another unique technique to analyze the interactions among multiple
+processes in a nonlinear dynamical system.

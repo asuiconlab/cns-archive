@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CNS Meeting Home Page 2001</title>
+<meta name="description" content="CNS Meeting Home Page 2001." />
+<meta name="keywords" content="neuroinformatics, neurobiology, informatics, workshops, meetings, 2001, 
+cns, computational, neuroscience, workshop, talks, posters" />
+<link rel="stylesheet" type="text/css" href="/css/cssprint.css" media="print" />
+<style type="text/css" media="all">@import "/css/cssmain.css";</style>
+
+</head>
+<body>
+<p class="access"><a href="#primarycontent">Skip navigation</a></p>
+<div id="container">
+  <!--#include virtual="/includes/head" -->
+  <!--#include virtual="/includes/primnav/primnavmeeting" -->
+
+  <div id="primarycontent">
+  	<img class="floatright" src="../cns1996/images/purk-small.gif" alt="image of a purkinjecell" title="image of a purkinje cell" />
+  	
+  	<h1>CNS*2001</h1>
+  	
+  	<h2>The Annual Computational Neuroscience Meeting</h2>
+  	
+  	<h3>June 30 - July 5, 2001, San Francisco and Pacific Grove, California</h3>
+  	
+  	<ul>
+  	  <li><a href="./alert.shtml">ALERT ATTENTION INTERNATIONAL CONFERENCE-GOERS ONLY</a></li>
+  	  <li><a href="./general.shtml">General Information</a></li>
+  	  <li>Call For Papers <a href="./CALL_FOR_PAPERS_2001.pdf">(PDF)</a> 
+      <a href="./CALL_FOR_PAPERS_2001_1.doc">(Doc)</a></li>
+      <li>Sample Paper <a href="./SamplePaper.pdf">(PDF)</a> 
+      <a href="./SamplePaper.doc">(Doc)</a></li>
+      <li><a href="./rooms.shtml">Roommate Info</a></li>
+      <li><a href="./workshop.shtml">About Workshops</a></li>
+      <li><a href="./registrants.shtml">Who's Coming?</a></li>
+      <li><a href="./accept.shtml">Accepted Submissions</a></li>
+      <li><a href="./poster.shtml">Poster Dimensions</a></li>
+      <li>Travel Grants</li>
+      <li>Proceedings Format</li>
+      <li><a href="./organizers.shtml">Conference Organizers</a></li>
+    </ul>
+  </div>
+  	
+  <div id="secundarynav">
+  	<!--#include virtual="/includes/navlist/meetings/cns/cns2001" -->
+  	<!--#include virtual="/includes/navlist/meetings/meetingscns" -->
+  </div>
+  	
+  <!--#include virtual="/includes/footer2.shtml" -->
+</div>
+
+</body>
+</html>

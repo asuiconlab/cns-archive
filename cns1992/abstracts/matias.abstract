@@ -1,0 +1,24 @@
+A Neural Model for a Randomized Frequency-Spatial Transformation
+
+
+
+
+Y. Matias 
+Tel Aviv University & University of Maryland
+Address: UMIACS, University of Maryland,
+College Park, MD 20742, USA. E-mail: matias@umiacs.umd.edu
+
+E. Ruppin
+Department of Computer Science,
+Raymond and Beverly Sackler Faculty of Exact Sciences,
+Tel Aviv University, Tel Aviv 69978, Israel
+ E-mail: eitanr@math.tau.ac.il
+
+
+
+
+
+Abstract
+
+This work addresses the question whether information encoded in the neuronal firing frequency can be transformed into spatial encoding. If neurons with a broad spectrum of membrane time constants (MTC) exist, or a precisely wired circuitry incorporating delay lines is assumed, a frequency-spatial transformation (FST) is clearly possible. However, various cortical regions are composed of neurons with short MTCs, which are randomly connected with each other. Introducing a stochastic component into the neurons' dynamics, we present a FST scheme which incorporates random connections and requires memory in a limited sense. Our scheme is presented and analyzed for a feed-forward network. We also discuss its applicability for a random network, and present some supporting simulation results.
+
